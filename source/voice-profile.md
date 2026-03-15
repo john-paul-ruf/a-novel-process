@@ -76,7 +76,13 @@ Avoid:                 Purple prose; sentimentality that hasn't been earned;
                        humor used as constant deflection (irreverence yes,
                        clowning no); said-bookisms beyond "said" and "asked";
                        exposition dumps that aren't filtered through character
-                       consciousness.
+                       consciousness; polysyndeton (chaining clauses or items
+                       with repeated "and" — the "and and and" technique) —
+                       never use; recursive "and the X was the Y" constructions
+                       (e.g., "and the silence was the answer," "and the waiting
+                       was the worst part") — limit to rare, high-impact moments
+                       at most; "the not-X was the X" inversions (e.g., "the
+                       not-knowing was the knowing") — never use.
 ```
 
 ---
