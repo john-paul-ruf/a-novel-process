@@ -6,12 +6,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Continuity Errors
 
-### TASK 001 — Ch 17: Premature "Holdfast" reference
+### ~~TASK 001 — Ch 17: Premature "Holdfast" reference~~ ✅ COMPLETE
 - **File:** `chapters/17-elena-year-two/draft.md`, line 53
-- **Issue:** "He thought about the common area at Holdfast where thirty-two people still ate together most evenings."
-- **Problem:** Ch 17 is set in Months 19–20. The settlement is not named "Holdfast" until Ch 23 (Year 4). All pre-Ch 23 references should use "the settlement" or "the common area."
-- **Fix:** Replace "at Holdfast" with "at the settlement" or remove the place reference entirely.
-- **Source:** Story bible continuity flag ("Colony named Ch 23"); scene outline Ch 23 Beat 3.
+- **Resolution:** Replaced "at Holdfast" with "at the settlement."
 
 ### TASK 002 — Ch 17 / Ch 23: Elena log overlap and contradiction
 - **Files:** `chapters/17-elena-year-two/draft.md` (lines 27–83) and `chapters/23-no-margin/draft.md` (lines 59–109)

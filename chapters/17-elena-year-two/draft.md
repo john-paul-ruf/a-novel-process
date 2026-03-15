@@ -50,7 +50,7 @@ Month 25. Month 26. Three people. Elena, Tomas, and someone she referred to only
 
 Cole read it three times.
 
-He thought about the common area at Holdfast where thirty-two people still ate together most evenings. Where Ren still called council meetings and the arguments were still real, still heated, still evidence that people cared enough to disagree. He thought about Joss, recovering from the fever, teaching water filter maintenance to two younger colonists with a patience that looked like something he'd learned from watching Haruki. He thought about Garrett Polk sitting in the common area after dinner, not talking to anyone in particular but present, occupying space in a room because occupying space in a room was different from occupying space in a shelter alone.
+He thought about the common area at the settlement where thirty-two people still ate together most evenings. Where Ren still called council meetings and the arguments were still real, still heated, still evidence that people cared enough to disagree. He thought about Joss, recovering from the fever, teaching water filter maintenance to two younger colonists with a patience that looked like something he'd learned from watching Haruki. He thought about Garrett Polk sitting in the common area after dinner, not talking to anyone in particular but present, occupying space in a room because occupying space in a room was different from occupying space in a shelter alone.
 
 The colony was dimming. But it hadn't gone dark. Not yet. The distance between dimming and dark was the distance Elena had traveled in the months between sixteen and twenty-six, and Cole was reading the map of that distance in a dead woman's handwriting.
 
