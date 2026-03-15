@@ -44,8 +44,11 @@ All major structural decisions complete. Ready for Phase 2: First Draft.
 
 ### Error 2: Ch 8 Timeline Table Mismatch
 **Location**: story-bible.md timeline table vs. Chapter 8 text  
-**Issue**: Timeline labels Ch 8 deaths as "disease, exposure, suicide" but the actual chapter describes the third death as an infection that resists antibiotics. Thematically, these are different: suicide = choice/despair vs. planetary biology defeating Earth medicine = the environment as active antagonist.  
-**Action**: Update timeline table to reflect what the chapter text actually says. The chapter text is stronger; don't downgrade it to match a placeholder label.
+**Status**: ✅ RESOLVED  
+**What it was**: Timeline said "disease, exposure, suicide" — placeholder language.  
+**What it is**: Three deaths: disease, exposure, antibiotic-resistant infection. The third death is the planet's biology defeating Earth medicine, not a human choice.  
+**Why it matters**: Thematic clarity. Ch 8 is about the moment the colony realizes the variables are changing underneath their systems. An infection-death underscores that the planet isn't indifferent — it's *actively different*. Suicide would read as despair; this reads as incompatibility.  
+**Updated**: story-bible.md (Ch 8 timeline entry)
 
 ---
 

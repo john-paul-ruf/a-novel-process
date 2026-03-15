@@ -87,7 +87,7 @@
 | 05 | Month 1 | 44 | Three deaths (spores, structural, fall); Cole's logistics briefing |
 | 06 | Month 2 | 44 | Ghost colony discovered; Elena Vasik's logs; redacted appendix |
 | 07 | Months 3-4 | 42 | Factions; Polk's signal array; two deaths (exhaustion/accident) |
-| 08 | Months 5-6 | 39 | Dana's soil breakthrough; three deaths (disease, exposure, suicide) |
+| 08 | Months 5–6 | 39 | Dana's soil breakthrough; three deaths (disease, exposure, antibiotic-resistant infection); planet's biology defeats Earth medicine |
 | 09 | Month 6 | 39 | Colony stabilized; first message to Lily; second cycle begins |
 | 10 | Month 7 | 39 | Second cycle — crops fail, fauna bold; rationing |
 | 11 | Months 8-9 | 38 | Creep appears; first creep death |
