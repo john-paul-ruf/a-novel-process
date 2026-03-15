@@ -52,11 +52,9 @@ He looked at it on the table like it had grown teeth.
 
 Forty-seven people. Fifty-one percent of forty-seven was 23.97. Functionally, twenty-four. You needed twenty-four people alive in five years, out of the forty-seven who started, to own anything. 
 
-You needed to lose twenty-three people.
+Twenty-three could die. That was the margin.
 
-He picked the tablet back up. Read it again to make sure he hadn't miscalculated—he hadn't, his math was exact, and that was the problem. Twenty-three. Less than fifty percent of the people in this room could be dead and the survivors still get the land.
-
-Or put differently: more than half the people in this room had to be dead.
+He picked the tablet back up. Read it again. He hadn't miscalculated—his math was exact, and that was the problem. Nearly half the people in this room could die, and the contract would call it a success.
 
 Cole looked up from the screen.
 
@@ -84,13 +82,15 @@ He didn't sign immediately.
 
 He ran through the math again.
 
-Twenty-four alive. Fifty-one percent. Year five. Five years from day one until the clause invoked. Not five years from now—five years from the day they landed, from the moment the shuttle touched down on Parcel 16b and they became subject to the full weight of the charter.
+Twenty-four alive. Fifty-one percent. Year five. Five years from day one until the clause triggered. Not five years from now—five years from the day they landed, from the moment the shuttle touched down on Parcel 16b and they became subject to the full weight of the charter.
 
-In five years, Cole would be forty-three. He had almost no dependents anymore. Lily was nine. He'd had custody three years ago, had held it like a trophy he'd won and didn't know how to carry, had let it slip through his hands the way he let everything slip through his hands eventually because he was good at logistics but terrible at presence. He'd been present for documents and court dates and the standard visitation schedule, which is to say he hadn't been present at all.
+In five years, Cole would be forty-three. Lily was nine. He'd had custody three years ago, back when the logistics job was still a logistics job and not a series of contract positions that paid less each quarter. He'd held custody like a trophy he'd won and didn't know how to carry, had let it slip through his hands the way he let everything slip eventually—good at systems, terrible at presence.
+
+The career contracted. The apartment shrank. A two-bedroom became a studio became a room he rented by the week. The visits went from weekly to biweekly to monthly to quarterly, each reduction feeling less like a loss and more like a correction.
 
 His ex-wife had filed for full custody eighteen months ago. She hadn't needed to file hard. He'd already surrendered the space where being a father lived.
 
-He thought about Lily at nine, probably taller now than he remembered. The last visit had been awkward. She'd drawn a horse in colored pencil and asked if he wanted to keep it, and he'd said yes, and he meant it, and then he'd left it on the table when he walked out to meet with a recruiter for Asterlyne because his shift had run over and he needed to close the door on something, anything, to stop the feeling that everything he touched fell through his hands.
+He thought about Lily at nine, probably taller now than he remembered. The last visit had been awkward. She'd drawn a horse in colored pencil and asked if he wanted to keep it. He'd said yes. Meant it. Left it on the table when he walked out because the recruiter from Asterlyne was waiting and he needed to close the door on something, anything, to stop the feeling that everything he touched fell apart.
 
 The horse was probably in a recycle bin somewhere.
 
@@ -98,11 +98,11 @@ He'd gotten the recruitment email the next day. It had landed in his inbox like 
 
 Cole signed.
 
-He used the stylus on the tablet and dragged his name across the signature box. Official. Binding. Witnessed by the timestamp and the biometric scan and the satellite uplink that would render this document legally immutable.
+He used the stylus on the tablet and dragged his name across the signature box. Official. Binding. Witnessed by timestamp, biometric scan, satellite uplink. Legally immutable.
 
-He'd just bet forty-three-year-old version of himself, five years from now, that he would be alive and on Parcel 16b and part of a group of twenty-four survivors.
+He'd just bet the forty-three-year-old version of himself that he would be alive on Parcel 16b, one of twenty-four survivors.
 
-He'd bet it all—the money, the custody, the apartment, the visits to Lily that had already become quarterly and were trending toward never—on clause 9.4.2.
+He'd bet everything he hadn't already lost—on clause 9.4.2.
 
 On the fact that he could count.
 
@@ -116,40 +116,18 @@ He walked out of the signing room into the hallway where the other forty-six peo
 
 Or not. Probably not.
 
-Most of them looked like they'd been reading the user-friendly sections, the parts that promised land and ownership and a fresh start. Most of them weren't looking at the man in the corridor the way Cole was looking at them—the way you might look at a group of assets and try to calculate which ones would hold their value.
+Most of them looked like they'd been reading the user-friendly sections, the parts that promised land, ownership, a fresh start. Most of them weren't looking at the man in the corridor the way Cole was looking at them—the way you might look at a group of assets and try to calculate which ones would hold their value.
 
-"First time off-world?" a voice asked.
+The contractor from the waiting room passed him. Scarred jaw, calloused hands. His name tag read POLK, G. He glanced at Cole the way you look at someone when you're deciding if they're competition or just another body in the headcount.
 
-Cole turned. It was the contractor. Scarred jaw, contractor's hands, the expression of someone who'd learned to ask careful questions.
+"Hell of a thing," Polk said. Not really to Cole. To the corridor, to the fluorescent light, to the general condition of signing away everything you had left.
 
-"Yes," Cole said.
+He walked on before Cole could answer.
 
-"Me too." The contractor didn't offer his hand. Just stood there, evaluating. "Thought about the statistics?"
+Cole watched him go. Polk hadn't read the contract. You could tell from the way he moved—angry but unfocused, the posture of a man who'd signed on instinct rather than analysis. He thought the danger was the frontier. Didn't know the danger was the fine print.
 
-"What statistics?"
+The corridor emptied. The fluorescent hum settled back into Cole's molars.
 
-"Frontier mortality. Any Asterlyne settlement. They don't advertise it, but if you actually read the charter—" He stopped. Something flickered across his face. Recognition, maybe. "You read the charter."
+He'd signed up for the frontier. He'd actually signed up for the margin—the twenty-three lives between ownership and nothing.
 
-"Yes."
-
-"Did you get to clause 9.4.2?"
-
-Cole didn't answer immediately. He was reassessing the contractor. The scarred jaw suggested violence, or proximity to it. The careful questions suggested intelligence. The fact that he'd gotten to clause 9.4.2 and understood what it meant suggested he was the kind of man who read things all the way through.
-
-"I read it," Cole said.
-
-"Twenty-four out of forty-seven," the contractor said, not a question.
-
-"Yes."
-
-The contractor looked down the hallway at the other colonists filing out. "I'm Garrett Polk. And I think what they've done to us is a lot uglier than what the frontier does on its own."
-
-He walked away before Cole could answer.
-
-Cole stood in the empty hallway and heard the fluorescent hum buzzing in his skull, felt it in his teeth, and understood that Garrett Polk had just said something true. The frontier wasn't what would kill them. The contract was. The math was. The simple, elegant arithmetic of a charter that only transferred ownership if enough of you died to make you small enough to own.
-
-Cole had signed up for the frontier.
-
-He'd actually signed up for the margin.
-
-And he was betting the next five years of his life that he could be the person counting the remaining faces at the end.
+And he was betting everything he had left—which wasn't much, which was the point—on the fact that he could count.
