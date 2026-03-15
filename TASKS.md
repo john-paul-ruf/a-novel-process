@@ -39,7 +39,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **Issue:** Patricia dies at Month 37. If Year 3 = Months 25-36, Month 37 is Year 4. The scene outline says "Two more deaths that year" for Ch 22 (labeled Year 3). Story bible also places both deaths in Ch 22 under "Year 3." Patricia's death at Month 37 technically occurs in Year 4, creating a mismatch with the source documents.
 - **Fix:** Either move Patricia's death to Month 35-36 (keeping it within Year 3) or acknowledge the year transition within Ch 22's narration. Moving the death earlier is simpler and avoids timeline overlap with Ch 23 (Year 4).
 
-### TASK-06: Ch 26 — Joss injury description omits rib fractures
+### ~~TASK-06: Ch 26 — Joss injury description omits rib fractures~~ ✅
 - **File:** `chapters/26-eleven-months/draft.md`
 - **Line:** 191
 - **Issue:** Draft describes Joss's injuries as: "Compound fracture, left tibia. Simple fracture, right fibula. Possible internal bleeding." Scene outline specifies: "ribs, legs, internal bleeding." Rib fractures are absent from the draft. Rib injuries would compound Joss's vulnerability and make his eventual death (infection/complications in Ch 27) more medically plausible.
