@@ -55,12 +55,14 @@ All major structural decisions complete. Ready for Phase 2: First Draft.
 ## Structural Questions for Draft 1
 
 ### Question 1: Planted "Expecting Children" Beat (Ch 25)
-**Planted**: Ch 25, the realization that children born on 16b aren't original signatories — legally interesting, opens a new conflict category.  
-**Problem**: Introduced and dropped. Never fires as a dramatic or thematic beat.  
-**Options**:  
-- **A**: Give it a scene in Ch 26-27 (even brief interiority — Cole thinking about new life on land that's about to become theirs, what inheritance means, the weight of building toward a future).  
-- **B**: Cut it cleanly now if it doesn't serve the third-act focus.  
-**Rationale**: A planted gun the reader notices but never hears go off reads as a draft artifact. Decide now to either fire it or retire it.
+**Status**: ✅ RESOLVED  
+**Approach**: Plant deep. Never answer.  
+**Implementation**:  
+- **Ch 25**: Someone raises the legal question — "The kids born here aren't signatories. If we invoke, do they inherit or does the land revert?" Cole tries to find the answer in the charter. It's silent. Nobody can answer. Asterlyne corporate-speak: "Asterlyne's determination regarding post-natal signatory status will align with the charter's intentions." Translation: not saying anything until it matters. The colony votes to stay anyway, the question still open.  
+- **Ch 26**: Cole mentions it quietly to Ren during the 11-month wait. Ren says, "We didn't lose." But she wonders too. The gap sits between them, unanswered.  
+- **Ch 27**: On invocation day, sitting in the dirt, Cole thinks it: *The children born here still don't have a name on the deed.* The charter is silent. Asterlyne is silent. He doesn't tell Ren the gap is still there.  
+**Why it works**: It mirrors the core theme — *the system is full of gaps and nobody trusts what anyone says*. The ambiguity *is* the point. No resolution. Just a live grenade nobody picks up.  
+**Updated**: scene-outline.md (Ch 25 Beat 3, Ch 26 Beat 3, Ch 27 Beat 2)
 
 ### Question 2: Five Deaths in Ch 20's "Milder" Year 3
 **Location**: Ch 20, Year 3, month 1-3  

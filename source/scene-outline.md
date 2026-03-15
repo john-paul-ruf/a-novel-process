@@ -414,9 +414,9 @@
 
 **Beat 2:** Then he shows them clause 9.4.2. Then he shuts up. The colony talks. It's not unanimous. Two colonists want the deal. They're tired. They're scared. They didn't sign up for a stand. Ren argues. Dana argues. Joss argues. Garrett Polk doesn't argue — he sits at the back and does what Cole has never seen him do. He calculates. Visibly. Debt forgiven vs. staying. Daughter on Earth vs. the settlement they've built. He weighs both sides with an engineer's precision, not an ideologue's conviction. When the conversation shifts toward staying, Polk says nothing. But his jaw sets. He's choosing against himself. The conversation lasts hours.
 
-**Beat 3:** In the end, it's not Cole's math that decides. It's the settlement they named, the creep system that works, the food they grow, the dead they buried, the children two colonists are expecting. The colony has become a place, and places are harder to leave than contracts.
+**Beat 3:** In the end, it's not Cole's math that decides. It's the settlement they named, the creep system that works, the food they grow, the dead they buried, the children two colonists are expecting. And then someone—maybe Ren, maybe one of the younger colonists—says the thing everyone has been not saying: "What about the kids born here? They're not signatories. If we invoke, do they inherit, or does the land revert?" The question stops the conversation. Cole tries to find the answer in the charter. The language is silent—either by design or oversight. He can't tell which. He asks Haruki. Haruki reads the same sentences and shakes his head. "I don't know." Cole asks Ren. She says, "We'll figure it out when we have to." But there's fear underneath—the sense that they've been thinking about this the wrong way. That Asterlyne knew something they didn't. Nobody tries to send a question to Asterlyne. Nobody trusts the answer would be honest. The corporation's position, if asked, would be corporate poetry: "Asterlyne's determination regarding post-natal signatory status will align with the charter's intentions." Translation: they're not saying anything until it matters to them. The colony votes to stay anyway, the question still open, the text still unclear.
 
-**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Twenty-four of them. Nobody cheers.
+**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Twenty-four of them. Nobody cheers. The children born on Holdfast sleep on land that may or may not belong to them.
 
 ---
 
@@ -430,7 +430,7 @@
 
 **Beat 2:** A respiratory infection sweeps through — milder than the Year Two fever. Dana has botanical remedies stockpiled. No one dies, but for two weeks the colony lives on a knife edge. Cole doesn't sleep. Haruki forces him to eat.
 
-**Beat 3:** Ren sees Cole writing to Lily more often. He never reads the messages aloud. She sees his face afterward — not sad, not hopeful. Something she'd call "ready" if she had to name it.
+**Beat 3:** Ren sees Cole writing to Lily more often. He never reads the messages aloud. She sees his face afterward — not sad, not hopeful. Something she'd call "ready" if she had to name it. One night during the waiting, Cole and Ren sit at the common fire. Cole mentions, quietly: "The charter never says what happens to the kids born here if we lose the threshold." Ren doesn't answer right away. Just: "We didn't lose." But Cole hears what she isn't saying — that she wonders too. That it matters. That it might matter in ways they won't know until Asterlyne decides to clarify. They sit in silence. The question stays between them, unanswered, waiting like everything else.
 
 **Turn:** Month 10. Asterlyne sends a final communication. It's addressed to "Residents of Parcel 16b." Not colonists. Residents. The company's lawyers have started the language shift. They know.
 
@@ -444,7 +444,7 @@
 
 **Beat 1:** The five-year mark. A Tuesday. Cole wakes before dawn at Holdfast and goes to fix a water filtration line because it needs fixing. The work is routine. His hands know the parts. The spiral-trunked trees hum in the near-distance. He has been on this planet for 1,826 days.
 
-**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-four alive. Clause 9.4.2, invoked. The land is theirs. Holdfast is theirs. Cole sits on the ground outside the shed. The dirt of Holdfast under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and breathes.
+**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-four alive. Clause 9.4.2, invoked. The land is theirs. Holdfast is theirs. Cole sits on the ground outside the shed. The dirt of Holdfast under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and breathes. And then the thought arrives: *The children born here still don't have a name on the deed.* The charter is silent. Asterlyne is silent. The question that opened five months ago, unanswered, still sits in the fine print. He invoked the clause anyway. The colony invoked it. The land is theirs—but the ownership of the children born on it, the inheritance, the future—that language is still unclear, still waiting for a corporation to decide what it means. He lets Ren think he's just sitting with the weight of what they won. He doesn't tell her the gap is still there.
 
 **Beat 3:** Cole goes to the comm station. He writes a message to Lily. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place." He sends it. He goes back to work.
 
