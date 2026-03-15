@@ -48,11 +48,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **File:** `source/scene-outline.md`, line 5
 - **Resolution:** Updated death count tracker from "47 → 44 (Ch5) → 39 (Ch8)" to "47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8)" — restoring Lin and Thomas's scaffolding accident deaths to the sequence.
 
-### TASK 007 — Scene outline Ch 20: Death count prose/number mismatch
+### ~~TASK 007 — Scene outline Ch 20: Death count prose/number mismatch~~ ✅ COMPLETE
 - **File:** `source/scene-outline.md`, Ch 20 Beat 3
-- **Issue:** Opening states "Five more die" but the subsequent descriptions enumerate 1 + 2 + 1 + 2 = 6 deaths ("One death" + "two colonists die" + "One death" + "Two more from cascade").
-- **Problem:** "Two more from cascade" should be "One more from cascade" to match the definitive count of five. The Ch 20 draft correctly implements five deaths (Yuki, Kenji, Priti, Emile, Deshi).
-- **Fix:** Change "Two more from cascade" to "One more from cascade" in the scene outline.
+- **Resolution:** Changed "Two more from cascade" to "One more from cascade" — enumerated deaths now correctly sum to five (1 + 2 + 1 + 1), matching both the beat's opening statement and the draft's implementation (Yuki, Kenji, Priti, Emile, Deshi).
 
 ---
 
