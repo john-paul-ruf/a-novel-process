@@ -1,135 +1,135 @@
 # Chapter 08 — "Roots"
 
-Cole watched Dana work. She didn't know he was there—he'd learned to move through the settlement in ways that didn't announce him. Observation without intrusion. The way he'd managed inventory teams on Earth, except here he was counting something deeper than labor hours.
+Month five took two of them.
 
-Dana was in the soil lab, which was really just a reinforced tent with a raised analysis table and equipment they'd salvaged or improvised from mining-grade supplies. She was covered in the lavender dust of Parcel 16b's soil. It was in her hair, under her fingernails, on the cuffs of her shirt where she'd wiped her hands a thousand times today. She was methodical about it—taking samples from marked collection points, running them through a centrifuge they'd powered by hand that morning (fuel conservation, Cole's order), noting something on a paper tablet without looking up, then moving to the next station like she was the only person in the colony who'd actually understood what work was.
+The first was a man named Osei. Respiratory infection. Not the spore cascade that killed Lev, but something quieter. A cough that started dry and deepened over four days until it sounded structural. Haruki treated it aggressively. Antibiotics, fluid intake, rest protocols. Osei improved on day three. Then he didn't. His lungs filled with fluid that shouldn't have been there. Something in the planet's atmospheric chemistry interacted with the infection in ways Haruki couldn't model because he didn't have a model for this biology.
 
-Cole had reviewed her progress reports. This month's read like the notes of someone assembling a map. Not a random collection of data points but a pattern emerging. Soil chemistry, she'd written. Cyclical. Tied to orbital mechanics.
+Osei died on day seven. Haruki's hands were still when he came to report it.
 
-"You've found something," he said.
+Forty-one.
 
-Dana looked up, didn't startle. She had good control of her nervous system.
+The second was exposure. A colonist named Farin on perimeter check during a temperature swing — one of the sudden drops Dana had been tracking but couldn't yet predict at this magnitude. Farin was dressed for the afternoon's warmth. By the time the two-hour check-in was missed and the search party went out, hypothermia had done its work. They found her two hundred meters past the eastern marker, sitting against a spiral tree like she'd decided to rest.
 
-"Readings from May through now," she said. She set down the tablet and gestured to the analysis table. "I've been tracking mineral content, bacterial colonies, pH variance. Cross-referenced against the planetary rotation data from the original survey pack."
+Forty.
 
-Cole moved closer. The tablet showed a graph—mineral concentrations plotted against time. There was noise in the data, but underneath the noise was a rhythm. Clear as pulse.
+Cole adjusted. He always adjusted. Updated the respiratory screening protocol for anyone working in spore-proximity zones. Required thermal gear for all perimeter shifts regardless of afternoon temperature. Tightened buddy-system enforcement. The protocols were sound. The kind of systems design that would have earned a commendation in his logistics career on Earth.
 
-"It's not random," Cole said.
-
-"It's not random," Dana confirmed. "It follows the orbital position. When the planet's closest to the sun, these minerals are accessible. The bacterial colonies are more active. When we move out of alignment, everything shifts dormant. It's a cycle. Tied to something in the geology. Maybe seasonal variation based on thermal cycles we can't directly measure yet, or maybe something more complex. But it's predictable."
-
-She said this the way she said everything. No inflation. No self-congratulation. Just data delivered like a work order. Which was part of why Cole believed her.
-
-"This changes everything," he said.
-
-"This changes the agricultural calendar," Dana said. "I have six native species that seem to track with the high-activity cycles. We can plan what grows when. We can stop losing crops to random soil shifts. For the first time, we know what to plant and when to plant it."
-
-Cole ran the math in his head. If they could predict the growing windows, they could extend the rationing ceiling. More reliable yields. More margin. They were at thirty-nine. The curve had been shallow—barely making it, always on the edge of miscalculation. Dana's map changed the trajectory.
-
-"How confident are you?" he asked.
-
-"Sixty percent," Dana said. "Seventy if we get another two months of data. The pattern holds so far but the planet's still teaching us things. I'm not going to promise more than I can deliver."
-
-"Show me."
-
-She walked him through the data. Took ninety minutes. Explained the bacterial analysis, the mineral mapping, the way she'd isolated variables by testing against samples taken at different points in the settlement's location history. The work was elegant. Not because Dana was trying to make it elegant but because she was trying to solve a problem and had stumbled into precision as a result.
-
-By the end of the walkthrough, Cole was running new projections in his head. If the cycle held, they could adjust crop schedules. If they adjusted schedules, the rationing could loosen. If the rationing loosened, people ate better. If people ate better, infection rates dropped, strength levels rose, work output increased.
-
-"You should present this to the council tonight," Cole said. "Full briefing. Let them ask questions. Build confidence in the system."
-
-Dana made a small noise that might have been agreement or might have been the sound of someone too tired to object.
-
-"I'd rather you did," she said. "I'm a scientist, not a politician. You're better at the presentation."
-
-Cole understood what that meant. She was saying: I did the work. You sell it. Which was accurate and also, he was realizing, something he'd been doing without acknowledging it. He'd been taking her data and translating it into confidence. She'd been generating the confidence. He was just amplifying.
-
-"I'll do the presentation," he said. "But you sit at the front. You answer the technical questions. They need to see where the certainty lives."
-
-That night, the colony ate a full meal for the first time since landing. Not rationed. Not stretched. Full portions. The colony council had authorized it—celebrating the breakthrough, Dana's work, the opening of a timeline that didn't end in slow starvation.
-
-People smiled in the settlement. Cole watched it happen like he was observing an ecosystem shift. Small things loosening. Joss Carver laughing at something Haruki said. Garrett Polk actually eating instead of moving food around his plate in a kind of performance of nutrition. Ren Tsai making eye contact with people instead of studying the ground. The shared meal was doing something the council votes couldn't—it was reminding people they were a group instead of a collection of individual survival calculations.
-
-Cole sat on the perimeter of it. He ate. He didn't celebrate.
-
-He was thinking about Elena Vasik's logs. Specifically, he was thinking about Month Six of the previous expedition. He'd read the entry that afternoon, before the council meeting. Elena had written: "We found it. The pattern. The soil cycles with the planet's position. We can grow anything now. We're going to make it."
-
-He knew how the story ended. Elena had been right about the pattern. Elena had been wrong about the outcome. The prediction had bought time, but it hadn't bought survival. Something else had happened between Month Six—when Elena was certain—and Month Twelve, when she was reduced to two words in a sealed data core: "Enough, now."
-
-Cole finished his meal and excused himself from the gathering.
+The protocols didn't bring anyone back.
 
 ---
 
-He was in his shelter reviewing equipment maintenance schedules when Haruki appeared in the doorway, which was unusual. Haruki had learned to respect Cole's tendency toward isolation, the way a doctor learns to respect a patient's need for quiet.
+Dana Wen was in the soil lab — a reinforced tent with a raised analysis table and equipment they'd salvaged or improvised from mining-grade supplies. Cole watched her from the entrance. She didn't know he was there. He'd learned to move through the settlement without announcing himself. Observation without intrusion.
 
-"We have a situation," Haruki said. His voice was level, which meant the situation was serious.
+She was covered in the lavender dust of Parcel 16b's soil. In her hair, under her fingernails, on the cuffs of her shirt where she'd wiped her hands all day. Methodical. Taking samples from marked collection points, running them through a centrifuge they'd powered by hand that morning, noting something on a paper tablet without looking up, then moving to the next station like she was the only person in the colony who understood what work actually was.
 
-There was a colonist in the medical shelter named Sarah. Construction crew rotation. She'd reported to Haruki with what seemed like a minor injury—a cut on her forearm sustained during shelter repair work, three days ago. The wound had been cleaned, bandaged, treated with the standard protocols. The bandage had been changed daily. The wound showed signs of minor inflammation yesterday, but nothing alarming.
+Cole had reviewed her progress reports. This month's read like the notes of someone assembling a map. Not random data points. A pattern.
 
-This morning, the inflammation had progressed. The infection had set in fast. Haruki had treated it aggressively—broad-spectrum antibiotics, wound cleaning, rest protocols, fluid intake support. Standard approach. The textbooks said this should respond within forty-eight hours.
+"You've found something," he said.
 
-"She's getting worse," Haruki said. "The infection is accelerating. The antibiotics aren't touching it."
+Dana looked up. Didn't startle. She had good control of her nervous system.
 
-Cole understood what that meant. He went to the medical shelter. Sarah was lying on one of the examination beds, feverish and confused. Her arm was swollen from the elbow down, the infection visibly advancing—not in the localized way human infections typically progressed, but in a way that looked almost colonial, like something was setting up an outpost and expanding methodically.
+"Readings from early settlement through now," she said. She set down the tablet and gestured to the analysis table. "I've been tracking mineral content, bacterial colonies, pH variance. Cross-referenced against the planetary rotation data from the original survey pack."
 
-"It's the planet," Haruki said. "It's not the antibiotics. The wound was clean. The infection shouldn't be responding this way. The pathology is... I don't have a framework for this."
+Cole moved closer. The tablet showed a graph — mineral concentrations plotted against time. Noise in the data, but underneath the noise was a rhythm. Clear as pulse.
 
-Cole asked the clinical questions. Haruki answered them. The answers confirmed what Cole was already calculating: the planet's microbiology was different enough from Earth's that the infection was running a course that Earth medicine had no category for. Haruki's training assumed pathogenic response patterns that didn't apply here. The antibiotics were for Earth infections. This wasn't an Earth infection.
+"It's not random," Cole said.
 
-Sarah died on Day Four of the fever. Haruki was with her at the end. Cole was in his shelter, doing the only useful thing he could do: adjusting the timeline. Forty-two down to thirty-nine. Removing her from the roster, her work assignments, the rotation schedules. He'd memorized all the ways to make a person into a blank space in a system.
+"It's not random," Dana confirmed. "It follows the orbital position. When the planet's closest to the sun, these minerals are accessible. The bacterial colonies are more active. When we move out of alignment, everything shifts dormant. It's a cycle. Maybe seasonal variation based on thermal cycles we can't directly measure yet, maybe something more complex. But it's predictable."
+
+She said this the way she said everything. No inflation. No self-congratulation. Data delivered like a work order. Part of why Cole believed her.
+
+"I have six native species that track with the high-activity windows," Dana said. "We can plan what grows when. Stop losing crops to random soil shifts. First time we know what to plant and when to plant it."
+
+Cole ran the math. Predictable growing windows meant extended rationing ceilings. More reliable yields. More margin. They were at forty. The trajectory had been shallow — barely holding, always at the edge. Dana's map changed it.
+
+"How confident are you?"
+
+"Sixty percent. Seventy if we get another two months of data. The pattern holds so far but the planet's still teaching us things. I'm not going to promise more than I can deliver."
+
+"Show me."
+
+She walked him through it. Ninety minutes. The bacterial analysis, the mineral mapping, the way she'd isolated variables by testing against samples from different points across the settlement's history. The work was elegant. Not because Dana was trying for elegance but because she was trying to solve a problem and precision was the byproduct.
+
+By the end, Cole was running new projections. If the cycle held, they could adjust crop schedules. If they adjusted schedules, rationing could loosen. If rationing loosened, people ate better. Infection rates dropped. Strength levels rose. Work output increased. The math cascaded in the right direction for once.
+
+"Present this to the council tonight," Cole said. "Full briefing. Let them ask questions."
+
+"I'd rather you did. I'm a scientist, not a politician."
+
+"I'll do the presentation. You sit at the front. Answer the technical questions. They need to see where the certainty lives."
+
+---
+
+That night, the colony ate a full meal for the first time since landing. Not rationed. Not stretched. Full portions. The council had authorized it — celebrating Dana's breakthrough, the opening of a timeline that didn't end in slow starvation.
+
+People smiled. Cole watched it happen from the edge of the gathering. Joss Carver laughing at something Haruki said. Garrett Polk actually eating instead of performing nutrition. Ren making eye contact with people instead of studying the ground. The shared meal did something the council votes couldn't. It reminded them they were a group instead of a collection of individual survival calculations.
+
+Cole ate. Didn't celebrate.
+
+He was thinking about Elena Vasik.
+
+---
+
+He opened the data core that night. First time since month two, when Elena's entries had stopped at the boundary of what Cole could absorb. Nine survivors at the end of her second month. He'd closed the file and rationed the rest for later.
+
+Later was now.
+
+Elena's Month Three logs read like a mirror held at Cole's own settlement. Social fracture. Two of her nine had started operating independently — hoarding supplies, skipping communal meals, building a separate water cache. She documented the split the way she documented soil pH. As a variable she was monitoring without intervention. Her sentences were getting shorter.
+
+Month Four. Another death. Medical complication from a wound that should have healed. Elena noted the cause, adjusted the rotation, added the name to a list growing in only one direction.
+
+Month Five. Elena's colony found something in the soil. Not the full pattern — she was working without Dana's instrumentation — but the outline of it. The beginning of understanding that the planet operated on a cycle, that the chemistry wasn't random. Her entries picked up. Longer sentences. Questions driven by curiosity instead of desperation.
+
+Month Six: "The soil follows the orbit. We can predict the growing windows. We can plant to the cycle instead of against it."
+
+She'd found it. The same breakthrough Dana had presented to the council three hours ago. Seven years earlier. Fewer people.
+
+Months Seven through Eleven: stabilization. Elena's colony found its footing. The survivors held. No deaths. Crop yields improved. The social fracture didn't heal, but it stopped widening. Elena's entries settled into something resembling routine. Weather observations. Soil data. Harvest projections. The controlled cadence of a scientist who believed the pattern would hold.
+
+Her final Year One entry was five words.
+
+"We're going to make it."
+
+Cole closed the data core. Sat in his shelter. Felt the sentence settle against his chest like a stone placed carefully on a grave.
+
+Elena had been right about the soil. Right about the cycle. Right about the growing windows. Every piece of data matched what Dana was finding now. The science was sound.
+
+The clearing twelve kilometers west was what sound science looked like at the end.
+
+He didn't open the Year Two files. Whatever lived in those entries — whatever turned five words of certainty into collapsed shelters and a sealed data core — he'd read it when the math demanded it. He was rationing Elena the way he rationed everything else. Taking what he could use. Saving the rest.
+
+---
+
+Three days after the full meal, Haruki appeared in Cole's doorway.
+
+"We have a situation." Level voice. Which meant serious.
+
+A colonist named Sarah. Construction crew. She'd reported to Haruki with a cut on her forearm — shelter repair work, minor. Cole had pulled her from the construction rotation the same day. Standard protocol. Light duty until Haruki cleared her. He'd redistributed her tasks across the remaining crew, adjusted the schedule. The system worked the way it was supposed to.
+
+The wound had been cleaned, bandaged, treated with standard protocols. Bandage changed daily. Minor inflammation yesterday. Nothing alarming.
+
+This morning the inflammation had progressed. Infection setting in fast. Haruki had escalated. Broad-spectrum antibiotics, wound cleaning, rest, fluids. The textbooks said this should respond within forty-eight hours.
+
+"She's getting worse," Haruki said. "The antibiotics aren't touching it."
+
+Cole went to the medical shelter. Sarah was on an examination bed, feverish and confused. Her arm swollen from the elbow down, the infection advancing — not localized the way human infections progressed but colonial. Something establishing an outpost and expanding.
+
+"It's the planet," Haruki said. "The wound was clean. The pathology is — I don't have a framework for this."
+
+The antibiotics were designed for Earth infections. This wasn't an Earth infection.
+
+Sarah died on Day Four of the fever. Haruki was with her. Cole was in his shelter, adjusting the roster. Removing her from assignments, rotation schedules, the rationing tier. He'd memorized all the ways to make a person into a blank space in a system.
 
 Thirty-nine.
 
-He was partway through a reconstruction of the agricultural work rotation when he realized Dana was standing outside his shelter.
+He'd done everything right. Pulled her from rotation the hour she reported the injury. Adjusted the schedule. Haruki had treated the wound within minutes, followed every protocol, escalated at the first sign of resistance. Every input correct. Every response timely. Every optimization in place.
 
-"I heard," she said. "Sarah. From the construction team."
+The planet's biology was just different. The variables underneath Cole's model were alive, evolving, indifferent to his calculations. He'd built a system for Earth and deployed it on a world that hadn't agreed to be optimized.
 
-Cole nodded. There was nothing else to do with the information except acknowledge it.
+Sarah was the proof. Not that Cole had failed. That the math itself operated on assumptions the planet didn't share.
 
-"The infection was resistant," Dana said. It wasn't a question. She was reading the situation the way she read soil samples—gathering data, building a map.
+He thought about Elena's Year One ending. "We're going to make it." A woman who'd cracked the code, mapped the cycle, stabilized her colony. All of it correct. None of it enough.
 
-"The antibiotics are designed for Earth pathogens," Cole said. "The planet's microbiology is different. We knew this theoretically. Sarah confirmed it practically."
+Thirty-nine alive. Dana's map held. The soil cycle was real. The colony would eat.
 
-Dana sat down without being asked. She was still covered in soil from the day's work. Cole realized she might not have even cleaned up—might have heard about Sarah and come directly to find him, abandoning the ritual of washing the planet off herself.
-
-"I've been reading Elena Vasik's logs," Dana said. "The ones you left in the common area. Month five. She mentions 'medical protocol failures.' She doesn't specify what kind."
-
-"The infection took one of her colonists," Cole said. "Resistant to their antibiotics. Haruki thinks our Sarah was the same thing."
-
-"So you can't solve this with Earth medicine."
-
-"No," Cole said. "You can treat the symptoms. You can slow the progression. You can make it less painful. But the planet's immune system is different. Our pharmacology doesn't map to it."
-
-Dana was quiet for a moment. Cole could see her processing this, watching the clean lines of her agricultural projections shade into something more complicated. She'd made a map of the soil cycle. Cole had just explained that the map didn't include all the territory.
-
-"We need to figure out how to treat planetary infections," she said finally. "Or we need to figure out how to prevent them. Different substrate for wound treatment. Different—"
-
-"We don't have the time," Cole said. "We have thirty-nine people and a five-year timeline. Sarah was the calculation that breaks the system. If every significant injury results in a resistant infection, our margin isn't a margin anymore. It's a death spiral."
-
-Dana looked at him like she was reading something written on his face that he didn't know was visible. "You optimized for safety. You built redundancy. You designed the system perfectly."
-
-"I designed the system perfectly for Earth," Cole said. "The variables are different here. The infection is Earth-level pathology combined with planet-level biology. My calculations don't account for that. Sarah was the proof."
-
-"So what do you do?"
-
-"I adjust," Cole said. "I account for the new variable. I reduce the risk of injury, increase the safety margins, modify the protocols to assume infection resistance. I do what I always do when the system fails: I calculate the cost of survival against the cost of failure, and I make the math work."
-
-But sitting there with Dana in his shelter, with the revised timeline cooling in his hands, Cole realized he was calculating differently now. Not because the math had changed but because he could see Sarah in the numbers. Could see the specific way she'd moved through the settlement, the way she'd asked questions during the last council meeting, the breakfast he'd served her yesterday morning.
-
-The problem with optimizing a system was that the variables were people. Once you recognized that, the optimization became something else. It became triage. And triage was math that looked at specific faces and decided which ones stayed.
-
-He didn't say any of that to Dana.
-
-"Your map still holds," he said instead. "The soil cycle. The agricultural breakthrough. That doesn't change. We just have to integrate the new infection variable into the rest of the system."
-
-"Unless there are other variables we haven't found yet," Dana said.
-
-"There probably are," Cole said. "We're reading a still photograph of a moving system. Elena's logs confirm it. The planet teaches you one rule at a time, usually by breaking something you thought was safe."
-
-Dana left without saying goodbye. Cole finished the revised rotation schedules. He didn't sleep. He read Elena Vasik's Month Six log again, the one where she was certain they were going to make it. Then he skipped ahead to Month Twelve. Two words, that was all she had left to write: "Enough, now."
-
-Cole closed the data core and held it like it might explain something. It didn't. It just sat in his hands like evidence of a future he couldn't prevent.
-
-Thirty-nine alive. The count continued. The margin tightened. And somewhere underneath the numbers, Cole was starting to understand that the planet wasn't teaching the colony how to survive it.
-
-The planet was teaching the colony how to choose who didn't.
+The planet would keep teaching them rules one at a time. Usually by breaking something they thought was safe.
