@@ -27,4 +27,4 @@
 - Polk's corridor moment. Reduced to one line and body-language read. Does this feel too thin, or does the restraint serve Ch 2's fuller introduction?
 
 **Continuity note:**
-- Ch 2 draft (line 67) references Polk approaching Cole "in the corridor that first day." The revised Ch 1 corridor moment (Polk passing, one line of dialogue) is lighter than what Ch 2 references. Ch 2 may need a minor adjustment to match the reduced interaction.
+- ~~Ch 2 draft (line 67) references Polk approaching Cole "in the corridor that first day." The revised Ch 1 corridor moment (Polk passing, one line of dialogue) is lighter than what Ch 2 references. Ch 2 may need a minor adjustment to match the reduced interaction.~~ **RESOLVED** — Ch 2 line 77 now references Polk as "the man who'd said *Hell of a thing* to the corridor and kept walking," matching Ch 1's lighter interaction exactly.

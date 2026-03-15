@@ -6,11 +6,17 @@ The crew of forty-seven had settled into the lower decks like sediment. Bunks in
 
 Cole spent most of his time reading.
 
-The charter existed in full digital copy on the ship's network, along with supplementary materials: geological surveys, atmospheric data, agricultural projections, structural schematics. Personnel files. He started with the geological surveys and worked backward into the historical data, into the notes that suggested, in careful corporate language, that Parcel 16b had been surveyed before. Once. Seven years ago. By an expedition that Asterlyne had mentioned nowhere in the recruitment materials.
+The charter existed in full digital copy on the ship's network, along with supplementary materials: geological surveys, atmospheric data, agricultural projections, structural schematics. Personnel files. Cole started with the geological surveys and worked outward — atmospheric composition, seasonal modeling, soil chemistry baselines. He read the way he'd always read corporate data: not for what was there, but for what should have been. The surveys were clean. Too clean. Methodology notes referenced comparison datasets that weren't included. Soil analysis tables started mid-sequence, as though earlier measurements had been stripped. The gaps were small and the gaps were deliberate.
 
-It was the kind of thing you'd find if you looked. Most people didn't look.
+It was the kind of thing you'd notice if you knew what missing data looked like. Most people didn't.
 
-Most people were doing what they were doing in the common mess on the forty-fifth day of transit: clustering into smaller groups, forming the soft hierarchies that would become the harder hierarchies once gravity meant something again. The two botanists from the initial signing—colleagues from an Earth research institute, both women, both operating under the assumption that the settlement would have built-in scientific infrastructure—had claimed a table and were planning projects. The contractor, Polk, had gathered about eight people around him and was talking about freedom in a way that suggested he'd given this speech before. Three academics who didn't quite know each other yet but recognized the type—the kind of people who'd chased this opportunity because their funding had ended, because they had nothing else to lose, because an off-world colony looked like a second act.
+Most people were doing what they were doing in the common mess on the forty-fifth day of transit: clustering into smaller groups, forming the soft hierarchies that would become the harder hierarchies once gravity meant something again. The two botanists from the initial signing — colleagues from an Earth research institute, both women, both operating under the assumption that the settlement would have built-in scientific infrastructure — had claimed a table and were planning projects. Three academics who didn't quite know each other yet but recognized the type — the kind of people who'd chased this opportunity because their funding had ended, because they had nothing else to lose, because an off-world colony looked like a second act.
+
+Garrett Polk had gathered about eight people around him at the far table and was talking about freedom. Not freedom as an abstraction. Freedom as a wound.
+
+"...systems that look rational," Polk was saying, his voice the kind that filled a room whether you wanted it to or not, "built by people who've never had to live inside them. You do everything right. Follow the plan. Then you find out the plan was never yours. It was for the people who wrote it."
+
+Eight heads nodding. Cole watched from across the mess and heard the specific bitterness underneath the rhetoric — not ideology, but damage. The anger of people who'd played by rules that turned out to be traps, who'd built things that got taken, who'd signed deals that looked like opportunity and turned out to be architecture. Polk wasn't selling a philosophy. He was selling the feeling of finally being right about who had broken you.
 
 Ren Tsai was at a table alone, reviewing something on her personal tablet that made her frown.
 
@@ -58,55 +64,59 @@ She didn't call him on it.
 
 "I'm Ren," she said, and went back to her tablet.
 
-Cole ate his meal—some kind of protein cultivate that had the texture of foam and the flavor of commitment to nutrition—and watched the common mess reorganize itself. The academics had merged with the contractor's group. The botanists had separated, one going to find Haruki in the medical bay, the other settling in with a book. The young guy—Joss Carver, Cole had learned his name from the manifest—was doing what he'd been doing since embarkation: reading the charter, panicking at sections, re-reading them, panicking again.
+Cole ate his meal — some kind of protein cultivate that had the texture of foam and the flavor of commitment to nutrition — and watched the common mess reorganize itself. The academics had drifted toward Polk's table, drawn by the gravitational pull of a man who sounded like he had answers. The botanists had separated, one heading to find Haruki in the medical bay, the other — Dana Wen — settling into a corner with her notebook. Actual paper. She filled pages in handwriting so small it looked like code. Who sat where. Who ate what. Which orientation modules people skipped. She avoided eye contact with the practiced ease of someone who'd learned that being overlooked was safety. Cole noticed her because she was designed not to be noticed.
 
-The contractor, Polk, was laughing about something. Not a happy laugh. The kind of laugh that lived in the space between humor and anger, the sound of a man who'd learned to make jokes about things that had broken him.
+Haruki was visible through the medical bay hatch, sitting across from a colonist in what had become his daily routine — colonists sat down one by one for conversations that started as medical histories and ended with questions nobody wanted answered. How long without your medication? What happens when resupply stops? He asked them in that measured voice, as though he were merely filling in forms.
 
-By the sixty-third day, Cole had learned the rhythms of the ship well enough to move through it without thinking. He knew which paths connected the medical bay to the agricultural storage without passing through the common mess. He knew when Ren went to the exercise equipment and came back all motion and sharp breathing. He knew that Dana Wen, the botanist who avoided eye contact, did her heavy work in the agricultural lab in the early hours, when nobody else was awake.
+Joss Carver — twenty-two, the youngest on the manifest — was panicking and preparing in roughly equal measure. He'd cycle through the charter with his leg bouncing, then pivot to the survival appendices, building checklists, cross-referencing agricultural projections with settlement schematics. He'd watched every orientation video Asterlyne had loaded onto the network. Asked Haruki about field wound care. Asked Ren about water system failures. Over-prepared in the way that young people sometimes are when preparation is the only thing they can control.
 
-He'd organized his own analysis by then. Built a quiet spreadsheet in a private partition of the ship's network. Listed forty-six names (he already knew Garrett Polk's assessment—the man had approached him in the corridor that first day with the kind of familiarity that suggested he'd seen something in Cole recognize something in him). Coded them by skill set, by apparent psychological resilience, by the things they'd admitted in casual conversation about why they'd signed.
+Polk was laughing about something at his table. Not a happy laugh. The kind that lived in the space between humor and anger, the sound of a man who'd learned to make jokes about things that had broken him.
+
+By the sixty-third day, Cole had learned the rhythms of the ship well enough to move through it without thinking. He knew which paths connected the medical bay to the agricultural storage without passing through the common mess. He knew when Ren went to the exercise equipment and came back all motion and sharp breathing. He knew that Dana did her heavy work in the agricultural lab in the early hours, when nobody else was awake.
+
+He'd organized his own analysis by then. Built a quiet spreadsheet in a private partition of the ship's network. Listed forty-six names — Garrett Polk already filed from signing day, the man who'd said *Hell of a thing* to the corridor and kept walking, all that anger with nowhere to land. Coded them by skill set, by apparent psychological resilience, by the things they'd admitted in casual conversation about why they'd signed.
 
 It was a monster's work, really. Ranking people by survival probability.
 
 But Cole had stopped caring about being anything other than useful.
 
-Polk found him in the observation deck three weeks before planet-fall, the section of the ship where the port looked out at nothing—vast dark, occasional stars, the slow crawl toward Parcel 16b visible only as a brightening dot among the other fixed lights.
+Polk found him on the observation deck three weeks before planet-fall. The deck was the one section of the ship that looked out at nothing — vast dark, occasional stars, Parcel 16b visible only as a brightening dot among fixed lights.
 
-Polk was writing something on a napkin. Numbers. Calculations. The kind of thing someone did when they were trying to convince themselves that the math worked out a different way than it actually did.
+Polk was at the deck's single table, writing on a napkin. Not words. Numbers. Cole could see the shape of it from across the space — columns of figures, credit amounts, interest calculations. The arithmetic of debt. Polk was comparing what he owed on Earth against what the charter promised, drawing lines between numbers that didn't connect, running the math the way you'd run it if you were looking for an exit that didn't exist.
 
-Cole watched from across the observation area, not hiding it.
+Cole watched. Didn't hide it.
 
-When Polk realized he was being observed, he crumpled the napkin. The instinct was immediate. Guilty. But the guilt wasn't about having written the numbers. It was about Cole seeing him do it.
+When Polk realized he was being observed, he crumpled the napkin. The instinct was immediate — not guilt about the numbers, but guilt about being seen running them. His face rearranged itself into the big, public expression Cole had watched him wear in the mess. But the crumpled napkin was still in his fist.
 
-Polk looked up. He was good at reading people, Cole could see that now. Had been good at it for a long time, probably. Probably it was why he was here and not wherever he'd come from.
+"You read the whole thing, didn't you?" Polk said. "The charter."
 
-"You read the whole thing," Polk said. Not a question.
+"Yes."
 
-Cole nodded.
+"The appendices. The sub-clauses. All of it."
 
-Polk's face shifted. Not relaxing exactly. Settling into something. "Yeah. Yeah, I thought so." He looked out at the dark for a moment. "Then you know what it actually costs."
+"All of it."
 
-Cole knew exactly what it cost.
+Polk leaned back. Studied Cole the way he studied people — quickly, with the intelligence he tried to keep underneath the volume. Cole could see the question forming. Not the one Polk was about to ask, but the one underneath it. The one that had been on the napkin.
 
-"I do," he said.
+"Find any way out of here?"
 
-Polk crumpled the napkin tighter, then released it, smoothed it against his thigh. Twenty-three showed on the paper in his calculations, the same number Cole had arrived at. But Polk's twenty-three looked like a sentence. Cole's looked like arithmetic.
+Cole considered the question. The honest answer was complicated. There was no way out — no early exit, no loophole that dissolved the contract, no clause that made the debt calculations on Polk's napkin come out different. But there was clause 9.4.2, which wasn't a way out. It was a way through. Five years. Twenty-four alive. Ownership in perpetuity. Polk didn't know about it. Hadn't read far enough to find it.
 
-"You resigned to it?" Polk asked. "That's what it looks like. Like you've already accepted the math."
+"No," Cole said.
 
-Cole didn't correct him. Let Polk believe that resignation and calculation were the same thing. It was useful.
+Polk's face changed. Not defeat — something closer to relief. He lit up the way people light up when someone confirms what they've been afraid to believe: that the game really is rigged, that the math really doesn't work, that it isn't just them.
 
-"You're the first person I've met here," Polk continued, "who actually seems like they understood what they signed. Most of them..." He gestured toward the corridor, toward the common mess, toward the forty-six people who'd climbed aboard Asterlyne's ship and made a deal with the frontier and the contract and their own mortality. "Most of them think they're going to a new world. I think they're actually just going to run the same games from somewhere different. But you know. You know what this actually is."
+"No," Polk repeated, almost to himself. "No, there isn't. There never is." He smoothed the crumpled napkin against his thigh, then pocketed it. "I knew it before I signed. Built a whole business on numbers once. Did everything right. Numbers worked. System didn't." He looked out at the dark. "You run numbers long enough, you learn they only work for the people who wrote the equation."
 
-Cole watched Polk's face. Saw the specific flavor of his desperation—not fear of death, but anger at systems that made survival look optional. Not new anger. Old anger. The kind that had probably brought him here in the first place.
+He stood. He was done. He'd gotten what he came for — confirmation from the one person on the ship who'd actually read the contract that the contract was exactly what he already believed it was: a trap you couldn't calculate your way out of.
 
-"What did you leave behind?" Cole asked.
+Cole watched him leave. Understood three things: Polk hadn't read the charter. Polk thought Cole was a fellow prisoner in resignation. And Polk had no idea that resignation and strategy look identical from the outside but are entirely different machines.
 
-Polk looked at him for a long moment. "Everything that mattered. That's the point of a charter settlement, isn't it? You come because Earth broke you. The planet either fixes you or finishes the job." He stood, pocketed the crumpled napkin. "I'm betting on finish."
+Cole didn't correct him. Didn't mention clause 9.4.2. Didn't tell him there was something in the appendices worth finding.
 
-He walked out before Cole could answer, and Cole realized that Polk had misread him in a way that was useful. Polk thought Cole was a fellow traveler in resignation. Didn't understand that resignation and strategy looked identical from the outside, but they were entirely different machines.
+Some information was only useful if the right person had it.
 
-Cole was already reading the weather projections. Already modeling the agricultural failure vectors. Already calculating which skills would matter in months two and three and twelve when Earth was a memory and the supply drops became theoretical.
+He turned back to his tablet. The weather projections. The agricultural failure vectors. The skills that would matter in months two and three and twelve when Earth was a memory and the supply drops became theoretical.
 
 He wasn't resigned.
 
@@ -120,15 +130,15 @@ Parcel 16b. Coordinates. Atmospheric composition. Seasonal cycles. Agricultural 
 
 "The viability index for this parcel," the facilitator said, "has been measured at eighty-four."
 
-Cole looked up from his own tablet, where he'd been cross-referencing the geological survey data.
+Cole looked up.
 
 Eighty-four.
 
-He pulled up the original survey document. Searched the appendices. Found the viability index calculation. 
+He didn't need to check his tablet. He'd memorized the data appendix weeks ago — every table, every index, every footnote the supplementary materials had buried behind the recruitment brochure. The viability index in the actual survey data was seventy-two.
 
-Seventy-two.
+Seventy-two. Not eighty-four.
 
-Seventy-two from a survey conducted seven years ago under conditions that might or might not have changed. The recruitment materials had claimed eighty-four. A difference of twelve points. The difference between optimism and actual capability. The difference between a projectable settlement timeline and a question mark.
+A difference of twelve points. The difference between optimism and actual capability. The difference between a projectable settlement timeline and a question mark.
 
 He looked at Ren across the mess. She was looking at him, had been looking at him, had clearly noticed the discrepancy at the same moment and was watching to see if he'd registered it. When their eyes met, she looked away—not dismissive, just confirming. You saw it. I saw it. The question became: what were they going to do about a lie that was buried in supplementary materials that most people wouldn't read?
 
