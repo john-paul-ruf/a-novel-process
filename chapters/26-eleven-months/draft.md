@@ -248,7 +248,7 @@ Ren looked at the fire. Lana's child had been born three weeks ago. A boy. Two c
 
 The words came out before she'd finished thinking them. She heard them land and heard what they carried — the fact and the fear underneath the fact. They hadn't lost. Twenty-four held. The threshold held. But Cole wasn't asking about losing. He was asking about the gap in the text, the silence in the charter where the children's future should have been written, the space that Asterlyne would fill with whatever interpretation served a four-hundred-billion-credit asset.
 
-Cole heard what she wasn't saying. She could tell because he didn't respond, and his not-responding was the specific silence of a man who'd heard the thing underneath the thing and was filing it alongside his own uncertainty.
+Cole heard what she wasn't saying. She could tell because he didn't respond — just sat there, quiet in the particular way of a man who'd heard the thing underneath the thing and was filing it alongside his own uncertainty.
 
 They sat with the fire between them and the question between them and the colony around them. Twenty-four people. Two children. The count that mattered and the lives that might not be counted. Ren thought about her partner on Earth — the other Mika, the architect, the person she'd been building something with before the debt spiral made building impossible. She'd left to avoid becoming someone's dependent. She'd come to a planet and become something else — not dependent, not independent, something the language didn't have a word for because the conditions that produced it didn't exist in contexts where words got made. Part of a structure. Load-bearing. The thing she'd always been, transposed from buildings to people.
 

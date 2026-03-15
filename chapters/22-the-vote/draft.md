@@ -60,7 +60,7 @@ Polk's jaw worked. Cole watched the muscles move under the sunburned skin and re
 
 "I want to keep twenty-six people alive."
 
-Polk stared at him. Three years of antagonism compressed into a look that contained everything Polk had ever thought about Cole Maren — the logistics machine, the man who counted faces like inventory, the calculator who'd turned survival into arithmetic and arithmetic into authority. The look also contained something newer. Something that had been building since the relocation, since Polk had voted to move and watched the move kill two people and the not-moving would have killed more. The recognition that Cole's math wasn't wrong. That hating the math didn't make it wrong.
+Polk stared at him. Three years of antagonism compressed into a look that contained everything Polk had ever thought about Cole Maren — the logistics machine, the man who counted faces like inventory, the calculator who'd turned survival into arithmetic and arithmetic into authority. The look also contained something newer. Something that had been building since the relocation, since Polk had voted to move and watched the move kill two people and knew that staying would have killed more. The recognition that Cole's math wasn't wrong. That hating the math didn't make it wrong.
 
 Three council members spoke in rapid sequence. Kira: "She betrayed every person in this settlement." James, leaning forward on his bad leg: "We trusted her with our food systems. Our medical compounds. Our survival." A woman named Lina, water systems, who'd been at the array the morning Yuki didn't arrive: "If Asterlyne sends another expedition with her data, we lose everything. The charter. The land. Five years of dying for nothing."
 

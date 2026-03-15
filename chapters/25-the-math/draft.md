@@ -92,7 +92,7 @@ A colonist named Beck — the one who'd been volunteering for night perimeter pa
 
 "The charter is a line item. You're overhead."
 
-Beck sat down. His face was doing something between anger and recognition — the specific expression of a man who'd always known, in the way you always knew, that the system didn't value him, but who was now seeing the exact number that the not-valuing was worth. Ninety million divided by forty-seven. Less than two million per person. The price of a life on a balance sheet was lower than the price of the mineral substrate under the life's feet.
+Beck sat down. His face was doing something between anger and recognition — the specific expression of a man who'd always known, in the way you always knew, that the system didn't value him, but who was now seeing the exact price the system had put on his expendability. Ninety million divided by forty-seven. Less than two million per person. The price of a life on a balance sheet was lower than the price of the mineral substrate under the life's feet.
 
 Kira spoke next. The water system designer, the woman who'd voted against the relocation in Month 10 and walked the path to the southern array every day with her hand on the wall, feeling for erosion. Her voice was steady in the way that Kira's voice was always steady — the register of a woman who'd learned that steadiness was the only reliable tool in a world where the ground moved.
 

@@ -26,11 +26,19 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **File:** `chapters/27-tuesday/draft.md`
 - **Resolution:** Reimagined both instances using fragment-stacked inventory with sensory grounding. Line 401: "The paths and the shelters and the channels" → "The paths worn bare. The shelters. The channels running beneath the bedrock." Line 415: Four-item "and" chain → fragment inventory grounded in Cole's body ("Fermented fruit warm in his hands. Fire on his face. The trees. The twenty-two."); adjacent "The winning and the losing and the gap" → comma-listed with declarative inversion ("Winning, losing, the gap between — except it wasn't a gap. It was a space where something would grow"). No voice profile exception added — polysyndeton prohibition maintained.
 
-### TASK 005 — Ch 26: "not-X was the X" near-violation
+### ~~TASK 005 — Ch 26: "not-X was the X" near-violation~~ ✅ COMPLETE
 - **File:** `chapters/26-eleven-months/draft.md`, line 251
-- **Passage:** "his not-responding was the specific silence of a man who'd heard the thing underneath the thing"
-- **Problem:** "his not-responding was the specific silence" follows the prohibited "the not-X was the X" inversion pattern (e.g., "the not-knowing was the knowing"). Voice profile says "never use."
-- **Fix:** Rephrase. Example: "He didn't respond, and the silence told her he'd heard what she wasn't saying."
+- **Resolution:** Replaced "his not-responding was the specific silence" with "just sat there, quiet in the particular way of" — eliminates the nominalized not-X construction while preserving the beat.
+
+### ~~TASK 005b — Ch 25: "not-X was the X" violation~~ ✅ COMPLETE
+- **File:** `chapters/25-the-math/draft.md`, line 95
+- **Passage:** "the not-valuing was worth"
+- **Resolution:** Replaced with "the exact price the system had put on his expendability" — concrete noun replaces nominalized negation.
+
+### ~~TASK 005c — Ch 22: "not-X was the X" violation~~ ✅ COMPLETE
+- **File:** `chapters/22-the-vote/draft.md`, line 63
+- **Passage:** "the not-moving would have killed more"
+- **Resolution:** Replaced with "knew that staying would have killed more" — plain verb replaces nominalized negation.
 
 ---
 
