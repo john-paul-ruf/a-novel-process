@@ -99,7 +99,7 @@
 | 17 | Months 19-20 | 32 | Elena's Year Two logs; colony fraying; Cole shares logs |
 | 18 | Months 21-22 | 32 | Creep solution; Dana reports it; "single points of failure" |
 | 19 | Months 23-26 | 31 | Slow attrition; culture forming; Cole's second message to Lily |
-| 20 | Months 27-30 | 26 | Asterlyne silent; five deaths; Dana's comm unit exposed |
+| 20 | Months 27-30 | 26 | Asterlyne silent; five deaths (carelessness, equipment failure, accumulated fatigue, cascade failures); colony eating itself; Dana's comm unit exposed |
 | 21 | Year 3 | 26 | Dana confesses; comm unit destroyed |
 | 22 | Year 3 | 24 | Colony votes on Dana; two deaths; threshold reached |
 | 23 | Year 4 | 24 | No margin; Elena's final log; colony votes to name settlement "Holdfast" |

@@ -65,12 +65,16 @@ All major structural decisions complete. Ready for Phase 2: First Draft.
 **Updated**: scene-outline.md (Ch 25 Beat 3, Ch 26 Beat 3, Ch 27 Beat 2)
 
 ### Question 2: Five Deaths in Ch 20's "Milder" Year 3
-**Location**: Ch 20, Year 3, month 1-3  
-**Problem**: Kill rate of 31 → 26 (five deaths in three months) during a period described as *less dangerous* than previous cycles. That's nearly identical to the fever chapter kill rate, which breaks the narrative logic of "we're past the worst of it."  
-**Options**:  
-- **A**: Justify the deaths harder in text (compounding fatigue, accumulated equipment failure, carelessness because crisis feels past, no redundancy left).  
-- **B**: Trim to three or four deaths (31 → 27 or 28), reset expectations, adjust downstream deaths accordingly.  
-**Impact**: This pacing choice shapes how much wind the colony still has in its sails going into Year 4.
+**Status**: ✅ RESOLVED  
+**Approach**: Keep five deaths. Reframe who's killing the colony.  
+**Implementation**: Ch 20 Beat 3 rewritten. The planet's third-year cycle is genuinely milder — less creep, no new pathogens, predictable weather. But the colony is hollow. Five deaths from:  
+- Carelessness (numb colonist doesn't notice familiar erosion, breaks something that doesn't heal).  
+- Equipment failure (jury-rigged water system finally fails; replacement parts exhausted; contamination spreads; two deaths).  
+- Accumulated fatigue (mild respiratory infection; colony has compounds but one colonist's reserves are gone; can't mount immune response).  
+- Cascade failures (communication oversight → supply miscalculation → fall → infection).  
+**Thematic flip**: The colony isn't being killed by the planet anymore. It's eating itself. Kill rate matches fever chapter (31 → 26) but for different reasons — redundancy exhausted, reserves gone, bandwidth depleted.  
+**Impact**: Sets up Year 4 knowing the margin is thin *because of survival cost*, not planetary hostility. Shapes the hollow feeling going into the final push.  
+**Updated**: scene-outline.md (Ch 20 Beat 3), story-bible.md (Ch 20 timeline entry)
 
 ### Question 3: Part 3 Temporal Compression (Ch 23, 26)
 **Scope**: Part 3 covers ~30 months in 7 chapters vs. Part 1's 6 months in 9 chapters. Right instinct: survival granularity fades as drama shifts to holding the line.  
