@@ -2,7 +2,7 @@
 
 **Note:** Engineer character renamed from "Maren Tsai" to "Ren Tsai" to avoid collision with protagonist's surname (Cole Maren).
 
-**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 34 (Ch15 - forest death) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
+**Death count tracker:** 47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 34 (Ch15 - forest death) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
 
 ---
 

@@ -44,12 +44,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Source Document Inconsistencies
 
-### TASK 006 — Scene outline: Death count tracker missing Ch 7 deaths
+### ~~TASK 006 — Scene outline: Death count tracker missing Ch 7 deaths~~ ✅ COMPLETE
 - **File:** `source/scene-outline.md`, line 5
-- **Current:** "47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12)..."
-- **Problem:** Skips Ch 7's two deaths (Lin and Thomas, scaffolding accident). The story bible timeline correctly records Ch 7 at 42 alive.
-- **Fix:** Update tracker to "47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8) → 36 (Ch12)..."
-- **Source:** Story bible timeline row for Ch 7.
+- **Resolution:** Updated death count tracker from "47 → 44 (Ch5) → 39 (Ch8)" to "47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8)" — restoring Lin and Thomas's scaffolding accident deaths to the sequence.
 
 ### TASK 007 — Scene outline Ch 20: Death count prose/number mismatch
 - **File:** `source/scene-outline.md`, Ch 20 Beat 3
