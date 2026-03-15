@@ -68,19 +68,13 @@ Both things were true and neither was the reason he hadn't opened them.
 
 He opened them now.
 
-Elena's Year Two entries were sparse. He'd read through Month 17 — the social collapse, the colony that stopped eating together, the people dying in proximity instead of in community. Past Month 17, the entries shortened. Not because Elena had less to say but because she had fewer people to say it about.
+He'd read through Month 26 — the social collapse, the colony that stopped eating together, the deaths that thinned nine to three, the diagnosis Elena had written with three people still breathing: *We stopped being worth keeping alive.* He'd pinned those entries to the Board. He'd used them. Past Month 26, he'd stopped.
 
-Month 18. Six alive. Elena's clinical precision still intact but the entries reading like dispatches from a shrinking perimeter. Daily observations: soil conditions, weather, food stores. The data of a scientist maintaining the practice of science because the practice was the last structure standing.
+The entries past Month 26 were short.
 
-Month 19. Five. A death described in one sentence. "Carla fell at the ridge. Alone."
+Month 27. Two. Elena didn't describe how Tomas died. Just: *Tomas is gone. I'm not going to write the details. The details don't help. The pattern is the same as every other death — the planet, the deficit, the margin that finally reached zero. The specifics vary. The arithmetic doesn't.*
 
-Month 20. Four. Another sentence. "The infection took David. I had nothing left to treat it with."
-
-Month 21. Three.
-
-Month 22. Two.
-
-Month 23. Elena alone.
+Month 28. One. Elena alone.
 
 Cole read the final entries in the dark of his shelter with the hum of the trees pressing through the walls and the colony breathing around him — twenty-three other people sleeping or keeping watch or sitting in their shelters with their own thoughts, alive on a planet that had been killing people longer than any of them had been trying to survive it.
 
@@ -104,7 +98,7 @@ He didn't know how Elena had died. The data core didn't say. The body wasn't in 
 
 Cole closed the data core. Held it in his hands for a moment. The weight of it — not the physical weight, which was negligible, but the weight of fourteen lives compressed into data that had become his ghost narrative, his parallel, his map of what failure looked like so he could navigate away from it.
 
-He'd navigated away from it. Twenty-four. Elena's six had become four had become two had become one had become zero. Cole's forty-seven had become twenty-four and held. The holding was the difference. The holding was the thing Elena hadn't had — not because she was less capable, not because she'd made worse decisions, but because her charter had no clause 9.4.2, no ownership threshold, no mathematical reason to believe that survival purchased anything beyond another day of surviving.
+He'd navigated away from it. Twenty-four. Elena's fourteen had become nine had become three had become one had become zero. Cole's forty-seven had become twenty-four and held. The holding was the difference. The holding was the thing Elena hadn't had — not because she was less capable, not because she'd made worse decisions, but because her charter had no clause 9.4.2, no ownership threshold, no mathematical reason to believe that survival purchased anything beyond another day of surviving.
 
 He put the data core back in the crate. Closed it.
 

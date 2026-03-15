@@ -10,14 +10,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **File:** `chapters/17-elena-year-two/draft.md`, line 53
 - **Resolution:** Replaced "at Holdfast" with "at the settlement."
 
-### TASK 002 — Ch 17 / Ch 23: Elena log overlap and contradiction
-- **Files:** `chapters/17-elena-year-two/draft.md` (lines 27–83) and `chapters/23-no-margin/draft.md` (lines 59–109)
-- **Issue:** Ch 17 reads Elena's logs all the way through Month 28 (Elena alone, Tomas dead, Elena writing "We stopped being worth keeping alive" and continuing solo). Ch 23 then states "He hadn't read the end" (line 67) and re-covers Months 18–28+ as if reading for the first time before reaching "Enough, now."
-- **Problem:** The two chapters overlap significantly. Ch 23's framing contradicts Ch 17's scope. If Cole read through Month 28 (Elena alone) in Ch 17, he cannot "not have read the end" in Ch 23.
-- **Fix (Option A):** Trim Ch 17 to stop at the "We stopped being worth keeping alive" entry (~Month 24–25 of Elena's timeline). Reserve Elena's death spiral (Months 25–28+, counting down to Elena alone) and "Enough, now" entirely for Ch 23.
-- **Fix (Option B):** Revise Ch 23's framing to acknowledge that Cole already read the trajectory but deliberately avoided the final personal entries (the reflective passages and "Enough, now"). Change "He hadn't read the end" to something like "He'd read the trajectory but closed the core before the final entries."
-- **Recommendation:** Option A preserves the pacing architecture the story bible established. Ch 17 delivers the thematic punch ("We stopped being worth keeping alive") and Ch 23 delivers the emotional punch ("Enough, now") with the death spiral as its lead-in.
-- **Source:** Story bible Elena log pacing flags; scene outline Ch 17 ("finishes Elena Vasik's Year Two logs") vs. Ch 23 ("rereads Elena's final logs").
+### ~~TASK 002 — Ch 17 / Ch 23: Elena log overlap and contradiction~~ ✅ COMPLETE
+- **Files:** `chapters/17-elena-year-two/draft.md` and `chapters/23-no-margin/draft.md`
+- **Resolution:** Applied Option A. Trimmed Ch 17 to stop at Month 26 (three people remaining) with "We stopped being worth keeping alive" as the final entry Cole reads. Reserved Months 27–28 (Tomas dying, Elena alone) and "Enough, now" entirely for Ch 23. Replaced Ch 23's contradictory compressed months (wrong names, wrong counts) with content consistent with Ch 17's established details. Fixed descent trajectory in Ch 23 to match (fourteen → nine → three → one → zero). Adjusted Ch 17's closing to leave the door open for Cole returning to the unread final entries in Ch 23.
 
 ---
 

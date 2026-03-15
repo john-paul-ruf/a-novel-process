@@ -54,19 +54,7 @@ He thought about the common area at the settlement where thirty-two people still
 
 The colony was dimming. But it hadn't gone dark. Not yet. The distance between dimming and dark was the distance Elena had traveled in the months between sixteen and twenty-six, and Cole was reading the map of that distance in a dead woman's handwriting.
 
-Month 27. Two. Tomas died. Elena didn't describe how. Just: *Tomas is gone. I'm not going to write the details. The details don't help. The pattern is the same as every other death — the planet, the deficit, the margin that finally reached zero. The specifics vary. The arithmetic doesn't.*
-
-Month 28. One. Elena alone.
-
-*Month 28, Day 1. I'm the last one. I keep the data logs because stopping would mean acknowledging that no one will read them, and I'm not ready to acknowledge that. Recording is the last act of the scientist. When I stop recording, I stop being the person who came here.*
-
-*The planet is beautiful today. I hadn't noticed in months. The spiral trees are doing something with the light — refracting it, bending it through the bark's crystalline structure in a way that makes the air look like it's moving even when it's still. I stood outside the shelter for twenty minutes this morning and watched it. I had nowhere else to be.*
-
-Cole felt something in his throat. Not the stone of numbers. Something less structured. Something that didn't have a location in his body's architecture because it was the kind of feeling that didn't organize itself. It just sat wherever it landed.
-
-Elena had noticed the trees. Twenty-eight months in, alone, the last of fourteen, and she'd stood in the light and watched the trees do something beautiful. Cole had described the same trees in his first message to Lily. Three sentences and two hours. The trees that hummed. The trees that were beautiful in a way that set his teeth on edge on Day One and now, twenty months later, were just part of the frequency of the place.
-
-Elena's final Year Two entry was dated Month 28, Day 19.
+The last entry he read was dated Month 26, Day 11. Three people left. Elena, Tomas, and M. The scientist's precision had thinned to something rawer — not data anymore, not observation. Diagnosis.
 
 *The planet isn't killing us. We stopped being worth keeping alive. Not to the planet — the planet doesn't have an opinion. To ourselves. We stopped investing in each other. We stopped eating together, stopped arguing, stopped making the daily thousand small decisions that turn a group of people into a community. A community is an act of will maintained against entropy, and when the will fails, the entropy doesn't need to work very hard. It was already winning. It was always winning. We just stopped pushing back.*
 
@@ -74,13 +62,13 @@ Elena's final Year Two entry was dated Month 28, Day 19.
 
 *We had data. We had the soil cycle and the weather patterns and the creep maps and enough native food to keep six people breathing. We had everything except a reason to breathe together.*
 
-Cole closed the data core. Set it on the desk. Sat in his shelter in the dark and listened to the hum and thought about Elena standing alone in the light of the spiral trees on Day One of being the last person alive.
+Cole closed the data core. Set it on the desk. There were more entries — the logs continued past Month 26, into whatever came after three. He didn't open them. The diagnosis was enough. The ending could wait.
 
 She'd been smarter than him. Better trained. More disciplined. She'd had the data, the patterns, the intelligence to read the planet correctly. Everything Dana had given Cole, Elena had earned on her own. And it hadn't been enough. Not because the planet was too hostile or the supplies too thin or the deaths too many. Because the people had stopped being people together.
 
-Fourteen became nine became six became four became two became one.
+Fourteen became nine became six became three.
 
-And Elena, alone, had written the diagnosis with a scientist's clarity: *We stopped being worth keeping alive.*
+And Elena, with two people still breathing beside her, had written the diagnosis with a scientist's clarity: *We stopped being worth keeping alive.*
 
 Not to the planet. To each other.
 
@@ -166,7 +154,7 @@ Ren picked up her tablet. Went back to the valve readings. Cole waited, because 
 
 He shared them that evening.
 
-Not at a formal assembly. Those had a weight the colony associated with crisis — bad numbers, rationing changes, the kind of information that arrived in a room where everyone was standing because sitting meant you might not want to stand up after hearing it. Cole pinned the entries to the common shelter board the way he'd been doing for months, but this time he pinned all of them. Month 16 through Month 28. Elena's complete second year. Twelve entries on the colony's limited paper, the ink fading at the edges, the text dense and small because Cole had fit each entry onto a single sheet.
+Not at a formal assembly. Those had a weight the colony associated with crisis — bad numbers, rationing changes, the kind of information that arrived in a room where everyone was standing because sitting meant you might not want to stand up after hearing it. Cole pinned the entries to the common shelter board the way he'd been doing for months, but this time he pinned all of them. Month 16 through Month 26. Twelve entries on the colony's limited paper, the ink fading at the edges, the text dense and small because Cole had fit each entry onto a single sheet.
 
 He added nothing. No commentary, no framing, no logistics briefing to contextualize the data. Just Elena's words, in order, starting with the scientist who was still measuring and ending with the woman who understood what the measurements meant.
 
@@ -226,7 +214,7 @@ Cole looked at the equipment shelter wall. At the water system Ren maintained, t
 
 ---
 
-That night, Cole went to his shelter and opened the data core one last time. Not to read. To sit with it. The screen was dark. The data inside was complete — Elena Vasik's entire record, from the clinical precision of Month 1 to the quiet devastation of Month 28.
+That night, Cole went to his shelter and opened the data core one last time. Not to read. To sit with it. The screen was dark. The data inside was complete — Elena Vasik's entire record, from the clinical precision of Month 1 to the quiet devastation of Month 26.
 
 He thought about Elena's final entry. *The planet isn't killing us. We stopped being worth keeping alive.* He thought about the thirty-two people in the shelters around him — eating, sleeping, arguing, recovering, choosing. Choosing every day to be a colony instead of a collection of individuals dying in proximity.
 
@@ -236,7 +224,7 @@ But the thing beneath the math — the thing that had cracked in the medical she
 
 Elena had understood too late that data wasn't enough. That the soil cycle and the weather patterns and the creep maps and the native food sources were tools, not reasons. The reason was the room where people chose to eat together. The reason was Polk sitting in the common shelter for eleven minutes reading about silence and then going to get a second bowl.
 
-Cole put the data core in the bottom of his supply crate. He wouldn't open it again. Elena had given him everything she had. The rest was his.
+Cole put the data core in the bottom of his supply crate. Elena had given him what he needed. The ending — whatever waited past Month 26 — wasn't his to read. Not yet.
 
 He lay on his cot and listened to the hum of the spiral trees pressing through the walls of the shelter, the frequency that lived in his chest, the sound of a planet that didn't care whether he succeeded or failed but would be there, humming, either way. He counted the breaths of the colony the way he'd counted everything since Day Zero. Not inventory. Not triage. Just attention.
 
