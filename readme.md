@@ -2,7 +2,7 @@
 
 A disgraced logistics manager signs a one-way corporate charter to homestead a hostile exoplanet, knowing the company expects most colonists to die — but if he can keep twenty-four of the original forty-seven alive for five years, a buried clause grants them ownership of the land and a second chance he stopped believing he deserved.
 
-**Status:** First Draft Complete — 27 of 27 chapters drafted (~107,000 words)
+**Status:** First Draft Complete — Audited & Revised — 27 chapters (~106,000 words)
 
 ---
 
@@ -10,7 +10,7 @@ A disgraced logistics manager signs a one-way corporate charter to homestead a h
 
 This novel is being written by a human author collaborating with **Zencoder** and **Claude Opus 4**.
 
-The entire first draft — from bare-bones project scaffolding to 107,000 words of prose, a scene-by-scene outline, a story bible, a voice profile, and build tooling — was produced in a single working session on March 15, 2026. Roughly 6 hours. 67 iterations.
+The entire first draft — from bare-bones project scaffolding to 106,000 words of prose, a scene-by-scene outline, a story bible, a voice profile, and build tooling — was produced in a single working session on March 15, 2026. The draft then went through two full audit-and-revision passes in the same session. 88 commits total.
 
 ### How it works
 
@@ -18,7 +18,8 @@ The entire first draft — from bare-bones project scaffolding to 107,000 words 
 2. **Pitch and structure.** Logline, synopsis, and scene-by-scene outline generated through iterative conversation. The author directed; the model built.
 3. **Agent instructions.** A custom system prompt (`AGENTS.md`) defines a fiction ghostwriter persona called *Verity* — a 200-line set of craft standards, onboarding protocols, and writing process rules that govern every prose generation call.
 4. **Chapter drafting.** Each chapter drafted individually against the outline and story bible, with continuity tracking and author notes kept in separate files. Opus 4 writes the prose; the author reviews, adjusts, and commits.
-5. **Iteration.** 67 commits in one session. Each chapter typically goes through multiple passes — the model drafts, the author reads, flags land in `notes.md`, and the next draft absorbs the corrections.
+5. **Iteration.** 88 commits in one session. Each chapter typically goes through multiple passes — the model drafts, the author reads, flags land in `notes.md`, and the next draft absorbs the corrections.
+6. **Audit.** Two full audit rounds after the draft was complete — a task list generated from the story bible, voice profile, and outline, then executed chapter by chapter. Continuity fixes, voice tightening, and structural adjustments across the full manuscript.
 
 ### What Zencoder provides
 
@@ -30,18 +31,38 @@ The entire first draft — from bare-bones project scaffolding to 107,000 words 
 
 - **Prose generation.** All chapter drafts, outline material, and story bible entries are written by Opus 4 under the constraints of the voice profile and agent instructions.
 - **Voice fidelity.** The model inhabits the author's voice rather than defaulting to generic literary prose — colloquial-smart register, deep interiority, fragments for emphasis, earned sentiment.
-- **Structural memory.** Continuity across 107,000 words: character arcs, timeline consistency, motif tracking, foreshadowing planted in early chapters and paid off later.
+- **Structural memory.** Continuity across 106,000 words: character arcs, timeline consistency, motif tracking, foreshadowing planted in early chapters and paid off later.
 
 ### The numbers
 
 | Metric | Value |
 |---|---|
-| **Session duration** | ~6 hours |
-| **Commits** | 67 |
+| **Session duration** | ~7 hours |
+| **Commits** | 88 |
 | **Chapters drafted** | 27 of 27 |
-| **Prose word count** | ~107,000 |
+| **Audit passes** | 2 full rounds |
+| **Prose word count** | ~106,000 |
 | **Supporting material** | ~20,000 words (outline, bible, pitch, voice profile, notes) |
 | **Build outputs** | Markdown, DOCX, EPUB, PDF |
+| **Submission materials** | Query letter template, KDP listing |
+
+### Timeline
+
+All work completed March 15, 2026. First commit at 8:47 AM, last at 3:55 PM (CDT).
+
+| Time | Phase | What happened |
+|---|---|---|
+| 8:47–8:55 | **Setup** | Project scaffolding, voice profile from writing samples |
+| 8:55–9:02 | **Pitch** | Premise, logline, synopsis |
+| 9:02–9:52 | **World-building** | Scene outline, story bible, character work, chapter structure |
+| 9:56–10:04 | **Tooling** | Build scripts, task management, outline refinement |
+| 10:06–10:35 | **Drafting (1–9)** | Part One: Landing — chapters 01 through 09 |
+| 10:35–10:52 | **Drafting (10–12)** | Part Two begins — model switched back to Opus |
+| 10:52–13:14 | **Drafting (12–22)** | Bulk of Part Two and start of Part Three |
+| 13:14–14:41 | **Drafting (23–27)** | Part Three completed — final chapters |
+| 14:41–14:52 | **First draft done** | Build, readme, 67th commit |
+| 14:52–15:21 | **Audit round one** | Task list generated, executed across full manuscript |
+| 15:23–15:55 | **Audit round two** | Second pass — continuity, voice tightening, final build |
 
 ---
 
