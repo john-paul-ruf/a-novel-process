@@ -83,7 +83,7 @@
 | 01 | Day 0, Earth | 47 | Cole signs charter; clause 9.4.2 discovered |
 | 02 | Months -3 to 0, transit | 47 | Meet ensemble; viability score discrepancy |
 | 03 | Day 1, landing | 47 | Arrival on Parcel 16b; equipment insufficient; fauna spotted |
-| 04 | Weeks 1-2 | 47 | Learning planet rules; soil fluctuation; Suri Park incident |
+| 04 | Weeks 1-2 | 47 | Cole builds systems (water schedule, rationing tiers, shelter rotation, perimeter protocols); colonists resist structure; Polk leads resistance — sees Cole's systems as trap; crops grow inconsistently; soil chemistry fluctuates; Suri Park eats berries (Day 13), seizes, Haruki saves her; Cole realizes viability data is incomplete snapshot |
 | 05 | Month 1 | 44 | Three deaths (spores, structural, fall); Cole's logistics briefing |
 | 06 | Month 2 | 44 | Ghost colony discovered; Elena Vasik's logs; redacted appendix |
 | 07 | Months 3-4 | 42 | Factions; Polk's signal array; two deaths (exhaustion/accident) |
@@ -211,3 +211,5 @@
 | Haruki Sato death | Cardiac failure | Ch 27 | Haruki collapses on the evening of Day 1,826, hours after clause invocation. Cole sits with him as he dies giving medical instructions. He gets to know they won. The steady doctor who saves everyone can't save himself. Brings count from 24 to 23. |
 | Joss Carver death | Seismic event → shelter retrieval → survival → infection/complications | Ch 26-27 | Cole's choice. Joss volunteers to retrieve critical supplies from a destabilized shelter during seismic crisis. Cole could do it, doesn't. Shelter collapses. Joss survives but badly injured. Cole watches him survive past Day 1,826. Within days of invocation, Joss dies from infection or complications from his injuries. Cole realizes he stayed for a daughter he couldn't save and lost a son he could have. The death Cole *chose*, extended. Final count: 22 alive after both deaths. |
 | Viability report — fauna omission | Report says nothing about fauna; Cole discovers creatures observing from tree line on first night | Ch 3 | Established that Asterlyne's viability data omitted fauna entirely. Fauna behavior escalates in Ch 10 (bolder during second cycle) and Ch 11 (creep context). The omission pattern mirrors the viability score inflation (Ch 2) and the redacted appendix (Ch 6) — Asterlyne's data is incomplete by design. |
+| Rationing tiers | Three tiers: full (physical labor), reduced (technical/admin), baseline (everyone else) | Ch 4 | Track whether these tiers are referenced or adjusted in Ch 5-10. Second cycle (Ch 10) introduces "full rationing" — must feel like an escalation from Ch 4's tiered system, not a repeat. |
+| Perimeter protocols | Markers, buddy system for scouting, 4-hour check-ins, no one beyond markers after dark | Ch 4 | Ch 5's first death (Marcus) walks beyond perimeter at dusk — this violates the protocols established here. The violation should register as meaningful, not as if the protocols didn't exist. |

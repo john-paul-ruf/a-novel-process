@@ -2,115 +2,119 @@
 
 By day four, the colony had stopped thinking of the planet as an antagonist and started thinking of it as a puzzle. By day seven, the distinction didn't matter anymore. Both puzzles and antagonists could kill you if you didn't pay attention.
 
-Cole spent most of the early days in the agricultural section with Dana, watching her take samples. The soil had a consistency problem—it looked uniform to the naked eye, lavender-gray, stable, but the chemistry was doing something underneath the surface. The particle distribution shifted hour to hour. The pH wandered. The mineral content would test at one concentration in the morning, spike by afternoon, settle by evening into something entirely different than either of the previous readings.
+Cole spent the first week building systems. It was what he knew — logistics, flow, allocation, redundancy. Warehouse management on an alien world. The same principles applied: figure out what you have, figure out what you'd burn through, calculate how long before the gap between supply and need started killing people.
 
-"It's not random," Dana said, more to the soil than to Cole. She had three samples lined up in analysis trays, running the same tests repeatedly. Same soil. Different results. She was quiet-focused in the way that suggested she was already modeling it in her head. Already building the mathematics of how the planet worked.
+Water collection came first. The diurnal temperature shifts were steeper than the survey data had suggested — Ren had measured a twenty-degree Celsius swing in twelve hours, double what the viability index predicted. Cole built a schedule around it: collection during the stable morning window, containers sealed by mid-afternoon when atmospheric particles became more active in the cooling hours. Two people per station. Four-hour rotations. Clear protocols for filter type, storage method, contamination prevention.
 
-Cole let her work and moved through the settlement, beginning the other work.
+Food rationing came second. The seed stock had gone into the lavender soil on day two, and by day five, the results were wrong in a way that didn't have an obvious explanation. Some rows took root and sprouted. Others, planted in identical soil ten meters apart, didn't germinate at all. A third set germinated, grew for two days, then wilted overnight like someone had switched them off. Dana Wen was spending twelve hours a day in the agricultural section, running the same tests on the same soil and getting different results every time. She hadn't explained the inconsistency yet, but the intensity of her focus said she was closing in. Until she did, Cole set three rationing tiers: full allocation for physical labor crews, reduced for technical and administrative, baseline for everyone else. Nobody liked the tiers. That was fine. Liking wasn't the point.
 
-By day three, he'd established a water collection schedule, built around the diurnal temperature fluctuations that he'd discovered (through Ren) weren't as gradual as the survey data had suggested. The containers needed to be sealed at specific times to prevent contamination from whatever atmospheric particles became more active in the cooling hours. He assigned two people per station. Rotation every four hours. Clear water collection protocols: filter type, storage method, contamination prevention.
+Shelter maintenance rotation came third. The pre-fab composite was warping under the UV cycle — Ren showed him the measurements, the thermal stress patterns that exceeded the rated delta every night. Cosmetic damage so far, but structural failure was trending toward month two. She'd drawn up a reinforcement plan that required redirecting labor from agricultural setup, which meant food production would slide, which meant rationing would tighten ahead of schedule. Everything connected. Pull one thread and three others moved.
 
-By day five, Garrett Polk had stopped following the protocols.
+Perimeter protocols came last, because Cole hadn't figured out what they were protecting against yet. The fauna in the tree line hadn't approached since the first night. The spore activity Haruki had flagged was nighttime-specific. The instability in the soil chemistry was slow, not acute. So Cole set basic rules: nobody beyond the markers after dark, buddy system for scouting parties, mandatory check-ins every four hours.
 
-Cole found him at the eastern water station, filling containers without the pre-filter, which made sense from a time-efficiency perspective and no sense from a safety perspective. When Cole asked about it, Polk didn't argue or explain. Just looked at Cole with a specific expression—the one that said: *I know this is irrational but I'm doing it anyway because your rationality is starting to feel like a prison.*
+Systems. Structure. The mathematics of not dying.
 
-"We need the filters," Cole said.
+The colonists hated it.
 
-"We need the water," Polk countered. "Your filters are slowing us down."
+Not all of them. Some understood — the ones with technical backgrounds, the ones who'd read enough of the charter to grasp that Parcel 16b wasn't a homestead, it was a five-year survival problem with a contractual threshold. Ren didn't love the hierarchy but she respected the engineering logic. Haruki followed the protocols without comment, which was its own endorsement.
+
+But at least a dozen of them hadn't come here for a shift schedule. They'd come for freedom — for the promise buried in Asterlyne's recruitment materials, the one that whispered: *Leave the systems behind. Start over. Be something other than what the old world made you.* And here was Cole Maren, two weeks on an alien world, already building the same architecture they'd crossed the void to escape.
+
+Garrett Polk led the resistance. Not formally — Polk didn't organize. He just refused, and other people watched him refuse, and refusing became something you could do.
+
+Cole found him at the eastern water station on day five, filling containers without the pre-filter. When Cole pointed it out, Polk didn't argue immediately. He just looked at Cole with something that went past disagreement into a place Cole recognized.
+
+"The filters are slowing us down," Polk said.
 
 "The filters are preventing us from drinking contaminated water."
 
-"We don't know if the water's contaminated. We just think it is. Based on the survey. Which was also wrong."
+"We don't *know* that." Polk set a full container down with the controlled force of a man managing his own hands. "We just think it is. Based on the survey. Same survey that said the shelters would handle the cold. Same survey that said the UV wasn't a problem. Everything they promised us was wrong, but we're still following *their* rules?"
 
-Cole understood the logic. He did. The survey had said the shelter composite would handle the temperature variance. The shelter was warping. The survey had said the UV cycle was benign. It wasn't—the composite was degrading faster than predictions. Everything the survey had promised was proving to be incomplete. So why trust it about water safety?
+"These are my rules," Cole said.
 
-"We trust it because the cost of being wrong is death," Cole said. "We filter until we know better."
+"That's supposed to make me feel better?"
 
-Polk kept filling. Didn't speed up, didn't slow down. Just moved through the task with the kind of deliberate slowness that was itself a refusal. When Cole repeated the instruction, Polk said: "I'm not staying here long enough for contaminated water to kill me. I'm hoping Earth sends a rescue by Year Two. Until then, I'm making this livable, not perfect."
+Cole understood what he was hearing. Polk had built something on Earth — a business, a system, something that should have worked. The numbers had been right and the outcome had been wrong, and Polk had lost everything while following rules someone else wrote. Now Cole was standing in front of him with another set of rules, another set of numbers, another architecture that looked rational and promised survival. Polk wasn't seeing a water protocol. He was seeing a trap dressed up as salvation. The same trap, different planet.
 
-Cole didn't argue further. He documented the deviation and moved on. But he was already noting that Polk would be a problem. Not a malicious one. A human one. The kind of problem that happened when the mathematics of survival encountered the human need to believe that the math could be bent.
+When Cole explained the math behind rationing — the caloric intake calculations, the projected agricultural timeline, the consumption models that kept everyone breathing to the five-year mark — Polk listened. Heard every number. And the logic reinforced everything he already believed: that math was the language people in charge used against people like him. Not because the math was wrong. Because the math was right, and it didn't matter.
 
-The shelter assembly team had the composite warping issue. The panels had been rated for thermal stress up to a certain delta. The delta was being violated nightly. Ren showed him the measurements—the warping was cosmetic so far, not structural, but structural failure was trending toward month two if the rate of degradation continued. Which meant they needed to prioritize shelter reinforcement, which meant redirecting labor from agricultural setup, which meant food production would slide, which meant rationing would start earlier than planned.
+"I'm not staying here long enough for contaminated water to matter," Polk said. His voice had gone flat — not angry anymore, just settled into the conviction that the game was rigged either way. "Hoping Earth sends rescue by Year Two. Until then, I'm making this livable, not perfect."
+
+Cole documented the deviation and moved on. But he'd seen it now. The math didn't persuade Polk. The math was the problem.
+
+---
 
 Cole was still modeling contingencies when Suri Park ate the fruit.
 
-She was a bright one, Suri. Late twenties. The kind of person who asked questions rapidly and then acted on the answers before fully thinking them through. The kind of person who was useful in an exploratory situation and dangerous in an environment where exploration was still a luxury they couldn't afford. On day thirteen, she'd wandered the southern perimeter, mapping the immediate flora, checking what looked edible based on the preliminary agricultural database. She'd found a fruit—berries, actually, clustered on something between a shrub and a low tree. The database showed them as safe. Nutrient profile good. No known toxins.
+She was one of the ones he'd filed as useful-dangerous. Late twenties, compact, curious. The kind of person who asked questions rapidly and then acted on the answers before fully thinking them through. Useful in exploration. Dangerous in an environment where exploration was still a luxury.
 
-So she ate one.
+Day thirteen. She'd walked the southern perimeter, mapping the immediate flora, checking what looked edible against the preliminary agricultural database. Found berries clustered on something between a shrub and a low tree. The database showed them safe. Nutrient profile good. No known toxins.
 
-The reaction came forty minutes later. Suri was back at the settlement by then, already documenting her finds, when her hands started to shake. Not from cold. Not from fear. From something her nervous system was registering as a profound threat. Her pupils dilated. Her breathing accelerated. Within an hour, she was seizing—full tonic-clonic, her body rejecting something that the database said should be fine, her immune system engaging with a compound that Earth medicine said didn't exist.
+The database had been built from a single survey conducted during a single visit.
 
-Haruki got her to the medical shelter. Got her on her side so she wouldn't aspirate. Got a muscle relaxant from the pharmaceutical stock—something that shouldn't have worked on an alien compound, but which seemed to slow the seizure enough to prevent her from breaking bones. Watched her through the worst of it with the kind of steady competence that suggested he'd done this before, on Earth, probably more times than he wanted to remember.
+Suri ate one.
 
-By day fourteen, Suri had stopped seizing and started recovering.
+The reaction came forty minutes later. She was back at the settlement, documenting her finds, when her hands started to shake. Not from cold, not from fear — from something her nervous system was registering as a profound threat. Pupils dilated. Breathing accelerated. Within an hour, she was seizing — full tonic-clonic, her body rejecting a compound that the database said didn't exist, her immune system fighting something Earth medicine had never catalogued.
 
-Cole sat with Haruki in the medical shelter while they waited for her to wake, and the doctor asked a question that was really a statement:
+Haruki got her to the medical shelter. On her side to prevent aspiration. Muscle relaxant from the pharmaceutical stock — shouldn't have worked on an alien compound, but it slowed the seizure enough to keep her from breaking bones. He watched her through the worst of it with the steady hands of a man who had done this before and would do it again.
 
-"The survey didn't include this."
+By day fourteen, Suri had stopped seizing.
 
-It wasn't a question because they both already knew the answer. The survey had identified edible plants. The database was supposed to be comprehensive. Suri had followed protocol. And the planet had changed the rules between the survey date and the present day.
+Cole sat with Haruki while they waited for her to wake.
 
-"How?" Cole asked.
+"She followed protocol," Cole said.
 
-"How what?"
+"She did." Haruki had his hands folded, still. "The database said those berries were safe. It said that based on readings taken during the survey window. Today is not the survey window."
 
-"How does the chemistry change that fast? Plants don't mutate in a season."
+"So the chemistry changed."
 
-Haruki was quiet for a moment. He had steady hands, the kind of hands that belonged to someone who'd made complicated decisions under pressure many times. "Unless the change isn't in the plant. Unless the plant is the same and the planet's seasonal cycle is affecting compound production or expression. Unless—" He stopped. Looked at Cole. "Unless we're reading a still photograph and calling it a map."
+"The chemistry is always changing. On Earth we call it seasonal variation — compound expression shifts with temperature, light exposure, soil chemistry. A plant that's safe in June can be toxic in November." Haruki looked at Suri's sleeping form. "The difference is that on Earth, we've had ten thousand years to learn the calendar. Here, we don't even know the length of a season."
 
-Those were Dana's words. Cole realized that both of them had arrived at the same conclusion from different angles. The planet wasn't static. The data they had was a snapshot. A moment in time. And time on Parcel 16b wasn't moving the way Earth time moved.
+Cole sat with that.
 
-Cole went back to find Dana in the agricultural section. She was exactly where he'd left her, still with the three samples, still running tests. But she'd added a fourth sample now—taken later in the day. Different reading.
+The viability data wasn't wrong. It was incomplete. A single survey had captured a single moment, and they'd been navigating by it as if the planet would hold still. But the planet wasn't holding still. The soil chemistry Dana was tracking, the temperature swings Ren was measuring, the compound variations that had nearly killed Suri — all of it was moving, cycling, shifting on a schedule nobody had mapped.
 
-"It's cyclical," she said without preamble. "Not random. The chemistry is following a rhythm. I think it's tied to orbital mechanics. The planet's position relative to its star is changing the soil chemistry. Slowly, but measurably. The berries Suri ate probably had different compound concentrations than they did when the survey team tested them."
+They'd been reading a still photograph and calling it a map.
 
-"Different how much?"
+He went to find Dana. She was in the agricultural section, three soil samples lined up with a fourth added since morning. Same soil. Different readings.
 
-"Enough to shift from safe to toxic. Enough that I don't know yet what the full cycle is. Enough that I'm going to need to build a model instead of relying on the database."
+"It's not random," she said without looking up. "There's a pattern. I don't know what's driving it yet, but the shifts aren't noise. They're signal."
 
-Cole understood the magnitude of what she was saying. The database was their reference manual. It was supposed to tell them which plants were food and which were poison. If the database's information had a shelf life—if it expired and refreshed on some tidal schedule tied to the planet's orbital mechanics—then nothing they'd brought from Earth was reliable. Every protocol was temporary. Every safety assumption was provisional.
+"The berries Suri ate."
 
-"How long?" Cole asked. "How long until you have a model?"
+"Compound concentrations have shifted since the survey. Enough to cross from safe to toxic."
 
-Dana looked at him. Her face was doing that thing where it stayed still while something underneath it worked very fast. "Ask me in a month. If the pattern holds, I'll have a preliminary calendar. If it doesn't..." She trailed off. Didn't need to finish. They both understood: if the pattern was more complex than a simple orbital cycle, the colony would be guessing until someone got lucky or someone didn't.
+"How long until you can predict the shifts?"
 
-Cole called a settlement-wide meeting that night. Not celebratory, not memorial. A logistics briefing. He told them the count: forty-seven. He told them the situation: the planet's biology was on a schedule they didn't fully understand yet. He told them the protocol: until Dana had a reliable model, no native plants would be consumed without explicit approval from both Dana and Haruki. Everything would be filtered. Everything would be tested. Everything would be assumed dangerous until proven otherwise.
+She looked at him. Her expression was the careful blankness of someone running calculations she wasn't ready to share. "I need more data points. Weeks, maybe. If the pattern holds."
 
-The reaction was mixed. Some colonists nodded like this made sense. Others looked at the pre-fab shelter, at the rations that would get tighter if they couldn't supplement with native food, at the obvious arithmetic that they'd planned this colony assuming they could use the planet's resources. Now that assumption was in question.
+"And if it doesn't."
 
-Ren Tsai stood up. Not confrontational. Just observant.
+Dana went back to her samples.
+
+Cole called the settlement together that evening. Not a formal assembly — people gathered by the common area between shelters where they'd been eating meals. He told them about Suri. Told them the database was unreliable. Told them the new protocol: nothing native consumed without explicit clearance from both Dana and Haruki. Everything filtered. Everything tested. Everything assumed dangerous until proven otherwise.
+
+Polk spoke first. "So the rules change again."
+
+"The planet changed the rules," Cole said. "I'm keeping up."
+
+"You're good at rules, Maren. Bet you were good at them back home too."
+
+Cole let it land. Polk wasn't entirely wrong. Cole did think in systems. He did impose structure. He did believe the mathematics of organization was the margin between survival and entropy. What Polk missed was the assumption that Cole enjoyed it.
+
+Ren stood. Not confrontational. Just clear.
 
 "The survey was supposed to answer these questions," she said.
 
-"It did," Cole said. "It just answered them for a specific moment in time."
+"It did," Cole said. "For a specific moment in time."
 
-"Then we need a new survey."
+"Then we need to build our own answers."
 
-"We are the survey. We're the ones collecting data now."
+That was the cleanest thing anyone had said since landing. Cole let it settle over the group — the idea that they weren't inheritors of someone else's data anymore. They were the survey now. Whatever they learned, they'd learn by living through it.
 
-Polk raised his hand—not asking permission, just flagging that he had something to say. "So we're trapped here with food we can't eat, water we're not sure about, shelters that are falling apart, and a doctor who had to use narcotics on a girl who followed your protocols. How long before the protocols kill us instead of keeping us alive?"
+The gathering broke apart. People went back to shelters, to tasks, to the quiet work of processing that the planet they'd signed up for was not the planet they were on.
 
-It was a fair question. Cole answered it anyway: "As long as we treat the protocols as information-gathering, not dogma. The shelter warping tells us about thermal stress. The fruit poisoning tells us about seasonal chemistry. The water variance tells us about atmospheric dynamics. Everything that breaks is telling us something about how the system works."
-
-"That's pretty philosophical," Polk said. "Don't help when we're dead from drinking the wrong water."
-
-"No," Cole agreed. "It doesn't. Which is why we filter."
-
-The meeting ended without resolution, which was its own kind of resolution. The colonists understood that the planet was more complex than the contracts had promised. That their expertise—even Dana's expertise—might not be sufficient. That Suri Park had followed the rules and nearly died.
-
-But they also understood that the alternative was paralysis. The settlement needed water. The shelter needed reinforcement. The agricultural system needed to be built even if what grew there was suspect. The only path forward was through the uncertainty.
-
-By day twenty, the shelter reinforcement was underway. By day thirty, Dana had the preliminary framework of the soil cycle modeled. By day forty, Polk had stopped complaining about the protocols and started helping enforce them. Not because he'd agreed with Cole. Just because he'd accepted that disagreement and death weren't compatible options, and the protocols kept them breathing longer than non-compliance did.
-
-Suri Park recovered fully. The seizure didn't leave permanent damage. But it did leave a mark—the kind of mark that came from understanding that the planet was smarter than they were, faster than they were, and that every day they stayed here, they were operating on information that was becoming more outdated than the previous day's information.
-
-Cole stood at the settlement perimeter one evening as the temperature began its sharp drop, and he counted. Forty-seven. He needed twenty-four. The margin was twenty-three. By the math, it was enough. But the margin was narrowing not because people were dying but because the planet kept revealing rules they didn't know existed.
-
-He'd been trained to account for unknown unknowns. To build models that assumed the data would be incomplete. But this was different. This was a system that changed its rules on a schedule. This was a puzzle that was solving itself in real time and leaving them to catch up.
-
-Cole pulled up the astronomical data on his tablet. Searched for the planet's orbital period. Found it: 847 Earth days. The cycle was longer than the survey observation window. Which meant the survey team had captured maybe a quarter of the seasonal variation. Which meant three-quarters of what they didn't know was still waiting for them in the future months.
-
-He closed the data and looked at the forest. The trees hummed, same as always. The sky was shifting toward green. The soil under his boots was spring, responsive, alive in a way that nothing on Earth was alive.
+Cole stood at the perimeter as the temperature began its drop. The forest hummed. The soil under his boots was springy, responsive — alive in ways he couldn't see and was only beginning to measure.
 
 The planet had rules.
 
