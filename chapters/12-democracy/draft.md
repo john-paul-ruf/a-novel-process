@@ -100,20 +100,3 @@ Cole looked at her. "That assumes the builders solved the same problems we're tr
 
 Cole didn't argue further. Ren understood that as agreement — Cole was too practical to ignore a potential resource, even if his instinct was to minimize distraction. She'd push the research forward, and Cole would allocate people to it, and they'd find out what the channels meant. Or they wouldn't. But at least they'd look before the planet decided they weren't worth the space.
 
----
-
-**Author Notes — Chapter 12**
-
-**Voice Decisions:**
-Ren's POV provides the external perspective that Cole's interiority lacks. She sees the relocation as both necessary and fragile — the work is brutally practical, but it's also preparation for a failure Cole already knows is coming. The chapter's tone is darker than 11 because Ren's observational precision catches the death count without Cole's calculation shield. Thomas Chen, Noor, and James's injuries come without warning because exhaustion and stress don't announce themselves — they just happen. Noor's death — one of the seventeen who voted against relocation — adds political weight to the body count: she died doing the thing she'd voted against.
-
-**Structural Notes:**
-The relocation spans Days 1–6 as a compressed sequence (summary with scene punctuation rather than full scene detail). The chapter moves from action → death → discovery → implication, ending with Ren and Cole recognizing that the architecture changes the problem without changing its fundamental pressure. The vote isn't re-dramatized because Chapter 11 already delivered it; Chapter 12 is about the cost of execution. The creep's failure to follow onto rock substrate provides relief without resolution.
-
-**Continuity:**
-Vote was 21-17 (close, per outline), carried forward from Ch 11. Count moves 38 → 37 (Thomas Chen, cardiac event, Day 1) → 36 (Noor, exposure/hypothermia, Night 3). James's compound fracture and infection risk established (Day 5). Patricia's cough introduced as a future complication (will develop in Ch 16). The ancient channels are now identified as deliberately built, not natural. Creep confirmed as not following to rock substrate. The new site is operational by chapter's end.
-
-**Off-Voice Flags:**
-Cole's dialogue about the channel builders tightened from earlier draft — removed the enumeration ("consumed them or they left or they failed") in favor of a more direct, characteristically terse dismissal ("Channels are interesting. They're not food, shelter, or medicine."). The pragmatic-dreamer tone holds throughout.
-
-**Word count:** ~3,200 words

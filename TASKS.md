@@ -6,10 +6,10 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## AGENTS.md Violations
 
-### TASK-001: Ch 12 draft.md contains Author Notes
+### TASK-001: Ch 12 draft.md contains Author Notes — COMPLETE
 - **File:** `chapters/12-democracy/draft.md`, lines 105-119
 - **Issue:** Author Notes, structural notes, continuity tracking, off-voice flags, and word count are appended directly to the `draft.md` file. AGENTS.md rule states: "RULE: `draft.md` files contain prose only. Never append Author Notes, structural notes, continuity tracking, off-voice flags, word counts, or any meta-commentary to a `draft.md` file."
-- **Fix:** Move lines 105-119 to `chapters/12-democracy/notes.md` (which already exists) and remove them from `draft.md`.
+- **Fix:** ~~Move lines 105-119 to `chapters/12-democracy/notes.md` (which already exists) and remove them from `draft.md`.~~ Done. Author Notes removed from `draft.md`. Content already existed in `notes.md`.
 
 ---
 
@@ -150,7 +150,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 | **Critical** | TASK-002 | Patricia dies twice (Ch 16 and Ch 22) | Needs resolution |
 | **Critical** | TASK-003 | Scene outline "Three die" vs death tracker "Two" in Ch 16 | Needs fix |
 | **Critical** | TASK-004 | Ch 19 lists Patricia as dead prematurely | Needs fix (linked to TASK-002) |
-| **High** | TASK-001 | Ch 12 draft.md contains Author Notes | Needs fix |
+| **High** | TASK-001 | Ch 12 draft.md contains Author Notes | Complete |
 | **High** | TASK-008 | Excessive recursive "and the X was the Y" constructions | Needs revision pass |
 | **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Needs fix |
 | **Medium** | TASK-007 | Three different chapter heading formats | Needs standardization |
