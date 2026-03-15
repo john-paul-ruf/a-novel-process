@@ -200,7 +200,7 @@
 
 **Beat 1:** Vote and debate happened in Ch 11 (21-17, close). Ch 12 opens with Ren feeling the seventeen's resistance in every interaction. She organizes the relocation in six days — speed and structure to prevent the losing side from calcifying into opposition. Agricultural harvest under the creep's shadow. Dana and Ren transplanting together; Dana's pragmatic fatalism ("We're just people carrying what we know to a place that doesn't want it").
 
-**Beat 2:** Thomas Chen dies Day 1 — cardiac event during shelter deconstruction. Thirty-seven. James sustains compound fracture Day 5 during night transport. Infection risk moderate-to-high. Patricia develops cough (future complication, Ch 16). The relocation bleeds the colony through exhaustion and accumulated stress.
+**Beat 2:** Thomas Chen dies Day 1 — cardiac event during shelter deconstruction. Thirty-seven. Noor dies Night 3 — exposure/hypothermia during night transport, temperature drop of eleven degrees in two hours on open terrain (one of the seventeen who voted to stay). Thirty-six. James sustains compound fracture Day 5 during night transport. Infection risk moderate-to-high. Patricia develops cough (future complication, Ch 16). The relocation bleeds the colony through exhaustion and accumulated stress.
 
 **Beat 3:** Day 6 — relocation complete. David's excavation team discovers the channels have structure: carved, not eroded. Mineral deposits arranged geometrically. Ancient infrastructure, not natural formation. Ren and Cole's exchange: "We're not homesteading." "No. We're inheriting." Cole resists the archaeological angle ("It's archaeology, not survival"). Ren pushes research teams.
 

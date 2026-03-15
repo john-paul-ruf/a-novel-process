@@ -32,7 +32,15 @@ Cole sat with Thomas. Ren watched from a distance, not intruding but close enoug
 
 The count was thirty-seven.
 
-Day Two through Five: the physical relocation of structures and supplies. Ren coordinated the transport teams, pacing them to avoid exhaustion-based accidents, rotating roles to prevent muscle strain from becoming injury. She moved between the teams, watching for signs of failure. A colonist named Patricia developed a cough during the water system relocation — not alarming yet, but Ren noted it, marked it as a potential future complication. Another colonist, James, sustained a moderate laceration while deconstructing the medical shelter. Haruki treated it with available antiseptics. Infection was possible. Infection was always possible.
+Day Two and Three: the physical relocation began in earnest. Ren coordinated the transport teams, pacing them to avoid exhaustion-based accidents, rotating roles to prevent muscle strain from becoming injury. She moved between the teams, watching for signs of failure. A colonist named Patricia developed a cough during the water system relocation — not alarming yet, but Ren noted it, marked it as a potential future complication.
+
+On the night of Day Three, the temperature dropped eleven degrees in two hours. They'd learned to expect the swings from the second cycle, but not while moving across open terrain with no shelter overhead. A colonist named Noor — forty-three, electrician, one of the seventeen who'd voted to stay — collapsed during the night transport. Hypothermia compounded by dehydration and three days of physical labor on reduced rations. Haruki found her unresponsive behind the carrying line. He worked on her for forty minutes in the dark while the transport team stood around him holding crates they couldn't set down on open ground. She didn't come back.
+
+Thirty-six.
+
+Ren redistributed Noor's transport load, adjusted the schedule to include mandatory thermal checks every hour, and kept the teams moving. There was no time to stop and no shelter to stop in — they were between settlements, exposed, carrying everything they owned across four kilometers of terrain that belonged to something other than them. The seventeen who'd voted to stay said nothing. Noor had died doing the thing she'd voted against, and the math of that was worse than the cold.
+
+Day Four and Five: the transport continued. Ren watched the remaining colonists for signs of breakdown — physical or otherwise — and saw both. People moved slower. Spoke less. The relocation was bleeding them through accumulated stress the way the creep bled the forest through patience.
 
 On Day Five, during a night transport run, one of the carrying teams encountered terrain they'd misjudged. The equipment manifest listed seventeen items as critical — medical supplies, water filtration components, seed stock for crops. James was carrying one of the backup water filtration units, walking a path that had seemed navigable in daylight but had transformed into something treacherous in the darkness. His foot caught. His balance failed. He fell, and the filtration unit fell with him, and his right leg bent in a way that legs shouldn't bend.
 
@@ -72,9 +80,11 @@ Cole stood and walked to the shelter entrance, looking out at the new settlement
 
 "No. We're inheriting."
 
-Cole nodded like that was a calculation that fit into some equation he'd been running. Maybe it did. Maybe it changed everything about the math, or maybe it didn't change anything. Maybe either way, there were thirty-seven colonists alive and one who was probably going to be dead within a week if the infection took James the way infections took people when medicine was scarce and the environment was hostile.
+Cole nodded like that was a calculation that fit into some equation he'd been running. Maybe it did. Maybe it changed everything about the math, or maybe it didn't change anything. Maybe either way, there were thirty-six colonists alive and one whose compound fracture was already incubating the kind of infection Haruki couldn't guarantee he could manage.
 
-Ren thought about Thomas Chen's cardiac event, about Patricia's developing cough, about James's compound fracture and the infection that was almost certainly incubating in the dirty puncture wound, about the thirty-eight who'd become thirty-seven in the space of a day, about the system this planet had built for its own renewal and the people they'd buried in its soil trying to establish a foothold.
+The creep hadn't followed them up. Ren had walked the eastern perimeter that morning — the rock substrate was clean. Whatever the fungal network needed, it wasn't here. The higher ground was defensible not because they'd outrun the thing, but because the planet's own decomposition system stopped where there was nothing left to decompose. One problem solved by geography. The rest unsolvable by anything except time.
+
+Ren thought about Thomas Chen's cardiac event on Day One, about Noor cooling on open ground while the transport team stood in the dark holding crates they couldn't set down, about Patricia's cough, about James's leg and the infection already building in the dirty wound, about the thirty-eight who'd become thirty-six in six days, about the system this planet had built for its own renewal and the people they'd buried in its soil trying to establish a foothold.
 
 She thought about democracy and whether it meant anything when the margin was four votes and everyone was already dying.
 
@@ -84,9 +94,9 @@ Cole looked at her. "That assumes the builders solved the same problems we're tr
 
 "They lived here. They built. They survived something. If they didn't, this infrastructure wouldn't exist."
 
-"They're gone," Cole said. "Whatever they were, they're not here anymore. The planet consumed them or they left or they failed so comprehensively that the planet took back the land and nobody remembers them. We have thirty-seven people and a creep advancing at one centimeter an hour and equipment that's already failing and a planet that changes the rules every orbital cycle. Finding out what someone else built five hundred years ago isn't survival, Ren. It's archaeology."
+"They're gone," Cole said. "Whatever they were, they're not here. We have thirty-six people and a planet that changes the rules every orbital cycle. Channels are interesting. They're not food, shelter, or medicine."
 
-"It's both," Ren said. "We survive by understanding the system we're in. That system includes ancient infrastructure. We study it. We learn. We use what's useful."
+"They might be all three," Ren said. "We survive by understanding the system we're in. That system includes infrastructure someone else built. We study it. We learn. We use what's useful."
 
 Cole didn't argue further. Ren understood that as agreement — Cole was too practical to ignore a potential resource, even if his instinct was to minimize distraction. She'd push the research forward, and Cole would allocate people to it, and they'd find out what the channels meant. Or they wouldn't. But at least they'd look before the planet decided they weren't worth the space.
 
@@ -95,15 +105,15 @@ Cole didn't argue further. Ren understood that as agreement — Cole was too pra
 **Author Notes — Chapter 12**
 
 **Voice Decisions:**
-Ren's POV provides the external perspective that Cole's interiority lacks. She sees the relocation as both necessary and fragile — the work is brutally practical, but it's also preparation for a failure Cole already knows is coming. The chapter's tone is darker than 11 because Ren's observational precision catches the death count without Cole's calculation shield. Thomas Chen and James's injuries come without warning because exhaustion and stress don't announce themselves — they just happen.
+Ren's POV provides the external perspective that Cole's interiority lacks. She sees the relocation as both necessary and fragile — the work is brutally practical, but it's also preparation for a failure Cole already knows is coming. The chapter's tone is darker than 11 because Ren's observational precision catches the death count without Cole's calculation shield. Thomas Chen, Noor, and James's injuries come without warning because exhaustion and stress don't announce themselves — they just happen. Noor's death — one of the seventeen who voted against relocation — adds political weight to the body count: she died doing the thing she'd voted against.
 
 **Structural Notes:**
-The relocation spans Days 1–6 as a kind of compressed sequence (summary with scene punctuation rather than full scene detail). The chapter moves from action → discovery → implication, ending with Ren and Cole recognizing that the architecture changes the problem without changing its fundamental pressure. The vote isn't re-dramatized because Chapter 11 already delivered it; Chapter 12 is about the cost of execution.
+The relocation spans Days 1–6 as a compressed sequence (summary with scene punctuation rather than full scene detail). The chapter moves from action → death → discovery → implication, ending with Ren and Cole recognizing that the architecture changes the problem without changing its fundamental pressure. The vote isn't re-dramatized because Chapter 11 already delivered it; Chapter 12 is about the cost of execution. The creep's failure to follow onto rock substrate provides relief without resolution.
 
 **Continuity:**
-Vote was 21-17 (close, per outline), carried forward from Ch 11. Count moves 38 → 37 (Thomas Chen) + James's injury and infection risk established. The ancient channels are now identified as deliberately built, not natural. This complicates the settlement's understanding of the planet — they're not discovering an empty world, they're moving into occupied/inherited space. Patricia's cough introduced as a future complication (will develop in Ch 16). The new site is operational by chapter's end.
+Vote was 21-17 (close, per outline), carried forward from Ch 11. Count moves 38 → 37 (Thomas Chen, cardiac event, Day 1) → 36 (Noor, exposure/hypothermia, Night 3). James's compound fracture and infection risk established (Day 5). Patricia's cough introduced as a future complication (will develop in Ch 16). The ancient channels are now identified as deliberately built, not natural. Creep confirmed as not following to rock substrate. The new site is operational by chapter's end.
 
 **Off-Voice Flags:**
-Line about "the planet consumed them or they left or they failed" might be slightly too explanatory. Consider tightening to something more observational (Cole's thought rather than narrative summary). Otherwise, the pragmatic-dreamer tone holds — democracy is questioned not for principle but for practical utility, which aligns with the client's voice profile.
+Cole's dialogue about the channel builders tightened from earlier draft — removed the enumeration ("consumed them or they left or they failed") in favor of a more direct, characteristically terse dismissal ("Channels are interesting. They're not food, shelter, or medicine."). The pragmatic-dreamer tone holds throughout.
 
-**Word count:** ~2,500 words
+**Word count:** ~3,200 words
