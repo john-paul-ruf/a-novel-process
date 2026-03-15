@@ -36,7 +36,7 @@
 
 **Beat 2:** Cole shares a meal with Ren. She asks what he did on Earth. "Logistics." She says, "So you count things." He says, "I keep things from running out." She asks why he signed. He deflects. She doesn't push. But she reads his deflection accurately.
 
-**Beat 3:** Garrett Polk, a loud ex-contractor, is already building a following among colonists who see the charter as a fresh start, not a contract. He talks about freedom. Cole notices he hasn't read the contract.
+**Beat 3:** Garrett Polk, a loud ex-contractor, is already building a following among colonists who see the charter as a fresh start, not a contract. He talks about freedom — about leaving behind the people who ground you down, the systems that *look* rational but are rigged to fail you if you're not connected. Cole hears the specific bitterness underneath the rhetoric. During a meal, Cole watches Polk calculate something on a napkin — comparing charter escape vs. Earth debt obligations. When Polk realizes Cole is watching, he crumples it. Polk says, "You read the whole thing, didn't you?" Cole: "Yes." Polk: "Find any way out of here?" Cole: "No." Polk lights up at that — thinks Cole is resigned, defeated. Doesn't realize Cole's already calculating how to win within the system. Polk clearly hasn't read the contract. Cole notices and doesn't tell him.
 
 **Turn:** The orientation facilitator mentions Parcel 16b's viability score in passing. Cole has memorized it. The number she quotes is twelve points higher than what's in the actual data appendix. The brochure lied.
 
@@ -66,7 +66,7 @@
 
 **Beat 1:** Learning the planet. Earth crops take root in the lavender soil but grow inconsistently. Dana is the first to notice the soil chemistry fluctuates — readings shift from one day to the next. Water sources test clean but mineral content is unstable. The pre-fab shelter composite warps under the UV cycle.
 
-**Beat 2:** Cole builds systems: water collection schedules, food rationing tiers, shelter maintenance rotation, perimeter protocols. He's good at this — it's warehouse management on an alien world. But the colonists resist structure. They signed up for freedom, not a shift schedule. Tension with Garrett Polk's faction, who want less oversight and more autonomy.
+**Beat 2:** Cole builds systems: water collection schedules, food rationing tiers, shelter maintenance rotation, perimeter protocols. He's good at this — it's warehouse management on an alien world. But the colonists resist structure. They signed up for freedom, not a shift schedule. Garrett Polk leads the resistance — argues that Cole is re-creating the hierarchies they came to escape. Polk's anger isn't performative; it's visceral. Cole realizes Polk sees his systems as a trap disguised as salvation (the same way Polk's Earth venture looked rational until it wasn't). When Cole explains the math behind rationing, Polk hears the logic and it reinforces his conviction that logic is a weapon used by people in charge against people like him.
 
 **Beat 3:** Day 14. A colonist named Suri Park eats a native fruit that scanned safe the day before. Today the plant's chemistry has shifted. Suri seizes. Haruki saves her, barely. The planet's rules aren't fixed. Safety is a snapshot of a moving target.
 
@@ -114,7 +114,7 @@
 
 **Beat 1:** First secondary POV. Ren's perspective: she's an engineer, she thinks in systems. She sees what Cole misses — the social architecture is failing. People have stopped eating together. Small groups are hoarding. Trust is eroding faster than the shelters.
 
-**Beat 2:** Garrett Polk's faction is building a separate communication array to signal Earth for rescue — which would void the charter for everyone. Ren confronts Polk. He doesn't care about clause 9.4.2. He never planned to stay five years; he wanted off Earth. The argument escalates. Ren brings it to Cole. Cole's response is cold: if Polk signals, the contract dissolves and Asterlyne sends a retrieval crew that bills the colonists for extraction. They'll be indentured. Worse than Earth.
+**Beat 2:** Garrett Polk's faction is building a separate communication array to signal Earth for rescue — which would void the charter for everyone. Ren confronts Polk. He doesn't care about clause 9.4.2. He never planned to stay five years; he wanted off Earth, but not *here*, not like this. Cole suspects Polk's real motivation: his daughter. Debt erased on Earth means a window of credibility. Polk might get custody back, or at minimum get his kid to speak to him again. The signal array isn't ideological — it's desperate. The argument escalates. Ren brings it to Cole. Cole's response is cold: if Polk signals, the contract dissolves and Asterlyne sends a retrieval crew that bills the colonists for extraction. They'll be indentured. Worse than Earth. Polk hears the math and it lands differently — Cole's calculating his daughter out of reach again.
 
 **Beat 3:** Ren pushes back: "You can't just tell people they're trapped." Cole: "I'm telling them they're free. They just have to survive it." Ren hears the logic and hates that she can't argue with it. She also hears what Cole can't — that freedom imposed by one man's arithmetic isn't freedom at all.
 
@@ -360,11 +360,11 @@
 **When:** Year 3, continued
 **Where:** Settlement, council meeting area
 
-**Beat 1:** The council learns the truth. It goes badly. Garrett Polk erupts — he wanted to signal for rescue from the start, and the company had ears the whole time. Three council members want Dana expelled. Expelled means dead. There's nowhere else to go.
+**Beat 1:** The council learns the truth. It goes badly. Garrett Polk erupts — he wanted to signal for rescue from the start, and the company had ears the whole time. He feels the calculation: his signal was never going to work, and Cole knew it. Three council members want Dana expelled. Expelled means dead. There's nowhere else to go.
 
-**Beat 2:** Ren calls for a full colony-wide vote. Every colonist decides Dana's fate. Cole argues for mercy — not forgiveness, mercy. Not because he's soft but because they're at twenty-six and can't afford to subtract. Ren argues for mercy on principle. Dana stands in front of twenty-five people and says nothing in her defense. She just stands there.
+**Beat 2:** Ren calls for a full colony-wide vote. Every colonist decides Dana's fate. Cole argues for mercy — not forgiveness, mercy. Not because he's soft but because they're at twenty-six and can't afford to subtract. Ren argues for mercy on principle. Dana stands in front of twenty-five people and says nothing in her defense. She just stands there. Garrett watches her stand. Thinks of himself watching his business dissolve. Thinks of the moment he signed papers he hadn't read, believing it was escape, learning too late it was just a different kind of trap. Dana, signed to the creep research, is trapped the same way.
 
-**Beat 3:** The vote is close. Dana stays. Garrett Polk votes to keep her. When asked why, he says, "She's the reason the creep didn't eat us." Trust is shattered, and the colony spends months rebuilding something more fragile than shelters. But Dana stays.
+**Beat 3:** The vote is close. Dana stays. Garrett Polk votes to keep her. When asked why — the formal question, the record — he says, "She's the reason the creep didn't eat us." But his actual reason lives in his head: *I know what it feels like to be locked in by a deal you thought was freedom. I'm not voting to save her. I'm voting to not watch it happen again.* Trust is shattered, and the colony spends months rebuilding something more fragile than shelters. But Dana stays. Garrett never apologizes for the signal array, never acknowledges that his calculation was wrong. But something shifts in him — a small recognition that math, his or Cole's, doesn't protect you from the cost of staying.
 
 **Turn:** Two more deaths that year. A fall during construction. A slow respiratory failure Haruki can't treat. Twenty-four. The threshold. Cole feels it like a door closing behind him.
 
@@ -394,7 +394,7 @@
 
 **Beat 1:** An Asterlyne shuttle breaks atmosphere without warning. No prior communication. It lands at the original settlement coordinates — abandoned, reclaimed by forest. A company representative steps out: clean suit, legal tablet, corporate smile.
 
-**Beat 2:** The offer: renegotiation. Leave now, debts forgiven, transport home, NDA. Cole reads the new contract on the spot. It's a surrender — waiver of all rights under the original charter, including 9.4.2. In exchange: passage back to Earth and silence. The representative is polite and transparent about the subtext: "You have eleven months. A lot can happen in eleven months."
+**Beat 2:** The offer: renegotiation. Leave now, debts forgiven, transport home, NDA. Cole reads the new contract on the spot. It's a surrender — waiver of all rights under the original charter, including 9.4.2. In exchange: passage back to Earth and silence. The representative is polite and transparent about the subtext: "You have eleven months. A lot can happen in eleven months." Garrett Polk hears "debts forgiven" and his chest seizes. That word. The thing he came here to escape, now offered as a way home. He thinks of his daughter — five years older now, possibly old enough to want to see him if the debt erasure means he's not a creditor's target. The math shifts for Polk. Not entirely. But it shifts.
 
 **Beat 3:** Cole asks one question: "How many other charters have invoked 9.4.2?" The representative's smile holds. "You'd be the first."
 
@@ -410,7 +410,7 @@
 
 **Beat 1:** Cole gathers all twenty-four. He doesn't give a speech — he's never been that person. He lays out what he's pieced together over five years: Asterlyne's financials, the resource value of Parcel 16b, the cost of their charter versus projected corporate mining revenue. Their lives, on a balance sheet, are a line item: "Charter Viability Assessment — Human Capital Expenditure."
 
-**Beat 2:** Then he shows them clause 9.4.2. Then he shuts up. The colony talks. It's not unanimous. Two colonists want the deal. They're tired. They're scared. They didn't sign up for a stand. Ren argues. Dana argues. Joss argues. The conversation lasts hours.
+**Beat 2:** Then he shows them clause 9.4.2. Then he shuts up. The colony talks. It's not unanimous. Two colonists want the deal. They're tired. They're scared. They didn't sign up for a stand. Ren argues. Dana argues. Joss argues. Garrett Polk doesn't argue — he sits at the back and does what Cole has never seen him do. He calculates. Visibly. Debt forgiven vs. staying. Daughter on Earth vs. the settlement they've built. He weighs both sides with an engineer's precision, not an ideologue's conviction. When the conversation shifts toward staying, Polk says nothing. But his jaw sets. He's choosing against himself. The conversation lasts hours.
 
 **Beat 3:** In the end, it's not Cole's math that decides. It's the settlement they named, the creep system that works, the food they grow, the dead they buried, the children two colonists are expecting. The colony has become a place, and places are harder to leave than contracts.
 

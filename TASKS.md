@@ -15,17 +15,20 @@
   - **Voice note**: Cole's interiority is the engine. Each named death should live in his head after the fact—he replays it, calculates where it could have gone differently, realizes he can't optimize away loss.
 
 ### 2. Garrett Polk — Give Him Dimensionality Before the Dana Vote
-- **Problem**: "Loud dissenter who wants freedom" is a type, not a person. His vote to keep Dana in Ch 22 is the moment he becomes earned, but readers won't feel it unless he's been earning complexity all along.
-- **Implementation**:
-  - Decide Garrett's core wound before drafting. Some options:
-    - Failed entrepreneur on Earth (signed the charter to escape business collapse/creditors)
-    - Escaped a controlling relationship or community (wants autonomy, reads systems as cages)
-    - Someone who lost people and signed up to escape grief
-    - Worked for a corporation that betrayed him (makes his Asterlyne skepticism personal, not ideological)
-  - Plant this wound early (Ch 2, Ch 4). One small moment where his "freedom" rhetoric cracks and shows the thing underneath.
-  - Show his intelligence *before* the Dana vote—he should catch something in a meeting, question Cole's logic, be right about something. The reader needs to respect his mind even when disagreeing with his politics.
-  - His Dana vote isn't a conversion moment. It's recognition: he sees himself in her (someone trapped by a bad deal), and practicality overrides grudge. That moment only works if readers have seen both his stubbornness *and* his capacity for empathy.
-  - **Voice note**: Garrett's dialogue should be sparse but reveal thinking. Not "loud" as a speech pattern, but as confidence. He doesn't hedge. When he's wrong, it comes off as certainty. When he shifts, it's not announced—it's shown through what he does and doesn't say.
+✅ **COMPLETE**
+
+**Wound locked**: Failed construction co-op on Earth. Numbers worked. System didn't. Lost custody of his daughter to debt and legal fees. Signed charter to escape.
+
+**Character arc**: Man running from math → man who learns math doesn't protect you → man who votes to break the system's logic anyway.
+
+**Key scenes**:
+- Ch 2: Wound planted (napkin calculation of debt vs. charter, Cole watching)
+- Ch 4: Deepened (Cole's systems trigger his trauma; equations read as weapons)
+- Ch 7: Signal array desperation (real motivation: debt erasure = daughter back)
+- Ch 22: Dana vote (sees himself in her; refuses to watch the trap spring twice)
+- Ch 24-25: Shuttle temptation ("debts forgiven" genuinely tempts; chooses against himself)
+
+**Updated in**: story-bible.md (full character entry), scene-outline.md (Ch 2, 4, 7, 22, 24-25 beats), continuity flags (daughter age tracking)
 
 ### 3. The Shuttle Sequence — Real Temptation, Not Neat Capitulation
 - **Problem**: "Nobody boards" could feel like validation. Instead, it needs to feel like a choice made *despite* genuine, bone-deep exhaustion. The reader should sit with the possibility that the colony fractures at the finish line.

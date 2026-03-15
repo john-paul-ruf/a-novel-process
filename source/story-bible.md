@@ -44,11 +44,13 @@
 - First appearance: Ch 2
 
 **Garrett Polk**
-- Physical description: 45. Broad, ex-contractor's build. Loud face — expressions carry across a room. Sunburned permanently.
+- Physical description: 45. Broad, ex-contractor's build. Hands that show years of work and holding on. Loud face — expressions carry across a room. Sunburned permanently.
 - Age: 45 (start), 50 (end)
-- Speech patterns: Loud, declarative. Talks about freedom without defining it. Interrupts. Gets folksy when he wants something. Smarter than he performs.
-- Arc: Antagonist → reluctant participant → surprising vote for mercy. Starts as the colony's loudest dissenter. Nearly destroys the charter with a rescue signal. Gets neutralized by Ren's compromise. Surprises everyone by voting to keep Dana — pragmatism over grudge.
+- Speech patterns: Confident, declarative. Talks about freedom as if it's a thing you can hold in your hands. Interrupts. Gets folksy when he wants something. Smarter than he performs — catches gaps in logic that others miss. When wrong, sounds certain. When shifting position, it happens silently.
+- Wound: Failed entrepreneur on Earth. Ran something idealistic — a construction co-op, shared labor model. Did the math right. The numbers worked. The system didn't. Lost the business, his savings, custody of his daughter when he couldn't afford attorney fees to fight it. Debt collectors, creditors, people who pitied him. Signed the charter to escape all of it — geography as surrender.
+- Arc: Man running from math → man who learns the math doesn't protect you anyway → man who votes to break the system's logic anyway. Starts as colony's loudest dissenter because systems have burned him. His "freedom" rhetoric is personal, not ideological. Distrusts Cole's equations viscerally — they look exactly like the ones that failed him. Nearly sabotages the charter with a rescue signal (desperate act, not conviction). Gets neutralized by Ren's compromise but never stops calculating the odds. His Dana vote isn't mercy or pragmatism — it's refusal to watch another person crushed by signed paper. The final act of defiance against a logic he learned too late you can't optimize away from.
 - First appearance: Ch 2
+- Key scenes: Ch 2 (wound planted), Ch 4 (resists systems), Ch 7 (signal array desperation), Ch 22 (Dana vote), Ch 24-25 (shuttle temptation)
 
 **Elena Vasik** *(voice only — expedition logs)*
 - Physical description: N/A (described only through writing voice)
@@ -197,3 +199,4 @@
 | Expecting children | Mentioned Ch 25 | Ch 25 | Two colonists pregnant — adds stakes but also means population question for clause. Children born on Parcel 16b aren't "original signatories." |
 | Transit time | 3 months Earth to Parcel 16b | Ch 2 | Messages to Lily have transmission delay. Shuttle in Ch 24 implies 3-month minimum travel. |
 | Comm relay | Asterlyne-controlled | Ch 15 | Messages to Lily route through this. If Asterlyne wanted to block messages, they could. Why don't they? (Possible: they read them. They're another data source.) |
+| Garrett's daughter | Age unspecified at landing; 5 years older by Ch 24 | Ch 2, Ch 7, Ch 24 | Custody lost pre-charter due to debt/affording legal fees. Her existence drives Garrett's signal array desperation (Ch 7) and makes the shuttle offer's "debts forgiven" genuinely tempting (Ch 24). Must be specific about her age to track custody timeline. Suggest she's ~12-15 at landing, ~17-20 by end. |
