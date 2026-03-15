@@ -90,8 +90,8 @@
 | 08 | Months 5–6 | 39 | Dana's soil breakthrough; three deaths (disease, exposure, antibiotic-resistant infection); planet's biology defeats Earth medicine |
 | 09 | Month 6 | 39 | Colony stabilized; first message to Lily; second cycle begins |
 | 10 | Month 7 | 39 | Second cycle — crops fail, fauna bold; rationing |
-| 11 | Months 8-9 | 38 | Creep appears; first creep death |
-| 12 | Month 10 | 36 | Democracy vote; relocation; three deaths; ancient channels found |
+| 11 | Months 8-9 | 38 | Creep appears; first creep death (Marcus Reeves); relocation vote called |
+| 12 | Month 10 | 36 | Relocation execution; Thomas Chen cardiac event (Day 1); James compound fracture; relocated settlement established at channels; ancient channels identified as deliberately built |
 | 13 | Months 11-12 | 35 | Channel network studied; planet's cyclical nature understood; Suri Park dies during exploration (mineralized creep activates) |
 | 14 | Months 13-14 | 35 | Dana POV; Asterlyne questions shift to targeting |
 | 15 | Months 15–16 | 34 | Supply drops stop; colonist walks into forest (psychological fracture); no arbitration recourse |
@@ -199,7 +199,8 @@
 | Dana's debt | 60,000 credits, medical | Ch 14 | Don't inflate/deflate in later references |
 | Supply drop schedule | Quarterly Year 1, semi-annual Year 2 | Ch 15 | Last drop occurs when? Track against timeline |
 | Soil cycle | Tied to orbital position | Ch 8 | Must be consistent with second cycle timing in Ch 9-10 |
-| Settlement relocation | Ch 12 — moved to higher ground | Ch 12 | All subsequent chapters must reference new location, not original |
+| Settlement relocation | Ch 12 — moved to higher ground, channels site | Ch 12 | All subsequent chapters must reference new location (Holdfast), not original. Settlement established on rock substrate at ancient channel site. |
+| James's compound fracture | Ch 12 — night transport, Day 5 of relocation | Ch 12 | Infection risk moderate-to-high. Will deteriorate in Ch 16-17 during fever sequence. Track infection timeline. |
 | Colony named | Ch 23 — "Holdfast" chosen by colony vote | Ch 23 | Must appear naturally in dialogue/navigation from Ch 24 onward. No announcement. Weave into speech the way colonists would use it: "heading to Holdfast," "if the channels hold," "we're holding fast." The name does the work. |
 | Expecting children | Ch 25 (question) → Ch 26 (echo) → Ch 27 (gap) | Ch 25-27 | Two colonists pregnant; question raised in Ch 25 about timing and clause implications. Referenced in Ch 26 during seismic crisis (realities colliding). Absence/loss addressed in Ch 27 — what happened, what was gained, what was still lost. Adds stakes to population question: children born on Parcel 16b aren't "original signatories"; their presence complicates the math Cole has been running. |
 | Transit time | 3 months Earth to Parcel 16b | Ch 2 | Messages to Lily have transmission delay. Shuttle in Ch 24 implies 3-month minimum travel. |
