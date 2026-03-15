@@ -180,13 +180,15 @@
 **When:** Months 8–9
 **Where:** Settlement perimeter, forest edge
 
-**Beat 1:** The fungal network appears. Colonists call it "creep" — a slow-moving biological mat that dissolves organic material on contact. It emerges at the forest edge and advances toward the settlement. Silent. Patient. A centimeter an hour.
+**Beat 1:** The fungal network appears Month 8, Day 3. Dana names it "creep" — a slow-moving biological mat that dissolves organic material on contact. It emerges at the forest edge and advances toward the settlement. Silent. Patient. A centimeter an hour. Cole recognizes it from Elena's Month 15 entry (already read in Ch 10). Re-reads Year One Month 9 and 11 entries on the creep with new weight. Opens Year Two past Month 15 — finds Month 16: Elena's colony relocating, running out of room.
 
-**Beat 2:** Elena's logs describe it. Her colony tried fire — it spread faster. Tried chemicals — worked temporarily, then the creep adapted. Cole reads this with controlled dread. Dana begins studying the creep's biology. Theory: it's not aggressive. It's the planet's decomposition system, accelerated during the second orbital cycle. The creep is cleaning up. The settlement is in its path because they built where organic material was richest.
+**Beat 2:** Dana studies the creep's biology — it's the planet's decomposition system, accelerated during second orbital cycle. Creep is cleaning up; the settlement is in its path because they built where organic material was richest. Dana's cross-section analysis: surface layer aggressive, deep layers crystalline and mineralized — the creep is sequestering, building something. Polk wants to burn it; Cole vetoes (Elena's fire data). Polk confronts Cole outside council: "You've got a plan... either share the math or stop pretending this is a democracy."
 
-**Beat 3:** First creep death. A colonist in a perimeter shelter — the creep grew through the wall overnight. Not an attack. Just expansion. The body is dissolved below the waist. Haruki doesn't let anyone else see it. Thirty-eight.
+**Beat 3:** First creep death (Marcus Reeves, Month 9, Day 2). Creep grew through perimeter shelter wall overnight. Not an attack. Just expansion. Body dissolved below the waist. Haruki's mercy is clinical economy — one sentence: "He was unconscious before the significant dissolution." Cole and Haruki process the body alone. Colony's reaction is different from prior deaths — not human-scaled. People stop sleeping near perimeter. Thirty-eight.
 
-**Turn:** Cole maps the creep's advance rate against the settlement footprint. At current speed, they have eleven weeks before it reaches the core shelters. Elena's colony never solved this. Cole has to.
+**Beat 4:** Cole maps the creep's advance rate against the settlement footprint using Ren's time-marked photographs. Eleven weeks to core shelters at current speed; six weeks if it accelerates per Elena's data. Agricultural zone in the path: seventy days. Elena relocated three times, never solved it, ended with six people. Cole confronts the fact that Elena was competent and it wasn't enough. Identifies higher ground east from geological survey data (viability report topographic mapping) — rock substrate, mineral-rich, less organic material for the creep. Cole brings plan to Ren. Ren insists on a vote. Cole resists ("A vote takes time we don't have"). Ren: "Then what are we surviving for?"
+
+**Turn:** The vote is close — twenty-one to seventeen, Ren abstaining. Cole was right about the strategy. Ren was right about the method. Polk votes to move ("I'm done watching this place take pieces of us"). Cole stands in the dark afterward, thinking about Elena's three relocations, and the fact that she was smarter than him and it hadn't been enough.
 
 ---
 
@@ -196,13 +198,13 @@
 **When:** Month 10
 **Where:** Settlement — council chamber, relocation site
 
-**Beat 1:** The creep forces a choice. Cole wants to relocate the entire settlement to higher ground — rock substrate, away from the creep's organic-soil path. Half the colony refuses. They've built here. Planted here. They can't start over. Ren sees the impasse and calls for a full vote.
+**Beat 1:** Vote and debate happened in Ch 11 (21-17, close). Ch 12 opens with Ren feeling the seventeen's resistance in every interaction. She organizes the relocation in six days — speed and structure to prevent the losing side from calcifying into opposition. Agricultural harvest under the creep's shadow. Dana and Ren transplanting together; Dana's pragmatic fatalism ("We're just people carrying what we know to a place that doesn't want it").
 
-**Beat 2:** Cole resists the vote. He doesn't trust democracy under survival pressure — people vote for comfort over survival. Ren: "Then what are we surviving for?" The vote happens. Close. They relocate. Cole was right about the strategy. Ren was right about the method.
+**Beat 2:** Thomas Chen dies Day 1 — cardiac event during shelter deconstruction. Thirty-seven. James sustains compound fracture Day 5 during night transport. Infection risk moderate-to-high. Patricia develops cough (future complication, Ch 16). The relocation bleeds the colony through exhaustion and accumulated stress.
 
-**Beat 3:** Relocation is brutal. Three deaths — exposure, a cardiac event Haruki suspects was stress-induced, an accident during a night move. Thirty-six. But the new site holds. The creep doesn't follow.
+**Beat 3:** Day 6 — relocation complete. David's excavation team discovers the channels have structure: carved, not eroded. Mineral deposits arranged geometrically. Ancient infrastructure, not natural formation. Ren and Cole's exchange: "We're not homesteading." "No. We're inheriting." Cole resists the archaeological angle ("It's archaeology, not survival"). Ren pushes research teams.
 
-**Turn:** During site clearing at the new location, a colonist's excavation hits bedrock that isn't natural. Channels carved into stone, filled with a crystallized substance. Something built this. Something that isn't human and isn't from the previous expedition.
+**Turn:** The colony has moved to inherited ground. The channels are architecture from something that lived here before. The creep doesn't follow to the rock substrate. But the seventeen's resistance lingers, and the discovery complicates ownership — they're not pioneers, they're inheritors.
 
 ---
 

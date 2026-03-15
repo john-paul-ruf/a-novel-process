@@ -1,16 +1,14 @@
 # Chapter 12 — Democracy
 
-The vote was unanimous because Cole had already done the math on what was inevitable, and the colonists had learned to read his silences well enough to understand the subtext: stay and die when the creep reaches the medical shelter. Move and die harder, faster, possibly sooner. But die.
+The vote had been twenty-one to seventeen, and Ren could feel the seventeen in every interaction for the first forty-eight hours after it passed.
 
-Ren didn't trust the unanimity. She'd pushed for the vote specifically because she didn't trust Cole's mathematics to account for human resistance, and when the resistance evaporated, she recognized it as a sign that the choice had stopped being optional. Hunger did that. Fear did that. The sight of Marcus Reeves's body, carefully processed by Haruki with the dignity of ritual and the finality of erasure, did that.
+She'd pushed for the vote because she didn't trust Cole to relocate thirty-eight people on arithmetic alone. Cole had resisted because he didn't trust fear to produce good decisions. They'd both been right. The vote happened, the margin was four, and now seventeen colonists who'd voted to stay were being asked to dismantle the settlement they'd built with their own hands and carry it four kilometers east because twenty-one people and a fungal network had overruled them.
 
-No one had spoken in the council meeting after Cole called the vote. Polk had said "move." No one else needed to add anything.
+Ren took the close margin as her signal to get detailed. Speed and structure were the only tools that would keep the seventeen from calcifying into permanent opposition.
 
-Ren took it as her sign to get detailed.
+She organized the relocation in six days, which meant planning it backward from Cole's timeline and forward from what seemed physically possible. Thirty-eight colonists, limited equipment, four kilometers of terrain between the old settlement and the new site on the high ground. The northern agricultural zone had to be harvested before the creep reached it. The shelters had to be dismantled and transported or rebuilt. Water systems had to be reestablished. Medical supplies had to be moved with redundancy — can't afford contamination or loss mid-transport.
 
-She organized the relocation in six days, which meant planning it backward from Cole's timeline and forward from what seemed physically possible. Thirty-eight colonists, limited equipment, four kilometers of terrain between the old settlement and the new site at the channels. The northern agricultural zone had to be harvested before the creep reached it. The shelters had to be dismantled and transported or rebuilt. Water systems had to be reestablished. Medical supplies had to be moved with redundancy — can't afford contamination or loss mid-transport.
-
-Ren divided the colony into work teams. She didn't ask permission. She presented the structure to Cole, who nodded, and then she presented it to the colony as fact rather than suggestion. Three people said no. Ren told them that no wasn't available — the vote included the work. One of the three changed her mind when Ren explained that transport teams were rotating, and no one was carrying more than they could manage. The other two stayed quiet after that, which Ren understood as begrudging acceptance.
+Ren divided the colony into work teams. She didn't ask permission. She presented the structure to Cole, who nodded, and then she presented it to the colony as fact rather than suggestion. The seventeen who'd voted to stay didn't refuse to work — that would have meant refusing to survive — but the resistance lived in the small hesitations, the slower pace, the silence where collaboration should have been. Ren watched it and decided the only solution was making the work so immediate and so physical that grievance didn't have room to breathe.
 
 The problem was that knowledge and execution were different objects.
 
@@ -78,7 +76,7 @@ Cole nodded like that was a calculation that fit into some equation he'd been ru
 
 Ren thought about Thomas Chen's cardiac event, about Patricia's developing cough, about James's compound fracture and the infection that was almost certainly incubating in the dirty puncture wound, about the thirty-eight who'd become thirty-seven in the space of a day, about the system this planet had built for its own renewal and the people they'd buried in its soil trying to establish a foothold.
 
-She thought about democracy and whether it meant anything when the vote was unanimous because everyone was already dying.
+She thought about democracy and whether it meant anything when the margin was four votes and everyone was already dying.
 
 "We need to assign research teams," Ren said. "Figure out what the channels were built for. If there's infrastructure, there might be systems we can use. Water management, at minimum."
 
@@ -103,7 +101,7 @@ Ren's POV provides the external perspective that Cole's interiority lacks. She s
 The relocation spans Days 1–6 as a kind of compressed sequence (summary with scene punctuation rather than full scene detail). The chapter moves from action → discovery → implication, ending with Ren and Cole recognizing that the architecture changes the problem without changing its fundamental pressure. The vote isn't re-dramatized because Chapter 11 already delivered it; Chapter 12 is about the cost of execution.
 
 **Continuity:**
-Count moves 37 → 36 (Thomas Chen) + James's injury and infection risk established. The ancient channels are now identified as deliberately built, not natural. This complicates the settlement's understanding of the planet — they're not discovering an empty world, they're moving into occupied/inherited space. Patricia's cough introduced as a future complication (will develop in Ch 16). The new site is operational by chapter's end.
+Vote was 21-17 (close, per outline), carried forward from Ch 11. Count moves 38 → 37 (Thomas Chen) + James's injury and infection risk established. The ancient channels are now identified as deliberately built, not natural. This complicates the settlement's understanding of the planet — they're not discovering an empty world, they're moving into occupied/inherited space. Patricia's cough introduced as a future complication (will develop in Ch 16). The new site is operational by chapter's end.
 
 **Off-Voice Flags:**
 Line about "the planet consumed them or they left or they failed" might be slightly too explanatory. Consider tightening to something more observational (Cole's thought rather than narrative summary). Otherwise, the pragmatic-dreamer tone holds — democracy is questioned not for principle but for practical utility, which aligns with the client's voice profile.

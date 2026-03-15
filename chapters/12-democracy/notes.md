@@ -22,6 +22,7 @@ The ending pivot from relocation logistics to architectural discovery signals a 
 ## Continuity Tracked
 
 - **Count**: 38 → 37 (Thomas Chen, cardiac event, Day 1 of relocation)
+- **Vote**: 21-17 (close, per outline), with Ren abstaining as moderator. Carried forward from Ch 11's contested vote. The seventeen's resistance is felt through small hesitations and silence during relocation work.
 - **James's injury**: Compound fracture, infection risk moderate-to-high. Will be significant factor in future chapters (especially Ch 16-17)
 - **Patricia's cough**: Introduced as early warning sign. Develops into illness in later chapters
 - **Settlement relocation**: Complete by Day 6. Old site stripped, new site at channels operational
