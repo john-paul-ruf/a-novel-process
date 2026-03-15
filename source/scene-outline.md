@@ -16,7 +16,7 @@
 **When:** Day 0 — Earth, signing day
 **Where:** Asterlyne Corp onboarding center
 
-**Beat 1:** Forty-seven people in a corporate waiting room, each desperate in their own way. Cole reads the full 200-page charter while everyone else skims and signs. Asterlyne's onboarding facilitators are polished and vague. The contract is designed to be unread.
+**Beat 1:** Forty-seven people in a corporate waiting room, each desperate in their own way. Cole reads the full 247-page charter — not the 200 pages Asterlyne claimed in recruitment materials — while everyone else skims and signs. Asterlyne's onboarding facilitators are polished and vague. The contract is designed to be unread.
 
 **Beat 2:** Cole finds clause 9.4.2 — the ownership threshold. Fifty-one percent of original signatories alive at the five-year mark, land transfers in perpetuity. He does the math. Twenty-four out of forty-seven. He looks around the room. Starts counting faces.
 

@@ -204,7 +204,7 @@ Patricia died on the evening of Day 16. In the medical shelter, with Haruki sitt
 
 Twenty-four.
 
-Cole felt the number arrive in his body the way he'd felt every number since Day 1 — physical, structural, the architecture of survival settling into a new configuration. But twenty-four was different. Twenty-four was the number he'd calculated in the signing room on Earth, sitting in a corporate waiting room surrounded by forty-seven desperate people, reading a two-hundred-page charter that nobody else had read, finding the clause buried in Section 9, Subsection 4, Paragraph 2, and doing the math. Fifty-one percent of forty-seven. Twenty-four.
+Cole felt the number arrive in his body the way he'd felt every number since Day 1 — physical, structural, the architecture of survival settling into a new configuration. But twenty-four was different. Twenty-four was the number he'd calculated in the signing room on Earth, sitting in a corporate waiting room surrounded by forty-seven desperate people, reading a two-hundred-and-forty-seven-page charter that nobody else had read, finding the clause buried in Section 9, Subsection 4, Paragraph 2, and doing the math. Fifty-one percent of forty-seven. Twenty-four.
 
 The threshold.
 

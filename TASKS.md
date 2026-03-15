@@ -70,21 +70,21 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Scene Outline vs. Draft Discrepancies
 
-### TASK-011: Ch 1 charter length — outline says 200 pages, draft says 247
-- **Files:** `source/scene-outline.md` (Ch 1, Beat 1: "full 200-page charter"), `chapters/01-first-chapter/draft.md` (line 7: "all 247 pages of it, not the 200 they'd claimed")
-- **Issue:** The outline says Cole reads the "full 200-page charter." The draft changes this to 247 pages vs. the 200 claimed in recruitment materials, adding another layer of Asterlyne's dishonesty.
-- **Assessment:** The draft's version is a stronger choice (builds the deception motif). But the outline should be updated to match if this is the canonical version.
-- **Fix:** Update scene outline Ch 1 Beat 1 to reflect 247-page charter vs. 200 claimed.
+### TASK-011: Ch 1 charter length — outline says 200 pages, draft says 247 — COMPLETE
+- **Files:** `source/scene-outline.md` (Ch 1, Beat 1), `chapters/22-the-vote/draft.md` (line 207), `chapters/24-the-shuttle/draft.md` (line 97)
+- **Issue:** The outline said "full 200-page charter." The Ch 1 draft establishes it as 247 pages (not the 200 Asterlyne claimed). Ch 22 and Ch 24 (both Cole's POV) incorrectly referenced "two-hundred-page charter/contract."
+- **Fix:** Done. Updated scene outline Ch 1 Beat 1 to reflect 247-page charter vs. 200 claimed. Fixed Ch 22 and Ch 24 draft references from "two-hundred-page" to "two-hundred-and-forty-seven-page" (Cole's POV — he knows the real number). Left Ch 14 (Dana's POV, line 5) as "two-hundred-page" — Dana may reasonably reference the Asterlyne-advertised figure.
 
 ### TASK-012: Ch 5 death count — outline says 47→44 but draft counts 47→46→45→44
 - **File:** `chapters/05-three/draft.md`
 - **Issue:** Minor: the outline says "Three deaths" and jumps to 44, while the draft carefully counts each death (Lev→46, Priya→45, Vogel→44). This is correct — not an error. The draft properly names and sequences the three deaths.
 - **Status:** Verified correct. No action needed.
 
-### TASK-013: Ch 22 — verify the unnamed "fall during construction" death
+### TASK-013: Ch 22 — verify the unnamed "fall during construction" death — COMPLETE
 - **File:** `chapters/22-the-vote/draft.md`
-- **Issue:** The scene outline describes two deaths in Ch 22: "A fall during construction" and "A slow respiratory failure Haruki can't treat." The draft should name both. Verify the first death (fall) is properly depicted and counted (26→25→24).
-- **Fix:** Verify in full Ch 22 draft (truncated during audit). Ensure both deaths are depicted and the count reaches 24 correctly.
+- **Issue:** The scene outline describes two deaths in Ch 22: "A fall during construction" and "A slow respiratory failure Haruki can't treat."
+- **Verification:** Both deaths are fully depicted and named. Wei (roof reinforcement fall, Month 34 Day 11, dies Day 13) → count to 25. Patricia (chronic respiratory failure, Month 37, dies Day 16) → count to 24. Sequencing 26→25→24 is correct.
+- **Status:** Verified correct. No action needed.
 
 ---
 
@@ -131,11 +131,11 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 | **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Complete |
 | **Medium** | TASK-007 | Three different chapter heading formats | Complete |
 | **Medium** | TASK-010 | Polysyndeton in Ch 27 climax | Complete |
-| **Low** | TASK-011 | Scene outline charter page count outdated | Needs update |
+| **Low** | TASK-011 | Scene outline charter page count outdated | Complete |
 | **Info** | TASK-005 | Ch 27 count 24→23→22 post-invocation | Verified correct |
 | **Info** | TASK-006 | Lily's age "She's nine" in Ch 16 | Complete |
 | **Info** | TASK-012 | Ch 5 death sequencing | Verified correct |
-| **Info** | TASK-013 | Ch 22 unnamed death verification | Needs full-text check |
+| **Info** | TASK-013 | Ch 22 unnamed death verification | Verified correct |
 | **Info** | TASK-014 | "Enough, now" placement | Verified correct |
 | **Info** | TASK-015 | "Holdfast" naming timeline | Verified correct |
 | **Info** | TASK-016 | Elena log pacing | Verified correct |
