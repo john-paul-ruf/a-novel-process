@@ -424,7 +424,7 @@
 **When:** Year 5, months 2–10
 **Where:** Settlement (time compression)
 
-**Beat 1:** The hardest stretch — not because of the planet but because of the waiting. Eleven months of holding at twenty-four. Every cough is a held breath. Every stumble on a trail is a stopped heart. The planet throws one more crisis: a seismic event that damages the water system. Cole rebuilds it. Ren watches him work and sees someone she didn't see five years ago — a man who builds things because building is what he knows how to do for people he can't say "I love you" to.
+**Beat 1:** The hardest stretch — not because of the planet but because of the waiting. Eleven months of holding at twenty-four. Every cough is a held breath. Every stumble on a trail is a stopped heart. The planet throws one more crisis: a seismic event that damages the water system and destabilizes a core shelter. Joss volunteers to retrieve critical supplies stored there — water filters, medical compounds, data cores. Cole could do it. Should do it. Doesn't. Lets Joss go. The shelter collapses. Joss dies. Cole sits in the rubble and realizes he chose the colony math over the boy he was raising. He stayed for a daughter he couldn't save and lost a son he could have. Ren finds him there. She doesn't say anything. Neither does he.
 
 **Beat 2:** A respiratory infection sweeps through — milder than the Year Two fever. Dana has botanical remedies stockpiled. No one dies, but for two weeks the colony lives on a knife edge. Cole doesn't sleep. Haruki forces him to eat.
 
@@ -442,8 +442,8 @@
 
 **Beat 1:** The five-year mark. A Tuesday. Cole wakes before dawn and goes to fix a water filtration line because it needs fixing. The work is routine. His hands know the parts. The spiral-trunked trees hum in the near-distance. He has been on this planet for 1,826 days.
 
-**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-four alive. Clause 9.4.2, invoked. The land is theirs. Cole sits on the ground outside the shed. The dirt of Parcel 16b under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him and breathes.
+**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-three alive. Clause 9.4.2, invoked. The land is theirs. Cole sits on the ground outside the shed. The dirt of Parcel 16b under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and counting the cost, and breathes.
 
 **Beat 3:** Cole goes to the comm station. He writes a message to Lily. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place." He sends it. He goes back to work.
 
-**Turn:** Three days later, Joss Carver throws a celebration. Fermented native fruit that tastes terrible. The whole colony comes. Cole drinks it. It's the best thing he's ever tasted. The trees hum. The planet doesn't care. Twenty-four people are alive on a Tuesday, on land that belongs to them, and that is enough.
+**Turn:** Three days later, there is a celebration. Fermented native fruit that tastes terrible. Joss was supposed to throw this. The colony comes anyway. Cole drinks it. The trees hum. The planet doesn't care. Twenty-three people are alive on a Tuesday, on land that belongs to them, and Cole is learning that enough means nothing when you're counting the ones who are missing. But he sits with the colony anyway. That is something.

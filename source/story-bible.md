@@ -38,9 +38,10 @@
 
 **Joss Carver**
 - Physical description: 22. Gangly, hasn't quite grown into his frame. Red-brown hair, freckled. Moves too fast for his body — bumps into things, drops things, catches them. Eager face.
-- Age: 22 (start), 27 (end)
-- Speech patterns: Talks too much when nervous (which is often). Asks questions. Uses filler words ("like," "I mean"). Over-explains. Matures noticeably — by Year 4, the filler is gone.
-- Arc: Anxious kid → colony builder. Becomes the person Cole parents as a surrogate for Lily. Doesn't replace her — fills the space Cole's fatherhood instincts need. By Year 5, he's the one organizing the colony's first celebration.
+- Age: 22 (start), 27 (death in Ch 26)
+- Speech patterns: Talks too much when nervous (which is often). Asks questions. Uses filler words ("like," "I mean"). Over-explains. Matures noticeably — by Year 4, the filler is gone. By Year 5, the anxiety is still there but it's directed outward, protective.
+- Arc: Anxious kid → colony builder → Cole's surrogate son. Becomes the person Cole parents as a stand-in for Lily. Doesn't replace her — fills the space Cole's fatherhood instincts need. By Year 5, he's the one organizing the colony's first celebration. Dies in Ch 26 during the seismic crisis when he volunteers for a dangerous shelter retrieval. Cole lets him go when he could have gone himself. The death Cole *chose*.
+- Key scenes: Ch 2 (first introduction), Ch 16 (Cole reveals Lily to him during fever), Ch 23 (Joss leads the naming vote), Ch 26 (dies retrieving critical supplies during seismic event)
 - First appearance: Ch 2
 
 **Garrett Polk**
@@ -100,8 +101,8 @@
 | 23 | Year 4 | 24 | No margin; Elena's final log; colony names itself |
 | 24 | Year 5 begins | 24 | Asterlyne shuttle; renegotiation offer |
 | 25 | Year 5 | 24 | Cole shows the colony the math; nobody boards |
-| 26 | Year 5, months 2-10 | 24 | Eleven months of holding; seismic event; infection; "Residents" |
-| 27 | Year 5, Day 1,826 | 24 | Five-year mark; clause invoked; message to Lily; celebration |
+| 26 | Year 5, months 2-10 | 23 | Eleven months of holding; seismic event; Joss dies in shelter retrieval; infection; "Residents" |
+| 27 | Year 5, Day 1,826 | 23 | Five-year mark; clause invoked; message to Lily; celebration in Joss's absence |
 
 ---
 
@@ -201,3 +202,4 @@
 | Comm relay | Asterlyne-controlled | Ch 15 | Messages to Lily route through this. If Asterlyne wanted to block messages, they could. Why don't they? (Possible: they read them. They're another data source.) |
 | Garrett's daughter | Age unspecified at landing; 5 years older by Ch 24 | Ch 2, Ch 7, Ch 24 | Custody lost pre-charter due to debt/affording legal fees. Her existence drives Garrett's signal array desperation (Ch 7) and makes the shuttle offer's "debts forgiven" genuinely tempting (Ch 24). Must be specific about her age to track custody timeline. Suggest she's ~12-15 at landing, ~17-20 by end. |
 | Ch 8 unnamed death | Construction accident → infection → resistant to antibiotics | Ch 8 | Protocol failure. Cole does everything right (wound treated, schedule adjusted). Planet's biology is different. Infection doesn't respond to Earth medicine. Breaks Cole's faith that optimization guarantees survival. Thematic: first crack in the math. |
+| Joss Carver death | Seismic event → shelter retrieval → collapse | Ch 26 | Cole's choice. Joss volunteers to retrieve critical supplies from a destabilized shelter. Cole could do it, doesn't. Shelter collapses. Joss dies. Cole realizes he stayed for a daughter he couldn't save and lost a son he could have. The death Cole *chose*. Final count: 23 alive at Day 1,826. |
