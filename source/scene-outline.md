@@ -132,7 +132,7 @@
 
 **Beat 2:** Cole watches Dana work — quiet, methodical, alone in the dirt. She's the colony's most valuable asset and he doesn't know she's transmitting everything to Asterlyne. Meanwhile, Elena's logs: her colony found the same soil patterns. Month 6 was hopeful for them too. Cole feels the parallel like a hand on his neck.
 
-**Beat 3:** Three more colonists die across months 5-6. Disease, exposure, one suicide — a woman named Cara who left a note that said only "I changed my mind." Thirty-nine remaining.
+**Beat 3:** Three colonists die across months 5-6. Disease, exposure—and one from infection that shouldn't have killed them. A construction accident gets patched by Haruki. Wound is minor. Cole adjusts work schedules. Protocol says they'll recover. The infection sets in anyway, resists the antibiotics, runs a course that Earth medicine says should never happen on a treatable wound. Haruki watches. The planet's biology is just different. Cole realizes he optimized a system where the variables kept changing underneath. Thirty-nine remaining.
 
 **Turn:** Cole finishes Elena's Year One logs. Her final entry: "We're going to make it." He closes the data core. He knows they didn't.
 
