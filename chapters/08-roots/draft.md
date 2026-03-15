@@ -76,7 +76,7 @@ Cole understood what that meant. He went to the medical shelter. Sarah was lying
 
 Cole asked the clinical questions. Haruki answered them. The answers confirmed what Cole was already calculating: the planet's microbiology was different enough from Earth's that the infection was running a course that Earth medicine had no category for. Haruki's training assumed pathogenic response patterns that didn't apply here. The antibiotics were for Earth infections. This wasn't an Earth infection.
 
-Sarah died on Day Four of the fever. Haruki was with her at the end. Cole was in his shelter, doing the only useful thing he could do: adjusting the timeline. Forty-four down to thirty-nine. Removing her from the roster, her work assignments, the rotation schedules. He'd memorized all the ways to make a person into a blank space in a system.
+Sarah died on Day Four of the fever. Haruki was with her at the end. Cole was in his shelter, doing the only useful thing he could do: adjusting the timeline. Forty-two down to thirty-nine. Removing her from the roster, her work assignments, the rotation schedules. He'd memorized all the ways to make a person into a blank space in a system.
 
 Thirty-nine.
 

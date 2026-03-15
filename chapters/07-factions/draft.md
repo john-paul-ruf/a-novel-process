@@ -1,171 +1,201 @@
 # Chapter 07 — "Factions"
 
-The colony was breaking, and Ren could feel it the way a structure engineer feels a hairline fracture in load-bearing concrete—a weakness that hasn't failed yet but will, unless you reinforce it.
+The colony was breaking, and Ren could feel it the way a structural engineer felt load shift in a foundation—not the crack itself, but the settling that came before.
 
-By month three, the social architecture had started to fragment. People weren't doing it consciously. No meetings about it, no formal declarations of allegiance. It was quieter than that. Small groups eating together instead of in rotation. Joss and two others maintaining the water filters while everyone else pretended they didn't need to understand the system. Dana working alone in the soil lab instead of taking backup like the protocols suggested. Garrett Polk and four others—including the ex-construction worker named Marcus and a woman named Trish who'd signed for off-world debt forgiveness—spending entire work shifts away from the central settlement, ostensibly doing perimeter checks but always returning to the same location northwest of the shelters.
+By month three, people had stopped eating together.
 
-Ren was supposed to be managing the shelter reinforcement schedule. Instead, she found herself watching the colony redistribute itself into clusters that didn't trust the center anymore. Didn't trust Cole's systems. Didn't trust the math that said they were going to survive here if they just stopped panicking and followed protocol.
+It happened in stages. First the meal rotation shortened—people grabbing rations and returning to their shelters instead of sitting at the communal tables Cole had insisted on during week one. Then the small groups formed. Joss and the two youngest colonists maintaining the water filters on their own schedule, separate from the posted rotation. Dana working alone in the soil lab, ignoring the buddy protocol that existed because a man had died from airborne spores six weeks ago. Four colonists who'd bunked together on the transit ship sleeping and waking as a unit, organizing their labor around each other instead of around the settlement.
 
-She understood it, the panic. She just couldn't afford to let it happen.
+And Garrett Polk. Always Garrett Polk.
 
-On day seventeen of month three, she found Marcus by the water collection array. He was adjusting a seal that didn't need adjusting, and he stopped when he saw her.
+Ren was an engineer. She thought in load-bearing structures and stress distribution and the invisible mathematics of what held things together. She'd spent fifteen years on Earth designing systems that distributed force so no single point bore too much weight. The colony's social architecture was doing the opposite—concentrating stress at fracture lines and pretending the structure was sound.
 
-"It's fine," he said before she could ask. "Just checking."
-
-"It's already checked. Dana confirmed flow rates this morning. It's fine."
-
-He straightened up. Ren noted the thing people always did when they were lying—a small compensatory movement, drawing up to make themselves bigger, which only worked if you weren't paying attention. She was always paying attention.
-
-"Garrett's worried about redundancy," Marcus said. "Thinks we should have backup systems. Independent systems. Things Cole doesn't need to authorize every time."
-
-There it was. The framework. Cole = control. Unauthorized systems = freedom.
-
-Ren had heard variations of this from six people now. All of them approached it the same way—obliquely, as though they were discussing engineering philosophy instead of splitting the colony in half.
-
-"Garrett is worried we're going to die if we follow Cole's protocols," Ren said. "That the real problem."
-
-"Isn't it?" Marcus asked. He wasn't aggressive. Just tired. "People are dying. Three in month one. Another the first week of month two. Whatever systems Cole's implementing, they're not working."
-
-"They're working exactly as well as they possibly can given what we know about the planet and what supplies we have. Which is: not great, but better than Elena Vasik's colony managed. Have you read those logs?"
-
-She was baiting him. She knew he hadn't. Most of them hadn't.
-
-"I haven't read anything that's going to convince me that trusting one person with everyone else's life expectancy is a good idea," Marcus said. "Freedom's the whole point. We came here to get away from people making decisions for us."
-
-"We came here because we had no other choice and Asterlyne had a planet for sale," Ren said. "The freedom part was the pitch. This part—figuring out how to not die in an environment that wants us dead—this part requires someone making decisions. Preferably someone good at math."
-
-Marcus didn't respond. He just resealed the collection array with the precision of someone who'd been told what to do and wasn't interested in the reasoning anymore.
-
-Ren went to find Garrett Polk.
-
-She located him at the perimeter northwest of the settlement, exactly where Marcus had been spending his time. Polk was standing with Trish and two other colonists, looking at something Ren couldn't quite see—a cleared space in the forest, sheltered by the spiral trees, with what looked like the skeleton of some kind of signal assembly half-constructed on a wooden frame.
-
-Polk saw her and didn't look apologetic. That was the thing about Polk. He'd never learned to perform false compliance. He just stood there looking exactly like a man who was building something unauthorized and planned to finish it.
-
-"Before you start," he said, "this isn't sabotage. It's insurance."
-
-Ren moved closer to examine the structure. Signal array. Definitely a signal array. Jury-rigged from spare parts that should have been allocated to shelter reinforcement, copper wire that was supposed to be going to Dana's soil analysis equipment, and some kind of antenna assembly that looked like it had been salvaged from the original settlement's communications hub.
-
-"You're planning to signal Earth," Ren said.
-
-"Yes."
-
-"Knowing that voiding the charter means Asterlyne will send a retrieval crew."
-
-"If they even bother," Polk said. "More likely they ignore the signal and we get off this rock ourselves when a passing ship hears us screaming into the dark."
-
-"That's not how ships work, Garrett. There are no passing ships out here. Asterlyne knew this when they sold you the charter. And they knew that if a signal goes out, they have to respond because the contract gives them legal obligation. And they will respond with a bill for extraction, which you personally will owe for the next thirty years because you won't have the capital to—"
-
-"I'm aware of the math," Polk interrupted. He was looking at her directly now, which was rare for him. Most people avoided direct eye contact with Ren. Something about her engineering stare made them feel like she was calculating their structural integrity. "The math says: stay here, die slowly, hope someone's kid is born when you're already in the ground. Or: call out, face the company, at least try to get off the planet alive. I'd rather die trying than die waiting."
-
-It wasn't logic. It was desperation wearing the clothes of logic. Ren had seen it before—people convinced that the best decision was the one that hurt them immediately rather than the one that promised slow pain later. The future terrified them more than the present.
-
-"Why are you really doing this?" she asked.
-
-Polk didn't answer right away. He looked back at the half-assembled signal array, and Ren watched his face recalculate. Not his expression—his face. The way his jaw tightened. The way his eyes narrowed in a way that had nothing to do with the light.
-
-"My daughter," he said finally. "I haven't seen her in three years. Debt collectors got her before I could, and the custody went to her mother, and I couldn't afford to fight for visitation because everything I had went to the creditors. She's twelve now, probably. Twelve and she doesn't remember me the way I was. She remembers me as the guy who couldn't pay. If I'm dead on another planet, she gets a story. Grief, maybe. At least she gets closure and a narrative that doesn't involve her thinking her father was too poor to bother."
-
-There it was. Not ideology. Parenting.
-
-Ren understood that calculus better than she wanted to. She'd left behind a partner on Earth—not a child, but someone she'd been supposed to build something with, and then the debt spiral happened, and she took the charter because staying meant becoming someone's dependent. The reaching-for-freedom narrative never accounted for the fact that sometimes you were reaching to escape the people who loved you. Sometimes freedom was the wrong word for running away.
-
-"Garrett," she said. "If you signal, and they come, and you pay the extraction debt, you'll have less capacity to fight for custody than you do now. You'll be indentured. You'll be worth less to your daughter, not more."
-
-"Maybe. Or maybe I get home and we figure it out. Maybe I'm not a ghost story by then. Maybe—"
-
-"Maybe doesn't work. We don't have bandwidth for maybe. The math on this doesn't care about your daughter. It's not personal. But it's true."
-
-Polk looked at her with something like pity. "You've been listening to Cole too long. Math doesn't cover the reasons you sign contracts in the first place. My daughter is the math. Your spreadsheets are just the pencil."
-
-He was right. Ren hated it, but he was right. Cole's systems were structurally sound. They were also built on the foundation of forty-seven lives that Cole had already mentally sorted into winners and losers, calculable and uncalculable. The ones who fit the optimization became margin. The ones who didn't fit were expendable.
-
-She brought it to Cole that night.
-
-He was in the main settlement shelter, reviewing equipment inventories by the light of their power-rationed glow panels. He looked up when she entered, already reading her posture as bad news.
-
-"Garrett's building a signal array," she said. "Northwest perimeter. He's going to try to call Earth."
-
-Cole set down the inventory tablet. "When?"
-
-"He didn't say. Could be weeks. Could be whenever he finishes pulling together the equipment."
-
-"Did he tell you his actual timeline or did you infer that from his technical competence?"
-
-"He didn't tell me anything voluntary. But yes, my inference is weeks. Maybe four to six, depending on whether anyone else actively helps him or just passively doesn't stop him."
-
-Cole nodded slowly. Not thinking. Calculating.
-
-"If he signals," he said, "the contract voids. Asterlyne will have legal obligation to retrieve, but they'll also extract a penalty for early termination. Estimated cost is..." He paused, pulling numbers from somewhere in his head. "Ninety-five thousand credits per colonist. We're forty-four. That's four-point-two million. They won't bill the colony—the charter makes that clear. They'll bill the signal initiator. Garrett will personally owe four-point-two million credits plus compound interest. At standard corporate rates, his granddaughter won't pay that off."
-
-"He knows," Ren said. "He's decided his daughter is worth going into debt for."
-
-"His daughter isn't here. His decision affects everyone else's timeline. Forty-four people lose the opportunity to invoke clause 9.4.2. Garrett decides for all of us."
-
-There was no heat in how Cole said it. Just facts. Which made it worse, somehow. The cold certainty that his math took precedence over Garrett's love because numbers were reliable and love was not.
-
-"So what do we do?" Ren asked. "Kill him before he finishes the array? Destroy his work?"
-
-"I'll talk to him," Cole said. "Explain the financial consequences. Give him the numbers."
-
-"He doesn't care about the numbers. That's not why he's building it."
-
-"Then he shouldn't be building it," Cole said. "Because whether he cares or not, the numbers are still true. His signal will still void the charter. His extraction bill will still be four-point-two million. His daughter will still inherit the debt because that's how generational obligation works. If he loves his daughter, he doesn't signal. The math is the message."
-
-Ren felt something crystallize in her chest. Not anger. Recognition. She was looking at a man who'd solved a systems problem by abstracting it into numbers, and in abstracting it he'd deleted the parts that made it a human problem instead of a mathematical one.
-
-"You're not going to convince him," she said. "You're going to tell him the debt number and expect him to optimize. He already knows the outcome is worse. He's decided worse is acceptable. That's the choice."
-
-"Then he'll make a choice that destroys everyone else's timeline, and I'll need you to help me manage the fallout."
-
-"I'm not going to help you convince forty-four people that one man's hope for his daughter is negotiable. And I'm not going to watch us split into people who understand the math and people who don't. We're already fracturing, Cole. The signal array is just the symptom."
-
-Cole looked at her—really looked at her, not calculating but watching. "What do you want me to do?"
-
-"Something other than explain the numbers," Ren said. "Something that isn't an equation. Something that acknowledges why he wants to signal, that doesn't pretend it's unreasonable, and that doesn't make him choose between his daughter and forty-four strangers."
-
-"There is no option like that. Those are the actual variables."
-
-"Then we need to change the variables. We need a council. Not you deciding. Not Garrett deciding. We need... we need ownership."
-
-Cole didn't respond to that. He just looked at her with an expression she couldn't parse—something that might have been agreement or might have been the face someone made when they realized the person they were talking to didn't fully understand what they were trying to accomplish.
+She could see it. Cole couldn't. Or wouldn't. He saw the logistics: shelter reinforcement schedules, caloric intake projections, equipment maintenance rotations. All of it optimized. All of it correct. All of it useless if the people inside the system didn't trust the system anymore. Cole managed the colony the way he'd managed a warehouse—inputs, outputs, tolerances. He didn't see that the warehouse was full of people who'd come here because they were done being managed.
 
 ---
 
-Cole talked to Garrett anyway. Ren didn't hear the conversation, but she heard the result—Garrett said no, he was finishing the array, debt calculations didn't change his mind.
+On day nineteen of month three, she found Marcus by the water collection array. He was adjusting a seal that didn't need adjusting, and he stopped when he saw her.
 
-Two days after that conversation, a colonist named David who worked the perimeter maintenance rotation exhausted himself pushing a load of supplies back to the settlement during an unexpected wind event, fell from a utility shelf in one of the reinforced storage areas, and broke his leg badly enough that Haruki couldn't splint it into functionality. Infection set in within twenty-four hours—not alien, just the kind of infection that happened when a body was already depleted and an open wound had been exposed to contamination.
+"It's fine," he said before she could ask. "Just checking."
 
-Haruki treated it with every protocol they had. David deteriorated anyway. Died on day four of the fever, leaving the colony forty-three.
+"Dana confirmed flow rates this morning."
 
-Then Marcus, working alone on a water filtration system in a sector Cole had designated as low-priority for supervision, made an error in the assembly—exhaustion, lack of training oversight, he couldn't explain it clearly because his nervous system was already failing—and the resulting contamination killed two more colonists over the span of a week. Rapid exposure poisoning. Nothing Haruki could treat because the poison was environmental and the contamination had spread before anyone noticed.
+He straightened up—the small compensatory movement people made when they were caught, drawing themselves taller as if height could substitute for honesty.
 
-Forty-one.
+"Garrett's worried about redundancy," Marcus said. "Thinks we should have backup systems. Independent ones. Things that don't need Cole's sign-off every time."
 
-The death toll was the real argument. Not Cole's calculations. Not Garrett's hope. Just the steady attrition of people trying to survive a system that was fracturing because no one trusted the system anymore.
+There it was. The framework. Cole equals control. Independent equals freedom.
 
-Ren called for a colony-wide meeting. Not a briefing. A vote.
+Ren had heard variations of this from six people now. All of them approached it the same way—obliquely, as though they were discussing engineering philosophy instead of splitting the colony in half.
 
-Cole tried to stop her. They argued about it in the shelter corridor—fast and bitter and quiet so no one else heard.
+"Garrett's worried we're going to die following Cole's protocols," Ren said. "That the real issue?"
 
-"You can't run a colony on consensus," he said. "Not on survival timeline. Not when the decisions have fifteen-year financial implications."
+"Isn't it?" Marcus wasn't aggressive. Just tired. "Three dead in month one. Whatever systems Cole's running, they're not working."
 
-"You can't run a colony on individual authority either," Ren said. "People will destroy the system rather than surrender to it. You're watching it happen. Four colonists dead because we're split. Because people don't trust your math."
+"They're working as well as they can given what we have. Which is not great, but better than the last expedition managed."
 
-"They should trust the math. The math is neutral."
+"I haven't read anything that's going to convince me one person should decide everyone else's life expectancy," Marcus said. "Freedom's the whole point. We came here to get away from people making decisions for us."
 
-"The math is never neutral. It's made by people with assumptions. And right now your assumptions say forty-one people should follow orders because you're better at optimization. That's not math. That's control dressed up like reason."
+"We came here because we had no other choice and Asterlyne had a planet," Ren said. "The freedom part was the pitch."
 
-Cole didn't argue with her. He just looked defeated in a way she hadn't seen before, like he'd built something careful and someone else was burning it down and he'd already accepted that the burning was inevitable.
+Marcus didn't respond. He resealed the collection array with the precision of someone who'd been told what to do and wasn't interested in the reasoning.
 
-She held the vote anyway.
+---
 
-It was close. Garrett's proposition—stop the signal array, fold his effort back into settlement-wide projects, accept help from the colony instead of building in isolation—lost by six votes. The counterproposal—Ren's idea of a rotating council where major decisions got weighted input from representatives instead of from Cole alone—passed by the same margin.
+She found Polk at the northwest perimeter.
 
-Garrett dismantled the array. Didn't forgive Cole. Didn't trust the new system. But he unmade the apparatus that was splitting the colony, and in that practical surrender something shifted. Not unity. Not even agreement. But a framework for survival that wasn't built on one person's arithmetic.
+She'd known where to look because Marcus had been spending his shifts out here, and Marcus didn't go anywhere Polk hadn't already mapped. The clearing was sheltered by spiral trees, and in it sat the skeleton of a signal assembly—half-constructed on a wooden frame, jury-rigged from spare parts that should have been allocated to shelter reinforcement, copper wire meant for Dana's soil equipment, an antenna salvaged from the settlement's comm hub.
 
-The deaths stopped accelerating, at least.
+Polk saw her and didn't bother looking apologetic. That was the thing about Polk—he'd never learned false compliance. He stood there like a man building something unauthorized who intended to finish it.
 
-Forty-one alive. Fifty-eight months left. The math was still brutal. But it was a math they'd chosen together, and that choice meant something, even if Cole couldn't quantify it.
+"Before you start," he said. "This isn't sabotage. It's insurance."
 
-Even if Ren couldn't quite make it mean enough.
+"You're signaling Earth."
+
+"Yes."
+
+"Knowing that a signal voids the charter for everyone."
+
+"If they even respond." Polk crossed his arms. "More likely they ignore it and we figure out another way off this rock."
+
+"That's not how it works, Garrett. There are no passing ships out here. Asterlyne controls the relay. If a signal goes out, they have legal obligation to respond. And they'll respond with a retrieval crew and a bill for extraction that you'll personally owe for the next—"
+
+"I'm aware of the math." He was looking at her directly, which was rare for Polk. Something in Ren's engineering stare made most people feel like she was calculating their structural integrity. Polk didn't flinch from it. "The math says stay here and die slow, hope your bones mean something in five years. Or call out, face the company, at least have a chance of getting off this planet alive."
+
+"You never planned to stay five years."
+
+It wasn't a question. She'd watched him on the transit ship. Watched him during orientation. Polk had signed the charter the way people sign things when the alternative is worse—not with intention but with momentum. He wanted off Earth. He didn't want this.
+
+"I planned to not be dead," Polk said. "I planned to see my daughter again. I didn't plan for a planet that kills people with air and soil that can't decide what it is."
+
+"Your daughter."
+
+Polk's jaw tightened. Something behind his eyes shifted—not his expression, his calculation.
+
+"Haven't seen her in three years," he said. "Couldn't afford to fight for custody after the creditors took everything. She's twelve now, probably. Twelve and she remembers me as the guy who couldn't pay. If I die on this planet, she gets a ghost. If I get home—even indentured, even broke—at least I'm standing there. At least she sees me and knows I tried to come back."
+
+Not ideology. Parenting.
+
+Ren understood that calculus better than she wanted to. She'd left behind a partner on Earth—not a child, but someone she'd been building something with before the debt spiral hit and she took the charter because staying meant becoming someone's dependent. The reaching-for-freedom narrative never accounted for the fact that sometimes freedom was the wrong word for running away.
+
+"Garrett. If you signal and they come and you pay the extraction debt, you'll have less capacity to fight for custody than you do now. You'll be indentured. Worth less to her, not more."
+
+"Maybe. Or maybe I get home and we figure it out."
+
+"We don't have bandwidth for maybe."
+
+"You don't," Polk said. "I do. Because my daughter is the math. Your spreadsheets are just the pencil."
+
+The argument was escalating and going nowhere. Ren could feel it—the same structural inevitability as a wall taking on more load than it could hold. Polk wasn't going to be reasoned out of this because reason wasn't the foundation. His daughter was. And you couldn't engineer around someone's kid.
+
+---
+
+She brought it to Cole that night.
+
+He was in the main shelter reviewing equipment inventories by the rationed glow panels. Looked up when she entered, already reading her posture as bad news.
+
+"Garrett's building a signal array," she said. "Northwest perimeter. He's going to try to call Earth."
+
+Cole set down the tablet. "When?"
+
+"Weeks. Four to six, depending on whether anyone actively helps him or just passively doesn't stop him."
+
+He nodded. Not thinking. Calculating.
+
+"If he signals, the contract voids. Asterlyne retrieves and extracts a penalty for early termination. Clause 14.3. Estimated cost: ninety-five thousand credits per colonist. At forty-four, that's four-point-two million. They won't bill the colony—they'll bill the signal initiator. Garrett personally. At standard compound rates, his granddaughter won't pay that off."
+
+"He knows," Ren said. "He's decided his daughter is worth it."
+
+"His daughter isn't here. Forty-four people are. His signal voids clause 9.4.2 for everyone. One man decides for all of us."
+
+No heat in it. Just facts. Which made it worse—the cold certainty that his math took precedence over Garrett's love because numbers were reliable and love wasn't.
+
+"You can't just tell people they're trapped," Ren said.
+
+"I'm telling them they're free," Cole said. "They just have to survive it."
+
+Ren heard the logic. She couldn't argue with it. The numbers were true. The clause was real. Signaling meant financial ruin, not rescue. Everything Cole said was correct.
+
+She also heard what Cole couldn't hear in his own voice—that freedom defined by one man's arithmetic wasn't freedom. It was a different kind of contract. Survive on my terms or lose everything. Polk had heard that exact math before, from creditors and courts and systems that told him the numbers were neutral while the numbers took his daughter away. Cole was running the same equation and calling it salvation.
+
+"So what do we do?" she asked.
+
+"I'll explain the financial consequences. Give him the numbers."
+
+"He doesn't care about the numbers. That's not why he's building it."
+
+"Then he shouldn't be building it. Whether he cares or not, the numbers are still true. His extraction bill will still be four-point-two million. His daughter will still inherit the debt—that's how generational obligation works. If he loves his daughter, he doesn't signal."
+
+"You're going to tell a man who lost custody because he couldn't afford a lawyer that the math says he should stay trapped on another planet for his daughter's sake." Ren let that sit. "You're going to use his daughter as the reason he can't go home to his daughter."
+
+Cole didn't flinch. "The math doesn't require him to like it."
+
+"No. It just requires the rest of us to live with it."
+
+Something passed between them. Not agreement. Recognition that they were standing on opposite sides of the same problem.
+
+"What do you want me to do?" Cole asked.
+
+"Something that isn't an equation. Something that acknowledges why he wants to signal without pretending it's unreasonable. Something that doesn't make him choose between his daughter and forty-four strangers."
+
+"There is no option like that. Those are the actual variables."
+
+"Then we need to change the variables. Give him a seat. A voice. Let him be part of the decisions instead of subject to them. He's not going to stop being afraid for his daughter. But maybe he stops building the array if he's not building it alone."
+
+Cole looked at her with an expression she couldn't parse—something that might have been agreement or might have been the face of a man realizing the person across from him was solving a problem he hadn't known was the problem.
+
+---
+
+Cole talked to Garrett anyway. Gave him the numbers. Ren didn't hear the conversation, but she heard the result—Garrett refused, he was finishing the array, debt calculations didn't change his mind. Cole had offered Garrett the math and Garrett had heard exactly what he'd heard from every creditor and courtroom that had separated him from his daughter: someone with a spreadsheet telling him what his love was worth and finding it insufficient.
+
+What changed his mind was the scaffolding.
+
+Four days after Cole's visit, two colonists from the shelter reinforcement crew—a woman named Lin and a man named Thomas who'd been quiet since landing, the kind of person who showed up for shifts and ate alone—were reinforcing the western wall of the secondary storage shelter. The crew was short-handed. Three people assigned to the rotation had drifted into Polk's orbit and weren't showing up for communal work anymore. Cole had adjusted the schedule to compensate, spreading the remaining crew thinner across the same number of tasks.
+
+Lin and Thomas were operating a scaffolding rig they'd improvised from pre-fab framing and cable. Standard procedure required three people—one to brace, one to lift, one to secure. They had two. Thomas was bracing and lifting simultaneously, doing the work of exhaustion and obligation in equal measure. Lin was overhead, securing a panel that weighed more than the two-person spec allowed.
+
+The cable slipped. Not dramatically—no snap, no explosion of violence. A slow, grinding give. The kind of failure that happened when tension exceeded tolerance by a fraction and the fraction was enough. The scaffolding shifted. Lin fell. Thomas tried to catch the rig and the torque pulled him off the platform.
+
+Ren heard the sound from across the settlement—compressed, metal and wood and something softer underneath. She ran. By the time she got there, Haruki was already kneeling.
+
+Lin died on impact. Thomas died that night. Haruki sat with him through it, doing what he could, which wasn't enough because the injuries were structural and there were no surgical facilities on Parcel 16b.
+
+Forty-two.
+
+The deaths weren't the planet. The deaths were a construction accident caused by a crew that was too small doing work that was too heavy because the colony had fractured and the fracture had a body count now. The split—the quiet redistribution of trust away from the center, people drifting into factions because they didn't believe in the system—that was the load shift Ren had felt at month three. Lin and Thomas were the crack.
+
+---
+
+She went to Polk. Not to Cole. To Polk.
+
+He was at the array. Still building. He'd heard about Lin and Thomas. He didn't look defiant anymore. He looked like a man standing next to something he'd built while two people died somewhere he should have been.
+
+"Two dead," Ren said. "Crew was short because your people weren't on rotation."
+
+Polk didn't argue.
+
+"I'm not blaming you. I'm telling you what the fracture costs. Not Cole's numbers. Bodies."
+
+Polk looked at the half-assembled signal array—the copper wire, the salvaged antenna, the wooden frame he'd built with hands that knew construction the way Ren knew load-bearing walls. Hands that had built a co-op on Earth with the same conviction and watched it dissolve into debt.
+
+"My daughter," he said. Quietly.
+
+"I know. The council doesn't fix that. Nothing here fixes that." Ren kept her voice level. "But here's the offer. You dismantle the array. You get a seat on a colony council—elected, rotating, real authority over resource allocation and work assignments. Not Cole deciding alone. Not you deciding alone. A system that belongs to everyone who's still breathing."
+
+"And the signal."
+
+"Gone. Because you're right that one person shouldn't make decisions for forty-two people. Cole's right that the signal kills us all financially. Both things are true. The council is the only structure that holds both."
+
+Polk was quiet for a long time. Ren watched his face—not calculating this time. Grieving. The apparatus he'd built out of wire and desperation and the ghost of his daughter's face, and it hadn't transmitted a single thing, and two people were dead, and the math still said he couldn't go home.
+
+"If we survive long enough to invoke the clause," Ren said, "you own land. You own something that isn't debt. You become someone who built something instead of someone who owed something. Maybe that matters more to a twelve-year-old than a father who came home broke and indentured."
+
+She didn't know if it was true. She said it because the alternative was watching the colony bleed out from a wound it was inflicting on itself.
+
+Polk dismantled the array the next day. Didn't forgive Cole. Didn't trust the council. But he took the pieces apart with his own hands and returned the copper wire and the antenna components to the communal supply, and something shifted. Not unity. Not agreement. A framework for staying alive that wasn't built on one person's arithmetic.
+
+It wasn't democracy. It wasn't dictatorship. It was the closest thing to governance that forty-two people on an alien planet could build out of grief and copper wire and the stubborn refusal to let the fracture kill them faster than the planet already was.
+
+Forty-two alive. Fifty-four months left. The math was still brutal. But it was math they'd chosen together, and Ren wanted to believe that choice meant something, even if Cole couldn't quantify it.
+
+Even if she couldn't quite make it mean enough.
