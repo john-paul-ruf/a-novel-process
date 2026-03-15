@@ -6,19 +6,19 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## CRITICAL — Continuity Errors
 
-### TASK-01: Ch 22 — James appears alive after dying in Ch 16
+### ~~TASK-01: Ch 22 — James appears alive after dying in Ch 16~~ ✅
 - **File:** `chapters/22-the-vote/draft.md`
 - **Lines:** 5, 65, 113
 - **Issue:** James is referenced alive with dialogue and actions: "James, whose compound fracture had healed into a limp that slowed his body but not his judgment" (line 5), "James, leaning forward on his bad leg" (line 65), "James argued for a middle path" (line 113). James died in Ch 16, Day 13 of the fever (line 67 of `chapters/16-fever/draft.md`): "James died two days later." Story bible confirms: Ch 16 deaths are Hana and James. James cannot appear in Ch 22.
 - **Fix:** Replace James with a different named colonist in all three references. The replacement character needs: a physical detail suggesting prior hardship (to carry the "slowed his body but not his judgment" characterization), council standing, and a personality that would argue for a middle path on Dana. Consider Kira (already established as principled opposition) or introduce a new named character.
 
-### TASK-02: Ch 16 — Internal Lily age inconsistency
+### ~~TASK-02: Ch 16 — Internal Lily age inconsistency~~ ✅
 - **File:** `chapters/16-fever/draft.md`
 - **Lines:** 133, 151
 - **Issue:** Cole says "She's ten" (line 133) when talking to Joss about Lily. Eighteen lines later, his interiority reads: "a nine-year-old who existed in a message he'd sent six months ago" (line 151). At Months 17-18, Lily is ~10-11 (she was 9 at signing, ~18 months prior). The "nine-year-old" likely refers to Lily's age when the message was written, but Cole just told Joss she's ten. The dissonance within a single scene breaks the reader's trust in the narrator's precision — especially in a character defined by counting.
 - **Fix:** Change "nine-year-old" to "ten-year-old" on line 151 to match Cole's own statement eighteen lines earlier. If the intent is to reference Lily's age at message-writing, rephrase to clarify: e.g., "a girl who'd been nine when he wrote about trees and was ten now."
 
-### TASK-03: Ch 16 — Message timeline error
+### ~~TASK-03: Ch 16 — Message timeline error~~ ✅
 - **File:** `chapters/16-fever/draft.md`
 - **Line:** 151
 - **Issue:** "a message he'd sent six months ago" — the first message to Lily was sent in Month 6 (Ch 9). Ch 16 is Months 17-18. That's 11-12 months, not 6. Story bible confirms: first message Ch 9 (Month 6), second message Ch 19 (Months 23-26). No intervening message exists.

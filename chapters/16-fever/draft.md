@@ -148,7 +148,7 @@ Joss was quiet for a while. His breathing was audible — that labored, consciou
 
 When. Not if. The kid was running a 40.4 fever and he said when. Cole felt the crack in his chest widen — not the stone of numbers, not the weight of the count, but something underneath it. Something the numbers had been sitting on top of, pressing down, keeping sealed. The thing beneath the math.
 
-He put the cloth on Joss's forehead. Joss flinched and gripped the cot's edge. Cole didn't take his hand. Didn't say anything reassuring. Sat there in the dark with a twenty-three-year-old who might die before morning and a nine-year-old who existed in a message he'd sent six months ago across a distance measured in light-years, and felt the math crack.
+He put the cloth on Joss's forehead. Joss flinched and gripped the cot's edge. Cole didn't take his hand. Didn't say anything reassuring. Sat there in the dark with a twenty-three-year-old who might die before morning and a ten-year-old who existed in a message he'd sent eleven months ago across a distance measured in light-years, and felt the math crack.
 
 Not break. The math didn't break. The math was structural — it held the colony, it held the clause, it held the count. But the thing the math was for — the reason underneath the calculation — shifted. Moved. Became visible through the crack the way light becomes visible through a fracture in a wall.
 
