@@ -15,25 +15,20 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Continuity Errors
 
-### TASK-002: Patricia dies twice — Ch 16 and Ch 22
-- **Files:** `chapters/16-fever/draft.md` (line 59), `chapters/22-the-vote/draft.md` (lines 193-211), `chapters/23-no-margin/draft.md` (line 13)
-- **Issue:** Patricia is killed in Ch 16 ("Patricia died on Day 11," Month 17-18, count 34→33) AND killed again in Ch 22 (Month 37, count drops to 24). Ch 23 opens referencing Patricia as "the last subtraction. Month 37," consistent with Ch 22's version. Ch 19 (Months 23-26) lists Patricia among the dead, which is consistent with Ch 16's version but not Ch 22's.
-- **Analysis:** The intended narrative arc is clearly that Patricia's cough (introduced Ch 12) is managed by Haruki for 27 months before finally killing her in Month 37 (Ch 22), bringing the count to exactly 24 — the threshold. Ch 25 references Haruki saving "Patricia during the cough's early months," implying she survived the fever. Ch 16 killing her is the continuity error.
-- **Downstream effects:**
-  - Ch 16's death count: Currently shows 2 deaths (Patricia + James) for 34→32. If Patricia survives, either James is the only death (34→33, breaking the death tracker) or a different colonist must die alongside James to maintain 34→32.
-  - Ch 19 (line 71): Lists "Patricia" among the dead names. Must be removed if she's alive until Month 37.
-  - Ch 27 (line 267): References "Patricia's breathing stopping" in Haruki's history — consistent with either timeline since Haruki was present at both death scenes.
-- **Fix required:** Decide whether Patricia dies in Ch 16 or Ch 22. If Ch 22 (recommended based on narrative arc), then: (1) replace Patricia's death in Ch 16 with a different colonist, (2) remove Patricia from Ch 19's dead list, (3) verify death count consistency.
+### TASK-002: Patricia dies twice — Ch 16 and Ch 22 — COMPLETE
+- **Files:** `chapters/16-fever/draft.md`, `chapters/19-narrowing/draft.md`, `chapters/17-elena-year-two/draft.md`, `source/scene-outline.md`, `source/story-bible.md`
+- **Issue:** Patricia was killed in Ch 16 AND Ch 22. Ch 22 (Month 37) is the canonical death — the Haruki-Patricia arc depends on it.
+- **Fix:** Replaced Patricia's Ch 16 death with new colonist **Hana** (age 41, former agricultural researcher, died from immune depletion — she was in the non-priority triage tier and didn't receive Dana's compound in time). Death count 34→32 preserved (Hana + James). Updated Ch 16 death scene, Joss's fever scene reference, Cole's dead-names reflection, Ch 17 "After Hana and James" reference, Ch 19 dead list, scene outline ("Two die"), and story bible timeline. Patricia now survives Ch 16 (prioritized in triage, compound works), lives through Ch 17-21 with managed cough, dies canonically in Ch 22 Month 37. All downstream references (Ch 22, 23, 25, 27) verified consistent.
 
-### TASK-003: Scene outline says "Three die" in Ch 16 but death tracker says 2
-- **File:** `source/scene-outline.md`, Ch 16 section (line ~269)
-- **Issue:** The outline text reads "Three die. Thirty-two." but the death count tracker at the top of the outline shows 34→32, which is 2 deaths. The draft has 2 deaths (Patricia and James). If it were 3 deaths (34→31), the total attrition would overshoot and the colony would end at 23 at invocation — below the 24 threshold.
-- **Fix:** Correct the outline text from "Three die" to "Two die" (or resolve in conjunction with TASK-002 if the death count changes).
+### TASK-003: Scene outline says "Three die" in Ch 16 but death tracker says 2 — COMPLETE
+- **File:** `source/scene-outline.md`, Ch 16 Beat 2
+- **Issue:** ~~Outline text read "Three die. Thirty-two." but death tracker showed 34→32 (2 deaths).~~
+- **Fix:** Done. Corrected to "Two die. Thirty-two." Story bible timeline also corrected to "two deaths (Hana, James)."
 
-### TASK-004: Ch 19 dead names list includes Patricia prematurely
+### TASK-004: Ch 19 dead names list includes Patricia prematurely — COMPLETE
 - **File:** `chapters/19-narrowing/draft.md`, line 71
-- **Issue:** The passage lists the dead: "Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Thomas. Marcus Reeves. Thomas Chen. Noor. Suri Park. The one who walked into the forest. Patricia. James. Okafor." Ch 19 is set in Months 23-26. If Patricia dies in Month 37 (Ch 22, per TASK-002), she should not appear in this list. She should be alive at this point.
-- **Fix:** Remove "Patricia." from this list (contingent on TASK-002 resolution).
+- **Issue:** ~~Patricia listed among the dead in Months 23-26, but she doesn't die until Month 37 (Ch 22).~~
+- **Fix:** Done. Replaced "Patricia" with "Hana" in the dead names list. Sixteen names, sixteen deaths — count verified.
 
 ### TASK-005: Ch 27 Haruki death — count says 23 but story bible says 24 at invocation
 - **File:** `chapters/27-tuesday/draft.md`, line 331
@@ -147,9 +142,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 | Priority | Task ID | Description | Status |
 |---|---|---|---|
-| **Critical** | TASK-002 | Patricia dies twice (Ch 16 and Ch 22) | Needs resolution |
-| **Critical** | TASK-003 | Scene outline "Three die" vs death tracker "Two" in Ch 16 | Needs fix |
-| **Critical** | TASK-004 | Ch 19 lists Patricia as dead prematurely | Needs fix (linked to TASK-002) |
+| **Critical** | TASK-002 | Patricia dies twice (Ch 16 and Ch 22) | Complete |
+| **Critical** | TASK-003 | Scene outline "Three die" vs death tracker "Two" in Ch 16 | Complete |
+| **Critical** | TASK-004 | Ch 19 lists Patricia as dead prematurely | Complete |
 | **High** | TASK-001 | Ch 12 draft.md contains Author Notes | Complete |
 | **High** | TASK-008 | Excessive recursive "and the X was the Y" constructions | Needs revision pass |
 | **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Needs fix |

@@ -266,7 +266,7 @@
 
 **Beat 1:** A pathogen moves through the colony — not alien, human. Something that mutated in their closed ecosystem. Haruki works around the clock. Dana's botanical knowledge becomes critical — she identifies a native compound with antiviral properties. It works, but slowly.
 
-**Beat 2:** Three die. Thirty-two. Joss Carver, the youngest, barely survives. Cole sits with him through the worst night. Doesn't talk logistics. Talks about Lily. First time he's said her name aloud since landing. Joss asks what she's like. Cole: "She's nine. She likes drawing horses. She thinks I'm on a work trip."
+**Beat 2:** Two die. Thirty-two. Joss Carver, the youngest, barely survives. Cole sits with him through the worst night. Doesn't talk logistics. Talks about Lily. First time he's said her name aloud since landing. Joss asks what she's like. Cole: "She's nine. She likes drawing horses. She thinks I'm on a work trip."
 
 **Beat 3:** The lie sits in the room between them. Cole has been telling himself the charter is math, survival, a logistics problem. Sitting next to a twenty-two-year-old burning with fever, talking about the daughter he abandoned to come here, the math cracks. Not breaks. Cracks.
 

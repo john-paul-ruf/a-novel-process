@@ -18,7 +18,7 @@ Month 16 was different.
 
 Cole read it in the half-dark. Katya wasn't a person he knew. She was a data point in a dead woman's log, a name attached to a behavior Cole recognized because he'd been watching it happen for twenty months. The slow shutdown. Not despair — something more mechanical than despair. A conservation response. The organism reducing its outputs to match its inputs, and social connection was the first line item cut because it cost the most and returned the least in immediate survival terms.
 
-He'd seen it in his own colony. After the fever. After Patricia and James. The thirty-two who remained had pulled closer in some ways — shared meals continued, the council met, Ren's systems held. But the texture had changed. People talked less. Laughed less. The jokes that had emerged during the middle months, the ones Cole didn't always understand, had gone quiet. The colony wasn't fracturing. It was dimming.
+He'd seen it in his own colony. After the fever. After Hana and James. The thirty-two who remained had pulled closer in some ways — shared meals continued, the council met, Ren's systems held. But the texture had changed. People talked less. Laughed less. The jokes that had emerged during the middle months, the ones Cole didn't always understand, had gone quiet. The colony wasn't fracturing. It was dimming.
 
 *Month 17, Day 1. The creep isn't something we can fight. It's something we can only move ahead of. I've stopped thinking of it as a threat and started thinking of it as a tide. You don't fight a tide. You build above the waterline. But we've been building above waterlines for seventeen months and the water keeps rising and the tools keep breaking and the people keep getting lighter.*
 
