@@ -2,7 +2,7 @@
 
 A disgraced logistics manager signs a one-way corporate charter to homestead a hostile exoplanet, knowing the company expects most colonists to die — but if he can keep twenty-four of the original forty-seven alive for five years, a buried clause grants them ownership of the land and a second chance he stopped believing he deserved.
 
-**Status:** Structure Phase Complete — Ready for First Draft
+**Status:** First Draft in Progress — 12 of 27 chapters drafted (~24,900 words)
 
 ---
 
@@ -12,9 +12,9 @@ Third-person limited (primarily Cole Maren), past tense. Five years on Parcel 16
 
 | Part | Chapters | Timeframe | Focus |
 |---|---|---|---|
-| **Part One** | 01–?? | Months 1–6 | Arrival and first adaptation (30% of novel) |
-| **Part Two** | ??–?? | Months 6–30 | Deepening crisis and internal fracture (35% of novel) |
-| **Part Three** | ??–?? | Years 3–5 | The margin collapses; final choice (35% of novel) ||
+| **Part One: Landing** | 01–09 | Months 1–6 | Arrival and first adaptation (30% of novel) |
+| **Part Two: The Count** | 10–20 | Months 6–30 | Deepening crisis and internal fracture (35% of novel) |
+| **Part Three: Ownership** | 21–27 | Years 3–5 | The margin collapses; final choice (35% of novel) |
 
 ---
 
