@@ -34,6 +34,14 @@
 
 - **[Chapter 14 — "Signal"](#chapter-14-signal)**
 
+- **[Chapter 15 — Supply Lines](#chapter-15-supply-lines)**
+
+- **[Chapter 16 — Fever](#chapter-16-fever)**
+
+- **[Chapter 17 — Elena, Year Two](#chapter-17-elena-year-two)**
+
+- **[Chapter 18 — "The Creep Solution"](#chapter-18-the-creep-solution)**
+
 ---
 
 
@@ -2349,5 +2357,1056 @@ She was the most useful person in the colony. She was the most dangerous person 
 Sixty thousand credits. Her mother's life. Thirty-five strangers on a planet that recycled everything, including loyalty.
 
 Dana lay in the dark and listened to the hum and didn't sleep.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-15-supply-lines}
+
+# Chapter 15 — Supply Lines
+
+The supply drop was due at Month 13.
+
+Clause 12.8 of the charter, Section IV, Subsection C: "Asterlyne Corporation shall provide semi-annual resupply deliveries during Years Two through Five, contents to be determined by operational need assessments conducted in accordance with Appendix G." The language was boilerplate. The obligation was contractual. The delivery window, per the logistics schedule embedded in the charter's appendix, placed the first Year Two drop at the end of Month 13, calibrated to orbital transit calculations and the company's standard shipping cycle from the relay depot at Kepler-442 station.
+
+Cole had the date memorized the way he'd memorized the viability score, the headcount, the caloric burn rate per colonist per day. Numbers lived in him. They organized the noise into something he could hold.
+
+Month 13 passed. He gave it two weeks for transit variance. Weather on the orbital approach, docking delays, the kind of corporate inefficiency that slowed everything Asterlyne touched. He'd built supply chains on Earth. He knew the difference between late and absent. Late had a shape — a delay curve that bent but resolved. Absent was flat. A line that didn't move because nothing was coming.
+
+By Month 14, Day 20, the line was flat.
+
+He ran the inventory. Food stores: six weeks at current rationing, eight if he dropped the physical labor tier to reduced intake. Medical supplies: Haruki was down to baseline antibiotics and a dwindling stock of the anti-inflammatory compound that kept James's leg from swelling shut. James's compound fracture from the relocation had healed wrong — functional, Haruki said, which meant James could walk but not without cost, and the cost was managed by medication they couldn't replace. Water filtration membranes: two spare sets. When those degraded, they'd be drinking through charcoal and hope.
+
+The quarterly drops in Year One had been thin but present. Equipment rated for twenty, medical kits stocked for fewer, seed stock that assumed a climate the planet didn't have. Asterlyne had met the letter of the contract the way a landlord meets code — minimum viable compliance. But the drops had come. On schedule. A crate of protein concentrate, replacement tool heads, water purification tablets. Not enough. Never enough. But real. Physical evidence that something on the other end of the supply chain was still counting them as alive.
+
+Cole sent a formal contract compliance inquiry through the comm relay on Month 15, Day 1.
+
+The relay was the colony's only link to Asterlyne. A satellite in high orbit, company-owned, company-maintained, routing communications between the surface and whatever corporate endpoint received them. Messages took between four and eleven days depending on orbital position and relay queue priority. Cole had sent seven formal communications in fifteen months. Supply requests, status reports, the initial complaint about the viability score discrepancy from the transit data. Asterlyne had responded to three. Two were automated acknowledgments. One was a three-paragraph letter from a department called Charter Success Operations that addressed none of his specific concerns and wished the colony "continued progress toward charter milestones."
+
+He drafted the inquiry in the comm shelter — a modified pre-fab at the eastern edge of the settlement, fitted with the relay interface and a small terminal Ren had rebuilt from salvaged equipment. The shelter smelled like warm polymer and the faint metallic tang that came off the channel walls when the air was humid. Cole typed standing up, the way he'd typed inventory reports in warehouses on Earth. Standing meant it was work. Sitting meant it was personal.
+
+*To: Asterlyne Corporation, Charter Compliance Division*
+*Re: Supply Delivery — Year Two, Period One*
+*Charter Reference: Clause 12.8, Section IV, Subsection C*
+
+*This communication serves as formal notice that the scheduled semi-annual resupply delivery for Year Two, Period One, has not been received. The delivery was due at the conclusion of Month 13 per the logistics schedule outlined in Appendix G of the charter agreement. As of this communication, we are sixty-one days past the contracted delivery window.*
+
+*Current supply status:*
+*— Protein stores: 43% of contracted minimum*
+*— Medical supplies: below operational threshold*
+*— Equipment replacement: zero deliveries received*
+*— Water filtration: two replacement cycles remaining*
+
+*Please confirm revised delivery timeline and manifest contents at your earliest opportunity.*
+
+*Cole Maren, Colony Operations*
+*Parcel 16b Charter, Signatory #1*
+
+He read it twice. The language was precise, contractual, stripped of anything Asterlyne could read as emotional. He'd learned that from the charter itself — the document was designed to make human need sound like a logistics variance, and the only way to communicate through it was to speak its language. Desperation wasn't a recognized input. Clause references were.
+
+He sent the inquiry. The terminal confirmed relay handshake. The message was in the system, traveling at the speed of corporate infrastructure toward a department that may or may not have people in it who read what colonists sent.
+
+Then he went outside and looked at the sky for the contrail of a ship that wasn't there.
+
+---
+
+The response came twenty-three days later.
+
+Cole was in the agricultural zone when Ren found him, walking between the rows of native plants Dana had mapped onto the settlement's new terrain. The rock substrate grew different things. Hardier root systems, lower yield, a bitter tuber that tasted like parsnip crossed with something chemical. The colony ate it because the colony ate what the planet provided. Preferences were a luxury they'd stopped discussing around Month 8.
+
+Ren had the printout. She handed it to him without comment, which meant she'd already read it, which meant her face — neutral, controlled, the expression she wore when she was calculating how angry to let herself be — was the review.
+
+Cole read.
+
+*Dear Mr. Maren,*
+
+*Thank you for your continued communication regarding the Parcel 16b charter. Your dedication to operational transparency is noted and appreciated by the Charter Success team.*
+
+*We are aware of supply chain disruptions affecting multiple charter operations across the current cycle. These disruptions are the result of factors beyond Asterlyne's direct operational control, including revised interstellar logistics protocols, relay station maintenance schedules, and resource allocation adjustments across our active charter portfolio.*
+
+*We want to assure you that Asterlyne remains fully committed to the success of the Parcel 16b charter and its participants. Revised delivery windows are currently being assessed by our logistics division, and we anticipate providing updated timeline projections in the coming quarter.*
+
+*In the interim, we encourage the colony to continue leveraging local resources in alignment with the self-sufficiency objectives outlined in your charter agreement (see Section VII, "Adaptive Resource Management"). Asterlyne's charter framework is designed to support colonist ingenuity and resilience, and we are confident in your team's ability to navigate this transitional period.*
+
+*We remain your partners in this endeavor.*
+
+*Warm regards,*
+*Charter Success Operations*
+*Asterlyne Corporation*
+
+Cole read it twice. The first time for content. The second time for what wasn't there.
+
+No revised delivery date. No manifest. No acknowledgment of the specific supply shortfalls he'd itemized. No reference to Clause 12.8 or the contractual obligation it established. The response was 247 words of corporate warmth wrapped around a void. It said everything a response was supposed to say — acknowledgment, assurance, forward-looking optimism — and committed to nothing.
+
+"Supply chain disruptions." The phrase sat in Cole's chest like a stone. On Earth, supply chain disruptions meant a container ship stuck in a canal or a warehouse strike delaying distribution by six days. Here, supply chain disruptions meant the company that owned the only route between this planet and everything else had decided the route wasn't worth running. The disruption wasn't mechanical. It was decisional. Someone at Asterlyne had looked at a spreadsheet, found the line item for Parcel 16b resupply, and made a choice.
+
+"Revised delivery windows are currently being assessed." Currently being assessed meant no one was assessing anything. The language was a holding pattern designed to prevent the next communication without providing grounds for a formal complaint. You couldn't file a breach claim against a company that was "assessing." Assessment was the corporate equivalent of the planet's dormant phase — a state that looked like activity but produced nothing.
+
+"We encourage the colony to continue leveraging local resources." Cole almost admired the construction. The contract guaranteed resupply. The response reframed the colony's survival without resupply as an "objective" of the charter itself. Section VII, "Adaptive Resource Management," was a two-page section about supplementing corporate supplies with local resources. Not replacing them. Supplementing. Asterlyne was citing a supplementary clause to justify abandoning the primary obligation. The footnote had swallowed the text.
+
+He folded the printout. Put it in his pocket. Looked at Ren.
+
+"They're not coming," he said.
+
+Ren nodded. She'd known before he said it. She'd known when she read the letter. Probably before that — probably from the moment the Month 13 window closed and the sky stayed empty. Ren had grown up inside systems that promised transparency and delivered opacity. She'd left Earth because the surveillance state that monitored everything somehow never noticed the things that mattered. She recognized institutional abandonment the way a doctor recognized symptoms. The diagnosis preceded the test.
+
+"Council first," she said. "Then everyone."
+
+"Council first. Then I'll tell them."
+
+"We'll tell them. Together."
+
+Cole looked at her. She looked back. The negotiation was in the eye contact — Cole's instinct to deliver bad news alone, to be the one who absorbed the reaction, to stand in front of thirty-five people and let them project whatever they needed onto the man holding the number. Ren's insistence that leadership was plural. That bearing it together wasn't weakness.
+
+"Together," he said.
+
+---
+
+The council met that evening in the common shelter. Five members: Cole, Ren, Garrett Polk, Haruki, and Kira — the water systems engineer who'd voted against the relocation and carried that opposition into a council seat that functioned as institutional conscience. She challenged every proposal. She demanded evidence. She was exhausting and necessary.
+
+Cole read the Asterlyne response aloud. Let the words land without interpretation. Then he laid out the inventory numbers. Six weeks of food at current rations. Medical supplies trending toward zero. No replacement parts for infrastructure that was already jury-rigged past its design life.
+
+The room processed it the way rooms process information that confirms what everyone already suspects — not with shock but with the particular silence of people rearranging their interior architecture around a fact they'd been building walls against.
+
+Garrett Polk spoke first. "So the signal array I wanted to build — the one you shut down because it would void the charter." He paused. Not for effect. Polk didn't do rhetorical pauses. He paused because the sentence he was constructing had a weight he wasn't sure he wanted to put down yet. "That was to call for rescue from the same company that just told us to go leverage our local resources."
+
+"Yes," Cole said.
+
+"And if I'd built it. Sent the signal. Asterlyne would've come?"
+
+"They'd have sent a retrieval crew. Billed us for extraction. Voided the charter."
+
+"But they'd have come."
+
+"To collect a debt. Not to help."
+
+Polk sat back. His face did the thing it did when he was processing a conclusion he didn't like — a tightening around the jaw, the eyes going flat and calculating. Cole had seen the same expression during the signal array confrontation in Month 4, when Polk had weighed escape against entrapment and found them identical. Now he was weighing it again, and the math was worse. The company he'd wanted to signal for rescue was the same company that had just stopped sending supplies. The rescue and the abandonment came from the same building.
+
+Kira leaned forward. "What does the contract say about breach? If they don't deliver, we have standing to—"
+
+"Arbitration," Cole said. "Clause 17.3. All disputes under the charter agreement are subject to binding arbitration administered through Asterlyne's designated arbitration body."
+
+"Asterlyne's designated—"
+
+"Their arbitration body. Their appointees. Their process."
+
+"And the arbitration filing requires—"
+
+"A functioning comm relay. Which they own. Which routes through their satellite. Which they can restrict, delay, or terminate at their discretion under Clause 17.8, 'Communications Infrastructure Management.'"
+
+Kira sat back. She was an engineer. She understood closed systems — circuits with no external input, feedback loops that referenced only themselves. The charter's dispute mechanism was a closed circuit. The entity you complained about was the entity that administered the complaint. The channel you complained through was the channel they controlled. The process was self-referencing, self-adjudicating, and functionally inoperable by design.
+
+"So there's no one to call," Kira said.
+
+"There's no one to call."
+
+Haruki, who had been quiet through the entire exchange, said: "What are we telling the colony?"
+
+Cole looked at him. Haruki's question wasn't about communication strategy. It was about what kind of truth they were going to deliver. The full truth — that the supply chain was severed, the contract was unenforceable, and the company that owned their charter had effectively abandoned them — was a truth with a body count. Not because the information was dangerous but because hope, once removed, left a space that panic filled.
+
+"The truth," Ren said. "All of it."
+
+"The truth all at once can break things that don't heal," Haruki said. He wasn't arguing against transparency. He was noting the medical reality that psychological shock produced physiological consequences, and the colony's reserves — physical, emotional, caloric — were already below the threshold where resilience was automatic.
+
+"Withholding it breaks things too," Ren said. "The hoarding's already started. People can feel it."
+
+She was right. Cole had noticed the signs over the past two weeks. Colonists eating faster at shared meals, taking portions back to their shelters instead of eating in the common area. Small caches appearing — protein bars tucked into personal storage, water containers filled beyond daily need. The colony's social architecture, which Ren had spent months building through shared meals and council transparency, was developing cracks that followed the same fault lines as the supply shortage. People reverted to individual survival when they sensed the group couldn't protect them. It was biology, not betrayal. But it would kill them just as effectively.
+
+"Tomorrow morning," Cole said. "Full colony. We tell them everything."
+
+---
+
+He told them in the morning, standing in front of thirty-five people in the common area between the shelters Dana had helped position for optimal growing light. The sky was doing its green-shift thing, the light falling through the spiral trees at the settlement's edge in long, filtered columns. A beautiful morning to deliver the news that they were alone.
+
+Cole didn't give a speech. He didn't know how to give speeches, and the colony didn't need rhetoric. They needed the number.
+
+"The supply drop isn't coming," he said. "Asterlyne responded to our inquiry. There is no revised delivery date. There is no commitment to resupply. The language of their response indicates a decision, not a disruption." He held up the printout. "Anyone who wants to read the full text can. Ren has copies."
+
+The silence wasn't dramatic. It was computational. Thirty-five brains running the same calculation at different speeds, arriving at the same answer by different routes. Some got there in seconds — the ones who'd already been hoarding, already bracing, already building the interior architecture of a life without external support. Some took longer. A few looked at the sky, as though the supply shuttle might materialize if they checked at the right moment.
+
+"How long do we have?" someone asked. Cole didn't track who. The question came from the middle of the group, from the anonymous center where individual voices blurred into collective need.
+
+"Food: six weeks at current ration. Eight if we adjust. Dana's agricultural program is our primary food source going forward. The native species she's mapped will sustain us if we expand the plots and manage the growing cycle correctly." He looked at Dana, standing at the edge of the group, arms crossed, face still. "Water is stable. The channel drainage system is reliable. Medical is the pressure point. Haruki."
+
+Haruki stepped forward. Spoke the way he always spoke — gentle, precise, clinical only when the clinical was the mercy. "We have antibiotics for approximately six weeks. Anti-inflammatories for four. Anesthetics for two, maybe three procedures. After that, we're working with what the planet provides. Dana and I have identified native compounds with analgesic and antimicrobial properties. They're not substitutes. They're alternatives."
+
+The word sat in the air. Alternatives. The medical version of Asterlyne's "adaptive resource management." The colony was being told to adapt, by people they trusted, using the same logic the company had deployed. Except Haruki meant it honestly, and Asterlyne hadn't, and the colonists could tell the difference. Trust lived in the gap between those two uses of the same word.
+
+Ren spoke last. She talked about the council's plan — expanded food production, resource sharing protocols, a medical rationing system Haruki had designed. She talked about the structures they'd built and the systems that worked. She didn't talk about the contract, or the arbitration clause, or the fact that the company's dispute mechanism was designed to be unreachable. That was Cole's weight. She carried the forward-looking part. He carried the closed door.
+
+The meeting ended. People dispersed. Some went to work. Some went to their shelters and didn't come out for hours. The colony absorbed the information the way it absorbed everything — unevenly, individually, in the privacy of thirty-five separate reckonings with the same fact.
+
+The fights started within the week.
+
+---
+
+The first fight was over food. Two colonists in the supply shelter, one accusing the other of taking an extra ration. Ren broke it up. The accusation was true — the accused had taken a protein bar beyond his allocation. The accuser had been watching because she was considering doing the same thing. The fight wasn't about a protein bar. It was about the architecture of scarcity, and the way scarcity made surveillance into survival and generosity into risk.
+
+The second fight was worse. A construction crew argument about shelter maintenance priorities that escalated into shoving, then a thrown tool, then Haruki treating a laceration above someone's eye while Cole stood in the doorway and tried to calculate whether the energy spent on anger was a net loss the colony could absorb.
+
+The hoarding accelerated. Cole found a cache under a colonist's cot — three days of rations, a water bottle, a thermal blanket. He didn't confiscate it. He sat with the colonist, a woman named Val, who'd been an accountant on Earth and had signed the charter because her firm had automated her position and her severance didn't cover the gap between unemployment and homelessness. Val didn't apologize for the cache. She looked at Cole with the expression of someone who'd done the math and found the same answer he had.
+
+"I know," she said. "I know it doesn't help."
+
+"It doesn't help," Cole confirmed.
+
+"But I can see it. I can touch it. It's mine."
+
+Cole understood. Scarcity reduced people to their most primitive accounting — what's mine, what's yours, what I can hold in my hands. The communal systems Ren had built were social technology, fragile and dependent on the belief that the group was stronger than the individual. When that belief cracked, the technology failed. People didn't stop being communal because they were selfish. They stopped because the math no longer supported it.
+
+He left Val's cache where it was. Told Ren. Ren disagreed — said the caches undermined the rationing system, that transparency was the only way to maintain trust. Cole said trust was already gone. What they were maintaining was function. The distinction mattered. You could function without trust. You couldn't function without food.
+
+They compromised. Public inventory counts, weekly. Every colonist could see exactly what existed and exactly what was allocated. No confiscations. No punishments. Just the numbers, laid bare, so the math was shared even when the trust wasn't.
+
+It slowed the hoarding. It didn't stop it. Nothing would stop it until the food supply stabilized, and the food supply wouldn't stabilize until Dana's expanded agricultural program produced enough to replace what Asterlyne would never send.
+
+---
+
+A colonist named Webb walked into the forest at dawn on Month 16, Day 9.
+
+Cole learned about it from the perimeter check. The morning buddy-system rotation — two colonists per shift, four-hour circuits, the protocol Cole had built in Week One and reinforced after every death that originated beyond the markers — reported that Webb had left his shelter before first light, walked past the eastern perimeter, and continued into the spiral-trunked trees without stopping, without speaking to the team on watch, without taking water or supplies.
+
+Webb was forty-one. Former logistics coordinator — one of the few colonists whose Earth career had any overlap with what the colony needed. He'd been competent. Steady. Not loud, not invisible. The kind of person who showed up for shifts, did his allocation, ate his ration, and went to sleep without complaint. He'd voted with the twenty-one during the relocation. He'd served on Ren's supply committee. He hadn't hoarded. He hadn't fought. He'd done everything right.
+
+Cole organized the search party. Four colonists, armed with the makeshift tools that passed for weapons on a planet where the threats were biological and chemical rather than predatory. They followed Webb's trail through the understory — boot prints in the lavender soil, broken stems, a path that didn't zigzag or hesitate. He'd walked in a straight line. East. Away from the settlement, away from the channels, away from the perimeter and the systems and the numbers.
+
+They searched for two days. On the second evening, Cole called it off. The forest was too large, the colony too small, and every person searching for Webb was a person not producing food, not maintaining infrastructure, not keeping the systems alive that kept the rest of them breathing.
+
+Haruki found the body on Day 12. Three days after the search ended. Two kilometers east, at the base of a spiral-trunked tree that was wider than the shelters. Webb was sitting against the trunk, legs crossed, hands in his lap. No visible trauma. No signs of the planet's particular violences — no dissolution, no spore damage, no allergic cascade. He looked like a man who'd sat down and stopped.
+
+Haruki's assessment was brief. Exposure. Dehydration. Possibly hypothermia during the night cycle. The specific cause was almost irrelevant. Webb hadn't died of the planet. He'd died of the absence of a reason to stay alive on it. He'd come to Parcel 16b looking for stability — a contract, a structure, a system that functioned — and found a planet that changed its rules every orbital cycle and a company that stopped sending supplies and a future that narrowed every time he looked at it. The accumulation had finally exceeded what his architecture could hold.
+
+Cole stood over the body and did the thing he always did. The count.
+
+Thirty-four.
+
+He carried it back to the settlement with Haruki. They buried Webb near the eastern perimeter, in the soil between the markers and the tree line, the boundary between the world they'd built and the world that had been here before them. Ren said a few words. Cole didn't. He stood at the edge of the group and watched the dirt fill in over a man who'd done everything right and died because doing everything right wasn't the same as having something to do it for.
+
+---
+
+That night, Cole sat in the comm shelter with the charter open on the terminal. The full document. Two hundred pages. He'd read it three times since landing — once in the onboarding center, once on the transit ship, once in Month 6 when the second cycle began. Each reading had revealed something the previous one hadn't. The contract was a living document in the worst sense — not because it changed, but because the reader changed, and the language shapeshifted against each new context.
+
+He went to Clause 17. Dispute Resolution.
+
+*17.1: Any dispute arising under or in connection with this charter agreement shall be resolved exclusively through binding arbitration.*
+
+*17.2: Arbitration shall be administered by the Asterlyne Corporate Arbitration Council (ACAC), in accordance with ACAC procedural rules as amended from time to time.*
+
+*17.3: All arbitration filings must be submitted through the designated communications infrastructure provided under Section IX of this agreement.*
+
+*17.4: The arbitration panel shall consist of three arbitrators selected by the ACAC from its approved roster.*
+
+*17.5: The decision of the arbitration panel shall be final and binding on all parties, with no right of appeal.*
+
+He read 17.3 again. All arbitration filings must be submitted through the designated communications infrastructure. Section IX defined the communications infrastructure as the orbital relay satellite. The orbital relay satellite was Asterlyne property, maintained by Asterlyne, operated under Asterlyne protocols. To file a complaint against the company, you used the company's equipment, through the company's system, to reach the company's arbitration body, staffed by the company's appointees.
+
+Clause 17.8: *"Asterlyne Corporation reserves the right to perform maintenance, modification, or temporary suspension of communications infrastructure as required for operational integrity. Such actions shall not constitute breach of charter obligations."*
+
+They could shut down the relay. Call it maintenance. The arbitration clause required the relay. If the relay was down, the filing couldn't be made. If the filing couldn't be made, the dispute didn't exist. If the dispute didn't exist, the breach was theoretical. The system wasn't broken. The system was designed.
+
+Cole scrolled to Section IX. Communications. Clause 9.1 through 9.7. Standard infrastructure provisions. Clause 9.8: "Communications services are provided on an as-available basis and are subject to modification at Asterlyne's sole discretion." As-available. Sole discretion. Eight words that turned a contractual right into a corporate courtesy.
+
+He went back to Clause 12.8. The supply obligation. Read it with the filter of seventeen clauses of dispute resolution that funneled every complaint through a channel the company controlled.
+
+*"Asterlyne Corporation shall provide semi-annual resupply deliveries during Years Two through Five, contents to be determined by operational need assessments conducted in accordance with Appendix G."*
+
+Contents to be determined by operational need assessments. Who conducted the assessments? Appendix G, Paragraph 4: "Operational need assessments shall be performed by Asterlyne's Charter Support Division based on available data, including but not limited to field reports, environmental monitoring, and resource utilization metrics."
+
+Available data. Field reports. The reports Dana was sending through her hidden comm unit — Cole didn't know that. But Elena had known something adjacent. Elena's Month 14 log entry, the one Cole had posted in the common shelter, the one Dana had read three times: *I am making us expendable by proving we are capable.* Elena had filed standard reports. Asterlyne had used them to calculate the minimum. The mechanism didn't need a spy. The mechanism was the system itself.
+
+Cole closed the charter. Sat in the comm shelter in the dark, the terminal's standby light casting a pale rectangle on the wall. The hum of the trees pressed through the shelter walls. Outside, the colony was trying to sleep. Thirty-four people in shelters they'd built themselves on ground they didn't own, eating food the planet grudgingly provided, drinking water from channels carved by something that had been here before them and was gone.
+
+No one was coming.
+
+He'd known it intellectually since Month 13, when the delivery window closed and the sky stayed empty. He'd known it strategically since the Asterlyne response, when 247 words of corporate poetry confirmed that the absence was policy, not accident. But knowing a thing and understanding it were different operations, and understanding arrived now, in the comm shelter, in the dark, with the charter's language still scrolling behind his eyes.
+
+There was no external recourse. The arbitration was unreachable. The comm relay was a leash. The supply obligation was a sentence that Asterlyne could render meaningless through the same document that established it. The contract was self-consuming — rights defined in one clause, neutralized in another, the architecture so dense that no single reading could hold the whole picture. You had to read it three times, four times, with the context of fifteen months on a planet the company had surveyed and abandoned and surveyed again, before the shape emerged.
+
+The forty-seven had always been alone. From the moment they signed. From the moment Cole sat in that onboarding center and read two hundred pages while everyone else skimmed and initialed. The contract wasn't a ladder. It wasn't even a leash. It was a room with a door that opened inward, and the key was on the outside, and the lock was labeled "Dispute Resolution."
+
+Except for one clause. One line buried in the middle of a document designed to be unread, written by lawyers who'd calculated the odds of anyone surviving long enough to invoke it.
+
+Clause 9.4.2. Fifty-one percent of original signatories alive at the five-year mark. Twenty-four out of forty-seven. Land transfers in perpetuity.
+
+The clause didn't require arbitration. Didn't require Asterlyne's approval. Didn't route through the comm relay or the corporate assessment process. It was self-executing. A trigger built into the contract's own logic, activated by a single condition: survival. The only right in the charter that the company couldn't adjudicate, delay, or redefine.
+
+Because they'd never expected anyone to survive long enough to invoke it.
+
+Cole sat in the dark. Thirty-four. He needed twenty-four. Ten lives of margin. Thirty-six months remaining. Every system on the planet trying to subtract from a number that had to hold.
+
+He didn't feel hope. Hope was a word for people who hadn't read the contract. What he felt was closer to recognition — the cold clarity of seeing the entire board, every piece, every rule, and understanding that the game had exactly one winning move, and it was the one he'd identified on Day Zero in a corporate waiting room on Earth while forty-six other people skimmed and signed.
+
+Stay alive. Keep them alive. Count the days.
+
+He turned off the terminal. The pale rectangle on the wall disappeared. The hum of the trees was the only sound. Cole sat in it and let the recognition settle, not like comfort, but like a foundation. The kind of thing you could build on, if you were willing to build on something that cold.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-16-fever}
+
+# Chapter 16 — Fever
+
+The first case appeared on Month 17, Day 3.
+
+A colonist named Dara woke with a temperature of 39.2, a dry cough, and a headache she described to Haruki as "a band across the front, like pressure." Haruki noted the symptoms, gave her water and the last of the ibuprofen he'd been rationing since Month 12, and told her to rest. He didn't quarantine her. There was nothing in the symptom profile that suggested contagion — fever and headache on Parcel 16b could mean anything. Atmospheric spore exposure. Soil contact. A native compound triggering an immune response. The planet had a dozen ways to make a person sick, and they'd cataloged fewer than half.
+
+By Day 5, there were four more cases. By Day 7, eleven.
+
+Haruki quarantined on Day 5. Too late. The pathogen was already through the colony, carried by shared meals, shared tools, shared air in shelters that had never been designed for airborne containment. Cole watched the numbers climb and did what he always did — built a system. He divided the settlement into zones. Healthy colonists in the western shelters. Symptomatic in the eastern two, closest to the medical shelter. A corridor of open ground between them that people crossed only with purpose and speed.
+
+The system was sound. The system was also irrelevant. By the time he implemented it, half the colony had been exposed.
+
+Haruki's diagnosis came on Day 8, delivered in the medical shelter to Cole and Ren while three colonists lay on cots behind them, breathing in the shallow rhythm of people whose bodies were fighting something they couldn't see.
+
+"It's not alien," Haruki said. He was standing at his workbench — a repurposed equipment crate fitted with a flat surface and the portable diagnostic kit that had been insufficient since Day One. His hands were steady. They were always steady. "The pathogen is human. Influenza variant, mutated. Our closed population, limited genetic diversity, recycled air in the shelters — the virus has been cycling through us in subclinical form since transit, probably. Mutating in a biome it wasn't evolved for. The planet's atmosphere has trace compounds that interact with human respiratory tissue in ways we don't fully understand. Something accelerated the mutation."
+
+"How bad?" Cole asked.
+
+Haruki looked at him. The look said more than the words that followed, the way Haruki's looks always said more. He communicated diagnosis through eye contact before he communicated it through language, as though the clinical precision was a translation of something he'd already understood at a level below speech.
+
+"For healthy adults with adequate nutrition and rest, the fever runs five to seven days. Unpleasant. Survivable. For anyone with compromised respiratory function, weakened immune reserves, or pre-existing injury —" He paused. Not for drama. Haruki didn't do drama. He paused because the next sentence required accuracy, and accuracy in medicine sometimes meant waiting for the right word. "The risk is significant."
+
+Cole heard the categories and his mind populated them instantly. Compromised respiratory function: Patricia, whose cough had started during the relocation and never fully resolved. Eight months of low-grade bronchial irritation, treated with Dana's botanical tinctures, managed but not cured. Pre-existing injury: James, whose compound fracture from the relocation had healed wrong, whose immune system had spent months fighting the inflammation that Haruki managed with a dwindling supply of anti-inflammatories that the supply drop would have replenished if the supply drop had come. Weakened immune reserves: half the colony. Everyone who'd been rationing themselves so others could eat. Everyone who'd been sleeping in shifts, working double rotations, burning through caloric reserves that were never replenished because the planet's food sources sustained life without restoring it.
+
+"Dana," Cole said.
+
+"I've sent her the pathogen data. She's already working."
+
+---
+
+Dana was in the research shelter, surrounded by the organized chaos of someone racing a clock they couldn't see. Sample containers lined the bench. Three native plant specimens were laid out on the flat surface, root systems exposed, leaves separated into individual piles. The portable analysis kit — the same one she'd used to crack the soil cycle, the creep composition, the channel network's mineral biology — was running a comparison that made a soft clicking sound every four seconds as it processed.
+
+She didn't look up when Cole entered. She was holding a leaf up to the lamplight, studying the vein structure with the intensity of someone reading a sentence that contained a word she almost recognized.
+
+"Haruki sent the viral profile," she said. "I've been cross-referencing against the botanical database I've built. There are six native species with compounds that interact with human biology. Three are toxic. Two are inert. One —" She set the leaf down. Picked up a root segment. "This one has antiviral properties. I identified it during Month 9 when I was cataloging the dormancy-phase species. The compound inhibits viral replication in the lab samples. Slowly. Not like Earth antivirals — it doesn't kill the pathogen. It slows it down enough for the immune system to catch up."
+
+"How slowly?"
+
+"Three to four days to reach therapeutic concentration in the body. The fever runs five to seven. If I can get it into people within the first forty-eight hours of symptoms, it shortens the course by two days and reduces peak temperature by about a degree and a half."
+
+Cole processed the math. A degree and a half was the difference between a fever the body managed and a fever that cooked the brain. Two days was the difference between an immune system that held and one that collapsed. Dana's compound wasn't a cure. It was a margin. A thin one. But margins were what Cole worked with.
+
+"How much can you produce?"
+
+"I've been growing this species in the secondary plots since Month 11. I have enough root stock to treat twenty people. Maybe twenty-five if I reduce the concentration and extend the interval."
+
+"Thirty-four people in the colony."
+
+"Twenty-five doses."
+
+The gap sat between them. Nine people who wouldn't get the compound. Nine people whose immune systems would fight the virus alone, at full strength, for the full duration. Cole's mind went where it always went — to the triage. Who needed it most. Who could survive without it. The calculation was automatic, a reflex built into him the way warehouse managers learned to sort inventory by urgency without thinking about it. The bodies on the cots weren't inventory. He knew that. He'd been learning that for seventeen months. But the reflex still fired.
+
+"Prioritize the compromised," he said. "Patricia. James. Anyone Haruki flags as high-risk. Then the infrastructure-critical — you, Haruki, Ren, the water team. Everyone else gets it if there's enough."
+
+Dana nodded. She'd already been thinking the same thing. She was a scientist; triage was data-driven allocation by another name. She went back to the root stock, began the extraction process, and Cole left her to it.
+
+---
+
+Patricia died on Day 11.
+
+The cough that had started during the relocation — that persistent, low-grade rasp that Haruki had treated and managed and never quite silenced — had weakened her lungs over eight months of continuous inflammation. The tissue was scarred. The virus found the scarring the way water finds a crack in a foundation. It settled there, replicated, built pressure. Dana's compound reached her on Day 6, within the treatment window, at full concentration. It wasn't enough.
+
+Haruki sat with her through the last hours. Cole was there at the end — standing in the doorway of the medical shelter, watching Haruki hold Patricia's hand while her breathing went from shallow to intermittent to still. She was forty-seven. Former high school teacher from a district that had been defunded twice before she signed the charter. She'd taught the younger colonists basic mathematics during the transit. She'd helped Ren design the council's voting procedures. She had a laugh that carried across the settlement, a bright, startling sound that didn't match her quiet face, and Cole realized he'd stopped hearing it weeks ago without noticing.
+
+The colony was at thirty-three. Cole counted it before he could stop himself. Before the grief or the anger or whatever the feeling was that tightened his throat when Haruki pulled the blanket up and said, softly, the way he said everything, "She's gone." The number came first. It always came first. Thirty-three. He needed twenty-four. Nine of margin. The number should have felt like enough. It didn't feel like anything. It was just a number in a room where a woman had stopped breathing.
+
+James died two days later. Day 13. The compound fracture had been managed for eight months on a diminishing supply of anti-inflammatories and Haruki's precise, exhausting regimen of physical therapy and wound management. James's body had been fighting two battles — the fracture's chronic inflammation and the daily caloric deficit of colony life — and when the virus arrived, it found a system that had nothing left to give. The fever spiked to 40.8 on Day 10. Dana's compound brought it down to 39.4. Haruki did everything a doctor with limited supplies and unlimited attention could do. James's immune system, hollowed out by eight months of fighting on two fronts, surrendered on the third.
+
+He was thirty-six. Former construction foreman. He'd taken the compound fracture during the relocation — Night Five, carrying a shelter beam across uneven ground in the dark, the kind of work that should have been done by equipment they didn't have. He'd never complained about the pain. He'd complained about the rationing, about the council's decisions, about the weather and the food and the color of the sky, because James was the kind of man who complained about everything except the thing that was actually killing him. Cole had respected that without understanding it. Now he understood. Complaining about small things was how James kept the large thing from becoming real.
+
+Thirty-two.
+
+The number arrived and Cole held it the way he held all the numbers — in the center of his chest, behind the sternum, where it sat with the weight of a stone he couldn't put down and wouldn't put down because the weight was the point. The weight was what kept him counting.
+
+---
+
+Joss Carver's fever started on Day 9. Late onset. He'd been in the healthy zone, working water filtration, staying away from the medical shelter the way twenty-three-year-olds stayed away from things that scared them — not by avoiding them but by being aggressively useful somewhere else. He'd doubled his shifts. Carried water. Cleaned the filtration membranes Cole had been rationing since the supply drop didn't come. He'd worked until his hands cracked and his shoulders ached and his body, running on inadequate food and accumulated sleep debt, finally opened a door the virus walked through.
+
+Haruki put him in the medical shelter on Day 9. Cole saw the name on the intake log and felt something shift in his chest that wasn't the stone of numbers. Something less organized. Less useful.
+
+The fever climbed. 38.5 on Day 9. 39.1 on Day 10. 39.8 on Day 11, the day Patricia died across the shelter, separated from Joss by three cots and a curtain that didn't block sound. Joss heard Patricia's breathing stop. He didn't say anything. His eyes were open, glassy, fixed on the shelter ceiling, and Cole, sitting on an equipment crate next to the cot, watched the knowledge pass across Joss's face like weather.
+
+Dana's compound reached Joss on Day 10. Full dose, within the window. His body was young, resilient, undamaged by chronic injury or eight months of bronchial inflammation. The compound should have worked the way it worked on the other healthy adults — peak fever reduction, shortened course, survivable misery. But Joss's immune system had been running on empty since before the virus arrived. The doubled shifts, the inadequate calories, the sleep he'd traded for productivity. He'd been eating his own reserves for weeks, and the virus found an account with nothing in it.
+
+Day 12. Temperature 40.1. Haruki's face when he read the thermometer was the steadiest version of fear Cole had ever seen — not the absence of it but the absolute containment of it, the way a dam holds water not by being unaffected but by being engineered to bear the pressure without moving. Haruki adjusted the compound dosage. Applied cold compresses. Elevated Joss's legs to manage the blood pressure drop that came with sustained high fever. He did everything a doctor does when the medicine is working too slowly and the body is burning too fast.
+
+Cole stayed.
+
+He'd been in the medical shelter since Day 10. Not continuously — he left for council meetings, for the brief daily briefings with Ren about the colony's functional status, for the twenty minutes each morning when he walked the perimeter and counted shelters and told himself the systems were holding. But he came back. Every time. Sat on the equipment crate next to Joss's cot and waited for the thermometer to say something different.
+
+He didn't know when Joss had become the person he sat with. The kid had been a name on a manifest at first — twenty-two, over-prepared, nervous, the type who asked too many questions during orientation because silence terrified him more than looking foolish. Cole had categorized him during transit the way he categorized everyone: useful, marginal, liability. Joss had been marginal. Young. Untested. His anxiety was a resource drain — people spent energy reassuring him instead of working.
+
+Seventeen months had changed the categorization. Not because Cole's system had been wrong but because the variables had shifted. Joss had found water on the second day, identifying a mineral signature in the channel drainage that improved filtration. He'd built the secondary membrane system during Month 8 when the primary filters started degrading. He'd taught two other colonists the maintenance protocol, creating redundancy in a skill set the colony couldn't afford to lose. The nervous kid who asked too many questions had become a quiet, competent twenty-three-year-old who asked the right questions and then built the answers.
+
+Cole had watched it happen. Had watched it the way he imagined fathers watched things — from a distance that felt chosen but wasn't, with a pride that had no right to exist but did anyway, rooted not in ownership but in witness.
+
+Now he sat next to the cot and listened to Joss breathe.
+
+---
+
+Day 13. Night. The worst one.
+
+Joss's temperature hit 40.4 at sundown. Haruki was treating James in the adjacent section — James, who would die before morning, whose body was already in the process of surrender though no one had named it yet. Haruki had left instructions: cold compresses every thirty minutes, small sips of water if Joss could swallow, and a dose of Dana's compound at midnight that represented the last of the concentrated extract before she had to switch to the diluted batch.
+
+Cole did the compresses. Wrung the cloth in the basin of channel water, folded it, placed it on Joss's forehead. The water was cool, mineral-rich, slightly cloudy with the dissolved sediment that gave it its particular taste. Joss flinched each time the cloth touched his skin. His body was so hot that the cool water felt like ice to him. His hands gripped the edges of the cot. His fingers were white at the knuckles.
+
+"Talk to me," Joss said. His voice was cracked. Thin. The voice of someone whose throat had been raw for four days.
+
+"About what?"
+
+"Anything. I can't — when it's quiet I can hear my own heartbeat and it's too fast and I start counting it and then I can't stop counting."
+
+Cole understood that. The tyranny of counting. He'd been doing it since Day Zero.
+
+"What do you want to hear?"
+
+"I don't care. Tell me about Earth. Tell me about before."
+
+Cole sat with the question. Before. The word covered thirty-eight years of a life he'd left because it had stopped containing reasons. Warehouse floors and shift schedules and an apartment that shrank every month and a custody hearing where a judge explained, with professional compassion, that an absent father was a concept, not a parent. Before was a place Cole had organized into boxes the way he organized inventory — labeled, shelved, accounted for, never opened.
+
+"I have a daughter," he said.
+
+The words left his mouth and sat in the air between them, surprised at their own existence. Cole hadn't said them aloud since landing. He'd thought them — every day, multiple times, the way a tongue returns to a broken tooth. But thinking and saying were different operations. Thinking was private. Saying was a door that opened in both directions.
+
+Joss turned his head on the cot. His eyes were fever-bright, glassy, but present. Focused on Cole's face with the intensity of someone who understood they were being given something.
+
+"What's her name?"
+
+"Lily."
+
+"How old?"
+
+"She's nine. She likes drawing horses. She thinks I'm on a work trip."
+
+The lie. The same lie he'd written in the message that took him two hours to compose in Month 6 — three sentences about trees and distance and nothing about why. The lie that made the distance manageable because the truth made it monstrous. He hadn't gone on a work trip. He'd calculated the odds of his own survival, signed a contract that bet his life against a corporate clause, and traveled to a planet where the air smelled like ozone and the trees hummed at frequencies below hearing, because staying on Earth meant watching his daughter grow up through a window that got smaller every year, and leaving meant the window might open again in five years if enough people didn't die.
+
+He'd never said that to anyone. Not to Ren, who'd seen through his deflections since transit. Not to Haruki, whose diagnostic gaze read emotional pathology as fluently as physical. Not to the data core in his shelter where Elena Vasik's ghost narrated a parallel failure with a scientist's precision. He'd said it to nobody because saying it would require examining the logic, and the logic, examined, looked like this: he had abandoned his daughter in order to earn the right to return to her. The math was sound. The math was always sound. And the math was the ugliest thing he'd ever built.
+
+"Is she like you?" Joss asked.
+
+Cole looked at the kid — twenty-three, burning with fever, dehydrated, possibly dying, and asking whether a nine-year-old girl on a planet he'd never see resembled the man sitting on an equipment crate holding a damp cloth. The question was generous in a way that Cole didn't deserve and couldn't deflect.
+
+"I don't know," he said. "I wasn't there enough to find out."
+
+Joss was quiet for a while. His breathing was audible — that labored, conscious breathing of someone whose body was demanding more air than the lungs wanted to provide. The medical shelter's walls flexed slightly in the night wind. Outside, the trees hummed.
+
+"You'll find out," Joss said. "When we get through this."
+
+When. Not if. The kid was running a 40.4 fever and he said when. Cole felt the crack in his chest widen — not the stone of numbers, not the weight of the count, but something underneath it. Something the numbers had been sitting on top of, pressing down, keeping sealed. The thing beneath the math.
+
+He put the cloth on Joss's forehead. Joss flinched and gripped the cot's edge. Cole didn't take his hand. Didn't say anything reassuring. Sat there in the dark with a twenty-three-year-old who might die before morning and a nine-year-old who existed in a message he'd sent six months ago across a distance measured in light-years, and felt the math crack.
+
+Not break. The math didn't break. The math was structural — it held the colony, it held the clause, it held the count. But the thing the math was for — the reason underneath the calculation — shifted. Moved. Became visible through the crack the way light becomes visible through a fracture in a wall.
+
+He wasn't counting to twenty-four because twenty-four was the number that triggered the clause. He was counting because every number was a face and every face was a person who was alive because the systems held and the compound worked and Haruki's hands were steady and Dana's plants grew in the right soil at the right time. Every number was someone who breathed and ate and argued and slept and woke up and did it again, not because a contract told them to but because they were still here and being here was the thing. The only thing.
+
+Cole sat in the medical shelter and held a cloth against a burning forehead and understood, for the first time in seventeen months, that the math had never been the reason. The math was the tool. The reason was the kid on the cot. The woman who'd died that morning. The man dying across the shelter. The thirty-two people in the shelters outside, sleeping or not sleeping, afraid or not afraid, alive.
+
+The reason was that he didn't want them to die.
+
+Not for the count. Not for the clause. Not for the arithmetic that turned survival into ownership. He didn't want them to die because they were his, the way Lily was his — not by possession but by proximity, by shared oxygen, by the accumulated weight of seventeen months of keeping them breathing. He'd become responsible for them the way you become responsible for anything: by staying.
+
+---
+
+Joss's fever broke on Day 15.
+
+Cole was there. He'd been there for six days. Ren had run the colony in his absence — the systems he'd built were robust enough to function without him, which was either a testament to their design or evidence that he wasn't as essential as he'd convinced himself. Ren handled it with the pragmatic efficiency that made her dangerous and necessary. She didn't comment on Cole's absence from operations. She understood what was happening in the medical shelter without being told, the way she understood most things — by reading the structure of the situation and inferring the human architecture inside it.
+
+The fever dropped from 39.6 to 38.1 between midnight and dawn. Haruki checked it twice because the first reading seemed wrong — too good, too fast, the kind of improvement that sometimes preceded a final spike. The second reading held. Joss's body, young and stubborn and running on whatever reserve a twenty-three-year-old's cells kept hidden for exactly this kind of crisis, had turned the corner.
+
+Joss slept. Actually slept — not the fitful, fever-driven half-consciousness of the past week but real sleep, his breathing deep and even, his hands unclenched for the first time in days. Cole watched him for twenty minutes. Counted his breaths the way he counted everything. This time the counting felt different. Not inventory. Not triage. Just attention.
+
+Haruki came over. Stood next to Cole. Looked at the sleeping kid with the expression of a doctor who'd won a fight he'd expected to lose.
+
+"He's going to be all right," Haruki said.
+
+"The others?"
+
+"The compound is working. Slowly. Most of the active cases are past peak. We'll lose the next few days to recovery, but the fever's breaking across the colony." He paused. Did the thing Haruki did when he was transitioning from clinical to personal — a small shift in posture, a softening around the eyes that most people wouldn't notice. "You should eat something."
+
+"I'm fine."
+
+"You haven't eaten in thirty hours. You're not fine. You're functional, which is a different thing." Haruki looked at him directly. "He's going to wake up. You should be standing when he does. Standing requires calories."
+
+Cole almost smiled. Haruki's mercy was always practical. The man didn't say take care of yourself because he cared about you. He said eat because your body is a system and systems require input. It was the kindest form of pragmatism Cole had ever encountered.
+
+He stood. His knees ached — six days on an equipment crate, moving only to wring cloths and check temperatures and walk to council meetings where he contributed nothing because his mind was in the medical shelter. His back had stiffened into a posture that wasn't quite standing and wasn't quite sitting but was the shape of a man who'd been holding vigil.
+
+He walked outside.
+
+The settlement was doing its morning thing — people moving between shelters, the water team running the filtration check, smoke from the cooking area where someone was heating the bitter tubers that passed for breakfast. The sky was pale green. The spiral-trunked trees at the settlement's edge caught the early light and cast long shadows that rotated slowly as the planet turned, the shadows moving in patterns that were alien and, after seventeen months, almost familiar.
+
+Thirty-two people. Two dead. The rest recovering, or recovered, or never sick in the first place. Thirty-two people eating and walking and working and being alive on a morning that looked like every other morning except that Cole was seeing it differently.
+
+He'd walked out of the medical shelter and the count had come — automatic, reflexive, the first thing his mind did when it encountered the colony. Thirty-two. But the number didn't settle into the place it usually settled, the cold ledger behind his sternum where the count lived alongside the target and the margin and the days remaining. The number went somewhere else. Somewhere less organized. Somewhere that felt more like the crack in the wall of the medical shelter where the light came through.
+
+Thirty-two people he didn't want to lose.
+
+Not thirty-two units of a survival equation. Not the margin between here and clause 9.4.2. Thirty-two people whose names he knew, whose habits he'd memorized, whose losses he'd carried from the signing room to here. Patricia, who laughed in a way that didn't match her face. James, who complained about everything except the thing that killed him. Webb, who'd done everything right. Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus and Thomas Chen and Noor and Suri. Fifteen names. Fifteen subtractions from a number that had started at forty-seven and now sat at thirty-two and would keep subtracting because the planet didn't care about arithmetic and neither did disease and neither did the slow erosion of people who ran out of reasons before they ran out of breath.
+
+Cole stood in the morning light and felt the math crack wider. The structure held. The count continued. But the reason underneath it — the cold engine that had driven him since Day Zero, the calculator that turned people into margin — that mechanism had shifted. Not failed. Shifted. The way a building shifts on its foundation during a seismic event. Still standing. But the angles were different now, and the light came in through places it hadn't before.
+
+He went to the cooking area. Ate a bowl of the bitter tubers. Tasted them for the first time in months — the chemical undertone, the gritty texture, the warmth. Sat with three colonists who were eating in silence, the companionable silence of people who had survived the same week and didn't need to talk about it. He ate with them. Let the silence hold.
+
+Then he went back to work.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-17-elena-year-two}
+
+# Chapter 17 — Elena, Year Two
+
+Cole read the last of Elena Vasik's Year Two logs on a night when the settlement was quiet and the hum of the trees had dropped to the frequency he felt in his molars.
+
+He was in his shelter. The data core sat on the makeshift desk he'd built from salvaged equipment panels — the same desk where he tracked the count, wrote messages to Lily, and ran the calculations that kept thirty-two people eating. The data core's screen was small, its backlight dying in the way all Asterlyne equipment died: slowly, predictably, without apology.
+
+He'd been rationing Elena the way he rationed everything. A few entries at a time, spaced across months, taken when the colony's situation aligned with hers closely enough that the data was useful. Her Year One had been a map. Her Year Two had been a warning. What remained was the ending.
+
+He opened the files past Month 15.
+
+---
+
+Elena's colony had been nine at the start of Year Two. The entries from Months 13 through 15 — the ones Cole had read during the creep crisis — had documented the dormancy phase, the food shortage, the biological mat at the forest edge. Clinical language, specific data, a scientist still doing science.
+
+Month 16 was different.
+
+*Month 16, Day 4. The creep has consumed the eastern shelter line. We're relocating again. Third time. Running out of room. Eight of us. Katya isn't speaking to anyone. Not hostile. Just finished. She does her work and eats her portion and sleeps with her back to the rest of us. I don't think she's made a decision to withdraw. I think she's run out of the specific energy that connecting to other people requires, and without resupply of that energy, the function has shut down. I've seen equipment do the same thing.*
+
+Cole read it in the half-dark. Katya wasn't a person he knew. She was a data point in a dead woman's log, a name attached to a behavior Cole recognized because he'd been watching it happen for twenty months. The slow shutdown. Not despair — something more mechanical than despair. A conservation response. The organism reducing its outputs to match its inputs, and social connection was the first line item cut because it cost the most and returned the least in immediate survival terms.
+
+He'd seen it in his own colony. After the fever. After Patricia and James. The thirty-two who remained had pulled closer in some ways — shared meals continued, the council met, Ren's systems held. But the texture had changed. People talked less. Laughed less. The jokes that had emerged during the middle months, the ones Cole didn't always understand, had gone quiet. The colony wasn't fracturing. It was dimming.
+
+*Month 17, Day 1. The creep isn't something we can fight. It's something we can only move ahead of. I've stopped thinking of it as a threat and started thinking of it as a tide. You don't fight a tide. You build above the waterline. But we've been building above waterlines for seventeen months and the water keeps rising and the tools keep breaking and the people keep getting lighter.*
+
+*Getting lighter.* Cole sat with that. He knew what Elena meant. Not physically, though that too. Lighter in the way people lose substance when the thing holding them together — the shared project, the collective bet, the daily act of choosing this over nothing — starts losing its gravity. People don't leave a group by walking away. They leave by becoming less present while still standing in the same room.
+
+Month 18. Month 19. The entries compressed. Shorter paragraphs. Fewer data points. The spectrometer readings and soil analyses that had filled Elena's early logs disappeared. She'd stopped measuring the planet. She was measuring the people.
+
+*Month 19. Seven. Daniil died last week. Exposure. He was experienced. He knew the thermal protocols. He walked the perimeter at dusk the way he'd walked it two hundred times, and this time his body didn't generate enough heat to compensate for the temperature drop because his body had been running at deficit for four months and there was nothing left to burn. I wrote "exposure" in the log. The real cause of death is accumulation.*
+
+Seven. Cole's mind did the thing it always did. Elena's colony: fourteen to eleven to nine to eight to seven. Months of subtraction. Not dramatic. Not violent. Just the steady arithmetic of a group running below the threshold where loss could be absorbed.
+
+*Month 20. Six. Anya fell. Simple. The kind of fall that breaks an ankle on Earth and gets you a walking boot and six weeks of jokes about clumsiness. Here it broke her ankle and the bone didn't set right because Daniil had been the one who knew field medicine and Daniil was dead and I am a geologist, not a doctor. The infection started on day three. I tried. I had compounds. None of them worked fast enough. She died on day eight and the five of us sat with her and nobody said anything because there was nothing to say that we hadn't already said for the sixth and seventh and eighth and ninth and tenth time.*
+
+Cole closed his eyes. Opened them. The data core's backlight flickered, the screen dimming and recovering in a rhythm that felt almost organic, like something breathing.
+
+He scrolled forward. The entries got shorter.
+
+*Month 22. Five. No deaths. The absence of death as an event worth recording.*
+
+*Month 24. Four. Katya. Not exposure, not infection, not the planet. She walked into the forest at dawn and didn't walk back. I sent Tomas to find her. He found her. She was sitting against one of the spiral-trunked trees with her eyes closed and her hands in her lap and she wasn't dead yet but she wasn't coming back. Tomas carried her to the shelter. She died that night. Her body gave up before she did, or after she did, depending on how you measure it.*
+
+Cole had met people who'd stopped. On Earth, in the warehouse circuits, in the housing blocks where the jobs ran out before the rent did. People who went through the motions with a precision that masked the fact that the engine driving the motions had been switched off. The body could run on habit for a long time. Weeks. Months. The appearance of function without the function itself. Katya had been running on habit since Month 16, when Elena had noted the withdrawal. Eight months of mechanical existence, and then the mechanism stopped.
+
+Month 25. Month 26. Three people. Elena, Tomas, and someone she referred to only as M.
+
+*Month 26. Three. We don't eat together anymore. Not a decision. Just the natural consequence of there being no reason to eat together when the meal is the same, the room is the same, and the conversation was exhausted four months ago. I eat at my desk. Tomas eats in his shelter. M eats wherever M happens to be, which is a question I've stopped asking because asking requires an energy I'm conserving for other functions.*
+
+*I wonder if this is how colonies die. Not in a single catastrophic event but in the slow subtraction of the things that make a group of people a group instead of a collection of individuals who happen to occupy the same coordinates. The meals go first. Then the conversations. Then the eye contact. Then the physical proximity. You drift apart inside a space small enough to hold you together, because togetherness is a choice, and choices require calories you don't have.*
+
+Cole read it three times.
+
+He thought about the common area at Holdfast where thirty-two people still ate together most evenings. Where Ren still called council meetings and the arguments were still real, still heated, still evidence that people cared enough to disagree. He thought about Joss, recovering from the fever, teaching water filter maintenance to two younger colonists with a patience that looked like something he'd learned from watching Haruki. He thought about Garrett Polk sitting in the common area after dinner, not talking to anyone in particular but present, occupying space in a room because occupying space in a room was different from occupying space in a shelter alone.
+
+The colony was dimming. But it hadn't gone dark. Not yet. The distance between dimming and dark was the distance Elena had traveled in the months between sixteen and twenty-six, and Cole was reading the map of that distance in a dead woman's handwriting.
+
+Month 27. Two. Tomas died. Elena didn't describe how. Just: *Tomas is gone. I'm not going to write the details. The details don't help. The pattern is the same as every other death — the planet, the deficit, the margin that finally reached zero. The specifics vary. The arithmetic doesn't.*
+
+Month 28. One. Elena alone.
+
+*Month 28, Day 1. I'm the last one. I keep the data logs because stopping would mean acknowledging that no one will read them, and I'm not ready to acknowledge that. Recording is the last act of the scientist. When I stop recording, I stop being the person who came here.*
+
+*The planet is beautiful today. I hadn't noticed in months. The spiral trees are doing something with the light — refracting it, bending it through the bark's crystalline structure in a way that makes the air look like it's moving even when it's still. I stood outside the shelter for twenty minutes this morning and watched it. I had nowhere else to be.*
+
+Cole felt something in his throat. Not the stone of numbers. Something less structured. Something that didn't have a location in his body's architecture because it was the kind of feeling that didn't organize itself. It just sat wherever it landed.
+
+Elena had noticed the trees. Twenty-eight months in, alone, the last of fourteen, and she'd stood in the light and watched the trees do something beautiful. Cole had described the same trees in his first message to Lily. Three sentences and two hours. The trees that hummed. The trees that were beautiful in a way that set his teeth on edge on Day One and now, twenty months later, were just part of the frequency of the place.
+
+Elena's final Year Two entry was dated Month 28, Day 19.
+
+*The planet isn't killing us. We stopped being worth keeping alive. Not to the planet — the planet doesn't have an opinion. To ourselves. We stopped investing in each other. We stopped eating together, stopped arguing, stopped making the daily thousand small decisions that turn a group of people into a community. A community is an act of will maintained against entropy, and when the will fails, the entropy doesn't need to work very hard. It was already winning. It was always winning. We just stopped pushing back.*
+
+*I don't blame the planet. I don't blame Asterlyne, though they built the conditions. I don't blame the people who died, or the ones who withdrew, or Katya, who walked into the forest because the forest was quieter than the silence between us. I blame the fact that survival isn't enough. You can keep a body alive on calories and shelter and the basic mechanics of biological persistence, and the person inside that body will still find a way to die if there's nothing to survive for beyond the act of surviving.*
+
+*We had data. We had the soil cycle and the weather patterns and the creep maps and enough native food to keep six people breathing. We had everything except a reason to breathe together.*
+
+Cole closed the data core. Set it on the desk. Sat in his shelter in the dark and listened to the hum and thought about Elena standing alone in the light of the spiral trees on Day One of being the last person alive.
+
+She'd been smarter than him. Better trained. More disciplined. She'd had the data, the patterns, the intelligence to read the planet correctly. Everything Dana had given Cole, Elena had earned on her own. And it hadn't been enough. Not because the planet was too hostile or the supplies too thin or the deaths too many. Because the people had stopped being people together.
+
+Fourteen became nine became six became four became two became one.
+
+And Elena, alone, had written the diagnosis with a scientist's clarity: *We stopped being worth keeping alive.*
+
+Not to the planet. To each other.
+
+---
+
+Cole didn't sleep that night. He sat at his desk and looked at the data core and thought about what he'd been doing for twenty months and what he'd failed to do.
+
+He'd built systems. Water collection, food rationing, shelter rotation, perimeter protocols, the medical triage that had kept Haruki functioning, the agricultural priorities that had kept Dana productive, the council structure Ren had designed and he'd learned to trust. The colony's infrastructure was sound. The mechanics of survival were holding.
+
+The mechanics of survival weren't the same thing as survival.
+
+He thought about the common meals growing quieter. About the colonists who ate faster now, who carried portions back to their shelters, who came to council meetings because the schedule said to and left when the agenda was done without staying to talk. He thought about the perimeter checks that used to be social — two people walking and talking, the buddy system doubling as the only time some colonists had a sustained conversation — and were now silent. Efficient. Professional. Dead.
+
+He thought about Joss saying *when*, not *if*, in the medical shelter with a 40.4 fever. The crack in the math. The light through the fracture. Thirty-two people he didn't want to lose — not for the count, not for the clause, but because they were his. And he'd been so focused on keeping them alive that he'd missed the thing Elena had seen: alive wasn't enough.
+
+The colony needed to know what had happened to Elena's people. Not the summary he'd given them in the Month 7 assembly — fourteen people, same data, stopped eating together, down to six. Not the selected log entries he'd been pinning to the common shelter board, curated for usefulness, stripped of the personal. They needed the actual story. The full arc of a group that had everything except the one thing that mattered.
+
+---
+
+He talked to Ren first. Morning, before the colony woke. She was checking the water system's overnight readings in the equipment shelter, her hands moving over the valves with the automatic competence of someone who'd been maintaining the same infrastructure for twenty months.
+
+"I want to share Elena's logs," Cole said. "The Year Two entries. All of them."
+
+Ren didn't stop what she was doing. She adjusted a valve, noted a reading on her tablet, moved to the next junction. Cole had learned that Ren processed information physically — she kept her hands busy while her mind worked, and the quality of her response was proportional to the time she spent not looking at you.
+
+"Why now?"
+
+"Because we're heading where she went."
+
+Ren looked at him then. Not with surprise. With the specific attention she gave to things that confirmed a suspicion she'd been carrying. "The dimming."
+
+She'd noticed it too. Of course she had. Ren read social architecture the way Dana read soil chemistry — through pattern recognition, through the small data points that aggregated into a diagnosis.
+
+"Not the crisis kind," Ren said. "Not like the factions in Month 4 or the hoarding in Month 7. This is different."
+
+"Quieter."
+
+"Quieter," she agreed. "People are still functioning. The systems work. But the energy behind the functioning is different. People used to argue at council because they cared. Now they agree because it's faster."
+
+Cole nodded. "Elena's colony didn't break. It dimmed. And by the time Elena recognized what was happening, the pattern was too deep to reverse."
+
+Ren closed the valve she was working on. Set down the tablet. Crossed her arms — her thinking posture, the one that meant she was weighing a principle against a pragmatic concern and trying to find the space where both could exist.
+
+"Which entries?"
+
+"The ones about what happened when they stopped being a group. The meals. The silence. What Katya did. What it looked like from inside."
+
+"That's not data. That's a dead woman's grief."
+
+"It's both."
+
+Ren studied him. Cole stood with it. He'd learned to stand inside Ren's scrutiny the way he'd learned to stand inside the planet's weather — not comfortably, but without flinching.
+
+"You're going to use Elena's story to scare them into staying connected," Ren said. "Show them the worst case. The ghost story. What happens to a colony that stops trying."
+
+"Yes."
+
+"That's manipulative."
+
+"That's leadership."
+
+The words landed between them like a stone dropped into still water. Ren's expression didn't change. She held the eye contact the way she held difficult positions in council — not with aggression but with the specific patience of someone who believed that truth required sustained attention.
+
+"Leadership that depends on fear isn't leadership," Ren said. "It's management."
+
+"Leadership that ignores information because it might scare people isn't leadership either. It's cowardice."
+
+Ren was quiet for a long moment. The water system hummed. Outside, someone was starting the morning cooking routine — the sound of the fire being stoked, the clatter of the cookware they'd fabricated from salvaged materials.
+
+"Both," she said. "You're right and it's manipulative. Those aren't mutually exclusive."
+
+"I know."
+
+"So you'll do it knowing that."
+
+"I'll do it knowing that."
+
+Ren picked up her tablet. Went back to the valve readings. Cole waited, because with Ren the answer always came after the work resumed, never during the silence.
+
+"Then I'll be there when you do," she said. "Because if you're going to show them what a colony looks like when it dies, someone needs to be standing next to you showing them what one looks like when it doesn't."
+
+---
+
+He shared them that evening.
+
+Not at a formal assembly. Those had a weight the colony associated with crisis — bad numbers, rationing changes, the kind of information that arrived in a room where everyone was standing because sitting meant you might not want to stand up after hearing it. Cole pinned the entries to the common shelter board the way he'd been doing for months, but this time he pinned all of them. Month 16 through Month 28. Elena's complete second year. Twelve entries on the colony's limited paper, the ink fading at the edges, the text dense and small because Cole had fit each entry onto a single sheet.
+
+He added nothing. No commentary, no framing, no logistics briefing to contextualize the data. Just Elena's words, in order, starting with the scientist who was still measuring and ending with the woman who understood what the measurements meant.
+
+Then he stood near the board while people read.
+
+They came in small groups. The dinner crowd, drifting from the cooking area to the common shelter the way they did most evenings — not because the shelter was comfortable but because the alternative was eating alone in a shelter that flexed in the wind. Joss came first, still moving carefully from the fever recovery, reading with the focused attention of someone who'd almost died and was recalibrating his understanding of what dying looked like. Dana came, read, left without comment. Haruki read the medical entries — Anya's ankle, the infection, the detail about field medicine lost when Daniil died — and his face did something Cole had never seen. Not grief. Recognition. The look of a doctor reading the exact moment when another doctor's absence killed someone.
+
+Garrett Polk stood in front of the board for eleven minutes. Cole timed it without meaning to. Polk read the entries about silence — the meals ending, the conversations stopping, the drift from community to coexistence. His face was unreadable. He'd been the loudest voice in the colony for twenty months, the man who argued against every system and challenged every calculation and made the council meetings longer by the specific force of his refusal to accept anything at face value. He read about Elena's colony going silent, and he stood there for eleven minutes without saying a word.
+
+When he turned around, he looked at Cole. The look was complicated. Cole couldn't parse it — not fully. It contained something that might have been anger and something that might have been understanding and something that was definitely the recognition of a man who'd spent his adult life fighting systems that looked rational on paper and destroyed people in practice, reading about a system — the system of human connection — that had failed not because it was rational but because it was fragile.
+
+Polk went to the cooking area. Got a second portion of the bitter tubers. Brought it back and sat down in the common shelter and ate it there, slowly, in a room that was filling with people who were reading about what happened when people stopped filling rooms.
+
+Ren stood near the entrance. She didn't read the entries — she'd read them months ago, when Cole had first shown her the data core. She watched the colony read. She was doing the thing she'd promised: standing next to the story of death and being the evidence of life.
+
+---
+
+The entries stayed on the board for a week. Cole didn't take them down. Didn't reference them in council. Didn't deliver a speech about community or connection or the importance of shared meals. The entries did the work. Elena's voice, precise and fading, carried an authority that Cole's couldn't — the authority of someone who'd stood exactly here and lost.
+
+The colony responded in ways Cole hadn't predicted. Not with fear. Not with the urgent overcorrection of people who'd been shown the abyss and flinched. With something quieter.
+
+The common meals got slightly longer. Not dramatically. An extra ten minutes, maybe. People staying after the food was gone, sitting with each other, not filling the silence but not fleeing it either. The perimeter checks became conversational again — two people walking the boundary, talking about nothing consequential, the words mattering less than the fact that they were being exchanged.
+
+Joss organized something. Cole didn't know what to call it. Not a celebration, not a ceremony. Just an evening where the younger colonists gathered in the common shelter after dinner and Joss told a story about his first week on the planet, about the alien cervid that had walked through the outer perimeter and examined a supply crate, and how he'd been so terrified he'd hidden behind Dana's spectrometer, which weighed eleven pounds and wouldn't have stopped anything. People laughed. Not a lot. But enough.
+
+Haruki started eating dinner in the common area again. He'd been taking meals in the medical shelter for three months — working through dinner, treating the meal as fuel rather than occasion. After Elena's entries went up, he came to the common area with his bowl and sat next to Polk, of all people, and they ate in silence for four evenings in a row before Haruki said something that made Polk laugh, and the sound of Polk laughing was surprising enough that three people turned to look.
+
+None of it was dramatic. None of it was the kind of transformation that would make a good story. It was thirty-two people making the choice Elena's colony had stopped making — the choice to occupy the same space at the same time for no reason other than the fact that the space was shared.
+
+Cole watched it happen. He didn't take credit. He didn't mention Elena again. The dead woman's words sat on the common shelter board, fading in the green-shifted light, and the living colony moved around them like water around a stone.
+
+Ren was right. It was manipulative. He'd used a dead woman's grief to scare his colony into staying human.
+
+Ren was also right about the other thing. She'd stood at the entrance and watched the colony read and watched the colony respond, and she'd never said I told you so. She'd said something else, three days later, while they were reviewing the agricultural rotation in the equipment shelter.
+
+"Elena deserved better."
+
+"Yes."
+
+"Not from you. From her people. From Asterlyne. From the whole architecture that put her there."
+
+"Yes."
+
+Ren adjusted a valve. Noted a reading. Moved to the next junction.
+
+"We're not going to fix that," she said. "We're not going to retroactively save her colony or change what Asterlyne did or make the contract fair. We're just going to not repeat it."
+
+"That's the plan."
+
+"It's not a plan. It's a choice. Thirty-two people making the same choice every day."
+
+Cole looked at the equipment shelter wall. At the water system Ren maintained, the pipes and junctions and valves that kept the colony hydrated through the planet's shifting chemistry. Infrastructure. The mechanical version of what Elena had lost — the invisible system that kept things flowing.
+
+"Thirty-two," he said.
+
+"Thirty-two," Ren said. She turned back to the valves. "Make sure they keep choosing."
+
+---
+
+That night, Cole went to his shelter and opened the data core one last time. Not to read. To sit with it. The screen was dark. The data inside was complete — Elena Vasik's entire record, from the clinical precision of Month 1 to the quiet devastation of Month 28.
+
+He thought about Elena's final entry. *The planet isn't killing us. We stopped being worth keeping alive.* He thought about the thirty-two people in the shelters around him — eating, sleeping, arguing, recovering, choosing. Choosing every day to be a colony instead of a collection of individuals dying in proximity.
+
+The math hadn't broken. The count was still there, still running, still the structure that held the colony's survival in a framework of numbers. Thirty-two. He needed twenty-four. The margin was eight. Four years and eight months remained. The planet would keep subtracting.
+
+But the thing beneath the math — the thing that had cracked in the medical shelter while Joss burned with fever — was open now. The light came through. And in that light, the numbers looked different. Not cold. Not warm, either. Human. Each one a face he knew, a voice he recognized, a choice being made every morning to get up and keep going.
+
+Elena had understood too late that data wasn't enough. That the soil cycle and the weather patterns and the creep maps and the native food sources were tools, not reasons. The reason was the room where people chose to eat together. The reason was Polk sitting in the common shelter for eleven minutes reading about silence and then going to get a second bowl.
+
+Cole put the data core in the bottom of his supply crate. He wouldn't open it again. Elena had given him everything she had. The rest was his.
+
+He lay on his cot and listened to the hum of the spiral trees pressing through the walls of the shelter, the frequency that lived in his chest, the sound of a planet that didn't care whether he succeeded or failed but would be there, humming, either way. He counted the breaths of the colony the way he'd counted everything since Day Zero. Not inventory. Not triage. Just attention.
+
+Thirty-two people breathing in the dark.
+
+He fell asleep counting.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-18-the-creep-solution}
+
+# Chapter 18 — "The Creep Solution"
+
+The third orbital phase changed the soil on Day 4 of Month 21.
+
+Dana had been monitoring the transition for three weeks — daily samples from six locations around the settlement, analyzed against the baseline data she'd built over twenty months of continuous measurement. The planet's orbital position shifted its relationship with the parent star by fractions of a degree across months, and those fractions cascaded through the biosphere with the patient inevitability of a chemical reaction reaching equilibrium. First the light spectrum shifted. Then the atmospheric chemistry. Then the soil.
+
+The first two phases had taught her the rhythm. Phase one: growth, stability, the period when Earth crops took uncertain root and the planet's native biology operated in something resembling equilibrium. Phase two: the acceleration — creep, dormancy, the planet's decomposition systems running at full capacity, breaking down organic material, reshuffling the biological deck. Phase three was supposed to be recovery. The planet rebuilding after the purge.
+
+She hadn't expected what the recovery actually looked like.
+
+The soil sample from Site 3 — the agricultural plot closest to the channel network's southern terminus — contained a mineral compound she'd been trying to synthesize for seven months. Not trace amounts. Not the deep geological concentrations she'd been extracting with primitive drilling techniques and processing through her inadequate lab setup. The compound was in the surface soil. Accessible. Abundant. The planet's own geological cycle had brought it up from the substrate layers where it had been locked during phases one and two, depositing it in concentrations that made her synthesized version look like a child's approximation.
+
+Dana held the sample container up to the light. The soil was darker than phase-two soil — richer, denser, with a faint crystalline shimmer that caught the green-shifted sunlight and scattered it into specks of prismatic color. Beautiful. She'd stopped noticing beauty in the samples around Month 8, when the soil had become purely functional — data, not landscape. The shimmer brought it back.
+
+She ran the analysis three times. The portable spectrometer — the real function, not the hidden one — confirmed each run. The mineral catalyst that transformed active creep into inert crystal was present at 340 parts per million. Her synthesized version had achieved 80 parts per million on a good day, and she'd been working with half a kilogram of processed rock dust to get there.
+
+Three hundred and forty parts per million. In surface soil. Available for collection with a shovel.
+
+Dana sat on the research shelter's floor with the sample container between her knees and felt the solution complete itself in her mind the way solutions did — not as a flash of insight but as the final piece of a structure she'd been building for months sliding into position with an almost audible click. The catalyst. The channels. The creep's own biological pathways.
+
+The ancient builders had known this. The channel system carved into the bedrock wasn't drainage or irrigation. It was delivery infrastructure. The channels ran through the substrate at precisely the depth where the mineral catalyst concentrated during phase three. The builders — whatever they'd been, however long ago — had constructed a network for distributing the compound that neutralized the creep. They'd built the solution into the planet's own architecture. They hadn't fought the cycle. They'd routed it.
+
+And now, twenty-one months into a charter that had given her nothing except debt erasure and guilt, Dana could do the same thing.
+
+---
+
+She spent four days confirming it.
+
+Not because the data was ambiguous. The data was clean — cleaner than anything she'd produced in twenty months of fieldwork. The catalyst compound mineralized active creep in contained samples within hours. She'd established that in Month 14 with her synthesized version. The naturally occurring compound was orders of magnitude more concentrated, and the reaction was proportionally faster. In her test containers, active creep exposed to phase-three soil transformed from biological mat to crystalline mineral in under ninety minutes. The filaments stiffened. The dissolution chemistry shut down. The substance that had consumed Marcus Reeves from the waist down, that had killed Suri Park in the channel network, that had driven the colony from its first settlement — stopped.
+
+She spent four days confirming because confirmation was the part of science she could control. The laboratory was hers — the only space in the settlement that belonged entirely to her professional identity, the identity she'd built between the real work and the hidden work. In the research shelter, surrounded by sample containers and the spectrometer that served two masters, Dana Wen was a botanist solving a problem. Not a debtor. Not an informant. Not the most dangerous person in a colony that called her the most useful.
+
+Day 1: Efficacy testing. Six concentrations of the naturally occurring catalyst against standardized creep samples. All six achieved full mineralization. Optimal concentration identified: 200 ppm in solution, half the naturally occurring abundance. The planet had overbuilt the mechanism. The solution was more than sufficient.
+
+Day 2: Delivery modeling. Dana walked the channel network with Ren's engineering surveys and her own soil maps, plotting the pathways where catalyst-rich solution could be introduced at the highest points and flow by gravity through the channels' natural gradient. The infrastructure was intact. Twenty months of observation had shown the channels were self-maintaining — the mineralized compound in their walls resisted both creep intrusion and physical weathering. They'd been built to last. They'd lasted.
+
+Day 3: Persistence testing. How long did the mineralized barrier hold? She placed active creep samples against surfaces treated with the catalyst. Twelve hours. Twenty-four. Forty-eight. The mineralized surface remained inert. The creep couldn't recolonize treated ground. The solution wasn't temporary. It was permanent, or close enough to permanent that the distinction was academic.
+
+Day 4: Integration. Dana laid out the complete protocol on the research shelter's workbench, written in the clean handwriting she used for colony-facing documents. Harvest catalyst from phase-three surface soil. Process into solution using water from the channel drainage. Introduce solution at twelve identified entry points along the channel network's upper gradient. Let gravity do the distribution. The channels would carry the catalyst through the settlement's substrate, creating a mineralized boundary the creep couldn't cross.
+
+The planet's own biology, routed through the planet's own infrastructure, using a compound the planet produced on its own schedule.
+
+She stood in the research shelter and looked at the protocol and felt two things simultaneously.
+
+The first was the satisfaction of a problem solved. Clean. Complete. Elegant in the way the best science was elegant — not by being complicated but by being simple. The answer had been here the entire time, embedded in the planet's cycles, waiting for someone to read it correctly. Elena Vasik's colony hadn't known to look. They'd fought the creep with fire and relocation, working against the system instead of within it. Dana had the advantage of Elena's failure and twenty months of data. The solution was hers, but the groundwork was the planet's.
+
+The second thing she felt had no scientific terminology. It sat in her chest like a compound she couldn't identify — heavy, reactive, unstable. Because the protocol she'd written in her clean handwriting for the colony was the same protocol she would transmit to Asterlyne in six days, during the next magnetic window, through the spectrometer that sat on the shelf three feet from where she was standing.
+
+She'd held back the synthesis protocol in Month 14. Kept the specific ratios, the processing steps, the concentration thresholds locked in her head while transmitting the theoretical framework. She'd told herself it was because the data was incomplete. Eighty percent efficacy wasn't publishable. A responsible scientist didn't release preliminary results.
+
+None of that applied anymore. The data was complete. The efficacy was confirmed. The protocol was written. And in six days, she would transmit it to a company that had stopped sending supplies, stopped responding to contract inquiries, and started asking questions about structural vulnerabilities and single points of failure.
+
+Dana picked up the protocol document. Held it in both hands. The paper was from the colony's limited supply — the same stock Cole used for Elena's log entries on the common shelter board, the same stock the council minutes were printed on. Finite. Real. The weight of it was negligible. The weight of what it contained was something she'd carry until she stopped carrying anything.
+
+---
+
+She transmitted on Month 21, Day 10.
+
+The magnetic window opened at 02:15 local time. Dana lay on her cot in the dark with the spectrometer on her stomach, the two-inch screen casting its pale monochrome light on the shelter ceiling, and typed the report that made thirty-two people expendable.
+
+The agricultural data went first. It always went first. Growing conditions, phase-three soil composition, crop status. Clean data, quantitatively precise, the kind of report a field botanist would generate. Then the creep research section. She'd been reporting progress on the creep for seven months — the mineralization chemistry, the channel system analysis, the catalyst identification. Each report had been carefully calibrated: enough data to satisfy FIELD-SUPPORT-7's requirements, enough omission to maintain the leverage she'd identified in Month 14. The synthesis protocol had been the gap. The thing she held back. The one piece of information that separated theoretical knowledge from practical deployment.
+
+She typed the protocol now. Harvest methodology. Processing steps. Optimal concentration: 200 ppm in solution. Delivery via gravity-fed channel network at twelve identified entry points. Persistence: indefinite under observed conditions. Field efficacy: confirmed across all test parameters.
+
+Every word was accurate. Every specification was precise. Dana didn't lie in this section because the data didn't require lying. The truth was sufficient for what Asterlyne wanted. With this protocol, any competent botanist could replicate the creep neutralization on any planet with a similar geological profile. The solution was transferable. Portable. Asterlyne could send a new expedition with the protocol loaded onto a data tablet, and the next group of colonists — or the next group of company employees, because why bother with charters and clauses when you had the science? — would have the creep solved before their first Month 8.
+
+Dana knew what that meant. She'd known since Day 4, when she stood in the research shelter holding the protocol in both hands and felt the unstable compound in her chest react. She was giving Asterlyne the one thing the colony had that the company didn't: the answer. The creep was the planet's primary defense against occupation. Asterlyne's viability data had been incomplete. Their previous expedition had failed. The colony's survival was an anomaly the company hadn't predicted, built on Dana's work, Cole's systems, Ren's governance, Haruki's medicine. All of it hinged on the creep — the problem that made Parcel 16b too dangerous for standard corporate exploitation.
+
+The problem she'd just solved.
+
+If Asterlyne had the creep solution, they didn't need the colonists. The clause 9.4.2 threshold — twenty-four alive at five years, land transfers in perpetuity — was a nuisance written into a charter no one expected to be invoked. The company had designed the contract assuming failure. Dana had just removed the last obstacle to that assumption becoming irrelevant.
+
+She hit the compression protocol. The data compressed. The signal found the relay satellite. The relay satellite found the corporate endpoint.
+
+Dana powered down the spectrometer. Set it on the floor. Lay in the dark and listened to the hum of the trees and thought about her mother's oncology treatment — the three-year protocol, the sixty thousand credits, the debt that had brought her here. Her mother was alive because of that debt. Thirty-two people were at risk because of how she was paying it.
+
+She'd done the math so many times the numbers had lost their edges. Sixty thousand credits against thirty-two lives. The calculation was obscene. She'd known it was obscene since Month 3, when the first colonist died and her transmission that week included a population status update that read: *Colony personnel: 46. One mortality, non-hostile cause. Colony operations unaffected.* She'd filed a death the way she filed a soil sample. Category, classification, next data point.
+
+Twenty months later, the deaths had names she knew and faces she couldn't stop seeing and a weight that sat on her chest alongside the spectrometer every eleven days when the magnetic window opened. She carried it because stopping meant consequences she wasn't ready to calculate, and the calculations she was ready for were the ones that let her keep going.
+
+Tomorrow she would teach Cole's team how to save the colony she was betraying.
+
+---
+
+Cole brought six people to the research shelter at dawn.
+
+He'd read the protocol the previous evening — Dana had given it to him on paper, the colony-facing version, the version that didn't include the fact that an identical copy was traveling at the speed of corporate infrastructure toward an Asterlyne server. Cole had read it the way he read everything: once for content, once for gaps, a third time for the math. He'd found no gaps. The math was clean. He'd looked at Dana with an expression she couldn't fully read — something between respect and the specific wariness of a man who understood that elegant solutions sometimes hid costs.
+
+He hadn't asked where the elegance came from. He never asked about her process. He trusted her data because her data had never been wrong, and that trust was the worst thing Dana carried because she'd earned it with work that was real while using it as cover for work that wasn't.
+
+The six were the deployment team: two from Ren's engineering group, two agricultural workers who knew the soil, Joss Carver, who'd volunteered because Joss volunteered for everything since the fever, as though surviving had given him a debt he could only pay with his body, and a quiet woman named Lina who maintained the secondary water systems and knew the channel network's physical layout better than anyone except Dana.
+
+Dana briefed them in the research shelter, standing at the workbench with the protocol document and three sample containers — raw phase-three soil, processed catalyst solution, and a chunk of mineralized creep that looked like smoky quartz.
+
+She kept it simple. The planet's third orbital phase deposited a mineral compound in the surface soil. That compound, when dissolved in water and introduced into the ancient channel network, would create a mineralized barrier that neutralized active creep on contact. The channels' natural gradient would distribute the solution. Gravity was the mechanism. Time was the variable — full coverage of the settlement's substrate would take three to five days, depending on flow rate and channel obstruction.
+
+She held up the mineralized sample. "This is what active creep becomes when it contacts the catalyst. The organic filaments transform into mineral crystal. The dissolution chemistry stops. It's permanent."
+
+Joss reached for the sample. Turned it in his hands. The smoky crystal caught the light from the shelter's entrance and threw a small spectrum across the workbench.
+
+"How much soil do we need?" Cole asked.
+
+"Four hundred kilograms, minimum. For full saturation of the primary channels. Eight hundred for redundancy."
+
+"Where?"
+
+"Anywhere on the southern slope. The phase-three deposit is consistent across the settlement's footprint. Surface collection. No drilling."
+
+Cole nodded. "Timeline?"
+
+"Harvest and process today and tomorrow. Deploy on Day 3. Let the channels work for five days. Test the perimeter on Day 8."
+
+She watched Cole calculate. He did it the way he always did — silently, the numbers moving behind his eyes like machinery, each variable slotting into a framework she could almost see in the micro-movements of his jaw. He was computing labor allocation. Six people on harvest and processing for two days. Channel deployment on Day 3 required access to twelve entry points, some of which were in terrain that needed scouting. The colony's work schedule would need adjustment. Food production, shelter maintenance, perimeter checks — all the systems Cole managed would absorb the temporary loss of six workers.
+
+"We can do it in three days if we add two more to the harvest team," he said. "I'll pull from the construction rotation."
+
+"Three days is fine. The creep's advance rate is stable. We have the margin."
+
+Cole looked at her. The word *margin* hung between them. He used it differently than she did — for Cole, margin was the distance between alive and dead, measured in headcount and the arithmetic of clause 9.4.2. For Dana, margin was the space between a reaction proceeding and a reaction stalling, measured in concentration and temperature and time. They were talking about the same thing in different languages.
+
+"Do it," he said.
+
+---
+
+The harvest was simple work. Hard, physical, the kind of labor that quieted the mind by filling the body. Dana worked alongside the team on the southern slope, driving a shovel into phase-three soil that came up dark and glittering, loading it into repurposed equipment crates they dragged to the processing site on salvaged polymer sheets. The work had a rhythm. Dig, load, drag, dump. The planet's green-shifted light fell across the slope in long columns filtered through the spiral trees, and the soil smelled like mineral and something faintly electric — ozone's cousin, the scent Dana had stopped noticing months ago and started noticing again because she was paying attention.
+
+She was paying attention because the work was almost over. Not the harvest — the work of carrying two identities in one body. Twenty months of transmissions. Twenty months of calibrating the line between observation and intelligence, between data and betrayal. The creep protocol was the last piece Asterlyne needed. The planet's primary defense, neutralized. The colony's survival data, complete. Her usefulness to FIELD-SUPPORT-7 was approaching the asymptote where maintaining an asset cost more than the information it produced.
+
+She could stop. After this transmission cycle, after the protocol was received and acknowledged, she could destroy the comm unit. Tell Cole. Accept whatever came. The calculation she'd been avoiding for twenty months was becoming simpler with each shovelful of dark soil: the debt was finite. The betrayal was compounding.
+
+But she didn't stop. She dug soil, loaded crates, worked alongside Joss, who talked while he worked because talking was how Joss processed being alive, and she said nothing because saying nothing was how Dana processed everything.
+
+The processing took a full day. Dissolving the catalyst into channel water, filtering the sediment, calibrating the concentration with her field kit. She tested each batch against a creep sample. Ninety minutes to full mineralization. Consistent across all twelve batches. The chemistry held.
+
+Day 3. Deployment.
+
+Dana led the team into the channel network at first light. The channels ran beneath the settlement in a web of carved bedrock — narrow passages, some wide enough to walk through, some requiring hands and knees. The entry points were scattered across the settlement's footprint, marked with the cairns Ren's engineering team had placed during their initial survey. Dana had identified twelve optimal injection sites where the channel gradient would carry the solution to maximum coverage.
+
+At each site, the process was the same. Pour three liters of catalyst solution into the channel opening. Watch it pool, then flow, following the ancient gradient the builders had carved into the bedrock. The solution was pale — almost clear, with a faint mineral cloudiness that caught the light like diluted milk. It flowed the way water flows in a well-made channel: smoothly, without pooling, finding the path cut for it.
+
+Site 1. Site 2. Site 3. Each pour was fifteen minutes of preparation and thirty seconds of execution. Dana watched the solution disappear into the channels and thought about the builders. Who they'd been. How they'd lived with the creep — not by fighting it, not by running from it, but by building infrastructure that routed the planet's own chemistry against the threat. They'd understood something Dana had taken twenty months to learn: the planet wasn't hostile. The planet was a system. Systems could be read. Once read, they could be worked within.
+
+Elena Vasik's colony had tried to fight. Burned the creep. Relocated three times. Ran out of room. Fourteen became six became one became zero. Elena had been a geologist. She'd had the data to read the system. She hadn't had the time, the people, or the specific convergence of knowledge that Dana had — a botanist's understanding of biology, an engineer's channel maps, a logistics manager's framework for deployment. The solution required all of them. It required the colony.
+
+By noon, all twelve sites were treated. The catalyst solution was in the channels, flowing through carved bedrock toward the settlement's perimeter, where the active creep had maintained a slow, patient advance for months. Dana sent Joss and Lina to the eastern perimeter to observe.
+
+Two hours later, Joss came back at a run.
+
+"It's working." He was out of breath. Not from the distance — from the seeing. His face had the expression Dana recognized from her own experience of watching data confirm a hypothesis: the particular shock of the world matching the prediction. "The creep at the eastern edge — it's crystallizing. You can watch it happen. The surface goes cloudy and then it hardens and then it just — it's rock. It's turning into rock."
+
+Dana went to see.
+
+The eastern perimeter had been the active creep's closest approach to the settlement — four meters from the outermost shelter, advancing at the steady centimeter-per-hour rate Cole had mapped months ago. The biological mat was thick here, a dark, wet-looking surface that dissolved organic material on contact, the thing that had killed Marcus Reeves and driven the colony from its first home.
+
+It was stopping.
+
+The leading edge of the creep was transforming. The dark, wet surface was going pale — cloudy, then opaque, then crystalline. The organic filaments that gave the creep its dissolving function were stiffening, mineralizing, becoming the same smoky quartz Dana had shown the team in the research shelter. The process moved visibly. Not fast — not the dramatic freeze of a chemical demonstration — but visibly. Standing at the perimeter, you could watch the boundary between active and inert creep advance outward. An inch every few minutes. The planet's decomposer, neutralized by the planet's own mineral chemistry, delivered through the planet's own infrastructure.
+
+Dana stood at the perimeter and watched it happen. Around her, colonists gathered. Word moved through the settlement the way information always moved — not through announcements but through the social network that Ren's governance had kept alive and Elena's warnings had reinforced. People came to the eastern edge and stood and watched the creep die.
+
+Nobody cheered. The colony had been past cheering since the fever. But the silence had a different quality than the dimming silence Cole had identified and Elena had described. This silence was attention. Thirty-two people watching something they'd feared for thirteen months stop.
+
+Cole stood at the back of the group. Dana saw him. His face was doing the thing it did when the math changed — the recalculation, the machinery behind the eyes adjusting to a new variable. He caught her looking. Nodded. Once. The nod said: *It works.* It also said: *Thank you.* It also said something Dana couldn't read, something that lived in the space between the logistics manager who counted people as margin and the man who'd sat with Joss through a fever and talked about his daughter.
+
+Dana nodded back. Then she went to the research shelter to log the field results. To record the data. To be the scientist.
+
+---
+
+Haruki toasted her at dinner.
+
+He'd brought out the last of a fermented compound he'd been aging since Month 12 — a concoction made from native fruit that tasted like something between cider and turpentine. He'd been saving it. For what, he'd never said. Haruki saved things the way he did everything — quietly, without announcement, producing them at the moment they were needed with the precision of a man who'd spent his life understanding what bodies required and when.
+
+He stood at the cooking area with a cup of the ferment in one hand and said, in his gentle, measured voice: "To Dana. Who read the planet correctly."
+
+Thirty-two cups raised. The ferment was divided across too many containers, each portion barely a mouthful. Dana drank hers. It was terrible. Medicinal, sharp, with a sweetness that arrived late and stayed too long. She'd never tasted anything more clearly in her life. Every chemical note registered — the sugar converted to alcohol, the native enzymes that gave it its harshness, the mineral undertone from the channel water Haruki had used in the fermentation. She tasted it the way she analyzed soil: component by component, the whole somehow exceeding the sum.
+
+Ren found her after the toast. Dana was sitting at the edge of the common area, holding her empty cup, watching the colony eat dinner with the particular attention she gave to things she was cataloging.
+
+Ren sat next to her. Close enough to be present. Far enough to give her room.
+
+"You know what you did," Ren said.
+
+"Solved a chemistry problem."
+
+"You're the reason we'll survive Year Two."
+
+The sentence landed on Dana like a physical weight. Not because it was praise. Because it was true, and because the truth had two faces, and Ren could only see one of them.
+
+"The planet solved it," Dana said. "I just read the answer."
+
+Ren looked at her. The direct eye contact that people found aggressive but Dana found precise — the engineer's assessment, the structural analysis conducted in real time. Ren was reading her the way Ren read infrastructure. Looking for stress points. Load-bearing walls. The places where the structure was holding and the places where it wasn't.
+
+"You've been quiet," Ren said.
+
+"I'm always quiet."
+
+"Quieter than your quiet. Since the fever."
+
+Dana held the empty cup. The dregs of Haruki's ferment left a film on the inside that caught the lamplight. "The work takes a lot."
+
+Ren accepted that. Not because she believed it was the whole truth — Ren was too sharp for that — but because she believed in the space between what people said and what they meant, and she knew that space was sometimes the only privacy a person had.
+
+"Come eat," Ren said. "With everyone. Not at the edge."
+
+Dana almost said no. The edge was where she belonged — close enough to be counted, far enough to be separate. The position she'd maintained for twenty months, the careful calibration of proximity and distance that let her exist in the colony without being fully of it. Belonging required honesty. Dana's honesty was rationed more carefully than the food supply.
+
+She went to the common area. Sat between Joss and a colonist named Vance who maintained the shelter waterproofing. Ate the bitter tubers and the native grain Dana herself had mapped onto the agricultural rotation seven months ago. Listened to Joss tell a story about the deployment — how the creep had crystallized in front of him, how he'd touched it afterward and it was warm, the mineralization generating heat the way all phase changes did. People laughed at the right parts. Not the desperate laughter of Month 8 or the brittle laughter of Month 17. Real laughter. The sound of people who'd been afraid for a year and had just watched the thing they feared turn to stone.
+
+Dana sat in the middle of it and felt the unstable compound in her chest react. Not an explosion. A slow precipitation. The kind of reaction that produced crystals: orderly, permanent, very clear.
+
+She was saving these people. She was selling them. The solution she'd built from twenty months of fieldwork and genuine scientific ability was being deployed by people who trusted her while the same solution traveled through a relay satellite toward a corporation that would use it to make their survival irrelevant. The creep was neutralized. The colony was safe. And Asterlyne now had everything it needed to replace them.
+
+Dana ate her dinner. Thanked Haruki for the toast. Went to her shelter while the colony continued celebrating something real that she'd made possible, and lay on her cot in the dark, and did not sleep.
+
+---
+
+The response came nine days later.
+
+FIELD-SUPPORT-7's transmissions arrived during the magnetic window at 02:15, the same schedule Dana had followed for twenty months. She opened the diagnostic batch in her shelter, the spectrometer's two-inch screen casting its pale light on the ceiling, the hum of the trees pressing through the shelter walls at the frequency she'd stopped noticing and started noticing again.
+
+The standard acknowledgment was brief. *Creep neutralization protocol received. Data quality: excellent. Synthesis parameters confirmed against independent modeling. Results consistent with projected geological phase analysis.*
+
+Independent modeling. Asterlyne had been running their own analysis. They'd been comparing her data against their projections, testing her results before she'd confirmed them herself. She wasn't a researcher to them. She was a calibration point. The company had the model. She was providing the ground truth.
+
+Below the acknowledgment, a new instruction set. Shorter than usual. Two lines.
+
+*Revised priority assessment required.*
+
+*Assess structural dependency on individual colonists. Identify single points of failure.*
+
+Dana read it three times. The spectrometer's screen flickered on the second reading — the backlight dying the way all Asterlyne equipment died, slowly, predictably, without apology.
+
+The questions weren't new. She'd answered a version of them in Month 14. Supply chain dependencies. Individual operational functions. Single points of failure. She'd lied then — told FIELD-SUPPORT-7 the colony had cross-trained, that redundancy was built in. The lie had been plausible because it was partially true.
+
+But the questions were different now. Not in language. In context. In Month 14, they'd been embedded in a batch that included structural vulnerabilities, water source locations, geographic positioning. Part of a broad mapping exercise. The kind of intelligence gathering that could serve multiple purposes, that maintained the fiction of operational assessment.
+
+Now the questions stood alone. No structural analysis. No geographic positioning. Just people. Who matters. Who can be removed.
+
+Dana could write the list without thinking. She'd been living inside the colony's operational architecture for twenty months. She knew who mattered the way she knew soil chemistry — through daily observation, repeated measurement, pattern recognition.
+
+Cole Maren. Logistics, leadership, the framework that kept thirty-two people functioning as a unit. Without Cole, the systems degraded within weeks. He was the load-bearing wall.
+
+Ren Tsai. Engineering, governance, the social infrastructure Cole's systems didn't cover. Without Ren, the colony fractured along the fault lines that had been forming since Month 4. She was the connective tissue.
+
+Haruki Sato. Medicine. Irreplaceable. No backup. The colony had one doctor and the doctor was fifty-three and tired and the only reason a dozen people were still breathing.
+
+Dana Wen. Agriculture, creep management, soil science. The colony's food supply and environmental defense depended on knowledge that existed in one person's head.
+
+Four names. Four points of failure. Remove any one and the colony's probability of reaching the five-year threshold dropped below viability. Remove two and it collapsed.
+
+They were asking her to write a kill list. Corporate language, corporate channels, embedded in a diagnostic batch that looked like equipment telemetry. But the request was unambiguous. You identified single points of failure in a system you intended to disrupt. You didn't map vulnerabilities in systems you planned to support.
+
+Dana powered down the spectrometer. Set it on the floor. Lay on her cot in the dark.
+
+The hum of the trees pressed through the shelter walls. Outside, the colony slept. Thirty-two people who had toasted her nine days ago, who had watched the creep turn to stone, who had eaten dinner together in a common area that stayed full because Elena Vasik's warnings had made them choose connection over isolation. Thirty-two people whose names she knew and whose trust she carried and whose survival she'd just made both more certain and more precarious in the same transmission.
+
+She did not sleep.
 
 
