@@ -67,8 +67,11 @@
 - First appearance: Ch 1 (memory)
 
 **Suri Park**
-- Physical description: Late 20s. First colonist to suffer a serious alien biology incident (fruit toxicity).
-- Arc: Survivor of Ch 4 incident. Reminder that the planet's rules change.
+- Physical description: Late 20s. Compact build. Dark hair. Curious face — the type who asks questions and then acts on the answers before thinking through the consequences.
+- Age: Late 20s (start), early 30s (death in Ch 13)
+- Speech patterns: Enthusiastic. Asks technical questions rapidly. Gets excited about solutions. Less cautious than Dana, more curious than protocol-minded.
+- Arc: Survivor → explorer → casualty of incomplete understanding. First colonist to suffer alien biology (Ch 4). Survives by Haruki's intervention. Returns as helper in Dana's research. Dies in Ch 13 while mapping the ancient channels alongside Cole. Not because Cole was reckless, but because Cole was confident he'd finally understood the system. Suri dies while Cole is staging a small victory.
+- Key scenes: Ch 4 (fruit toxicity), Ch 13 (channel exploration, death)
 - First appearance: Ch 4
 
 ---
@@ -89,9 +92,9 @@
 | 10 | Month 7 | 39 | Second cycle — crops fail, fauna bold; rationing |
 | 11 | Months 8-9 | 38 | Creep appears; first creep death |
 | 12 | Month 10 | 36 | Democracy vote; relocation; three deaths; ancient channels found |
-| 13 | Months 11-12 | 36 | Channel network studied; planet's cyclical nature understood |
-| 14 | Months 13-14 | 36 | Dana POV; Asterlyne questions shift to targeting |
-| 15 | Months 15-16 | 35 | Supply drops stop; one death; no arbitration recourse |
+| 13 | Months 11-12 | 35 | Channel network studied; planet's cyclical nature understood; Suri Park dies during exploration (mineralized creep activates) |
+| 14 | Months 13-14 | 35 | Dana POV; Asterlyne questions shift to targeting |
+| 15 | Months 15-16 | 35 | Supply drops stop; no arbitration recourse |
 | 16 | Months 17-18 | 32 | Fever; three deaths; Cole talks about Lily; math cracks |
 | 17 | Months 19-20 | 32 | Elena's Year Two logs; colony fraying; Cole shares logs |
 | 18 | Months 21-22 | 32 | Creep solution; Dana reports it; "single points of failure" |
@@ -202,6 +205,7 @@
 | Transit time | 3 months Earth to Parcel 16b | Ch 2 | Messages to Lily have transmission delay. Shuttle in Ch 24 implies 3-month minimum travel. |
 | Comm relay | Asterlyne-controlled | Ch 15 | Messages to Lily route through this. If Asterlyne wanted to block messages, they could. Why don't they? (Possible: they read them. They're another data source.) |
 | Garrett's daughter | Age unspecified at landing; 5 years older by Ch 24 | Ch 2, Ch 7, Ch 24 | Custody lost pre-charter due to debt/affording legal fees. Her existence drives Garrett's signal array desperation (Ch 7) and makes the shuttle offer's "debts forgiven" genuinely tempting (Ch 24). Must be specific about her age to track custody timeline. Suggest she's ~12-15 at landing, ~17-20 by end. |
+| Suri Park death | Channel exploration → mineralized creep activates → dissolution | Ch 13 | Cole brings Suri to map deeper into channel system, confident he's finally understood the planet's infrastructure. A section runs dormant through earlier exploration but activates as cycle deepens. Suri is in narrow cut. Compound flows. Cole doesn't miscalculate — just incomplete understanding. Suri dies while Cole stages small victory. Thematic: understanding breaks. Count 36 → 35. |
 | Ch 8 unnamed death | Construction accident → infection → resistant to antibiotics | Ch 8 | Protocol failure. Cole does everything right (wound treated, schedule adjusted). Planet's biology is different. Infection doesn't respond to Earth medicine. Breaks Cole's faith that optimization guarantees survival. Thematic: first crack in the math. |
 | Haruki Sato death | Cardiac failure | Ch 27 | Haruki collapses on the evening of Day 1,826, hours after clause invocation. Cole sits with him as he dies giving medical instructions. He gets to know they won. The steady doctor who saves everyone can't save himself. Brings count from 24 to 23. |
 | Joss Carver death | Seismic event → shelter retrieval → survival → infection/complications | Ch 26-27 | Cole's choice. Joss volunteers to retrieve critical supplies from a destabilized shelter during seismic crisis. Cole could do it, doesn't. Shelter collapses. Joss survives but badly injured. Cole watches him survive past Day 1,826. Within days of invocation, Joss dies from infection or complications from his injuries. Cole realizes he stayed for a daughter he couldn't save and lost a son he could have. The death Cole *chose*, extended. Final count: 22 alive after both deaths. |

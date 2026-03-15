@@ -2,7 +2,7 @@
 
 **Note:** Engineer character renamed from "Maren Tsai" to "Ren Tsai" to avoid collision with protagonist's surname (Cole Maren).
 
-**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch15) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
+**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
 
 ---
 
@@ -216,9 +216,11 @@
 
 **Beat 2:** The implications rattle the colony. They're not homesteading empty land. They're living on a grave. Cole processes it through logistics: does it change the survival math? No. Does it change the moral math? He doesn't let himself answer. Elena's logs never mention this — her colony built in a different location.
 
-**Beat 3:** Cole studies the channel network with Dana and Ren. The channels, if cleared and made functional, could redirect the creep. The planet's own ancient infrastructure might be the solution its current biology demands.
+**Beat 3:** Cole studies the channel network with Dana and Ren. He brings Suri Park along — the eager one from the fruit incident, now a helper in the research. They're mapping deeper into a narrow channel cut, studying how the mineralized creep compound sits inert in the walls. Cole is confident. This is it. The system. The pattern. The solution.
 
-**Turn:** The realization clicks for Cole: the planet isn't hostile. It's cyclical. Something lived here before that understood the cycles and built for them. The colonists aren't fighting the planet — they're living in it wrong.
+**Beat 4:** A section of channel that ran dormant through earlier exploration suddenly activates. The cycle deepens and the mineralized compound begins to flow — just slightly, but enough. Suri is in the narrow cut. The compound dissolves them from the ground up. Cole hears Suri calling — not a scream, confusion — and reaches but the space is too tight, the flow too fast. Haruki does the autopsy. Same dissolution pattern as creep death, but accelerated. Thirty-five.
+
+**Turn:** Cole didn't miscalculate. The channels *were* dormant. But Cole was the one confident enough to explore deeper. Suri dies while Cole is staging a small victory — the moment he thinks he's finally *understood* the system. The planet wasn't hostile. It was just incomplete, like his understanding. Cole carries guilt not because he was reckless, but because he wasn't reckless *enough*. He believed he'd figured it out.
 
 ---
 
