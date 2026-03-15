@@ -2,7 +2,7 @@
 
 A disgraced logistics manager signs a one-way corporate charter to homestead a hostile exoplanet, knowing the company expects most colonists to die — but if he can keep twenty-four of the original forty-seven alive for five years, a buried clause grants them ownership of the land and a second chance he stopped believing he deserved.
 
-**Status:** First Draft in Progress — 16 of 27 chapters drafted (~40,000 words)
+**Status:** First Draft Complete — 27 of 27 chapters drafted (~107,000 words)
 
 ---
 
@@ -10,7 +10,7 @@ A disgraced logistics manager signs a one-way corporate charter to homestead a h
 
 This novel is being written by a human author collaborating with **Zencoder** and **Claude Opus 4**.
 
-The entire first draft — from bare-bones project scaffolding to 40,000 words of prose, a scene-by-scene outline, a story bible, a voice profile, and build tooling — was produced in a single working session on March 15, 2026. Roughly 4.5 hours. 53 iterations.
+The entire first draft — from bare-bones project scaffolding to 107,000 words of prose, a scene-by-scene outline, a story bible, a voice profile, and build tooling — was produced in a single working session on March 15, 2026. Roughly 6 hours. 67 iterations.
 
 ### How it works
 
@@ -18,7 +18,7 @@ The entire first draft — from bare-bones project scaffolding to 40,000 words o
 2. **Pitch and structure.** Logline, synopsis, and scene-by-scene outline generated through iterative conversation. The author directed; the model built.
 3. **Agent instructions.** A custom system prompt (`AGENTS.md`) defines a fiction ghostwriter persona called *Verity* — a 200-line set of craft standards, onboarding protocols, and writing process rules that govern every prose generation call.
 4. **Chapter drafting.** Each chapter drafted individually against the outline and story bible, with continuity tracking and author notes kept in separate files. Opus 4 writes the prose; the author reviews, adjusts, and commits.
-5. **Iteration.** 53 commits in one session. Each chapter typically goes through multiple passes — the model drafts, the author reads, flags land in `notes.md`, and the next draft absorbs the corrections.
+5. **Iteration.** 67 commits in one session. Each chapter typically goes through multiple passes — the model drafts, the author reads, flags land in `notes.md`, and the next draft absorbs the corrections.
 
 ### What Zencoder provides
 
@@ -30,18 +30,18 @@ The entire first draft — from bare-bones project scaffolding to 40,000 words o
 
 - **Prose generation.** All chapter drafts, outline material, and story bible entries are written by Opus 4 under the constraints of the voice profile and agent instructions.
 - **Voice fidelity.** The model inhabits the author's voice rather than defaulting to generic literary prose — colloquial-smart register, deep interiority, fragments for emphasis, earned sentiment.
-- **Structural memory.** Continuity across 40,000 words: character arcs, timeline consistency, motif tracking, foreshadowing planted in early chapters and paid off later.
+- **Structural memory.** Continuity across 107,000 words: character arcs, timeline consistency, motif tracking, foreshadowing planted in early chapters and paid off later.
 
 ### The numbers
 
 | Metric | Value |
 |---|---|
-| **Session duration** | ~4.5 hours |
-| **Commits** | 53 |
-| **Chapters drafted** | 16 of 27 |
-| **Prose word count** | ~40,000 |
-| **Supporting material** | ~15,000 words (outline, bible, pitch, voice profile) |
-| **Target length** | 80,000–100,000 words |
+| **Session duration** | ~6 hours |
+| **Commits** | 67 |
+| **Chapters drafted** | 27 of 27 |
+| **Prose word count** | ~107,000 |
+| **Supporting material** | ~20,000 words (outline, bible, pitch, voice profile, notes) |
+| **Build outputs** | Markdown, DOCX, EPUB, PDF |
 
 ---
 
@@ -72,11 +72,15 @@ source/
   story-bible.md      # characters, timeline, locations, motifs, continuity
   voice-profile.md    # client voice profile
 scripts/
-  build.sh            # concatenate chapters -> markdown/docx/epub
-  cover.sh            # generate cover image (requires ImageMagick)
-assets/               # cover art and images
-build/                # generated output (markdown, docx, epub)
-submissions/          # query letters, agent tracking, KDP listing
+  build.js            # concatenate chapters -> markdown/docx/epub/pdf
+  build.sh            # shell build script
+  cover.js            # generate cover image
+  cover.sh            # shell cover script
+  diff-engine.sh      # diff utility
+build/                # generated output (markdown, docx, epub, pdf)
+submissions/
+  agents/             # query letters and agent tracking
+  kdp/                # KDP listing and self-publishing materials
 ```
 
 ---
@@ -87,7 +91,7 @@ submissions/          # query letters, agent tracking, KDP listing
 # Word count across all chapters
 npm run wordcount
 
-# Build manuscript (markdown + docx + epub if pandoc is installed)
+# Build manuscript (markdown + docx + epub + pdf)
 npm run build
 
 # Generate cover image (requires ImageMagick)
@@ -98,4 +102,6 @@ npm run cover
 
 - **Node.js** — script runner
 - **Pandoc** — docx/epub generation (optional; `brew install pandoc`)
+- **sharp** — PDF generation
+- **md-to-pdf** — markdown to PDF conversion
 - **ImageMagick** — cover generation (optional; `brew install imagemagick`)
