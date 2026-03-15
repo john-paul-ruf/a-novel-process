@@ -3,16 +3,18 @@
 ## Big Structural Issues
 
 ### 1. The Death Count — Emotional Weight Over Arithmetic
-- **Problem**: Twenty-three deaths across five years. Early deaths land well (spores, structural failure, the stupid fall in Ch 5). But middle stretch (Ch 10-17) risks becoming attrition without impact. The reader needs to *feel* losses, not just track a number.
-- **Implementation**:
-  - Identify 4-5 deaths that belong to people Cole (and the reader) has spent real time with. These deaths should surprise readers with their emotional cost—not because they're dramatic, but because the person mattered.
-  - Suggested candidates: 
-    - One mid-novel death of a character who showed competence or kindness (challenges Cole's efficiency calculus)
-    - One that forces Cole to make a brutal triage decision (math vs. mercy)
-    - Cara's suicide in Ch 8 should have a scene before her death—something the reader witnesses that makes "I changed my mind" land like a punch
-    - One off-page death that haunts Cole because of *who* died, not how
-  - Deaths without names are fine—they're atmospheric. But name the ones that cost Cole something specific to lose.
-  - **Voice note**: Cole's interiority is the engine. Each named death should live in his head after the fact—he replays it, calculates where it could have gone differently, realizes he can't optimize away loss.
+✅ **SUBSTANTIALLY COMPLETE** (Suri Park death pending)
+
+**Deaths locked**:
+- **Ch 8**: Unnamed colonist, protocol failure (infection resists antibiotics). Breaks Cole's faith that optimization guarantees survival.
+- **Ch 26**: Joss volunteers for dangerous shelter retrieval during seismic crisis. Cole lets him go instead of going himself. Shelter collapses; Joss survives badly injured.
+- **Ch 27 (post-invocation)**: Haruki dies of cardiac failure on evening of Day 1,826, hours after clause invocation. He gets to know they won.
+- **Ch 27 (post-invocation, days later)**: Joss dies from complications of shelter injuries. Cole watches the boy he raised survive the five-year mark only to die after winning.
+- **TBD**: Suri Park death in second cycle (failed prediction).
+
+**Math locked**: 47 → 24 at invocation (Day 1,826, threshold met) → 22 after Haruki and Joss die.
+
+**Updated in**: story-bible.md (character entries, continuity flags), scene-outline.md (Ch 8, 26-27 detailed beats)
 
 ### 2. Garrett Polk — Give Him Dimensionality Before the Dana Vote
 ✅ **COMPLETE**

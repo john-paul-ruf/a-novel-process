@@ -396,7 +396,7 @@
 
 **Beat 2:** The offer: renegotiation. Leave now, debts forgiven, transport home, NDA. Cole reads the new contract on the spot. It's a surrender — waiver of all rights under the original charter, including 9.4.2. In exchange: passage back to Earth and silence. The representative is polite and transparent about the subtext: "You have eleven months. A lot can happen in eleven months." Garrett Polk hears "debts forgiven" and his chest seizes. That word. The thing he came here to escape, now offered as a way home. He thinks of his daughter — five years older now, possibly old enough to want to see him if the debt erasure means he's not a creditor's target. The math shifts for Polk. Not entirely. But it shifts.
 
-**Beat 3:** Cole asks one question: "How many other charters have invoked 9.4.2?" The representative's smile holds. "You'd be the first."
+**Beat 3:** Cole asks one question: "How many other charters have invoked 9.4.2?" The representative's smile holds. "Questions regarding competing charter structures are best addressed through our formal arbitration process—which, as you're aware, requires functional communications infrastructure." The smile doesn't break. Cole hears it anyway: *the process you've already tried. The one we control. The one that doesn't work.* The representative just confirmed it by pointing at it. No yes. No no. Just the cold reminder that they're alone.
 
 **Turn:** The shuttle sits at the old coordinates like an open door. The colony has eleven months, no margin, and a choice.
 
