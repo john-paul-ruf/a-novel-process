@@ -196,7 +196,7 @@ The forest closed around them the way it always closed — not hostile, not welc
 
 Polk spoke first.
 
-"Debts forgiven." Two words. The same two words from Article 5, lifted from the contract and set down in the forest air between them. Cole heard what the words carried when Polk said them — not the legal provision, not the financial instrument. A girl. Fifteen now, maybe sixteen. Old enough to understand why her father had left. Old enough to have decided whether to forgive him for it. Polk's debt wasn't sixty thousand credits. Polk's debt was measured in the years he'd missed and the years he couldn't get back and the possibility — the specific, fragile, contingent possibility — that debt erasure meant creditors stopped calling, which meant stability, which meant a court might reconsider, which meant a door might open that had been closed since before the charter.
+"Debts forgiven." Two words. The same two words from Article 5, lifted from the contract and set down in the forest air between them. Cole heard what the words carried when Polk said them — not the legal provision, not the financial instrument. A girl. Sixteen now, maybe seventeen. Old enough to understand why her father had left. Old enough to have decided whether to forgive him for it. Polk's debt wasn't sixty thousand credits. Polk's debt was measured in the years he'd missed and the years he couldn't get back and the possibility — the specific, fragile, contingent possibility — that debt erasure meant creditors stopped calling, which meant stability, which meant a court might reconsider, which meant a door might open that had been closed since before the charter.
 
 "Yes," Cole said.
 

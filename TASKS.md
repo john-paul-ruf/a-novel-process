@@ -28,7 +28,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## HIGH — Continuity Discrepancies
 
-### TASK-04: Ch 24-25 — Polk's daughter age inconsistency
+### ~~TASK-04: Ch 24-25 — Polk's daughter age inconsistency~~ ✅
 - **Files:** `chapters/24-the-shuttle/draft.md` (line 199), `chapters/25-the-math/draft.md` (lines 169, 181)
 - **Issue:** In Ch 7 (Months 3-4), Polk says "She's twelve now, probably." In Ch 24 (Year 5 begins, ~4.5 years later), the draft says "Fifteen now, maybe sixteen" (line 199). If the daughter was 12 at Month 3-4, she would be ~16-17 at Year 5. Ch 25 repeats "fifteen-year-old" (lines 169, 181). Story bible continuity flag says: "Suggest she's ~12-15 at landing, ~17-20 by end." The draft's "fifteen" is approximately one year too young.
 - **Fix:** Update Ch 24 to "sixteen now, maybe seventeen" and Ch 25 references to "sixteen-year-old" or "seventeen-year-old." Alternatively, adjust Ch 7's age downward to "eleven now, probably" — but Ch 7 is already drafted and the age anchors Polk's wound. Adjusting Ch 24-25 is cleaner.
