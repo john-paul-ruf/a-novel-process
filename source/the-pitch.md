@@ -20,7 +20,7 @@ Among the dead colony's wreckage — because Parcel 16b was attempted once befor
 
 By Year Two, the count is thirty-one. Cole is holding, but barely. The planet's second-year biological cycle is worse than the first — an organism the colonists call "creep" begins encroaching on their settlement, a slow-moving fungal network that dissolves organic material on contact. The previous expedition's logs describe it. They didn't solve it. Cole has to.
 
-The internal fractures deepen. Maren Tsai, an engineer who signed the charter to escape Earth's surveillance economy, emerges as a rival voice — not antagonistic to Cole, but philosophically opposed. She wants democracy. Cole wants efficiency. They're both right, and the argument nearly tears the colony apart during the creep crisis.
+The internal fractures deepen. Ren Tsai, an engineer who signed the charter to escape Earth's surveillance economy, emerges as a rival voice — not antagonistic to Cole, but philosophically opposed. She wants democracy. Cole wants efficiency. They're both right, and the argument nearly tears the colony apart during the creep crisis.
 
 Then the supply drops stop.
 
@@ -36,7 +36,7 @@ Year Four. Twenty-four colonists remain. Exactly the threshold. No margin for er
 
 Cole identifies the corporate informant — not through investigation, but because she confesses. Dana Wen, a quiet botanist who signed a separate contract with Asterlyne: report back on colony operations and her debt on Earth is erased. She's been feeding information for three years. She's also the one who figured out how to neutralize the creep. The colony's survival and its betrayal live in the same person.
 
-The colony votes. Not Cole's decision — Maren Tsai's democracy, finally enacted. They vote to let Dana stay. The margin holds.
+The colony votes. Not Cole's decision — Ren Tsai's democracy, finally enacted. They vote to let Dana stay. The margin holds.
 
 Asterlyne makes a final play: a corporate shuttle arrives at the start of Year Five with a "renegotiation offer." Leave now, debts forgiven, no questions asked. The catch is implicit — if they stay and even one person dies before the five-year mark, they get nothing. The shuttle is a dare.
 
@@ -44,7 +44,7 @@ Cole speaks to the colony. Not a speech — he's never been that person. He show
 
 Nobody boards the shuttle.
 
-The five-year mark passes on a Tuesday. No ceremony. Cole is repairing a water filtration line when Maren Tsai tells him it's done. He sits on the ground outside the filtration shed, in the dirt of a planet that spent five years trying to kill him, and writes a message to his daughter. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place."
+The five-year mark passes on a Tuesday. No ceremony. Cole is repairing a water filtration line when Ren Tsai tells him it's done. He sits on the ground outside the filtration shed, in the dirt of a planet that spent five years trying to kill him, and writes a message to his daughter. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place."
 
 ## Theme
 
@@ -60,7 +60,7 @@ It is also, quietly, about fatherhood — not as a biological fact but as a prac
 
 ## Structural Notes
 
-- **POV:** Third-person limited, past tense. Primarily Cole, with 2-3 secondary POV characters (Maren Tsai, Dana Wen) for structural breadth.
+- **POV:** Third-person limited, past tense. Primarily Cole, with 2-3 secondary POV characters (Ren Tsai, Dana Wen) for structural breadth.
 - **Nested narrative:** The previous expedition's logs function as a story-within-the-story, discovered and read by Cole across the novel. Fragments, not full chapters — integrated into the main narrative the way a person reads a journal: in stolen moments, out of order, with growing dread.
 - **Timeline:** Five years compressed into three parts. Part One (Months 1-6, ~30%). Part Two (Months 6-30, ~35%). Part Three (Years 3-5, ~35%). Time jumps handled through interiority — Cole's internal landscape marks the passage of time more than calendar dates.
 - **Target length:** 80,000-100,000 words.
