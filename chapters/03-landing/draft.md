@@ -16,7 +16,7 @@ The shuttle touched down at 0847 hours, local time. The notification came throug
 
 Welcome. As if the planet cared.
 
-The descent ramp lowered, and the air that came up into the shuttle was wrong in three ways simultaneously. First, there was the ozone smell—sharp, electric, the kind of smell you got from high-altitude storms. Second, something sweet underneath it, something organic and rotting and alive all at once. Third, nothing. No sound. No birds, no insects, no ambient fauna noise. Just the hum of the shuttle's idle systems and forty-seven people breathing in unison.
+The descent ramp lowered, and the air that came up into the shuttle was wrong in three ways simultaneously. First, there was the ozone smell—sharp, electric, the kind of smell you got from high-altitude storms. Second, something sweet underneath it, something organic, rotting, alive all at once. Third, nothing. No sound. No birds, no insects, no ambient fauna noise. Just the hum of the shuttle's idle systems and forty-seven people breathing in unison.
 
 Cole was the fifth one down the ramp.
 
@@ -58,7 +58,7 @@ Ren looked at him. "That's a horrible system."
 
 "It is," Cole agreed. "But it's a system. Systems are predictable. I'll take predictable horror over random chance."
 
-The settlement assembly took most of the daylight hours. By 1600 hours, all four shelters were standing—not livable yet, still needing interior partitioning and equipment hookup, but standing. The colonists had fallen into work patterns naturally: the academics organizing a rough commons area, Polk and Garrett and three others securing the perimeter with what the viability report called a "deterrent fence" and what Cole recognized as a gesture at safety that wouldn't stop anything actually determined to come through. Haruki was establishing the medical shelter setup. Dana was already into the soil, taking samples, running them through the portable analysis equipment.
+The settlement assembly took most of the daylight hours. By 1600 hours, all four shelters were standing—not livable yet, still needing interior partitioning and equipment hookup, but standing. The colonists had fallen into work patterns naturally: the academics organizing a rough commons area, Polk and three others securing the perimeter with what the viability report called a "deterrent fence" and what Cole recognized as a gesture at safety that wouldn't stop anything actually determined to come through. Haruki was establishing the medical shelter setup. Dana was already into the soil, taking samples, running them through the portable analysis equipment.
 
 Cole was finishing a grid map on his tablet, logging every resource location, every distance calculation, every vector for failure he could preempt with foresight.
 
@@ -92,48 +92,32 @@ This was something else.
 
 He got out of his bunk—which took an awkward maneuver, bunks were not designed for dignified exits—and moved to the shelter's single observation port. The view was limited to maybe fifty degrees, but it was enough to see the forest edge.
 
-The trees. The spiral-trunked things that had been beautiful in the descent viewport were different at night. They were still visible—there was a faint bioluminescence, something in the bark that glowed a very pale green—and the hum was coming from them. Not an orchestrated hum, not a unified sound. Individual trees, vibrating at slightly different frequencies, creating a interference pattern that wasn't sound so much as the suggestion of sound, the ghost of music that you felt rather than heard.
+The trees. The spiral-trunked things that had been beautiful in the descent viewport were different at night. They were still visible—there was a faint bioluminescence, something in the bark that glowed a very pale green—and the hum was coming from them. Not an orchestrated hum, not a unified sound. Individual trees, vibrating at slightly different frequencies, creating an interference pattern that wasn't sound so much as the suggestion of sound, the ghost of music that you felt rather than heard.
 
 And something was moving in the undergrowth.
 
 Not approaching. Cole watched carefully. Whatever it was, it wasn't advancing on the settlement. It was there, in the trees, in the shadows that the bioluminescent glow carved out, and it was *looking*.
 
-Cole had spent three months building a spreadsheet of survival probabilities. Had calculated medical failures and resource depletion and interpersonal conflict cascades. Had read Elena Vasik's logs from the previous expedition and understood the mechanics of a colony that stopped being a group.
+Cole had spent three months building a spreadsheet of survival probabilities. Had calculated medical failures and resource depletion and interpersonal conflict cascades. Had modeled every variable the transit data offered.
+
+The viability report said nothing about fauna. Not a word. The planet was supposed to be a soil chemistry problem, a weather problem, a supply chain problem. Nobody had mentioned the possibility that something would be out there in the dark, looking back.
 
 He'd calculated everything except what it felt like to be seen by something that had evolved on a world that had never demanded humans exist on it.
 
-The creature—and he was certain it was a creature, singular, patient, interested—watched from the forest. Cole watched back. Neither of them moved. The hours passed like that, both of them aware of each other's presence through the dark, through the humming trees, through the thousand kilometers that separated this moment from every moment that had come before.
+The creature—and he was certain it was a creature, singular, patient, interested—watched from the forest. Cole watched back. Neither of them moved. The hours passed like that, both of them aware of each other's presence through the dark, through the humming trees, through a silence that had nothing to do with either of them.
 
 By 0600 hours, it was gone. The forest was still there, still humming, still glowing faintly in the pre-dawn dark. But the sense of being watched released like a held breath.
 
-Cole stayed at the observation port until the sun came up—not a dramatic sight, just a gradual lightening from black to green-tinged gray—and then went to find Dana.
+Cole went back to his bunk. Lay down. The shelter groaned as the temperature began its slow climb back toward morning, and around him the other colonists stirred in the half-dark, shifting against bunks that hadn't been designed for sleep so much as containment.
 
-She was in the agricultural area, already working, already sampling the soil at different depths, already building the same desperate model he was building: what could they learn about this planet quickly enough to make the difference between survival and statistics.
-
-"Did you see anything?" Cole asked.
-
-Dana didn't look up from the soil sample she was analyzing. "Define anything."
-
-"The forest. The fauna. The things observing."
-
-Dana's hands stayed still. But he could see the thought happening behind her eyes. She'd been on the planet six hours longer than he had—had spent more time near the forest edge. She'd seen something. Maybe the same thing Cole had seen. Maybe something else. Maybe nothing, and the isolation was already creating patterns that weren't there.
-
-"The soil is unusual," Dana said finally. "The chemistry is following a pattern, but not the pattern from the surveys. It's cyclical. Oscillating on roughly a twenty-four-hour cycle, but not perfectly. More like a tide."
-
-Cole understood what she wasn't saying. The planet was alive. Not in the way Earth was alive, with biological diversity and interlocking systems that had evolved over millions of years. Alive in the sense that it had rhythms, patterns, behaviors. Alive in the sense that they were going to have to read those rhythms or die trying.
-
-"How many of us do you think know how to adapt?" Cole asked.
-
-Dana finally looked at him. Her face was blank the way a mask is blank—very carefully composed. "All of us. Or none of us. Depends on whether we become a group or just stay forty-seven people dying in proximity."
-
-Cole went back to his shelter as the other colonists woke up. Forty-seven faces, moving through the pre-fab structures, assessing the damage that overnight temperature stress had caused, tallying the work that still needed to be done. He looked at each of them and did what he'd been trained to do since the signing room: counted.
+He could hear them through the thin walls. Through the partitions. Forty-seven people breathing in a settlement that had been on this planet less than a day and was already learning what the planet thought of it.
 
 Forty-seven.
 
 He needed twenty-four.
 
-The planet had been here for millions of years, building its civilizations and letting them fail, cycling through seasons that nothing from Earth was designed for. They'd been here for six hours. They'd already learned that the planet was watching. That it had rules they didn't understand. That the mathematics they'd brought from Earth was going to be insufficient.
+The planet had been here for millions of years, cycling through seasons that nothing from Earth was designed for. They'd been here less than a day. Long enough to learn that the air was wrong, the data was incomplete, the shelters were insufficient, and something in the forest was watching.
 
-Cole found his bunk and lay down without sleeping, without closing his eyes, and did the only thing he knew how to do.
+Cole closed his eyes and did the only thing he knew how to do.
 
 He counted.
