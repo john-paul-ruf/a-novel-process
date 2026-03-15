@@ -2,7 +2,7 @@
 
 **Note:** Engineer character renamed from "Maren Tsai" to "Ren Tsai" to avoid collision with protagonist's surname (Cole Maren).
 
-**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch15) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-27)
+**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch15) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
 
 ---
 
@@ -380,9 +380,9 @@
 
 **Beat 2:** He rereads Elena's final logs. Year Two, when six became four became two became one. Elena was the last alive. Three months alone. Her final entry is two words: "Enough, now." Cole closes the logs for good. He goes to the ghost colony site and builds a small cairn. No words. Just stones.
 
-**Beat 3:** Joss Carver comes to Cole. The younger colonists want to name the settlement. Not Parcel 16b. A real name. Cole says, "It's not mine to name." Joss: "It's not Asterlyne's either. Not anymore."
+**Beat 3:** Joss Carver comes to Cole. The younger colonists want to name the settlement. Not Parcel 16b. A real name. Cole says, "It's not mine to name." Joss: "It's not Asterlyne's either. Not anymore." The colony votes. They have a name. It matters.
 
-**Turn:** The colony names itself. The name comes from a vote. It doesn't matter what they choose — what matters is that a corporate parcel number has become a place that belongs to the people standing on it.
+**Turn:** The colony has a name and exactly twenty-four people to hold it. That's everything and nothing.
 
 ---
 
@@ -392,7 +392,7 @@
 **When:** Year 5 begins
 **Where:** Settlement, original landing zone
 
-**Beat 1:** An Asterlyne shuttle breaks atmosphere without warning. No prior communication. It lands at the original settlement coordinates — abandoned, reclaimed by forest. A company representative steps out: clean suit, legal tablet, corporate smile.
+**Beat 1:** An Asterlyne shuttle breaks atmosphere without warning. No prior communication. It lands at the original settlement coordinates — abandoned, reclaimed by forest. A company representative steps out: clean suit, legal tablet, corporate smile. The colony is at twenty-three. Below the clause threshold. The representative knows.
 
 **Beat 2:** The offer: renegotiation. Leave now, debts forgiven, transport home, NDA. Cole reads the new contract on the spot. It's a surrender — waiver of all rights under the original charter, including 9.4.2. In exchange: passage back to Earth and silence. The representative is polite and transparent about the subtext: "You have eleven months. A lot can happen in eleven months." Garrett Polk hears "debts forgiven" and his chest seizes. That word. The thing he came here to escape, now offered as a way home. He thinks of his daughter — five years older now, possibly old enough to want to see him if the debt erasure means he's not a creditor's target. The math shifts for Polk. Not entirely. But it shifts.
 
@@ -408,13 +408,13 @@
 **When:** Year 5, continued
 **Where:** Settlement, common area
 
-**Beat 1:** Cole gathers all twenty-four. He doesn't give a speech — he's never been that person. He lays out what he's pieced together over five years: Asterlyne's financials, the resource value of Parcel 16b, the cost of their charter versus projected corporate mining revenue. Their lives, on a balance sheet, are a line item: "Charter Viability Assessment — Human Capital Expenditure."
+**Beat 1:** Cole gathers all twenty-three. He doesn't give a speech — he's never been that person. He lays out what he's pieced together over five years: Asterlyne's financials, the resource value of Parcel 16b, the cost of their charter versus projected corporate mining revenue. Their lives, on a balance sheet, are a line item: "Charter Viability Assessment — Human Capital Expenditure." They're already below the threshold. The shuttle's offer is a reset—debts forgiven, but also rights erased.
 
 **Beat 2:** Then he shows them clause 9.4.2. Then he shuts up. The colony talks. It's not unanimous. Two colonists want the deal. They're tired. They're scared. They didn't sign up for a stand. Ren argues. Dana argues. Joss argues. Garrett Polk doesn't argue — he sits at the back and does what Cole has never seen him do. He calculates. Visibly. Debt forgiven vs. staying. Daughter on Earth vs. the settlement they've built. He weighs both sides with an engineer's precision, not an ideologue's conviction. When the conversation shifts toward staying, Polk says nothing. But his jaw sets. He's choosing against himself. The conversation lasts hours.
 
 **Beat 3:** In the end, it's not Cole's math that decides. It's the settlement they named, the creep system that works, the food they grow, the dead they buried, the children two colonists are expecting. The colony has become a place, and places are harder to leave than contracts.
 
-**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Nobody cheers.
+**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Twenty-three of them. Nobody cheers.
 
 ---
 
@@ -424,7 +424,7 @@
 **When:** Year 5, months 2–10
 **Where:** Settlement (time compression)
 
-**Beat 1:** The hardest stretch — not because of the planet but because of the waiting. Eleven months of holding at twenty-four. Every cough is a held breath. Every stumble on a trail is a stopped heart. The planet throws one more crisis: a seismic event that damages the water system and destabilizes a core shelter. Joss volunteers to retrieve critical supplies stored there — water filters, medical compounds, data cores. Cole could do it. Should do it. Doesn't. Lets Joss go. The shelter collapses. Joss dies. Cole sits in the rubble and realizes he chose the colony math over the boy he was raising. He stayed for a daughter he couldn't save and lost a son he could have. Ren finds him there. She doesn't say anything. Neither does he.
+**Beat 1:** The hardest stretch — not because of the planet but because of the waiting. Eleven months of holding at twenty-four. Every cough is a held breath. Every stumble on a trail is a stopped heart. The planet throws one more crisis: a seismic event that damages the water system and destabilizes a core shelter. Joss volunteers to retrieve critical supplies stored there — water filters, medical compounds, data cores. Cole could do it. Should do it. Doesn't. Lets Joss go. The shelter collapses with Joss inside. Cole digs through the rubble. Finds Joss alive but crushed—ribs, legs, internal bleeding Haruki will have to watch develop. Cole pulls him out and sits in the dirt holding Joss's broken body, understanding the choice he just made. Ren finds him there. She doesn't say anything. Neither does he. Joss lives through the seismic event. Cole doesn't know yet that he's just watch him die anyway, slower.
 
 **Beat 2:** A respiratory infection sweeps through — milder than the Year Two fever. Dana has botanical remedies stockpiled. No one dies, but for two weeks the colony lives on a knife edge. Cole doesn't sleep. Haruki forces him to eat.
 
@@ -442,8 +442,12 @@
 
 **Beat 1:** The five-year mark. A Tuesday. Cole wakes before dawn and goes to fix a water filtration line because it needs fixing. The work is routine. His hands know the parts. The spiral-trunked trees hum in the near-distance. He has been on this planet for 1,826 days.
 
-**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-three alive. Clause 9.4.2, invoked. The land is theirs. Cole sits on the ground outside the shed. The dirt of Parcel 16b under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and counting the cost, and breathes.
+**Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-four alive. Clause 9.4.2, invoked. The land is theirs. Cole sits on the ground outside the shed. The dirt of Parcel 16b under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and breathes.
 
 **Beat 3:** Cole goes to the comm station. He writes a message to Lily. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place." He sends it. He goes back to work.
 
-**Turn:** Three days later, there is a celebration. Fermented native fruit that tastes terrible. Joss was supposed to throw this. The colony comes anyway. Cole drinks it. The trees hum. The planet doesn't care. Twenty-three people are alive on a Tuesday, on land that belongs to them, and Cole is learning that enough means nothing when you're counting the ones who are missing. But he sits with the colony anyway. That is something.
+**Beat 4:** That evening, Haruki collapses during the first celebration preparations. Cardiac event. Cole brings him to the medical shelter. Haruki refuses anesthetic, refuses to lie back—sits up on the examination table giving instructions. Cole sits beside him listening to Haruki walk him through the protocol as if Haruki isn't the one dying. Haruki says something quiet: "I'm 57. I've lived longer than Elena. We won." Then he doesn't. Cole sits in the medical shelter holding Haruki's steady hand that can't save itself. Twenty-three.
+
+**Beat 5:** Between Haruki's death and the celebration, Joss's infection turns. The internal injuries Haruki warned about finally collect their price. Haruki dies in the medical shelter; three days later, Joss dies in the same one. Cole doesn't sit with Joss the way he sat with Haruki. He doesn't trust himself to. The boy he raised to survive survived five years only to die after winning. The math broke finally, and Cole can't calculate why he let it.
+
+**Turn:** The celebration happens anyway. Twenty-two people. Fermented native fruit that tastes like ashes. Joss was supposed to throw this. Haruki was supposed to drink it. The colony comes anyway. Cole comes. The trees hum. The planet doesn't care. Twenty-two people are alive on a Tuesday, on land that belongs to them, and Cole is learning that invocation and loss arrive at the same moment. But he sits with the colony anyway. That is something.
