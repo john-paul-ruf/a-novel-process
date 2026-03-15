@@ -2818,11 +2818,11 @@ Joss was quiet for a while. His breathing was audible — that labored, consciou
 
 When. Not if. The kid was running a 40.4 fever and he said when. Cole felt the crack in his chest widen — not the stone of numbers, not the weight of the count, but something underneath it. Something the numbers had been sitting on top of, pressing down, keeping sealed. The thing beneath the math.
 
-He put the cloth on Joss's forehead. Joss flinched and gripped the cot's edge. Cole didn't take his hand. Didn't say anything reassuring. Sat there in the dark with a twenty-three-year-old who might die before morning and a nine-year-old who existed in a message he'd sent six months ago across a distance measured in light-years, and felt the math crack.
+He put the cloth on Joss's forehead. Joss flinched and gripped the cot's edge. Cole didn't take his hand. Didn't say anything reassuring. Sat there in the dark with a twenty-three-year-old who might die before morning and a ten-year-old who existed in a message he'd sent eleven months ago across a distance measured in light-years, and felt the math crack.
 
 Not break. The math didn't break. The math was structural — it held the colony, it held the clause, it held the count. But the thing the math was for — the reason underneath the calculation — shifted. Moved. Became visible through the crack the way light becomes visible through a fracture in a wall.
 
-He wasn't counting to twenty-four because twenty-four was the number that triggered the clause. He was counting because every number was a face and every face was a person who was alive because the systems held and the compound worked and Haruki's hands were steady and Dana's plants grew in the right soil at the right time. Every number was someone who breathed and ate and argued and slept and woke up and did it again, not because a contract told them to but because they were still here and being here was the thing. The only thing.
+He wasn't counting to twenty-four because twenty-four was the number that triggered the clause. He was counting because every number was a face, every face a person who was alive because the systems held, the compound worked, Haruki's hands were steady, and Dana's plants grew in the right soil at the right time. Every number was someone who breathed and ate and argued and slept and woke up and did it again, not because a contract told them to but because they were still here and being here was the thing. The only thing.
 
 Cole sat in the medical shelter and held a cloth against a burning forehead and understood, for the first time in seventeen months, that the math had never been the reason. The math was the tool. The reason was the kid on the cot. The woman who'd died that morning. The man dying across the shelter. The thirty-two people in the shelters outside, sleeping or not sleeping, afraid or not afraid, alive.
 
@@ -4203,7 +4203,7 @@ Cole put his dirty hands on the desk and sat in the quiet and didn't count.
 
 The council learned on Day 31.
 
-Cole had asked for thirty. Ren gave him thirty. He'd used every hour — not building alliances, not politicking, not the social architecture that came naturally to people who thought in relationships instead of systems. He'd built support structures. Redundancies. Quiet conversations with the colonists he judged most stable: Kira, whose opposition during the relocation vote had been principled and whose principles included hearing people out. James, whose compound fracture had healed into a limp that slowed his body but not his judgment. Two others who carried weight in the colony's informal hierarchy — the hierarchy that existed underneath Ren's democratic architecture the way bedrock existed underneath soil, unseen and load-bearing.
+Cole had asked for thirty. Ren gave him thirty. He'd used every hour — not building alliances, not politicking, not the social architecture that came naturally to people who thought in relationships instead of systems. He'd built support structures. Redundancies. Quiet conversations with the colonists he judged most stable: Kira, whose opposition during the relocation vote had been principled and whose principles included hearing people out. Dara, whose fever had left a stiffness in her joints that slowed her mornings but not her judgment. Two others who carried weight in the colony's informal hierarchy — the hierarchy that existed underneath Ren's democratic architecture the way bedrock existed underneath soil, unseen and load-bearing.
 
 He hadn't told them about Dana. He'd told them the colony would face a test. That cohesion would matter more than anger. That the next month would determine whether they were a group or a collection of people dying in proximity. Elena's words, weaponized for survival. Manipulative. Leadership. Same thing.
 
@@ -4263,7 +4263,7 @@ Polk's jaw worked. Cole watched the muscles move under the sunburned skin and re
 
 Polk stared at him. Three years of antagonism compressed into a look that contained everything Polk had ever thought about Cole Maren — the logistics machine, the man who counted faces like inventory, the calculator who'd turned survival into arithmetic and arithmetic into authority. The look also contained something newer. Something that had been building since the relocation, since Polk had voted to move and watched the move kill two people and knew that staying would have killed more. The recognition that Cole's math wasn't wrong. That hating the math didn't make it wrong.
 
-Three council members spoke in rapid sequence. Kira: "She betrayed every person in this settlement." James, leaning forward on his bad leg: "We trusted her with our food systems. Our medical compounds. Our survival." A woman named Lina, water systems, who'd been at the array the morning Yuki didn't arrive: "If Asterlyne sends another expedition with her data, we lose everything. The charter. The land. Five years of dying for nothing."
+Three council members spoke in rapid sequence. Kira: "She betrayed every person in this settlement." Dara, rubbing the stiffness from her wrist: "We trusted her with our food systems. Our medical compounds. Our survival." A woman named Lina, water systems, who'd been at the array the morning Yuki didn't arrive: "If Asterlyne sends another expedition with her data, we lose everything. The charter. The land. Five years of dying for nothing."
 
 "Expelled," Kira said. The word landed in the council chamber with a weight that exceeded its two syllables. "She leaves the settlement. Takes what she can carry. That's the precedent."
 
@@ -4311,7 +4311,7 @@ He watched the argument land. Some faces calculating. Some faces hardening again
 
 Garrett Polk sat at the back of the common area. He'd been silent since the council meeting. Not the performative silence of a man building to a speech — Cole knew that version of Polk, had watched it operate for three years, the rhetorical machine warming up before the declaration. This was different. Polk was sitting with his forearms on his knees and his hands hanging loose and his face pointed at the floor, and Cole couldn't read it.
 
-The discussion ran for two hours. Voices rose and fell. Arguments circled: the betrayal, the debt, the creep solution, the count, the principle, the precedent. Kira argued for expulsion with the clarity of a woman whose convictions were load-bearing. James argued for a middle path — restricted access, supervised work, trust rebuilt through demonstrated loyalty. Joss Carver, twenty-five now and carrying himself with a stillness he hadn't had at twenty-two, said, "She stopped. That matters." Lina said, "She stopped because they asked her to pick targets. What if they'd asked her something smaller? Would she have stopped then?"
+The discussion ran for two hours. Voices rose and fell. Arguments circled: the betrayal, the debt, the creep solution, the count, the principle, the precedent. Kira argued for expulsion with the clarity of a woman whose convictions were load-bearing. Dara argued for a middle path — restricted access, supervised work, trust rebuilt through demonstrated loyalty. Joss Carver, twenty-five now and carrying himself with a stillness he hadn't had at twenty-two, said, "She stopped. That matters." Lina said, "She stopped because they asked her to pick targets. What if they'd asked her something smaller? Would she have stopped then?"
 
 Nobody could answer that. Dana didn't answer it. She stood in the center and let the question exist.
 
@@ -4389,7 +4389,7 @@ Cole buried Wei on the slope facing the spiral trees and revised the structural 
 
 ---
 
-Month 37. A cough.
+Month 35. A cough.
 
 Patricia had been coughing since the relocation. Cole remembered it — Month 10, Day 3, the night transport across open terrain when Noor had died of hypothermia. Patricia had caught something in the cold. The cough had persisted through months of treatment, Dana's compounds managing it to a level that let Patricia function but never eliminating the underlying pathology. Haruki had flagged it. Repeatedly. In his quiet way, in the margins of medical reports, in the conversations he had with Cole after the colony slept — the conversations where Haruki said the things the colony couldn't hear.
 
@@ -4901,7 +4901,7 @@ The forest closed around them the way it always closed — not hostile, not welc
 
 Polk spoke first.
 
-"Debts forgiven." Two words. The same two words from Article 5, lifted from the contract and set down in the forest air between them. Cole heard what the words carried when Polk said them — not the legal provision, not the financial instrument. A girl. Fifteen now, maybe sixteen. Old enough to understand why her father had left. Old enough to have decided whether to forgive him for it. Polk's debt wasn't sixty thousand credits. Polk's debt was measured in the years he'd missed and the years he couldn't get back and the possibility — the specific, fragile, contingent possibility — that debt erasure meant creditors stopped calling, which meant stability, which meant a court might reconsider, which meant a door might open that had been closed since before the charter.
+"Debts forgiven." Two words. The same two words from Article 5, lifted from the contract and set down in the forest air between them. Cole heard what the words carried when Polk said them — not the legal provision, not the financial instrument. A girl. Sixteen now, maybe seventeen. Old enough to understand why her father had left. Old enough to have decided whether to forgive him for it. Polk's debt wasn't sixty thousand credits. Polk's debt was measured in the years he'd missed and the years he couldn't get back and the possibility — the specific, fragile, contingent possibility — that debt erasure meant creditors stopped calling, which meant stability, which meant a court might reconsider, which meant a door might open that had been closed since before the charter.
 
 "Yes," Cole said.
 
@@ -5137,7 +5137,7 @@ Cole watched Polk.
 
 He'd been watching Polk since the assembly began, the way he'd been watching Polk since the transit ship. Polk at the back of the room. Arms crossed. Face holding the expression Cole knew as the calculation face — the muscles working under the sunburned skin, the jaw set, the eyes tracking the speakers without following them. Polk was doing math. Not Cole's math. Not the corporate ledger, the extraction value, the charter cost ratio. Polk was running the computation he'd been running since Graham Lyle said "debts forgiven" in a clearing twelve kilometers west.
 
-Daughter on Earth. Settlement on Parcel 16b. Debt erased vs. land owned. The possibility of a door reopening — custody, contact, the chance to be something other than the man who'd left — vs. the certainty of a place he'd built with people who'd watched him nearly destroy them and had voted to keep him anyway. Polk's math didn't have clean variables. Polk's math had a fifteen-year-old girl whose face he hadn't seen in five years inside one column and a colony named Holdfast inside the other, and the columns didn't convert.
+Daughter on Earth. Settlement on Parcel 16b. Debt erased vs. land owned. The possibility of a door reopening — custody, contact, the chance to be something other than the man who'd left — vs. the certainty of a place he'd built with people who'd watched him nearly destroy them and had voted to keep him anyway. Polk's math didn't have clean variables. Polk's math had a sixteen-year-old girl whose face he hadn't seen in five years inside one column and a colony named Holdfast inside the other, and the columns didn't convert.
 
 The conversation continued for hours. It circled. It stalled. It moved forward in increments that felt like setbacks and in setbacks that were actually consolidation. Colonists spoke and repeated themselves and said things they'd already said in different words because the saying was the process and the process required repetition the way grief required it — not to reach a conclusion but to exhaust every other path until the conclusion was the only path remaining.
 
@@ -5149,7 +5149,7 @@ Watching Polk sit in the back of a room deciding the same thing, Cole felt the j
 
 Polk's jaw set. The muscles locked. The sunburned skin tightened over the bone.
 
-He didn't speak. The setting was the speaking. Cole read it the way he read membrane percentages — the specific tension that meant the material had reached its final configuration and the configuration was going to hold. Polk was choosing against himself. Choosing Holdfast over the daughter he'd left on Earth, the debt forgiveness that could have reopened the custody door, the chance to see a girl who was fifteen now and might want to see him or might not and the uncertainty made the choice impossible. The choice was being made anyway.
+He didn't speak. The setting was the speaking. Cole read it the way he read membrane percentages — the specific tension that meant the material had reached its final configuration and the configuration was going to hold. Polk was choosing against himself. Choosing Holdfast over the daughter he'd left on Earth, the debt forgiveness that could have reopened the custody door, the chance to see a girl who was sixteen now and might want to see him or might not and the uncertainty made the choice impossible. The choice was being made anyway.
 
 Nobody in the room saw it except Cole. The decision happened in Polk's jaw and Polk's silence and the specific angle of Polk's crossed arms, and the room kept talking around it, and the talking was necessary and the decision was already made.
 
@@ -5491,7 +5491,7 @@ The framework was the choice. Cole had chosen the math over the boy. And the mat
 
 Ren didn't say anything. She stood in the dirt and watched Cole hold Joss and knew that the eleven months of waiting had found their crisis, and the crisis wasn't the tremor or the shelter or the broken bones. The crisis was a man discovering that the system he'd built to save everyone had required him to sacrifice someone — the one person the system was supposed to make the sacrifice worth it for.
 
-Haruki arrived in four minutes. He knelt beside Joss with the measured calm that was his constitution and his treatment and his gift, and his hands moved over Joss's legs with the diagnostic attention that found fractures and assessed damage and communicated through touch that the body being examined was in the care of someone who knew what care meant. Compound fracture, left tibia. Simple fracture, right fibula. Possible internal bleeding — the rack's weight on the abdomen for six minutes, the compression that might have ruptured something Haruki couldn't see without equipment he didn't have.
+Haruki arrived in four minutes. He knelt beside Joss with the measured calm that was his constitution and his treatment and his gift, and his hands moved over Joss's legs with the diagnostic attention that found fractures and assessed damage and communicated through touch that the body being examined was in the care of someone who knew what care meant. Compound fracture, left tibia. Simple fracture, right fibula. Three cracked ribs, at least. Possible internal bleeding — the rack's weight on the abdomen for six minutes, the compression that might have ruptured something Haruki couldn't see without equipment he didn't have.
 
 "He needs to be still," Haruki said. "Complete immobilization. I'll splint. Dana's anti-inflammatory compounds, full dose. The internal — I'll monitor. Watch for distension, pallor changes, heart rate."
 
