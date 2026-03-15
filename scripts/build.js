@@ -159,10 +159,24 @@ async function build() {
     epubMd = epubMd.replace(/```{=latex}[\s\S]*?```\n*/g, '');
     epubMd = epubMd.replace(/^## Contents\n[\s\S]*?^---$/m, '');
 
+    const yamlBlock = [
+      '---',
+      `title: ${TITLE}`,
+      `author: ${AUTHOR}`,
+      'lang: en',
+      ...(fs.existsSync(COVER) ? [`cover-image: ${COVER}`] : []),
+      '---',
+      '',
+    ].join('\n');
+    epubMd = yamlBlock + epubMd;
+
     const epubFile = path.join(OUT_DIR, '.epub-temp.md');
     fs.writeFileSync(epubFile, epubMd);
 
-    const result = await markdownToEpub(epubFile, epubOut);
+    const result = await markdownToEpub(epubFile, epubOut, {
+      toc: true,
+      tocDepth: 1,
+    });
     fs.unlinkSync(epubFile);
     
     if (result.success) {
