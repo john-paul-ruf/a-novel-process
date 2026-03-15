@@ -398,7 +398,7 @@ Ren said words. Not a speech — Ren didn't give speeches, the same way Cole did
 
 Then the colony went back to the common area. And the celebration happened.
 
-Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's chemistry filtered through human patience. The fire. The Bench. The paths and the shelters and the channels running beneath the bedrock. The trees humming at the frequency Cole had felt in his chest since Day One, the frequency that had set his teeth on edge and now felt like the sound the ground made when you put your hands on it and held on.
+Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's chemistry filtered through human patience. The fire. The Bench. The paths worn bare. The shelters. The channels running beneath the bedrock. The trees humming at the frequency Cole had felt in his chest since Day One, the frequency that had set his teeth on edge and now felt like the sound the ground made when you put your hands on it and held on.
 
 Joss was supposed to throw this. Haruki was supposed to drink it.
 
@@ -412,6 +412,6 @@ Cole sat with the colony. Twenty-two. The framework held the number the way it h
 
 Invocation and loss arriving at the same moment. The thing the math had never predicted. The thing the math couldn't calculate. The thing that was true anyway.
 
-Cole sat on the Bench at Holdfast with the fermented fruit and the fire and the trees and the twenty-two. He sat with it. The winning and the losing and the gap between them that was not a gap but a space where something would grow, the way things grew on this planet — in cycles, in patience, in the specific persistence of life that didn't ask permission.
+Cole sat on the Bench at Holdfast. Fermented fruit warm in his hands. Fire on his face. The trees. The twenty-two. He sat with all of it. Winning, losing, the gap between — except it wasn't a gap. It was a space where something would grow, the way things grew on this planet. In cycles. In patience. In the specific persistence of life that didn't ask permission.
 
 That was something.

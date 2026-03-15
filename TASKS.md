@@ -22,13 +22,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **File:** `chapters/27-tuesday/draft.md`, line 185
 - **Resolution:** Full rewrite. Replaced nine-"and" polysyndeton chain with fragment-stacked inventory (periods as separators) closing into "All of it carried. Every count, every loss the framework absorbed because the framework was all he had." Preserves accumulative weight and carrying motif through voice-native tools (fragments, declarative punch) rather than conjunction chaining.
 
-### TASK 004 — Ch 27: Polysyndeton (moderate)
+### ~~TASK 004 — Ch 27: Polysyndeton (moderate)~~ ✅ COMPLETE
 - **File:** `chapters/27-tuesday/draft.md`
-- **Instances:**
-  - Line 401: "The paths and the shelters and the channels running beneath the bedrock."
-  - Line 415: "the fermented fruit and the fire and the trees and the twenty-two"
-- **Problem:** Chained "and" construction. Voice profile prohibits polysyndeton. These occur in the final celebration scene and carry a cumulative, liturgical quality.
-- **Note:** Same decision as TASK 003 — these may be intentional for the novel's closing register. If permitted, update voice profile with a scoped exception for the final chapter's celebration/reflection passages.
+- **Resolution:** Reimagined both instances using fragment-stacked inventory with sensory grounding. Line 401: "The paths and the shelters and the channels" → "The paths worn bare. The shelters. The channels running beneath the bedrock." Line 415: Four-item "and" chain → fragment inventory grounded in Cole's body ("Fermented fruit warm in his hands. Fire on his face. The trees. The twenty-two."); adjacent "The winning and the losing and the gap" → comma-listed with declarative inversion ("Winning, losing, the gap between — except it wasn't a gap. It was a space where something would grow"). No voice profile exception added — polysyndeton prohibition maintained.
 
 ### TASK 005 — Ch 26: "not-X was the X" near-violation
 - **File:** `chapters/26-eleven-months/draft.md`, line 251
