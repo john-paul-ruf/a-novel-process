@@ -24,7 +24,7 @@ Dana sat in the middle row. Quiet-bodied, soil under her nails, taking up the sp
 
 Joss stood at the wall near the entrance. Arms crossed. The posture he'd started using after the naming vote — not defensive, observational. Watching the room the way Cole had watched rooms for five years, reading faces for the information faces carried when people didn't know they were being read. Joss had learned it from Cole without either of them naming the transmission. Teacher and student, except the teacher hadn't intended to teach and the student hadn't asked to learn and the learning had happened anyway, the way the colony's culture had happened — in the gaps between the systems.
 
-Haruki sat near Dana. His hands folded in his lap. Steady. The doctor who'd saved Joss during the fever and Patricia during the cough's early months and dozens of others with botanical compounds and field surgery and the calm, diagnostic attention that made people believe their bodies would hold because the man examining them believed it first. Haruki was fifty-six. His face showed it more than his hands did. The face carried four years of alien sun and insufficient sleep and the specific exhaustion of a man who'd treated every wound and buried every body and maintained the same measured calm through all of it because the calm was the treatment and the treatment was the man.
+Haruki sat near Dana. His hands folded in his lap. Steady. The doctor who'd saved Joss during the fever and Patricia during the cough's early months and dozens of others with botanical compounds and field surgery and the calm, diagnostic attention that made people believe their bodies would hold because the man examining them believed it first. Haruki was fifty-six. His face showed it more than his hands did. The face carried four years of alien sun and insufficient sleep and the specific exhaustion of a man who'd treated every wound and buried every body and maintained the same measured calm through all of it because Haruki's calm was the only instrument he had, and he'd never once set it down.
 
 Garrett Polk sat at the back. Always at the back now. The rhetorical force that had built a signal array and nearly dissolved the charter had quieted over the last two years into something Cole didn't have a word for. Not compliance. Not agreement. A repositioning. Polk at the back of the room was Polk watching, calculating, running numbers against a framework that had changed since Month 4 but hadn't disappeared. Polk still distrusted systems. He just distrusted them from inside the system now, which was different from distrusting them while trying to build an alternative.
 
@@ -178,7 +178,7 @@ Watching Polk sit in the back of a room deciding the same thing, Cole felt the j
 
 Polk's jaw set. The muscles locked. The sunburned skin tightened over the bone.
 
-He didn't speak. The setting was the speaking. Cole read it the way he read membrane percentages — the specific tension that meant the material had reached its final configuration and the configuration was going to hold. Polk was choosing against himself. Choosing Holdfast over the daughter he'd left on Earth, the debt forgiveness that could have reopened the custody door, the chance to see a girl who was fifteen now and might want to see him or might not and the not-knowing was the thing that made the choice impossible and the choice was being made anyway.
+He didn't speak. The setting was the speaking. Cole read it the way he read membrane percentages — the specific tension that meant the material had reached its final configuration and the configuration was going to hold. Polk was choosing against himself. Choosing Holdfast over the daughter he'd left on Earth, the debt forgiveness that could have reopened the custody door, the chance to see a girl who was fifteen now and might want to see him or might not and the uncertainty made the choice impossible. The choice was being made anyway.
 
 Nobody in the room saw it except Cole. The decision happened in Polk's jaw and Polk's silence and the specific angle of Polk's crossed arms, and the room kept talking around it, and the talking was necessary and the decision was already made.
 
@@ -232,7 +232,7 @@ Ren was standing very still. The engineer who thought in systems, who'd designed
 
 The words were calm. The words were Ren at her most controlled — the voice she used when a structure showed a crack she couldn't repair immediately, the engineer's discipline of naming the problem and deferring the solution without pretending the problem didn't exist.
 
-Underneath the calm, Cole heard the fear. Not for herself. For the system. For the architecture she'd spent three years building — the democratic process, the council, the governance that had given the colony a structure beyond survival. The architecture assumed the colonists were the colony. If children were born on Holdfast and the charter's language didn't cover them, then the architecture had a gap at its foundation, and the gap was the kind that widened under load.
+Underneath the calm, Cole heard the fear. Not for herself. For the system. For the architecture she'd spent three years building — the democratic process, the council, the governance that had given the colony a structure beyond survival. The architecture assumed the colonists were the colony. If children were born on Holdfast and the charter's language didn't cover them, then the architecture had a gap at its foundation, and the gap would widen under load.
 
 Nobody proposed asking Asterlyne. The thought existed in the room — Cole could feel it, the way he could feel temperature shifts before Dana's instruments confirmed them. Twenty-four people in a room, and not one of them trusted the corporation enough to ask the question that mattered most. They'd learned what Asterlyne's answers sounded like. Corporate poetry. Language designed to preserve optionality, to defer commitment, to say nothing while sounding like everything. "Asterlyne's determination regarding post-natal signatory status will align with the charter's intentions." Translation: we'll decide when deciding benefits us, and the decision will be whatever protects the four-hundred-billion-credit asset.
 
@@ -254,7 +254,7 @@ They voted to stay anyway. Not because the arguments had overcome their reasons.
 
 Twenty-four hands. All of them.
 
-Ren counted. She didn't need to. The count was visible. But she counted because the count was the protocol and the protocol was the architecture and the architecture was what made the decision legitimate rather than accidental. Twenty-four hands. Twenty-four votes. Unanimous.
+Ren counted. She didn't need to. The count was visible. But she counted because the count was protocol, and protocol was what made the decision legitimate rather than accidental. Twenty-four hands. Twenty-four votes. Unanimous.
 
 "The colony votes to remain," Ren said. "The vote is recorded. The shuttle's offer is declined."
 

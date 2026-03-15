@@ -20,7 +20,7 @@ He walked out of the shed and into Holdfast.
 
 The settlement was quiet. The shelters Ren had designed — low, wide, built for wind and then rebuilt for seismic after the tremor — sat in their arranged pattern on the rock substrate, dark shapes against the lighter ground. Paths worn into the substrate by five years of feet connected them like veins. The common area where Cole had laid out the charter and the corporate math sat empty, the table still there, the rock outcropping Joss had named the Bench still there, everything still there because things that people built and named and used every day developed a permanence that outlasted the materials.
 
-Cole walked the perimeter. The morning count. He didn't count shelters anymore — he'd stopped that in Year Four, when the number held at twenty-four and the holding made the counting feel different. Not unnecessary. Different. He walked the perimeter because the walking was the ritual and the ritual was the structure and the structure was what held him in the hours before the colony woke, when the planet was quiet and his mind was loud and the framework ran without input.
+Cole walked the perimeter. The morning count. He didn't count shelters anymore — he'd stopped that in Year Four, when the number held at twenty-four and the holding made the counting feel different. Not unnecessary. Different. He walked the perimeter because the walking had become ritual, had become structure — the thing that held him in the hours before the colony woke, when the planet was quiet and his mind was loud and the framework ran without input.
 
 He counted anyway. The body's reflex. Twenty-four.
 
@@ -34,7 +34,7 @@ He hadn't told anyone. Ren knew — Ren always knew, the way she knew seal degra
 
 Everyone knew. Nobody had said it.
 
-The trees hummed. The sky shifted from green-dark to green-pale. The planet turned the way it had been turning for millions of years, indifferent, the rotation carrying Holdfast from dark into light, and the light this morning was the same light as every other morning, and the sameness was the point.
+The trees hummed. The sky shifted from green-dark to green-pale. The planet turned the way it had been turning for millions of years, indifferent, the rotation carrying Holdfast from dark into light, and the light this morning was the same light as every other morning. That was the point.
 
 Cole went back to the filtration shed. Checked the patch. Held.
 
@@ -44,7 +44,7 @@ Ren found him at the junction at 0738.
 
 He heard her footsteps on the path before he saw her — the specific cadence of Ren's walk, the engineer's gait that was always slightly faster than the terrain required because Ren moved through the settlement the way current moved through the channels, purposefully, on a gradient she'd calculated whether she was conscious of it or not.
 
-She came around the filtration shed and stopped. Cole was sitting on the housing cover with the inspection kit open beside him, running the secondary seal check that didn't need running because he'd already run it at 0514 and the results hadn't changed. He was running it because his hands needed the work the way his lungs needed air, and the work was the thing that kept the framework from processing the date into something the framework wasn't built to hold.
+She came around the filtration shed and stopped. Cole was sitting on the housing cover with the inspection kit open beside him, running the secondary seal check that didn't need running because he'd already run it at 0514 and the results hadn't changed. He was running it because his hands needed the work the way his lungs needed air — the work kept the framework from processing the date into something it wasn't built to hold.
 
 Ren looked at him. Three seconds. The unit of communication they'd built over five years, the interval that carried everything that speech was too slow for.
 
@@ -54,7 +54,7 @@ Cole set down the inspection tool.
 
 "Five years. Twenty-four alive. Clause 9.4.2."
 
-She said it without ceremony. The democratic architect delivering a result the way she delivered every result — factual, verified, entered into the record. She'd counted. Cole knew she'd counted because counting was the protocol and the protocol was the architecture. She'd walked the settlement before coming to him. She'd verified the number the way she verified seal integrity, by putting her attention on every junction and confirming that the junction held.
+She said it without ceremony. The democratic architect delivering a result the way she delivered every result — factual, verified, entered into the record. She'd counted. Cole knew she'd counted because the count was protocol. She'd walked the settlement before coming to him. She'd verified the number the way she verified seal integrity, by putting her attention on every junction and confirming that the junction held.
 
 Twenty-four. The number that had been running in Cole's chest since Day Zero, the number he'd calculated in a corporate waiting room while forty-six other people signed without reading, the number that meant fifty-one percent of the original signatories, the number that triggered a clause the company had never expected anyone to reach. The number that meant the land transferred. That Holdfast was theirs.
 
@@ -68,7 +68,7 @@ What he felt was not relief.
 
 He felt the ground under his hands. The dirt of Holdfast. The rock substrate they'd relocated to in Month 10 when the creep advanced and the colony voted and Ren insisted on the vote and Cole resisted and Ren was right. The ancient channels underneath, carved by something that had lived here before them, infrastructure that outlasted whatever built it. Dana's agricultural terraces in the distance, the third-phase crops growing in soil that followed cycles the colony had learned to predict. The shelters Ren had designed. The paths the colony had worn. The water running through the junction he'd just repaired.
 
-He felt all of it through his hands, the way he'd felt the adhesive bond on the patch, the way he'd felt every system he'd maintained for 1,826 days. Not as data. Not as inventory. As contact. His hands on the ground of a place he'd been touching for five years, and the touching was the knowing, and the knowing was not relief but recognition. He was here. He'd built this. They'd built this. The building was finished in the way that charters finished — a date on a contract, a legal threshold, a number that crossed a line. And the building was not finished in the way that building was never finished because the junction would need patching again and the membranes would need replacing and the crops would need planting and the water would need cleaning and the children would need raising.
+He felt all of it through his hands, the way he'd felt the adhesive bond on the patch, the way he'd felt every system he'd maintained for 1,826 days. Not as data. Not as inventory. As contact. His hands on the ground of a place he'd been touching for five years, and the contact told him everything. Not relief. Recognition. He was here. He'd built this. They'd built this. The building was finished in the way that charters finished — a date on a contract, a legal threshold, a number that crossed a line. And the building was not finished in the way that building was never finished because the junction would need patching again and the membranes would need replacing and the crops would need planting and the water would need cleaning and the children would need raising.
 
 Cole sat in the dirt. Ren stood three meters away, watching him the way she watched structures — for the stress lines, the load paths, the points where the weight was held and the points where it wasn't.
 
@@ -214,11 +214,11 @@ Ren was by the fire. Talking to Kira about the water system, probably, or the ag
 
 Dana sat on the Bench. The rock outcropping. Soil under her nails. The fermented fruit in a cup she held with both hands, the way you hold something warm. The woman who'd saved the colony and betrayed it and confessed and survived the vote and stayed. The most morally complicated person Cole had ever known, sitting on a rock named by people she'd transmitted to a corporation, drinking fruit fermented from plants she'd cultivated on land she'd helped the colony keep.
 
-Polk was at the back. Always at the back. Standing with his arms crossed and his jaw set and his sunburned face carrying the particular expression Cole had learned to read as the settled configuration — the final position of a man who'd been calculating for five years and had arrived at an answer that didn't convert into the variables he'd started with. His daughter was on Earth. Five years older. The debt forgiveness the shuttle had offered was gone with the shuttle. Polk had chosen Holdfast over the daughter and the choosing was the thing he'd live with, the specific weight that wouldn't lift, the cost of a decision made with the jaw instead of the math.
+Polk was at the back. Always at the back. Standing with his arms crossed and his jaw set and his sunburned face carrying the particular expression Cole had learned to read as the settled configuration — the final position of a man who'd been calculating for five years and had arrived at an answer that didn't convert into the variables he'd started with. His daughter was on Earth. Five years older. The debt forgiveness the shuttle had offered was gone with the shuttle. Polk had chosen Holdfast over the daughter. He'd live with it. The specific weight that wouldn't lift, the cost of a decision made with the jaw instead of the math.
 
 Others. The colonists whose names Cole knew the way he knew membrane percentages — by function and by person, the dual knowing that five years had fused into a single act of attention. Beck, who'd stopped calculating risk and started volunteering for perimeter patrols. Kira, who walked the path with her hand on the wall. Ora, who'd suggested Elena's name for the settlement. Lana, holding her son, the boy born at Holdfast, the child whose legal status the charter didn't address and whose presence in Lana's arms addressed something the charter couldn't reach.
 
-Mika's daughter slept in a shelter nearby. Two children at Holdfast. Two people who hadn't signed anything, hadn't been in the waiting room, hadn't survived the transit or the landing or the creep or the fever. Two people who existed because other people had survived long enough to make them, and the making was the thing the charter hadn't anticipated, the variable that broke the model the way the planet's second cycle had broken the viability data — not by being hostile but by being alive.
+Mika's daughter slept in a shelter nearby. Two children at Holdfast. Two people who hadn't signed anything, hadn't been in the waiting room, hadn't survived the transit or the landing or the creep or the fever. Two people who existed because other people had survived long enough to make them. The charter hadn't anticipated that. The variable that broke the model the way the planet's second cycle had broken the viability data — not by being hostile but by being alive.
 
 Cole took a cup of the fermented fruit. Tasted it. The taste was rough — chemical, sweet, the specific profile of a fruit that had evolved on a planet where human taste buds were the alien element. Someone had added something to cut the bitterness. It didn't entirely work. He drank it anyway.
 
@@ -264,7 +264,7 @@ Joss stayed.
 
 Cole knelt beside Haruki. The doctor's face was gray. Not pale — gray, the specific coloration of skin that wasn't receiving enough blood, the diagnostic sign that Haruki himself had taught Cole to read during the fever when they'd triaged thirty-four colonists and Haruki had pointed at faces and said *watch the color, the color tells you before the pulse does*.
 
-"Cardiac," Haruki said. His voice was steady. Of course his voice was steady. Haruki's voice had been steady through every crisis for five years — through the first autopsy and the fever and the creep death and Patricia's breathing stopping and James's immune system surrendering and every body Haruki had treated and every body he'd failed to save. The voice was steady because the voice was the treatment and the treatment was the man and the man was not going to stop being the man because the man was dying.
+"Cardiac," Haruki said. His voice was steady. Of course his voice was steady. Haruki's voice had been steady through every crisis for five years — through the first autopsy and the fever and the creep death and Patricia's breathing stopping and James's immune system surrendering and every body Haruki had treated and every body he'd failed to save. The voice was steady because Haruki's steadiness was the treatment. It always had been. He was not going to stop being Haruki because Haruki was dying.
 
 "Tell me what to do," Cole said.
 
@@ -300,7 +300,7 @@ Cole looked at him. Haruki's eyes were clear. Not fever-bright, not glazed. Clea
 
 "I'm fifty-seven. I've lived longer than Elena."
 
-Cole heard it. Elena Vasik, who'd died alone at the ghost colony, whose logs had been the mirror and the map and the warning. Elena, who'd been a scientist and a leader and the last survivor of a colony that failed. Elena, whose final words were two: *Enough, now.* Haruki had read those words. They'd been on the Board in the common area for three years. Haruki was measuring himself against the ghost, the way Cole had measured himself against the ghost for five years, and the measurement came out in Haruki's favor, and the favor was the thing he wanted Cole to hear.
+Cole heard it. Elena Vasik, who'd died alone at the ghost colony, whose logs had been the mirror and the map and the warning. Elena, who'd been a scientist and a leader and the last survivor of a colony that failed. Elena, whose final words were two: *Enough, now.* Haruki had read those words. They'd been on the Board in the common area for three years. Haruki was measuring himself against the ghost, the way Cole had measured himself against the ghost for five years, and the measurement came out in Haruki's favor. That was what he wanted Cole to hear.
 
 "We won," Haruki said.
 
@@ -316,11 +316,11 @@ Instructions. The doctor's final rounds. The patient list handed to the colleagu
 
 "The arrhythmia protocol, if anyone else develops —"
 
-Haruki stopped. His hand went to his chest again. The pause was longer this time. Seven seconds. Cole counted and hated counting and counted anyway because the counting was the only act the framework could perform and the framework was the only thing keeping him from the other thing, the thing beneath the framework, the thing that was not arithmetic.
+Haruki stopped. His hand went to his chest again. The pause was longer this time. Seven seconds. Cole counted and hated counting and counted anyway because counting was the only act the framework could perform, and the framework was the only thing between him and the other thing. The thing beneath the numbers. The thing that was not arithmetic.
 
 Haruki's hand reached for Cole's. Found it. Held it.
 
-The grip was steady. Of course the grip was steady. Haruki's hands had been the steadiest thing in the colony for five years — steadier than the shelters, steadier than the junction seals, steadier than the bedrock. The hands that had treated every wound and delivered a child and held Patricia's hand while she died and splinted Joss's legs and forced Cole to eat and performed the first autopsy and the last examination and every act of medicine between. The hands that were the treatment because the treatment was the man.
+The grip was steady. Of course the grip was steady. Haruki's hands had been the steadiest thing in the colony for five years — steadier than the shelters, steadier than the junction seals, steadier than the bedrock. The hands that had treated every wound and delivered a child and held Patricia's hand while she died and splinted Joss's legs and forced Cole to eat and performed the first autopsy and the last examination and every act of medicine between. The hands that had been the colony's one irreplaceable instrument.
 
 The grip held for twelve seconds. Cole counted. Then the grip changed. Not released — changed. The specific alteration in muscle tension that Cole had never felt before and recognized instantly because the body knew what the mind refused to process. The grip went from holding to held. From active to passive. From the hand of a person gripping to the hand of a person whose hand was being gripped.
 
@@ -330,7 +330,7 @@ Cole sat in the medical shelter holding Haruki's hand and felt the number change
 
 Twenty-three.
 
-The number entered the framework and the framework held it the way it held every number — structurally, without choice, because the architecture existed and holding was the architecture's purpose. Twenty-three. Below threshold. Except the threshold was already met. The clause was already invoked. The date was already past. Twenty-three didn't change the math. The math was finished. Twenty-three changed something else — something the math had never measured, something that existed in the space between the numbers where Haruki had lived for five years, the quiet space where a doctor's calm was the treatment and the treatment was the colony's foundation and the foundation had just been removed.
+The number entered the framework and the framework held it the way it held every number — structurally, without choice, because the architecture existed and holding was the architecture's purpose. Twenty-three. Below threshold. Except the threshold was already met. The clause was already invoked. The date was already past. Twenty-three didn't change the math. The math was finished. Twenty-three changed something else — something the math had never measured, something that existed in the space between the numbers where Haruki had lived for five years, the quiet space where a doctor's calm held everything together. The calm was gone.
 
 Joss was making a sound from his cot. Not words. The sound a person makes when grief is too large for the throat and the throat produces something smaller, something compressed, the vocalization of a body that has received information it cannot metabolize.
 
@@ -344,7 +344,7 @@ He stood. Looked at Joss. Joss's face was wet. The twenty-seven-year-old who'd s
 
 "He knew," Cole said. "He got to know we made it."
 
-Joss closed his eyes. The tears continued. The sound from his throat continued. Cole stood between them — the dead doctor and the living boy — and the standing was the only thing available, the framework's last output, the body vertical while everything inside it was not.
+Joss closed his eyes. The tears continued. The sound from his throat continued. Cole stood between them — the dead doctor and the living boy. Standing was all that was left. The framework's last output. The body vertical while everything inside it was not.
 
 ---
 
@@ -374,7 +374,7 @@ Cole stood at the filtration shed and held the inspection tool and felt the fram
 
 He'd stayed for a daughter he couldn't save and lost a son he could have.
 
-The thought arrived and Cole received it and the receiving was the thing the framework couldn't do. The framework held numbers. The framework held junction percentages and membrane assessments and attrition models and the count. The thought was not a number. The thought was the specific, unbearable recognition that the system he'd built — the same system that had kept twenty-four people alive, that had invoked the clause, that had turned survival into ownership — had required him to choose between the math and the boy. And he'd chosen the math. And the math was right. And the boy was dead.
+The thought arrived and Cole received it. The framework couldn't. Receiving wasn't in the architecture. The framework held numbers. The framework held junction percentages and membrane assessments and attrition models and the count. The thought was not a number. The thought was the specific, unbearable recognition that the system he'd built — the same system that had kept twenty-four people alive, that had invoked the clause, that had turned survival into ownership — had required him to choose between the math and the boy. And he'd chosen the math. And the math was right. And the boy was dead.
 
 Cole set down the inspection tool. Sat on the housing cover. The same position he'd been in when Ren told him it was done, eight hours after the junction repair, the morning of Day 1,826 when the world had been a different place, when Haruki was alive and Joss was alive and the number was twenty-four and the number meant they'd won.
 
@@ -394,7 +394,7 @@ Cole stood at the burial and held the count. Twenty-two. The number sat in his c
 
 Garrett Polk stood at the back of the gathering. His jaw set. His arms at his sides instead of crossed — a change Cole noticed because he noticed everything about Polk, the way he'd noticed everything since the transit ship. Polk looked at the graves and his face held the expression Cole had learned to read as the final configuration, the settled state, the man who'd been calculating for five years and whose calculations hadn't protected him from this. Nobody's calculations had.
 
-Ren said words. Not a speech — Ren didn't give speeches, the same way Cole didn't. She said Haruki's name and Joss's name and the names sat in the air the way names sat when they belonged to people who were gone and the saying was the only way to keep the belonging from dissolving.
+Ren said words. Not a speech — Ren didn't give speeches, the same way Cole didn't. She said Haruki's name and Joss's name and the names sat in the air the way names sat when they belonged to people who were gone. The saying was all that kept the belonging from dissolving.
 
 Then the colony went back to the common area. And the celebration happened.
 
@@ -402,7 +402,7 @@ Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's
 
 Joss was supposed to throw this. Haruki was supposed to drink it.
 
-Cole drank it. He sat on the Bench with the cup in his hands and the fire's warmth on his face and the colony around him — the twenty-two people who'd survived the math and the planet and the corporation and the clause and the five years and the specific, relentless accumulation of days that turned desperate strangers into the population of a place called Holdfast. He drank the fermented fruit and tasted ashes and tasted something underneath the ashes that he didn't have a name for because the conditions that produced it didn't exist in contexts where names got made.
+Cole drank it. He sat on the Bench with the cup in his hands and the fire's warmth on his face and the colony around him — the twenty-two people who'd survived the math, the planet, the corporation, the clause, the five years — the specific, relentless accumulation of days that turned desperate strangers into the population of a place called Holdfast. He drank the fermented fruit and tasted ashes and tasted something underneath the ashes that he didn't have a name for because the conditions that produced it didn't exist in contexts where names got made.
 
 Twenty-two people alive on a Tuesday. On land that belonged to them. In a place they'd built and named and held. The charter invoked. The clause met. The ownership transferred. And two graves in the soil of the settlement, and a gap in the charter where the children's future should have been written, and a message traveling across three months of void toward a fourteen-year-old girl who might read it or might not.
 

@@ -220,7 +220,7 @@ The settlement had a name. The name was Holdfast. The name meant what it meant.
 
 Twenty-four people at Holdfast. A shuttle twelve kilometers west with capacity for all of them. Eleven months to the five-year mark. Zero margin. A contract that offered everything they'd left Earth to escape — debt forgiveness, transport, a fresh start — in exchange for the only thing they'd gained. The land. The clause. The ownership that twenty-three dead people had paid for without knowing they were paying.
 
-Cole looked at Holdfast and felt the shuttle behind him and the eleven months ahead of him and the twenty-four lives inside the margin, and the margin was a razor, and the razor was the next eleven months, and the next eleven months were a choice.
+Cole looked at Holdfast and felt the shuttle behind him and the eleven months ahead of him and the twenty-four lives inside the margin, and the margin was a razor. Eleven months. A choice that would hold or wouldn't.
 
 The colony had a choice.
 

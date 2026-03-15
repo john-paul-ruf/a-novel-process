@@ -6,7 +6,7 @@ Month 23. The creep system held. Dana's catalyst solution moved through the anci
 
 Ren's council met every five days. The agenda had structure now — not the improvised triage of the early months, where every meeting was a crisis response, but actual governance. Water system maintenance. Agricultural rotation. Shelter repair schedule. Perimeter monitoring. The mechanical business of keeping thirty-two people alive on a planet that hadn't killed them in weeks.
 
-Cole attended every meeting. He sat in the back and listened and watched the council function without him at the center, and he felt something he couldn't identify. Not relief. Not loss. Something in between — the specific sensation of a man who had built a machine and was watching it run, and the running was the point, and the running meant he wasn't the point anymore.
+Cole attended every meeting. He sat in the back and listened and watched the council function without him at the center, and he felt something he couldn't identify. Not relief. Not loss. Something in between — the specific sensation of a man who had built a machine and was watching it run. That was the point. The machine didn't need him anymore.
 
 He still counted. Every morning, before the colony woke, he walked the settlement's perimeter in the green-shifted pre-dawn light and counted the shelters and the bodies inside them. Thirty-two. The number sat in his chest the way numbers always did — structural, load-bearing, the architecture of survival expressed in a single figure. But the weight of the number had changed. It used to feel like inventory. Now it felt like attendance.
 

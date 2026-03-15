@@ -2,7 +2,7 @@
 
 The waiting was the work now.
 
-Ren understood this the way she understood load distribution — not as a metaphor but as a physical fact. The colony's systems were maintained. The water ran clean through the junctions she'd rebuilt. The agricultural terraces produced on Dana's phase-three schedule. The shelters held. The creep solution circulated through the ancient channels with the reliability of infrastructure that had been designed by something patient and maintained by something desperate. Everything worked. The colony was a machine operating within tolerances, and Ren's job was to keep it there, and the keeping was the hardest thing she'd ever done because the threat wasn't mechanical. The threat was time.
+Ren understood this the way she understood load distribution — not as a metaphor but as a physical fact. The colony's systems were maintained. The water ran clean through the junctions she'd rebuilt. The agricultural terraces produced on Dana's phase-three schedule. The shelters held. The creep solution circulated through the ancient channels with the reliability of infrastructure that had been designed by something patient and maintained by something desperate. Everything worked. The colony was a machine operating within tolerances, and Ren's job was to keep it there. That should have been enough. But the threat wasn't mechanical. The threat was time.
 
 Eleven months. The shuttle had left. The colony had voted. Twenty-four people had watched it go and turned back to a settlement named Holdfast and started the count that would end on Day 1,826 or wouldn't end at all. Ren had tracked the shuttle's ascent from the eastern perimeter, listening to the atmospheric tear fade into the hum of the spiral trees, and felt the specific weight of a closed door — not relief, not regret, the structural awareness that the load had shifted and the new configuration was permanent.
 
@@ -26,9 +26,9 @@ The labor was twelve hours. Haruki managed it in the medical shelter with the sp
 
 He wasn't calculating Mika's survival against the count. He was calculating something else. Ren could tell because the posture was different from the counting posture — the shoulders lower, the head tilted, the stillness that came from a man holding something that wasn't a number. She didn't ask. She stood next to him for four minutes at hour eleven and then went back to Junction 2 because the junction needed checking and the checking was her way of standing next to something she could fix while something she couldn't fix happened inside a shelter behind her.
 
-The child was born at dawn. A girl. Healthy by every measure Haruki could apply, which were the measures of Earth medicine operating inside an alien biosphere, which meant the measures were incomplete and the incompleteness was the specific kind of uncertainty that had defined every medical assessment for five years. Healthy. Probably. The confidence interval hiding inside the word, the way it always hid.
+The child was born at dawn. A girl. Healthy by every measure Haruki could apply, which were the measures of Earth medicine operating inside an alien biosphere, which meant the measures were incomplete — the same uncertainty that had defined every medical assessment for five years. Healthy. Probably. The confidence interval hiding inside the word, the way it always hid.
 
-Ren went to see the child in the evening. The medical shelter was warm — Haruki kept it at a temperature that approximated Earth standard, burning fuel the colony rationed carefully because the fuel was finite and the cold was not. Mika held the girl against her chest. The child was small and red and her face was compressed into the specific expression of a newborn who had arrived into conditions that were, by every conceivable standard, inadequate. The child didn't know this. The child knew warmth and contact and the sound of a heartbeat and the hum of the spiral trees filtering through the shelter walls, and the hum was the first sound she'd hear that wasn't human, and she'd grow up thinking it was normal, and the normalcy would be the most alien thing about her.
+Ren went to see the child in the evening. The medical shelter was warm — Haruki kept it at a temperature that approximated Earth standard, burning fuel the colony rationed carefully because the fuel was finite and the cold was not. Mika held the girl against her chest. The child was small and red and her face was compressed into the specific expression of a newborn who had arrived into conditions that were, by every conceivable standard, inadequate. The child didn't know this. The child knew warmth and contact and the sound of a heartbeat and the hum of the spiral trees filtering through the shelter walls. That hum would be the first sound she'd hear that wasn't human. She'd grow up thinking it was normal. A child who heard an alien planet the way other children heard traffic — that normalcy would be the most alien thing about her.
 
 Cole came in while Ren was there. He looked at the child the way he looked at the count — with the attention of a man whose primary function was knowing exactly how many people existed inside a number. But the attention shifted. Ren saw it. The machinery behind his face reconfigured from assessment to something else, something that operated in the register she'd identified in Month 27 as the frequency she couldn't detect — the one that existed because Cole was a man and not a machine, despite the architecture he'd built to make the distinction ambiguous.
 
@@ -126,7 +126,7 @@ Sixty seconds. The second container. Medical stores. Haruki's supplies, the inve
 
 Ninety seconds. Joss was deeper now. The membranes were on the western rack, which was under the compromised beam. Ren heard him moving — slower, the footsteps deliberate, the sound of a body navigating a space where the geometry had shifted and the safe path was narrower than it had been.
 
-Cole stood at the entrance. Ren saw his hands. They were at his sides and they were still and the stillness was the most violent thing she'd ever seen Cole's body do — the active restraint of a man who wanted to be inside the building and was standing outside it because a woman had said twenty-three and the number had been enough to hold him in place while someone else carried the risk.
+Cole stood at the entrance. Ren saw his hands. They were at his sides, held still. The most violent thing she'd ever seen Cole's body do — the active restraint of a man who wanted to be inside the building and was standing outside it because a woman had said twenty-three and the number had been enough to hold him in place while someone else carried the risk.
 
 The fourth tremor hit at second one hundred and four.
 
@@ -186,7 +186,7 @@ Cole had let Joss go in. Cole could have gone. Cole was faster, stronger, knew t
 
 The framework was the choice. Cole had chosen the math over the boy. And the math was right. And the rightness was the thing that would break him.
 
-Ren didn't say anything. She stood in the dirt and watched Cole hold Joss and knew that the eleven months of waiting had found their crisis, and the crisis wasn't the tremor or the shelter or the broken bones. The crisis was a man discovering that the system he'd built to save everyone had required him to sacrifice someone, and the someone was the person the system was supposed to make the sacrifice worth it for.
+Ren didn't say anything. She stood in the dirt and watched Cole hold Joss and knew that the eleven months of waiting had found their crisis, and the crisis wasn't the tremor or the shelter or the broken bones. The crisis was a man discovering that the system he'd built to save everyone had required him to sacrifice someone — the one person the system was supposed to make the sacrifice worth it for.
 
 Haruki arrived in four minutes. He knelt beside Joss with the measured calm that was his constitution and his treatment and his gift, and his hands moved over Joss's legs with the diagnostic attention that found fractures and assessed damage and communicated through touch that the body being examined was in the care of someone who knew what care meant. Compound fracture, left tibia. Simple fracture, right fibula. Possible internal bleeding — the rack's weight on the abdomen for six minutes, the compression that might have ruptured something Haruki couldn't see without equipment he didn't have.
 
@@ -214,7 +214,7 @@ Nobody died.
 
 The phrase sat in Ren's awareness for two weeks like a result she didn't trust. Nobody died. Eighteen colonists sick, two weeks of reduced capacity, the water system running on minimum staffing, the agricultural harvest delayed by three days. Nobody died. On a planet that had killed twenty-three people in five years, a respiratory infection moved through the colony and took nothing. The confidence interval held. The margin held. Dana's compounds worked and Haruki's protocols worked and the bodies that had been depleted by fifty-eight months of survival found enough reserve to fight a pathogen that should have been manageable and was.
 
-Ren felt the relief and distrusted it. Relief was a structural risk. Relief was the moment you stopped checking the seal because the seal had held, and the not-checking was the gap that the next failure entered through.
+Ren felt the relief and distrusted it. Relief was a structural risk. Relief was the moment you stopped checking the seal because the seal had held, and the moment you stopped checking was the gap the next failure entered through.
 
 Cole didn't sleep during the two weeks. Ren knew because she didn't sleep either — the engineer's insomnia, the mind running system checks at three in the morning, cataloging every cough heard through the shelter walls and mapping it against the infection's progression curve. She saw Cole in the common area at hours when the common area should have been empty, sitting at the table where he'd laid out the charter and the corporate math, staring at nothing, his body present and his mind running calculations she couldn't see.
 
@@ -318,7 +318,7 @@ Ren looked at him. Cole's face was doing the thing from Month 27 — the frequen
 
 "Thirty days," Ren said. She didn't say the sentence. She said the number instead, because numbers were Cole's language and the language would carry what the sentence couldn't. Thirty days. Not a hope. A measurement. The distance between where they were and where the clause lived, expressed in the unit that Cole's framework could hold without the framework cracking.
 
-Cole nodded. The small nod. The one that meant the number had entered the framework and the framework had accepted it and the acceptance was the closest thing to faith that Cole Maren's architecture could produce.
+Cole nodded. The small nod. The one that meant the number had entered the framework and the framework had accepted it. The closest thing to faith Cole Maren's architecture could produce.
 
 They stood in the communications hub in the dark. The relay's screen glowed with Asterlyne's message. Residents of Parcel 16b. The company's lawyers had started writing the colony out of its own contract, word by word, the way the creep had advanced on the original settlement — slowly, patiently, dissolving the thing that stood in the path of what the company wanted.
 
@@ -328,4 +328,4 @@ Ren turned off the screen. The blue light died. The hum of the trees filled the 
 
 Thirty days. The number sat in the dark like a stone. Solid. Countable. Close enough to touch.
 
-Ren closed the hub door behind her and walked to her shelter through the settlement she'd helped build, and the walking was the same walking she'd done every night for three years, and the sameness was the thing she was fighting for, and the fighting was the walking, and the walking was enough.
+Ren closed the hub door behind her and walked to her shelter through the settlement she'd helped build, the same walk she'd done every night for three years. The sameness was what she was fighting for. The fighting looked like walking. It was enough.

@@ -2,7 +2,7 @@
 
 Twenty-four was a different number than twenty-five.
 
-Cole had carried every number since forty-seven. Carried them the way the channel network carried water — structurally, without choice, because the architecture existed and the flow was the architecture's purpose. Forty-seven had been abstract. Forty-four had been alarming. Thirty-nine had been the first number that felt like weight instead of data. Thirty-one had matched his model and the matching had taught him that accuracy was not the same as comfort. Twenty-six had been the margin of two, the feedback loop, the colony killing the colony.
+Cole had carried every number since forty-seven. Carried them the way the channel network carried water — structurally, without choice, because the architecture existed and flow was what architecture did. Forty-seven had been abstract. Forty-four had been alarming. Thirty-nine had been the first number that felt like weight instead of data. Thirty-one had matched his model and the matching had taught him that accuracy was not the same as comfort. Twenty-six had been the margin of two, the feedback loop, the colony killing the colony.
 
 Twenty-four was the threshold.
 
@@ -84,7 +84,7 @@ Month 23. Elena alone.
 
 Cole read the final entries in the dark of his shelter with the hum of the trees pressing through the walls and the colony breathing around him — twenty-three other people sleeping or keeping watch or sitting in their shelters with their own thoughts, alive on a planet that had been killing people longer than any of them had been trying to survive it.
 
-Elena's last three months were written in a voice Cole recognized. Not the clinical scientist. Not the colony leader running systems and counting bodies. A person. Alone. Writing because writing was the last act of someone who still believed the words would be read, and the belief was the last act of someone who still believed in a future that contained other people.
+Elena's last three months were written in a voice Cole recognized. Not the clinical scientist. Not the colony leader running systems and counting bodies. A person. Alone. Writing because writing was the last act of someone who still believed the words would be read. Someone who still believed in a future that contained other people.
 
 She described the trees. The hum. The way the light shifted at dawn. She described the fauna watching from the tree line — the same creatures Cole had watched for three years, patient, observing, neither hostile nor helpful. She described the soil under her hands. The channel network she'd never understood. The settlement she'd built that was already being reclaimed by the planet's slow, persistent biology.
 
@@ -232,7 +232,7 @@ Someone laughed. Not unkindly. The word sounded like a joke — hold fast, grip 
 
 Ren called the vote. She didn't need to count. The hands went up in a wave — not simultaneous, not rehearsed, just the slow accumulation of twenty-four people deciding that a word was the right word. Some hands went up immediately. Some paused, considering, and then rose. Polk's hand was already up. He'd voted for his own suggestion with the particular conviction of a man who'd said something true and recognized it as true and didn't need to wait for consensus to know it.
 
-Cole raised his hand. Last. Not because he was undecided — because he was watching. Twenty-three hands in the air, twenty-three people choosing a name for the place they'd built, and the choosing was the thing he'd been watching for three years without knowing what to call it. The colony becoming something that wasn't his to make. The emergent property of people who'd survived together long enough that the surviving had produced something the survival couldn't explain.
+Cole raised his hand. Last. Not because he was undecided — because he was watching. Twenty-three hands in the air, twenty-three people choosing a name for the place they'd built. He'd been watching for this. Three years, without knowing what to call it. The colony becoming something that wasn't his to make. The emergent property of people who'd survived together long enough that the surviving had produced something the survival couldn't explain.
 
 Holdfast.
 

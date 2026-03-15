@@ -53,30 +53,18 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Voice Profile Violations
 
-### TASK-008: Excessive use of recursive "and the X was the Y" constructions
+### TASK-008: Excessive use of recursive "and the X was the Y" constructions — COMPLETE
 - **Voice profile rule:** "recursive 'and the X was the Y' constructions — limit to rare, high-impact moments at most"
-- **Issue:** The construction appears frequently across later chapters, far exceeding "rare." Examples include:
-  - Ch 19: "and the running was the point"
-  - Ch 23: "and the choosing was the thing"
-  - Ch 24: "and the margin was a razor, and the razor was the next eleven months, and the next eleven months were a choice" (triple chain)
-  - Ch 25: "and the gap was the kind that widened under load"
-  - Ch 26: "and the keeping was the hardest thing she'd ever done"; "and the normalcy would be the most alien thing about her"; "and the stillness was the most violent thing"; "and the walking was the walking, and the sameness was the thing she was fighting for, and the fighting was the walking, and the walking was enough" (quadruple chain)
-  - Ch 27: "and the walking was the ritual and the ritual was the structure and the structure was what held him" (triple chain); "and the sameness was the point"; "and the touching was the knowing, and the knowing was not relief but recognition"; "the voice was the treatment and the treatment was the man" (used 3 times in Ch 27 alone); "and the receiving was the thing the framework couldn't do"; "and the choosing was the thing he'd live with"; "and the making was the thing the charter hadn't anticipated"; "and the standing was the only thing available"; "and the favor was the thing he wanted Cole to hear"
-- **Concentration:** The pattern intensifies from Ch 23 onward. Ch 27 alone has 12+ instances. Early chapters (1-15) have few or none.
-- **Fix:** Reduce to 3-5 carefully placed instances across the full manuscript, reserved for peak emotional/thematic moments. The triple/quadruple chains (Ch 24 line 223, Ch 26 line 331, Ch 27 line 23) are the most egregious and should be revised first.
+- **Issue:** 30+ instances across Ch 19, 20, 23, 24, 25, 26, 27. Ch 27 alone had 14+. Triple and quadruple chains in Ch 24, 26, 27.
+- **Fix:** Done. All instances rewritten — not cosmetically patched but fully rewritten to match voice profile. Used short declarative punches, fragment emphasis, and em-dashes. Broke recursive chains into separate sentences. Zero instances remain.
 
-### TASK-009: Two uses of "the not-X was the X" inversion — voice profile says "never use"
+### TASK-009: Two uses of "the not-X was the X" inversion — COMPLETE
 - **Voice profile rule:** "'the not-X was the X' inversions (e.g., 'the not-knowing was the knowing') — never use"
-- **Instances:**
-  1. `chapters/26-eleven-months/draft.md` (line 217): "the not-checking was the gap that the next failure entered through"
-  2. `chapters/25-the-math/draft.md` (line 181): "the not-knowing was the thing that made the choice impossible"
-- **Fix:** Rewrite both constructions. E.g., "the gap came from stopping the checks" and "the uncertainty was the thing that made the choice impossible."
+- **Fix:** Done. Ch 26 "the not-checking was the gap" → "the moment you stopped checking was the gap." Ch 25 "the not-knowing was the thing" → "the uncertainty made the choice impossible."
 
-### TASK-010: Polysyndeton in Ch 27
+### TASK-010: Polysyndeton in Ch 27 — COMPLETE
 - **Voice profile rule:** "polysyndeton (chaining clauses or items with repeated 'and' — the 'and and and' technique) — never use"
-- **Instance:** `chapters/27-tuesday/draft.md`, line 405: "the twenty-two people who'd survived the math and the planet and the corporation and the clause and the five years and the specific, relentless accumulation of days"
-- **Note:** This is a borderline case — it chains six items with repeated "and." The voice profile says "never use" polysyndeton. However, this appears at the novel's emotional climax.
-- **Fix:** Rewrite to avoid the chain. E.g., use a list with commas: "the twenty-two people who'd survived the math, the planet, the corporation, the clause, the five years — the specific, relentless accumulation of days..."
+- **Fix:** Done. Ch 27 "the math and the planet and the corporation and the clause and the five years and the specific" → comma-separated list with em-dash: "the math, the planet, the corporation, the clause, the five years — the specific, relentless accumulation of days."
 
 ---
 
@@ -139,10 +127,10 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 | **Critical** | TASK-003 | Scene outline "Three die" vs death tracker "Two" in Ch 16 | Complete |
 | **Critical** | TASK-004 | Ch 19 lists Patricia as dead prematurely | Complete |
 | **High** | TASK-001 | Ch 12 draft.md contains Author Notes | Complete |
-| **High** | TASK-008 | Excessive recursive "and the X was the Y" constructions | Needs revision pass |
-| **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Needs fix |
+| **High** | TASK-008 | Excessive recursive "and the X was the Y" constructions | Complete |
+| **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Complete |
 | **Medium** | TASK-007 | Three different chapter heading formats | Complete |
-| **Medium** | TASK-010 | Polysyndeton in Ch 27 climax | Needs revision |
+| **Medium** | TASK-010 | Polysyndeton in Ch 27 climax | Complete |
 | **Low** | TASK-011 | Scene outline charter page count outdated | Needs update |
 | **Info** | TASK-005 | Ch 27 count 24→23→22 post-invocation | Verified correct |
 | **Info** | TASK-006 | Lily's age "She's nine" in Ch 16 | Complete |

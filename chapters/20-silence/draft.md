@@ -58,7 +58,7 @@ The relationship had changed.
 
 Ren noticed it the way she noticed structural shifts — not in a single moment but in the accumulation of small data points that, plotted on a curve, described a gradient she hadn't anticipated.
 
-Month 8: she'd stood in the equipment shelter and told Cole that freedom imposed by one man's arithmetic wasn't freedom. She'd meant it. He was a logistics machine running a survival calculation, and the calculation was correct, and the correctness was the problem. You couldn't build a colony on correct. You built it on chosen.
+Month 8: she'd stood in the equipment shelter and told Cole that freedom imposed by one man's arithmetic wasn't freedom. She'd meant it. He was a logistics machine running a survival calculation, and the calculation was correct. That was the problem. You couldn't build a colony on correct. You built it on chosen.
 
 Month 12: she'd organized the relocation while Cole calculated the creep's advance rate, and they'd divided the problem the way a load divides across a truss — each member carrying its share, the structure holding because the distribution was right. She'd pushed for the vote. He'd pushed for speed. The vote had been close and the relocation had been brutal and they'd both been right and two people had died and the rightness hadn't protected anyone.
 
