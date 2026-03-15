@@ -34,6 +34,6 @@
 - Suri eats berries on day 13, recovers by day 14. Matches Ch 5 line 9: "By day thirteen, Suri had learned them in seizures."
 - Dana's agricultural work established here (12 hours/day, soil samples, no conclusions yet). Her Ch 8 breakthrough builds from this foundation.
 - Rationing tiers introduced. Track whether they're referenced in Ch 5-6 or silently superseded.
-- Perimeter protocols (markers, buddy system, check-ins) established. Ch 5's first death (Marcus walking beyond perimeter at dusk) should reference these protocols being violated.
+- Perimeter protocols (markers, buddy system, check-ins) established. Ch 5's first death (Lev walking beyond perimeter at dusk) references these protocols being violated — Cole registers the failure as systemic ("protocols assumed compliance") and escalates from markers to physical fence.
 - Polk's rescue-by-Year-Two hope planted. Connects to Ch 7 signal array desperation.
 - Ch 3's Dana face description ("her face doing that thing where it stayed still while something underneath it worked very fast") now varies in Ch 4 ("the careful blankness of someone running calculations she wasn't ready to share"). If the original Ch 3 description recurs later, it should be the version that sticks — not this variation.
