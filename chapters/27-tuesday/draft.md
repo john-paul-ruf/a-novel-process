@@ -182,7 +182,7 @@ Joss was propped on his cot. Alert. Thinner than he'd been a month ago — the i
 
 The joke landed the way humor landed between them — lightly, without performance, the irreverent undertone that Joss had learned from Cole without Cole intending to teach it. Cole sat on the equipment crate beside Joss's cot. The same crate. The same position. The same shelter where he'd sat through the fever in Month 17, holding a cloth to a twenty-three-year-old's forehead and saying his daughter's name for the first time.
 
-Four years between that night and this one. The distance measured not in time but in the accumulation of everything the time had held — the creep solution and Dana's confession and the colony's vote and the naming and the shuttle and the eleven months and the tremor and the rack on Joss's legs and the carrying and the carrying and the carrying.
+Four years between that night and this one. The distance measured not in time but in what the time had held. The creep solution. Dana's confession. The colony's vote, the naming, the shuttle. Eleven months of holding still. The tremor. The rack on Joss's legs. All of it carried. Every count, every loss the framework absorbed because the framework was all he had.
 
 "We made it," Cole said.
 

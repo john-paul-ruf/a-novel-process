@@ -18,12 +18,9 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Voice Profile Violations
 
-### TASK 003 — Ch 27: Polysyndeton (extreme)
+### ~~TASK 003 — Ch 27: Polysyndeton (extreme)~~ ✅ COMPLETE
 - **File:** `chapters/27-tuesday/draft.md`, line 185
-- **Passage:** "through the creep solution and Dana's confession and the colony's vote and the naming and the shuttle and the eleven months and the tremor and the rack on Joss's legs and the carrying and the carrying and the carrying"
-- **Problem:** Nine chained "and" connectors. Voice profile prohibits polysyndeton ("never use"). The final "and the carrying and the carrying and the carrying" is also a rhetorical repetition device that amplifies the violation.
-- **Note:** This is the novel's emotional climax. The polysyndeton may be a deliberate craft choice for accumulative effect. If so, the voice profile should be updated to permit it at this specific moment. If not, the passage needs restructuring.
-- **Decision required:** Intentional exception or revision?
+- **Resolution:** Full rewrite. Replaced nine-"and" polysyndeton chain with fragment-stacked inventory (periods as separators) closing into "All of it carried. Every count, every loss the framework absorbed because the framework was all he had." Preserves accumulative weight and carrying motif through voice-native tools (fragments, declarative punch) rather than conjunction chaining.
 
 ### TASK 004 — Ch 27: Polysyndeton (moderate)
 - **File:** `chapters/27-tuesday/draft.md`
