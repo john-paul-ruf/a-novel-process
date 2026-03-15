@@ -394,7 +394,7 @@
 **When:** Year 5 begins
 **Where:** Holdfast, original landing zone
 
-**Beat 1:** An Asterlyne shuttle breaks atmosphere without warning. No prior communication. It lands at the original settlement coordinates — abandoned, reclaimed by forest. A company representative steps out: clean suit, legal tablet, corporate smile. The colony is at twenty-three. Below the clause threshold. The representative knows. Cole watches from Holdfast, kilometers away, and knows what this means.
+**Beat 1:** An Asterlyne shuttle breaks atmosphere without warning. No prior communication. It lands at the original settlement coordinates — abandoned, reclaimed by forest. A company representative steps out: clean suit, legal tablet, corporate smile. The colony is at twenty-four. Exactly at the clause threshold. Zero margin. The representative knows. Cole watches from Holdfast, kilometers away, and knows what this means.
 
 **Beat 2:** The offer: renegotiation. Leave now, debts forgiven, transport home, NDA. Cole reads the new contract on the spot. It's a surrender — waiver of all rights under the original charter, including 9.4.2. In exchange: passage back to Earth and silence. The representative is polite and transparent about the subtext: "You have eleven months. A lot can happen in eleven months." Garrett Polk hears "debts forgiven" and his chest seizes. That word. The thing he came here to escape, now offered as a way home. He thinks of his daughter — five years older now, possibly old enough to want to see him if the debt erasure means he's not a creditor's target. The math shifts for Polk. Not entirely. But it shifts.
 
@@ -410,13 +410,13 @@
 **When:** Year 5, continued
 **Where:** Holdfast, common area
 
-**Beat 1:** Cole gathers all twenty-three at Holdfast — no emergency, just assembly. He doesn't give a speech — he's never been that person. He lays out what he's pieced together over five years: Asterlyne's financials, the resource value of Parcel 16b, the cost of their charter versus projected corporate mining revenue. Their lives, on a balance sheet, are a line item: "Charter Viability Assessment — Human Capital Expenditure." They're already below the threshold. The shuttle's offer is a reset—debts forgiven, but also rights erased. It's a way to leave Holdfast without looking like they failed.
+**Beat 1:** Cole gathers all twenty-four at Holdfast — no emergency, just assembly. He doesn't give a speech — he's never been that person. He lays out what he's pieced together over five years: Asterlyne's financials, the resource value of Parcel 16b, the cost of their charter versus projected corporate mining revenue. Their lives, on a balance sheet, are a line item: "Charter Viability Assessment — Human Capital Expenditure." They're at the threshold. Not below. The shuttle's offer is a reset—debts forgiven, but also rights erased. It's a way to leave Holdfast without looking like they failed.
 
 **Beat 2:** Then he shows them clause 9.4.2. Then he shuts up. The colony talks. It's not unanimous. Two colonists want the deal. They're tired. They're scared. They didn't sign up for a stand. Ren argues. Dana argues. Joss argues. Garrett Polk doesn't argue — he sits at the back and does what Cole has never seen him do. He calculates. Visibly. Debt forgiven vs. staying. Daughter on Earth vs. the settlement they've built. He weighs both sides with an engineer's precision, not an ideologue's conviction. When the conversation shifts toward staying, Polk says nothing. But his jaw sets. He's choosing against himself. The conversation lasts hours.
 
 **Beat 3:** In the end, it's not Cole's math that decides. It's the settlement they named, the creep system that works, the food they grow, the dead they buried, the children two colonists are expecting. The colony has become a place, and places are harder to leave than contracts.
 
-**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Twenty-three of them. Nobody cheers.
+**Turn:** Nobody boards the shuttle. It sits empty for three days. Then it leaves. The colony watches it go. Twenty-four of them. Nobody cheers.
 
 ---
 
