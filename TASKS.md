@@ -33,7 +33,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **Issue:** In Ch 7 (Months 3-4), Polk says "She's twelve now, probably." In Ch 24 (Year 5 begins, ~4.5 years later), the draft says "Fifteen now, maybe sixteen" (line 199). If the daughter was 12 at Month 3-4, she would be ~16-17 at Year 5. Ch 25 repeats "fifteen-year-old" (lines 169, 181). Story bible continuity flag says: "Suggest she's ~12-15 at landing, ~17-20 by end." The draft's "fifteen" is approximately one year too young.
 - **Fix:** Update Ch 24 to "sixteen now, maybe seventeen" and Ch 25 references to "sixteen-year-old" or "seventeen-year-old." Alternatively, adjust Ch 7's age downward to "eleven now, probably" — but Ch 7 is already drafted and the age anchors Polk's wound. Adjusting Ch 24-25 is cleaner.
 
-### TASK-05: Ch 22 — Patricia death crosses year boundary
+### ~~TASK-05: Ch 22 — Patricia death crosses year boundary~~ ✅
 - **File:** `chapters/22-the-vote/draft.md`
 - **Line:** 191
 - **Issue:** Patricia dies at Month 37. If Year 3 = Months 25-36, Month 37 is Year 4. The scene outline says "Two more deaths that year" for Ch 22 (labeled Year 3). Story bible also places both deaths in Ch 22 under "Year 3." Patricia's death at Month 37 technically occurs in Year 4, creating a mismatch with the source documents.

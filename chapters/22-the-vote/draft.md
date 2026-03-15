@@ -188,7 +188,7 @@ Cole buried Wei on the slope facing the spiral trees and revised the structural 
 
 ---
 
-Month 37. A cough.
+Month 35. A cough.
 
 Patricia had been coughing since the relocation. Cole remembered it — Month 10, Day 3, the night transport across open terrain when Noor had died of hypothermia. Patricia had caught something in the cold. The cough had persisted through months of treatment, Dana's compounds managing it to a level that let Patricia function but never eliminating the underlying pathology. Haruki had flagged it. Repeatedly. In his quiet way, in the margins of medical reports, in the conversations he had with Cole after the colony slept — the conversations where Haruki said the things the colony couldn't hear.
 
