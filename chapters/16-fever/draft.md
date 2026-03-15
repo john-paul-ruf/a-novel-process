@@ -130,7 +130,7 @@ Joss turned his head on the cot. His eyes were fever-bright, glassy, but present
 
 "How old?"
 
-"She's nine. She likes drawing horses. She thinks I'm on a work trip."
+"She's ten. She likes drawing horses. She thinks I'm on a work trip."
 
 The lie. The same lie he'd written in the message that took him two hours to compose in Month 6 — three sentences about trees and distance and nothing about why. The lie that made the distance manageable because the truth made it monstrous. He hadn't gone on a work trip. He'd calculated the odds of his own survival, signed a contract that bet his life against a corporate clause, and traveled to a planet where the air smelled like ozone and the trees hummed at frequencies below hearing, because staying on Earth meant watching his daughter grow up through a window that got smaller every year, and leaving meant the window might open again in five years if enough people didn't die.
 
@@ -138,7 +138,7 @@ He'd never said that to anyone. Not to Ren, who'd seen through his deflections s
 
 "Is she like you?" Joss asked.
 
-Cole looked at the kid — twenty-three, burning with fever, dehydrated, possibly dying, and asking whether a nine-year-old girl on a planet he'd never see resembled the man sitting on an equipment crate holding a damp cloth. The question was generous in a way that Cole didn't deserve and couldn't deflect.
+Cole looked at the kid — twenty-three, burning with fever, dehydrated, possibly dying, and asking whether a ten-year-old girl on a planet he'd never see resembled the man sitting on an equipment crate holding a damp cloth. The question was generous in a way that Cole didn't deserve and couldn't deflect.
 
 "I don't know," he said. "I wasn't there enough to find out."
 

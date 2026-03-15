@@ -35,10 +35,10 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **Issue:** After Haruki dies, Cole's count registers "Twenty-three." The story bible specifies 24 alive at invocation, with Haruki dying "hours after the clause is invoked." The draft correctly has Haruki dying on the evening of Day 1,826 after the clause triggers at 0000 hours. The count 24→23 is narratively correct (Haruki dies after invocation, reducing the living count). This is NOT an error — the invocation threshold was met at 24, and the post-invocation death is tracked correctly. No fix needed, but flagging for awareness since the final count (22) differs from the invocation count (24).
 - **Status:** Verified correct. No action needed.
 
-### TASK-006: Lily's age — "She's nine" in Ch 16 (Month 17-18)
+### TASK-006: Lily's age — "She's nine" in Ch 16 (Month 17-18) — COMPLETE
 - **File:** `chapters/16-fever/draft.md`, line 133
-- **Issue:** Cole says "She's nine. She likes drawing horses. She thinks I'm on a work trip." Story bible says Lily is 9 at charter signing (Day 0). Ch 16 is Month 17-18 — approximately 1.5 years after signing, plus 3 months transit. Lily would be approximately 10-11. However, the scene outline also has this exact dialogue ("She's nine"), and the emotional context is Cole describing her as he last knew her, not her current age. This reads as intentional — Cole is frozen in the moment he left.
-- **Status:** Likely intentional. Flag for author confirmation only.
+- **Issue:** Cole says "She's nine" but Lily is 9 at Day 0; Ch 16 is Month 17-18 plus ~3 months transit (~20-21 months elapsed). She would be 10.
+- **Fix:** Done. Changed to "She's ten" in draft (line 133 and line 141) and scene outline. Author confirmed accuracy over frozen-memory read.
 
 ---
 
@@ -152,7 +152,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 | **Medium** | TASK-010 | Polysyndeton in Ch 27 climax | Needs revision |
 | **Low** | TASK-011 | Scene outline charter page count outdated | Needs update |
 | **Info** | TASK-005 | Ch 27 count 24→23→22 post-invocation | Verified correct |
-| **Info** | TASK-006 | Lily's age "She's nine" in Ch 16 | Likely intentional |
+| **Info** | TASK-006 | Lily's age "She's nine" in Ch 16 | Complete |
 | **Info** | TASK-012 | Ch 5 death sequencing | Verified correct |
 | **Info** | TASK-013 | Ch 22 unnamed death verification | Needs full-text check |
 | **Info** | TASK-014 | "Enough, now" placement | Verified correct |
