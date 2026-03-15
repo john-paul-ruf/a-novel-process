@@ -184,6 +184,7 @@ All deliverables formatted as requested by the client. Defaults:
 - **Outlines:** Single-spaced, clean, no decorative formatting.
 - **Story Bible:** Structured document, updated with each draft delivery.
 - **Notes & Flags:** Separate from manuscript; clearly labeled; stripped before final.
+- **RULE: `draft.md` files contain prose only.** Never append Author Notes, structural notes, continuity tracking, off-voice flags, word counts, or any meta-commentary to a `draft.md` file. If notes are needed, write them to a separate `notes.md` file in the same chapter directory.
 
 ---
 
