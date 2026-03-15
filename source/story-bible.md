@@ -99,7 +99,7 @@
 | 20 | Months 27-30 | 26 | Asterlyne silent; five deaths; Dana's comm unit exposed |
 | 21 | Year 3 | 26 | Dana confesses; comm unit destroyed |
 | 22 | Year 3 | 24 | Colony votes on Dana; two deaths; threshold reached |
-| 23 | Year 4 | 24 | No margin; Elena's final log; colony names itself |
+| 23 | Year 4 | 24 | No margin; Elena's final log; colony votes to name settlement "Holdfast" |
 | 24 | Year 5 begins | 24 | Asterlyne shuttle; renegotiation offer |
 | 25 | Year 5 | 24 | Cole shows the colony the math; nobody boards |
 | 26 | Year 5, months 2-10 | 24 | Eleven months of holding; seismic event; Joss badly injured in shelter retrieval but survives; infection; "Residents" |
@@ -124,9 +124,9 @@
 - Key details: Abandoned after creep threat in Ch 12. Reclaimed by forest by Year 5. Shuttle lands here in Ch 24.
 - Scenes set here: Ch 3-11
 
-**Parcel 16b — Settlement Zone (Relocated)**
-- Description: Higher ground, rock substrate. Ancient channels visible in exposed bedrock. More defensible. Built by the colonists, not Asterlyne's pre-fabs — rougher but theirs.
-- Key details: The settlement the colony names. Home.
+**Parcel 16b — Settlement Zone (Relocated) / Holdfast**
+- Description: Higher ground, rock substrate. Ancient channels visible in exposed bedrock. More defensible. Built by the colonists, not Asterlyne's pre-fabs — rougher but theirs. Named "Holdfast" in Ch 23 by colony vote.
+- Key details: The settlement they built, the name they chose. Home. Not Asterlyne's anymore. Not Parcel 16b. Holdfast.
 - Scenes set here: Ch 12-27
 
 **Ghost Colony (Previous Expedition Site)**
@@ -197,7 +197,7 @@
 | Supply drop schedule | Quarterly Year 1, semi-annual Year 2 | Ch 15 | Last drop occurs when? Track against timeline |
 | Soil cycle | Tied to orbital position | Ch 8 | Must be consistent with second cycle timing in Ch 9-10 |
 | Settlement relocation | Ch 12 — moved to higher ground | Ch 12 | All subsequent chapters must reference new location, not original |
-| Colony named | Ch 23 — name chosen by vote | Ch 23 | Name itself TBD — must be used consistently after Ch 23 |
+| Colony named | Ch 23 — "Holdfast" chosen by colony vote | Ch 23 | Must appear naturally in dialogue/navigation from Ch 24 onward. No announcement. Weave into speech the way colonists would use it: "heading to Holdfast," "if the channels hold," "we're holding fast." The name does the work. |
 | Expecting children | Mentioned Ch 25 | Ch 25 | Two colonists pregnant — adds stakes but also means population question for clause. Children born on Parcel 16b aren't "original signatories." |
 | Transit time | 3 months Earth to Parcel 16b | Ch 2 | Messages to Lily have transmission delay. Shuttle in Ch 24 implies 3-month minimum travel. |
 | Comm relay | Asterlyne-controlled | Ch 15 | Messages to Lily route through this. If Asterlyne wanted to block messages, they could. Why don't they? (Possible: they read them. They're another data source.) |

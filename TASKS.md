@@ -43,13 +43,17 @@
 
 **Updated in**: scene-outline.md (Ch 24, Beat 3; Ch 25, Polk's internal calculation)
 
-### 4. The Colony Name — Decide on Arrival Strategy
-- **Problem**: Name is TBD. Need to decide whether it's narratively named (readers learn the name in Ch 23 and use it), arrives implicitly (readers call it by name before they know they're doing so), or remains unnamed.
-- **Implementation**:
-  - **Recommendation**: Let it arrive through usage without explicit naming. By Ch 23, the colony has been "the settlement" or specific locations (the medical shelter, the water line, the relocated site). In Ch 23, when they vote to name themselves, show the act of choosing without necessarily telling the reader the name. Then, from Ch 24 onward, weave the name into dialogue and navigation naturally—the way someone says "I'm heading to the north shelter" or "meet me at the old channels." Readers construct the name from context and repetition.
-  - **Alternative if you prefer explicit naming**: Have the vote happen off-page or in summary. Show the decision being announced, then use the name consistently. Less elegant, but clearer.
-  - **What to protect**: The act of naming is more important than the name itself. Make sure the vote sequence shows *why* they chose what they chose. Is it a memorial? A statement of values? A joke that stuck? The reasoning matters more than the syllables.
-  - **Voice note**: Cole wouldn't care about the name—he cares that they have one. His interiority during the naming should be observing the colony's shift from "Asterlyne parcel" to "ours." That's the thematic beat, not the novelty of the name itself.
+### 4. The Colony Name — **LOCKED: HOLDFAST**
+✅ **COMPLETE**
+
+**Name chosen**: "Holdfast" — Polk suggests it first as a joke about gripping the margin, but it lands as truth. The colony votes quietly. Not celebratory. Just a word that means "hold fast" and now means this place.
+
+**Implementation locked**:
+- Ch 23: Vote sequence shows Polk saying it first, other suggestions (Vasik, The Channels), quiet vote. Someone says "We're holding fast." It sticks.
+- Ch 24+: Name weaves naturally into dialogue and navigation. "Meet at Holdfast," "The channels feed Holdfast," references to "dirt of Holdfast" in Ch 27. No announcement. Just use.
+- Voice note: Cole doesn't care about the name—he cares that they chose it together. His interiority during the vote is observing that shift from "Asterlyne parcel" to "ours."
+
+**Updated in**: story-bible.md (Locations entry, continuity flags, timeline), scene-outline.md (Ch 23 detailed beats, Ch 24-27 location references)
 
 ---
 
@@ -76,4 +80,4 @@
 
 - **Suri Park death**: Second-cycle failure of prediction. Cole's overconfidence in pattern recognition exposed.
 
-Once Suri is locked, you're ready for Phase 2: First Draft.
+**Status**: All major structural issues locked except Suri Park. Ready to move to Phase 2: First Draft once Suri Park death is locked.
