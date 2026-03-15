@@ -1,21 +1,20 @@
-# PROJECT_TITLE
+# THE FREE COLONY
 
-[One-sentence description of the project.]
+A disgraced logistics manager signs a one-way corporate charter to homestead a hostile exoplanet, knowing the company expects most colonists to die — but if he can keep twenty-four of the original forty-seven alive for five years, a buried clause grants them ownership of the land and a second chance he stopped believing he deserved.
 
-**Author:** AUTHOR_NAME
-**Status:** [Current status]
+**Status:** Structure Phase Complete — Ready for First Draft
 
 ---
 
 ## Structure
 
-[Describe the novel's organizational structure — acts, parts, timeline, etc.]
+Third-person limited (primarily Cole Maren), past tense. Five years on Parcel 16b compressed across three parts, with nested narrative from a previous failed expedition's logs. The colony's survival hinges on keeping twenty-four of forty-seven colonists alive for exactly five years.
 
-| Act | Chapters | Timeframe |
-|---|---|---|
-| **Act One** | 01–?? | |
-| **Act Two** | ??–?? | |
-| **Act Three** | ??–?? | |
+| Part | Chapters | Timeframe | Focus |
+|---|---|---|---|
+| **Part One** | 01–?? | Months 1–6 | Arrival and first adaptation (30% of novel) |
+| **Part Two** | ??–?? | Months 6–30 | Deepening crisis and internal fracture (35% of novel) |
+| **Part Three** | ??–?? | Years 3–5 | The margin collapses; final choice (35% of novel) ||
 
 ---
 
