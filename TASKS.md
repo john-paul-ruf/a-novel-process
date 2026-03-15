@@ -37,8 +37,10 @@ All major structural decisions complete. Ready for Phase 2: First Draft.
 
 ### Error 1: Phantom Death in Chapter 15
 **Location**: Ch 15 opening count vs. closing count  
-**Issue**: Ch 15 opens at 35 (after Suri's death in Ch 13), but ends at "Thirty-five." A colonist walks into the forest and doesn't return — thematically the death registers — but the count never drops. Either: (a) drop count to 34 and make the death explicit in narrative accounting, or (b) fold the unnamed forest death into Ch 16's fever deaths and keep Ch 15 at 35.  
-**Decision needed**: Verify which approach aligns with Part 2 death pacing before drafting Ch 15.
+**Status**: ✅ RESOLVED  
+**Decision**: Make forest death explicit. Drop to 34.  
+**Rationale**: Thematic arc — Suri's death (planetary indifference) followed by this death (human psychological fracture). Two deaths in five months shows the colony breaking at its nerve endings, not just its equipment. Explicit death = clarity; phantom death = draft error.  
+**Updated**: scene-outline.md (Ch 15 beat 2, death count tracker), story-bible.md (Ch 15 timeline entry)
 
 ### Error 2: Ch 8 Timeline Table Mismatch
 **Location**: story-bible.md timeline table vs. Chapter 8 text  

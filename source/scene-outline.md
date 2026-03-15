@@ -2,7 +2,7 @@
 
 **Note:** Engineer character renamed from "Maren Tsai" to "Ren Tsai" to avoid collision with protagonist's surname (Cole Maren).
 
-**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
+**Death count tracker:** 47 → 44 (Ch5) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 34 (Ch15 - forest death) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
 
 ---
 
@@ -248,7 +248,7 @@
 
 **Beat 1:** The scheduled supply drop doesn't come. Clause 12.8 guarantees semi-annual resupply in Year Two. The drop was due at Month 13. Cole gave it two months for transit time. Nothing. He sends a formal contract compliance inquiry.
 
-**Beat 2:** Asterlyne's response, weeks later, is corporate poetry: "supply chain disruptions," "revised delivery windows," "commitment to charter success." No revised delivery date. The supplies aren't coming. Cole tells Ren first. Then the council. Panic doesn't explode in a colony — it erodes. People start hiding food. Two fights. One colonist walks into the forest and doesn't return. Thirty-five.
+**Beat 2:** Asterlyne's response, weeks later, is corporate poetry: "supply chain disruptions," "revised delivery windows," "commitment to charter success." No revised delivery date. The supplies aren't coming. Cole tells Ren first. Then the council. Panic doesn't explode in a colony — it erodes. People start hiding food. Two fights. One colonist — someone who came for stability and found only collapse — walks into the forest at dawn and doesn't return. Haruki finds the body three days later. Thirty-four.
 
 **Beat 3:** Cole re-reads the contract. The arbitration clause requires a functioning comm relay — which Asterlyne controls. The complaint mechanism is designed to be inoperable. The system is closed.
 

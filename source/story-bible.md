@@ -94,7 +94,7 @@
 | 12 | Month 10 | 36 | Democracy vote; relocation; three deaths; ancient channels found |
 | 13 | Months 11-12 | 35 | Channel network studied; planet's cyclical nature understood; Suri Park dies during exploration (mineralized creep activates) |
 | 14 | Months 13-14 | 35 | Dana POV; Asterlyne questions shift to targeting |
-| 15 | Months 15-16 | 35 | Supply drops stop; no arbitration recourse |
+| 15 | Months 15–16 | 34 | Supply drops stop; colonist walks into forest (psychological fracture); no arbitration recourse |
 | 16 | Months 17-18 | 32 | Fever; three deaths; Cole talks about Lily; math cracks |
 | 17 | Months 19-20 | 32 | Elena's Year Two logs; colony fraying; Cole shares logs |
 | 18 | Months 21-22 | 32 | Creep solution; Dana reports it; "single points of failure" |
