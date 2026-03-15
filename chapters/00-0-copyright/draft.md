@@ -1,4 +1,4 @@
-Copyright © YEAR AUTHOR_NAME
+Copyright © 2026 John Ruf
 
 All rights reserved.
 
@@ -6,4 +6,4 @@ This is a work of fiction. Names, characters, places, and incidents either are t
 
 No part of this book may be reproduced in any form or by any electronic or mechanical means, including information storage and retrieval systems, without written permission from the author, except for the use of brief quotations in a book review.
 
-First edition, YEAR
+First edition, 2026

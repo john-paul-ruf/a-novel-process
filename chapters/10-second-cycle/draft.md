@@ -24,6 +24,30 @@ He didn't need to finish the calculation. Ren was capable of running it herself.
 
 ---
 
+Cole read Elena's Year Two entries that night. The administrative shelter with the door sealed and the hum pressing low through the walls.
+
+Elena's Year Two opened at her Month 13. The clinical precision of her earlier entries was gone. Not replaced by desperation — not yet. By a kind of honesty that arrives when the thing you've been measuring starts measuring you back.
+
+*Month 13: Second cycle has deepened. All cultivated species dormant or toxic. Native edibles reduced to three viable candidates. Yield insufficient for nine. Rationing at levels that will produce cognitive decline within six weeks.*
+
+Nine people. Cole had thirty-nine. Four times the population, same soil, same orbital mechanics. Elena had found the cycle too. Her data had been real, her breakthrough sound. The planet didn't care about the data.
+
+*Month 14: Two members have resumed independent food caching. The colony's social contract is under revision — not formally, not through conversation, but through the slow withdrawal of shared assumption. People eat alone now.*
+
+Cole recognized it. The same thing he'd already started seeing in his own settlement — people carrying themselves differently, spending time in shelters instead of common areas, conversations getting shorter. Elena had watched it happen and recorded it with a scientist's precision. Recording wasn't preventing.
+
+*Month 15: A biological mat has appeared at the forest edge. Details in attached data. It advances slowly. We have time. I think we have time.*
+
+He marked the entry and stopped reading. The rest could wait. He was rationing Elena the way he rationed everything else — taking what he could use, saving the rest for when the math demanded it.
+
+But the parallel was exact enough to sit in his chest. Elena's advantage had been scale — nine people could decide faster, consume less, relocate without councils or votes. Her disadvantage was the same: nine people had less labor, less redundancy, less capacity to absorb loss. One person stopping cooperation wasn't a percentage problem. It was an eleventh of everything.
+
+Elena had the data. She had the pattern. She had everything Dana had given Cole, minus the people to make it work.
+
+Cole had thirty-nine people and Dana's soil map and six months of agricultural data Elena never had. Those were his advantages. His disadvantage was thirty-nine mouths instead of nine, and a dormancy window that didn't care about headcount.
+
+---
+
 The watchers in the tree line became more active. Cole had noticed them before—shadows at the perimeter, movement in the canopy, the sense of being observed that was real, not paranoia. In the first cycle, they'd kept distance. Now they moved closer. Bolder. One morning, a creature that looked like it was built from cervid and praying mantis components walked through the outer perimeter and examined a supply crate before wandering back into the forest. It wasn't aggressive. It was curious.
 
 "They're hungry too," Garrett Polk said at a council meeting. He was pointing at the perimeter watch logs, at the increasing frequency of fauna sightings. "The whole planet shifts cycles and everything that lives here needs to adjust. We're not special. We're just one more thing that needs feeding."
@@ -70,13 +94,13 @@ He showed them the rationing tiers. Showed them the work rotation that would be 
 
 "We'll be hungry," Cole said. "Significantly. But the calculation shows we can survive the dormancy window if the colony acts as a unit instead of as individuals trying to protect themselves."
 
-The silence after that announcement was profound. Not angry. Not defeated. Just the sound of forty people recalibrating their understanding of what they were attempting.
+The silence after that announcement was profound. Not angry. Not defeated. Just the sound of thirty-nine people recalibrating their understanding of what they were attempting.
 
 "Why tell us?" someone asked. Joss Carver, his nervous energy focused into genuine curiosity instead of anxiety. "I mean—I'm glad. I just mean, wouldn't it be easier to manage us if we didn't know?"
 
 Cole thought about lying. It would have been simpler. A logistics problem solved through information control.
 
-"Because you're not a system I manage," Cole said. "You're a colony I'm part of. The system works if we're deciding to stay in it together. If I'm running calculations on you instead of with you, the system fails. Elena's logs prove it. She tried management by arithmetic. She ended up writing 'Enough, now' in a sealed data core."
+"Because you're not a system I manage," Cole said. "You're a colony I'm part of. The system works if we're deciding to stay in it together. If I'm running calculations on you instead of with you, the system fails." He paused. "There was a colony here before us. Fourteen people. Their leader had the same data we have. Same soil cycle, same projections. She wrote 'We're going to make it' at the end of her first year. By the second year, her people had stopped eating together. Then they stopped talking. Then there were six."
 
 Ren was watching him with an expression that looked almost like surprise. Or maybe recognition. A small shift in how she was reading something about him.
 
@@ -86,25 +110,25 @@ The first three weeks of dormancy were the hardest. Rationing meant visible hung
 
 Cole sat through it. Took the criticism. Adjusted where the calculations showed adjustment was needed, held firm where the math didn't allow flex.
 
-Dana spent those three weeks essentially living in the forest. Out at dawn with Haruki's medical oversight, gathering samples, testing specimens for toxicity and nutrient density. Testing them on herself sometimes, the way a scientist tests a hypothesis. Cole watched her do it once and didn't tell her to stop, understanding that she needed to maintain the logic of experimentation even when the sample pool was her own body.
+Dana spent those three weeks essentially living in the forest. Out at dawn with Haruki's medical oversight, gathering samples, testing specimens for toxicity and nutrient density. Testing them on herself sometimes. Cole watched her do it once and didn't tell her to stop.
 
 By the end of the third week, she'd identified three native species that would remain edible through the dormancy window and could be cultivated in sufficient quantity to bridge most of the shortfall.
 
 She announced it at a colony gathering, standing next to Cole the way they'd done for the agricultural announcement in the last cycle. But this time, the tone was different. Not celebration. Survival.
 
-"The first is a root-like structure in the spiral trees," Dana said. "High in starches and some proteins. Not palatable until processed. The second is a seeded fruit that ripens during dormancy—the timing is opposite to the Earth plants. The third is a fungal compound that Dana's preliminary analysis shows might support bacterial colonies we can use for fermentation and nutrition synthesis."
+"The first is a root-like structure in the spiral trees," Dana said. "High in starches and some proteins. Not palatable until processed. The second is a seeded fruit that ripens during dormancy—the timing is opposite to the Earth plants. The third is a fungal compound that my preliminary analysis shows can support bacterial colonies we use for fermentation and nutrition synthesis."
 
-She was reading from notes, but her voice carried something beyond the data. It carried the specific exhaustion of having walked through the forest for twenty days and come back with enough information to keep thirty-nine people alive a little longer.
+She was reading from notes. Her voice carried the specific exhaustion of twenty days in the forest and coming back with just enough.
 
 "We'll need to shift agricultural focus immediately," Dana continued. "Stop trying to keep Earth crops viable. Concentrate on cultivating the dormancy species. The yield will be lower than the cycle-one projections, but it will be sufficient."
 
 Cole watched the colony process that information. The hunger wouldn't end. But it wouldn't kill them either. There was a difference between those two facts, and Ren had been right to insist on transparency. The colony could see the path, see the work, see the weight. They could choose to walk it.
 
-The shift from hope to hunger to a smaller, harder kind of survival was complete.
+They wouldn't starve. They'd just be hungry for a long time. Cole could work with that.
 
 ---
 
-Cole was reviewing the new agricultural rotation with Ren when he realized the planet had changed the color of the sky another degree. The green was thickening. The light was becoming something his eyes kept trying to adjust to, as if clarity itself had become variable.
+Cole was reviewing the new agricultural rotation with Ren when he realized the planet had changed the color of the sky another degree. The green was thickening. The light was becoming something his eyes kept trying to correct for, like looking through water that wasn't there.
 
 "How many colonies do you think Asterlyne has sent here?" Ren asked.
 
@@ -116,12 +140,12 @@ Cole thought about Asterlyne's data package, about the redacted appendix, about 
 
 "They understand the math," Cole said. "They don't understand the people it kills."
 
-Ren made a small sound that might have been agreement or might have been the sound of someone too tired to explain why the distinction mattered.
+Ren didn't answer. She was watching two colonists working the transplant rows in the shifted green light without complaint. People adjusting to new rules because someone had told them what the rules were.
 
-"Your soil cycle was good while it lasted," Cole said.
+"Your council held through this," Cole said.
 
-"The cycle's still there," Ren said. "Just harder. Everything worth building is, I think."
+"It's not mine," Ren said. "That's why it held."
 
-Cole didn't have a response to that. He went back to the rotation schedules. The colony would eat less and work more and maintain the fragile cohesion that kept thirty-nine people from becoming thirty-nine isolated calculations.
+Cole went back to the rotation schedules. The colony would eat less and work more and hold together because thirty-nine people had decided to hold together. Not because the math demanded it. Because Ren had been right: they'd chosen to see the weight, and they'd chosen to carry it.
 
-The planet had turned a page. The colony was learning to live on the side it had chosen.
+The planet had turned a page. The colony was still reading.
