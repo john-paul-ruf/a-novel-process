@@ -2942,23 +2942,11 @@ Month 25. Month 26. Three people. Elena, Tomas, and someone she referred to only
 
 Cole read it three times.
 
-He thought about the common area at Holdfast where thirty-two people still ate together most evenings. Where Ren still called council meetings and the arguments were still real, still heated, still evidence that people cared enough to disagree. He thought about Joss, recovering from the fever, teaching water filter maintenance to two younger colonists with a patience that looked like something he'd learned from watching Haruki. He thought about Garrett Polk sitting in the common area after dinner, not talking to anyone in particular but present, occupying space in a room because occupying space in a room was different from occupying space in a shelter alone.
+He thought about the common area at the settlement where thirty-two people still ate together most evenings. Where Ren still called council meetings and the arguments were still real, still heated, still evidence that people cared enough to disagree. He thought about Joss, recovering from the fever, teaching water filter maintenance to two younger colonists with a patience that looked like something he'd learned from watching Haruki. He thought about Garrett Polk sitting in the common area after dinner, not talking to anyone in particular but present, occupying space in a room because occupying space in a room was different from occupying space in a shelter alone.
 
 The colony was dimming. But it hadn't gone dark. Not yet. The distance between dimming and dark was the distance Elena had traveled in the months between sixteen and twenty-six, and Cole was reading the map of that distance in a dead woman's handwriting.
 
-Month 27. Two. Tomas died. Elena didn't describe how. Just: *Tomas is gone. I'm not going to write the details. The details don't help. The pattern is the same as every other death — the planet, the deficit, the margin that finally reached zero. The specifics vary. The arithmetic doesn't.*
-
-Month 28. One. Elena alone.
-
-*Month 28, Day 1. I'm the last one. I keep the data logs because stopping would mean acknowledging that no one will read them, and I'm not ready to acknowledge that. Recording is the last act of the scientist. When I stop recording, I stop being the person who came here.*
-
-*The planet is beautiful today. I hadn't noticed in months. The spiral trees are doing something with the light — refracting it, bending it through the bark's crystalline structure in a way that makes the air look like it's moving even when it's still. I stood outside the shelter for twenty minutes this morning and watched it. I had nowhere else to be.*
-
-Cole felt something in his throat. Not the stone of numbers. Something less structured. Something that didn't have a location in his body's architecture because it was the kind of feeling that didn't organize itself. It just sat wherever it landed.
-
-Elena had noticed the trees. Twenty-eight months in, alone, the last of fourteen, and she'd stood in the light and watched the trees do something beautiful. Cole had described the same trees in his first message to Lily. Three sentences and two hours. The trees that hummed. The trees that were beautiful in a way that set his teeth on edge on Day One and now, twenty months later, were just part of the frequency of the place.
-
-Elena's final Year Two entry was dated Month 28, Day 19.
+The last entry he read was dated Month 26, Day 11. Three people left. Elena, Tomas, and M. The scientist's precision had thinned to something rawer — not data anymore, not observation. Diagnosis.
 
 *The planet isn't killing us. We stopped being worth keeping alive. Not to the planet — the planet doesn't have an opinion. To ourselves. We stopped investing in each other. We stopped eating together, stopped arguing, stopped making the daily thousand small decisions that turn a group of people into a community. A community is an act of will maintained against entropy, and when the will fails, the entropy doesn't need to work very hard. It was already winning. It was always winning. We just stopped pushing back.*
 
@@ -2966,13 +2954,13 @@ Elena's final Year Two entry was dated Month 28, Day 19.
 
 *We had data. We had the soil cycle and the weather patterns and the creep maps and enough native food to keep six people breathing. We had everything except a reason to breathe together.*
 
-Cole closed the data core. Set it on the desk. Sat in his shelter in the dark and listened to the hum and thought about Elena standing alone in the light of the spiral trees on Day One of being the last person alive.
+Cole closed the data core. Set it on the desk. There were more entries — the logs continued past Month 26, into whatever came after three. He didn't open them. The diagnosis was enough. The ending could wait.
 
 She'd been smarter than him. Better trained. More disciplined. She'd had the data, the patterns, the intelligence to read the planet correctly. Everything Dana had given Cole, Elena had earned on her own. And it hadn't been enough. Not because the planet was too hostile or the supplies too thin or the deaths too many. Because the people had stopped being people together.
 
-Fourteen became nine became six became four became two became one.
+Fourteen became nine became six became three.
 
-And Elena, alone, had written the diagnosis with a scientist's clarity: *We stopped being worth keeping alive.*
+And Elena, with two people still breathing beside her, had written the diagnosis with a scientist's clarity: *We stopped being worth keeping alive.*
 
 Not to the planet. To each other.
 
@@ -3058,7 +3046,7 @@ Ren picked up her tablet. Went back to the valve readings. Cole waited, because 
 
 He shared them that evening.
 
-Not at a formal assembly. Those had a weight the colony associated with crisis — bad numbers, rationing changes, the kind of information that arrived in a room where everyone was standing because sitting meant you might not want to stand up after hearing it. Cole pinned the entries to the common shelter board the way he'd been doing for months, but this time he pinned all of them. Month 16 through Month 28. Elena's complete second year. Twelve entries on the colony's limited paper, the ink fading at the edges, the text dense and small because Cole had fit each entry onto a single sheet.
+Not at a formal assembly. Those had a weight the colony associated with crisis — bad numbers, rationing changes, the kind of information that arrived in a room where everyone was standing because sitting meant you might not want to stand up after hearing it. Cole pinned the entries to the common shelter board the way he'd been doing for months, but this time he pinned all of them. Month 16 through Month 26. Twelve entries on the colony's limited paper, the ink fading at the edges, the text dense and small because Cole had fit each entry onto a single sheet.
 
 He added nothing. No commentary, no framing, no logistics briefing to contextualize the data. Just Elena's words, in order, starting with the scientist who was still measuring and ending with the woman who understood what the measurements meant.
 
@@ -3118,7 +3106,7 @@ Cole looked at the equipment shelter wall. At the water system Ren maintained, t
 
 ---
 
-That night, Cole went to his shelter and opened the data core one last time. Not to read. To sit with it. The screen was dark. The data inside was complete — Elena Vasik's entire record, from the clinical precision of Month 1 to the quiet devastation of Month 28.
+That night, Cole went to his shelter and opened the data core one last time. Not to read. To sit with it. The screen was dark. The data inside was complete — Elena Vasik's entire record, from the clinical precision of Month 1 to the quiet devastation of Month 26.
 
 He thought about Elena's final entry. *The planet isn't killing us. We stopped being worth keeping alive.* He thought about the thirty-two people in the shelters around him — eating, sleeping, arguing, recovering, choosing. Choosing every day to be a colony instead of a collection of individuals dying in proximity.
 
@@ -3128,7 +3116,7 @@ But the thing beneath the math — the thing that had cracked in the medical she
 
 Elena had understood too late that data wasn't enough. That the soil cycle and the weather patterns and the creep maps and the native food sources were tools, not reasons. The reason was the room where people chose to eat together. The reason was Polk sitting in the common shelter for eleven minutes reading about silence and then going to get a second bowl.
 
-Cole put the data core in the bottom of his supply crate. He wouldn't open it again. Elena had given him everything she had. The rest was his.
+Cole put the data core in the bottom of his supply crate. Elena had given him what he needed. The ending — whatever waited past Month 26 — wasn't his to read. Not yet.
 
 He lay on his cot and listened to the hum of the spiral trees pressing through the walls of the shelter, the frequency that lived in his chest, the sound of a planet that didn't care whether he succeeded or failed but would be there, humming, either way. He counted the breaths of the colony the way he'd counted everything since Day Zero. Not inventory. Not triage. Just attention.
 
@@ -4273,7 +4261,7 @@ Polk's jaw worked. Cole watched the muscles move under the sunburned skin and re
 
 "I want to keep twenty-six people alive."
 
-Polk stared at him. Three years of antagonism compressed into a look that contained everything Polk had ever thought about Cole Maren — the logistics machine, the man who counted faces like inventory, the calculator who'd turned survival into arithmetic and arithmetic into authority. The look also contained something newer. Something that had been building since the relocation, since Polk had voted to move and watched the move kill two people and the not-moving would have killed more. The recognition that Cole's math wasn't wrong. That hating the math didn't make it wrong.
+Polk stared at him. Three years of antagonism compressed into a look that contained everything Polk had ever thought about Cole Maren — the logistics machine, the man who counted faces like inventory, the calculator who'd turned survival into arithmetic and arithmetic into authority. The look also contained something newer. Something that had been building since the relocation, since Polk had voted to move and watched the move kill two people and knew that staying would have killed more. The recognition that Cole's math wasn't wrong. That hating the math didn't make it wrong.
 
 Three council members spoke in rapid sequence. Kira: "She betrayed every person in this settlement." James, leaning forward on his bad leg: "We trusted her with our food systems. Our medical compounds. Our survival." A woman named Lina, water systems, who'd been at the array the morning Yuki didn't arrive: "If Asterlyne sends another expedition with her data, we lose everything. The charter. The land. Five years of dying for nothing."
 
@@ -4517,19 +4505,13 @@ Both things were true and neither was the reason he hadn't opened them.
 
 He opened them now.
 
-Elena's Year Two entries were sparse. He'd read through Month 17 — the social collapse, the colony that stopped eating together, the people dying in proximity instead of in community. Past Month 17, the entries shortened. Not because Elena had less to say but because she had fewer people to say it about.
+He'd read through Month 26 — the social collapse, the colony that stopped eating together, the deaths that thinned nine to three, the diagnosis Elena had written with three people still breathing: *We stopped being worth keeping alive.* He'd pinned those entries to the Board. He'd used them. Past Month 26, he'd stopped.
 
-Month 18. Six alive. Elena's clinical precision still intact but the entries reading like dispatches from a shrinking perimeter. Daily observations: soil conditions, weather, food stores. The data of a scientist maintaining the practice of science because the practice was the last structure standing.
+The entries past Month 26 were short.
 
-Month 19. Five. A death described in one sentence. "Carla fell at the ridge. Alone."
+Month 27. Two. Elena didn't describe how Tomas died. Just: *Tomas is gone. I'm not going to write the details. The details don't help. The pattern is the same as every other death — the planet, the deficit, the margin that finally reached zero. The specifics vary. The arithmetic doesn't.*
 
-Month 20. Four. Another sentence. "The infection took David. I had nothing left to treat it with."
-
-Month 21. Three.
-
-Month 22. Two.
-
-Month 23. Elena alone.
+Month 28. One. Elena alone.
 
 Cole read the final entries in the dark of his shelter with the hum of the trees pressing through the walls and the colony breathing around him — twenty-three other people sleeping or keeping watch or sitting in their shelters with their own thoughts, alive on a planet that had been killing people longer than any of them had been trying to survive it.
 
@@ -4553,7 +4535,7 @@ He didn't know how Elena had died. The data core didn't say. The body wasn't in 
 
 Cole closed the data core. Held it in his hands for a moment. The weight of it — not the physical weight, which was negligible, but the weight of fourteen lives compressed into data that had become his ghost narrative, his parallel, his map of what failure looked like so he could navigate away from it.
 
-He'd navigated away from it. Twenty-four. Elena's six had become four had become two had become one had become zero. Cole's forty-seven had become twenty-four and held. The holding was the difference. The holding was the thing Elena hadn't had — not because she was less capable, not because she'd made worse decisions, but because her charter had no clause 9.4.2, no ownership threshold, no mathematical reason to believe that survival purchased anything beyond another day of surviving.
+He'd navigated away from it. Twenty-four. Elena's fourteen had become nine had become three had become one had become zero. Cole's forty-seven had become twenty-four and held. The holding was the difference. The holding was the thing Elena hadn't had — not because she was less capable, not because she'd made worse decisions, but because her charter had no clause 9.4.2, no ownership threshold, no mathematical reason to believe that survival purchased anything beyond another day of surviving.
 
 He put the data core back in the crate. Closed it.
 
@@ -5081,7 +5063,7 @@ A colonist named Beck — the one who'd been volunteering for night perimeter pa
 
 "The charter is a line item. You're overhead."
 
-Beck sat down. His face was doing something between anger and recognition — the specific expression of a man who'd always known, in the way you always knew, that the system didn't value him, but who was now seeing the exact number that the not-valuing was worth. Ninety million divided by forty-seven. Less than two million per person. The price of a life on a balance sheet was lower than the price of the mineral substrate under the life's feet.
+Beck sat down. His face was doing something between anger and recognition — the specific expression of a man who'd always known, in the way you always knew, that the system didn't value him, but who was now seeing the exact price the system had put on his expendability. Ninety million divided by forty-seven. Less than two million per person. The price of a life on a balance sheet was lower than the price of the mineral substrate under the life's feet.
 
 Kira spoke next. The water system designer, the woman who'd voted against the relocation in Month 10 and walked the path to the southern array every day with her hand on the wall, feeling for erosion. Her voice was steady in the way that Kira's voice was always steady — the register of a woman who'd learned that steadiness was the only reliable tool in a world where the ground moved.
 
@@ -5569,7 +5551,7 @@ Ren looked at the fire. Lana's child had been born three weeks ago. A boy. Two c
 
 The words came out before she'd finished thinking them. She heard them land and heard what they carried — the fact and the fear underneath the fact. They hadn't lost. Twenty-four held. The threshold held. But Cole wasn't asking about losing. He was asking about the gap in the text, the silence in the charter where the children's future should have been written, the space that Asterlyne would fill with whatever interpretation served a four-hundred-billion-credit asset.
 
-Cole heard what she wasn't saying. She could tell because he didn't respond, and his not-responding was the specific silence of a man who'd heard the thing underneath the thing and was filing it alongside his own uncertainty.
+Cole heard what she wasn't saying. She could tell because he didn't respond — just sat there, quiet in the particular way of a man who'd heard the thing underneath the thing and was filing it alongside his own uncertainty.
 
 They sat with the fire between them and the question between them and the colony around them. Twenty-four people. Two children. The count that mattered and the lives that might not be counted. Ren thought about her partner on Earth — the other Mika, the architect, the person she'd been building something with before the debt spiral made building impossible. She'd left to avoid becoming someone's dependent. She'd come to a planet and become something else — not dependent, not independent, something the language didn't have a word for because the conditions that produced it didn't exist in contexts where words got made. Part of a structure. Load-bearing. The thing she'd always been, transposed from buildings to people.
 
@@ -5851,7 +5833,7 @@ Joss was propped on his cot. Alert. Thinner than he'd been a month ago — the i
 
 The joke landed the way humor landed between them — lightly, without performance, the irreverent undertone that Joss had learned from Cole without Cole intending to teach it. Cole sat on the equipment crate beside Joss's cot. The same crate. The same position. The same shelter where he'd sat through the fever in Month 17, holding a cloth to a twenty-three-year-old's forehead and saying his daughter's name for the first time.
 
-Four years between that night and this one. The distance measured not in time but in the accumulation of everything the time had held — the creep solution and Dana's confession and the colony's vote and the naming and the shuttle and the eleven months and the tremor and the rack on Joss's legs and the carrying and the carrying and the carrying.
+Four years between that night and this one. The distance measured not in time but in what the time had held. The creep solution. Dana's confession. The colony's vote, the naming, the shuttle. Eleven months of holding still. The tremor. The rack on Joss's legs. All of it carried. Every count, every loss the framework absorbed because the framework was all he had.
 
 "We made it," Cole said.
 
@@ -6067,7 +6049,7 @@ Ren said words. Not a speech — Ren didn't give speeches, the same way Cole did
 
 Then the colony went back to the common area. And the celebration happened.
 
-Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's chemistry filtered through human patience. The fire. The Bench. The paths and the shelters and the channels running beneath the bedrock. The trees humming at the frequency Cole had felt in his chest since Day One, the frequency that had set his teeth on edge and now felt like the sound the ground made when you put your hands on it and held on.
+Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's chemistry filtered through human patience. The fire. The Bench. The paths worn bare. The shelters. The channels running beneath the bedrock. The trees humming at the frequency Cole had felt in his chest since Day One, the frequency that had set his teeth on edge and now felt like the sound the ground made when you put your hands on it and held on.
 
 Joss was supposed to throw this. Haruki was supposed to drink it.
 
@@ -6081,7 +6063,7 @@ Cole sat with the colony. Twenty-two. The framework held the number the way it h
 
 Invocation and loss arriving at the same moment. The thing the math had never predicted. The thing the math couldn't calculate. The thing that was true anyway.
 
-Cole sat on the Bench at Holdfast with the fermented fruit and the fire and the trees and the twenty-two. He sat with it. The winning and the losing and the gap between them that was not a gap but a space where something would grow, the way things grew on this planet — in cycles, in patience, in the specific persistence of life that didn't ask permission.
+Cole sat on the Bench at Holdfast. Fermented fruit warm in his hands. Fire on his face. The trees. The twenty-two. He sat with all of it. Winning, losing, the gap between — except it wasn't a gap. It was a space where something would grow, the way things grew on this planet. In cycles. In patience. In the specific persistence of life that didn't ask permission.
 
 That was something.
 
