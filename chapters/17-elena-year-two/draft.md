@@ -1,4 +1,4 @@
-# Chapter 17 — Elena, Year Two
+# Chapter 17 — "Elena, Year Two"
 
 Cole read the last of Elena Vasik's Year Two logs on a night when the settlement was quiet and the hum of the trees had dropped to the frequency he felt in his molars.
 

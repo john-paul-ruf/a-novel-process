@@ -1,4 +1,4 @@
-# Chapter 12 — Democracy
+# Chapter 12 — "Democracy"
 
 The vote had been twenty-one to seventeen, and Ren could feel the seventeen in every interaction for the first forty-eight hours after it passed.
 

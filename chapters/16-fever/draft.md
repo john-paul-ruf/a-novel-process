@@ -1,4 +1,4 @@
-# Chapter 16 — Fever
+# Chapter 16 — "Fever"
 
 The first case appeared on Month 17, Day 3.
 

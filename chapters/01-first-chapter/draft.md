@@ -1,4 +1,4 @@
-**Chapter One — Clause 9.4.2**
+# Chapter 01 — "Clause 9.4.2"
 
 Forty-seven people in a room designed for thirty, and not one of them was happy about it.
 

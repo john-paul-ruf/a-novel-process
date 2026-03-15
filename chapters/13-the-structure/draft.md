@@ -1,4 +1,4 @@
-# Chapter 13 — The Structure
+# Chapter 13 — "The Structure"
 
 The channels went deeper than anyone had expected.
 

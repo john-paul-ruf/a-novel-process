@@ -44,17 +44,10 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## Chapter Heading Format Inconsistencies
 
-### TASK-007: Three different heading formats across chapters
+### TASK-007: Three different heading formats across chapters — COMPLETE
 - **Files:** All chapter `draft.md` files
-- **Issue:** Chapter headings use three different formats:
-  - **Format A** (Ch 1-4): Bold, word numbers, no quotes around title. E.g., `**Chapter One — Clause 9.4.2**`
-  - **Format B** (Ch 11-13, 15-17): H1 header, numeric, no quotes. E.g., `# Chapter 11 — Creep`
-  - **Format C** (Ch 5-10, 14, 18-27): H1 header, numeric, quotes around title. E.g., `# Chapter 05 — "Three"`
-- **Affected files:**
-  - Format A: `01-first-chapter`, `02-transit`, `03-landing`, `04-the-rules`
-  - Format B: `11-creep`, `12-democracy`, `13-the-structure`, `15-supply-lines`, `16-fever`, `17-elena-year-two`
-  - Format C: `05-three`, `06-ghost-colony`, `07-factions`, `08-roots`, `09-the-count`, `10-second-cycle`, `14-signal`, `18-the-creep-solution`, `19-narrowing`, `20-silence`, `21-confession`, `22-the-vote`, `23-no-margin`, `24-the-shuttle`, `25-the-math`, `26-eleven-months`, `27-tuesday`
-- **Fix:** Standardize all chapters to a single format. Recommend Format C (`# Chapter XX — "Title"`) as it is the most common (17 of 27 chapters).
+- **Issue:** Chapter headings used three different formats (Format A: bold word-numbers, Format B: H1 no quotes, Format C: H1 with quotes).
+- **Fix:** Done. All 27 chapters standardized to Format C (`# Chapter XX — "Title"`). Updated Ch 1-4 (Format A → C) and Ch 11-13, 15-17 (Format B → C).
 
 ---
 
@@ -148,7 +141,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 | **High** | TASK-001 | Ch 12 draft.md contains Author Notes | Complete |
 | **High** | TASK-008 | Excessive recursive "and the X was the Y" constructions | Needs revision pass |
 | **High** | TASK-009 | Two "not-X was the X" inversions (voice profile: never use) | Needs fix |
-| **Medium** | TASK-007 | Three different chapter heading formats | Needs standardization |
+| **Medium** | TASK-007 | Three different chapter heading formats | Complete |
 | **Medium** | TASK-010 | Polysyndeton in Ch 27 climax | Needs revision |
 | **Low** | TASK-011 | Scene outline charter page count outdated | Needs update |
 | **Info** | TASK-005 | Ch 27 count 24→23→22 post-invocation | Verified correct |

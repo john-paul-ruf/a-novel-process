@@ -1,4 +1,4 @@
-**Chapter Two — Transit**
+# Chapter 02 — "Transit"
 
 Three months in recycled air tastes like someone else's exhalation mixed with industrial scrubbers. Cole learned to stop noticing it by week two, which meant he'd learned to stop noticing a lot of things. The Asterlyne transport vessel wasn't designed for comfort. It was designed for efficiency and just enough habitability to keep the cargo alive until delivery.
 

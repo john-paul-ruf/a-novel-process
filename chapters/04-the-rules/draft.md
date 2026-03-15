@@ -1,4 +1,4 @@
-**Chapter Four — The Rules**
+# Chapter 04 — "The Rules"
 
 By day four, the colony had stopped thinking of the planet as an antagonist and started thinking of it as a puzzle. By day seven, the distinction didn't matter anymore. Both puzzles and antagonists could kill you if you didn't pay attention.
 

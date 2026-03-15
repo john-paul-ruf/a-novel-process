@@ -1,4 +1,4 @@
-# Chapter 15 — Supply Lines
+# Chapter 15 — "Supply Lines"
 
 The supply drop was due at Month 13.
 

@@ -1,4 +1,4 @@
-**Chapter Three — Parcel 16b**
+# Chapter 03 — "Parcel 16b"
 
 The descent came in three phases. First, the long brake through atmosphere, the shuttle shuddering and groaning the way metal groans when it's asked to defy physics and mostly wins. Second, the sight of it—planet swelling in the viewport from a dot to a thing, from a coordinate to a world. Third, the silence after the engines cut, when forty-seven people held their collective breath and tried to calibrate what they were actually seeing.
 
