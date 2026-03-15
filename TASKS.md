@@ -49,7 +49,7 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## HIGH — Voice Profile Violations
 
-### TASK-07: Ch 16 line 155 — Polysyndeton
+### ~~TASK-07: Ch 16 line 155 — Polysyndeton~~ ✅
 - **File:** `chapters/16-fever/draft.md`
 - **Line:** 155
 - **Issue:** "every number was a face and every face was a person who was alive because the systems held and the compound worked and Haruki's hands were steady and Dana's plants grew in the right soil at the right time" — four items chained with "and." Voice profile: polysyndeton — never use.
