@@ -50,6 +50,16 @@
 
 - **[Chapter 22 — "The Vote"](#chapter-22-the-vote)**
 
+- **[Chapter 23 — "No Margin"](#chapter-23-no-margin)**
+
+- **[Chapter 24 — "The Shuttle"](#chapter-24-the-shuttle)**
+
+- **[Chapter 25 — "The Math"](#chapter-25-the-math)**
+
+- **[Chapter 26 — "Eleven Months"](#chapter-26-eleven-months)**
+
+- **[Chapter 27 — "Tuesday"](#chapter-27-tuesday)**
+
 ---
 
 
@@ -4437,5 +4447,1659 @@ Cole walked to the perimeter that evening. The trees hummed. The sky was the dee
 He felt it. Not as math. As weight. The specific, physical weight of twenty-four lives that he couldn't afford to lose and couldn't guarantee to keep. The count that had started as inventory and become attendance and become something else — a word he didn't have, or a word he wouldn't say, something that lived in the space between arithmetic and the reason arithmetic existed.
 
 Twenty-four. The door closed. The margin was zero. And Cole stood at the perimeter of a settlement that didn't have a name yet and breathed the alien air and held the number and didn't let go.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-23-no-margin}
+
+# Chapter 23 — "No Margin"
+
+Twenty-four was a different number than twenty-five.
+
+Cole had carried every number since forty-seven. Carried them the way the channel network carried water — structurally, without choice, because the architecture existed and the flow was the architecture's purpose. Forty-seven had been abstract. Forty-four had been alarming. Thirty-nine had been the first number that felt like weight instead of data. Thirty-one had matched his model and the matching had taught him that accuracy was not the same as comfort. Twenty-six had been the margin of two, the feedback loop, the colony killing the colony.
+
+Twenty-four was the threshold.
+
+He'd known this number since Day Zero. Calculated it in a corporate waiting room with fluorescent light and contract tablets and forty-six other desperate people who hadn't read the document they were signing. Fifty-one percent of forty-seven. Twenty-four. The number that meant the land transferred. The number that meant five years of dying had purchased something.
+
+Now he was inside it. Not approaching it, not calculating its probability, not modeling the curve that would carry the colony toward or away from it. Inside it. The number wrapped around the colony like a skin, tight, with no give. Every person was the threshold. Every cough was the threshold. Every shifted beam and softened seal and eroded path was the threshold.
+
+Patricia had been the last subtraction. Month 37. The cough that had started during the relocation — Month 10, the night transport, the cold that had killed Noor and planted something in Patricia's lungs that Haruki had managed for twenty-seven months without defeating. The cold snap. The deepening. The four days in the medical shelter while Haruki worked with compounds that slowed the pathology but couldn't reverse it. And then the silence in the medical shelter that was different from all other silences because it meant a body had stopped.
+
+Twenty-four.
+
+Cole had stood at the entrance and watched Haruki cover Patricia's body and felt the number close around him, and the closing had been physical — chest, throat, the backs of his hands — because twenty-four was the number that ended the math. Not finished it. Ended it. There was no more projection. No more curve. No more model running in the back of his mind, calculating probability and attrition rate and the distance between where they were and where they needed to be. They were where they needed to be. Exactly. The distance was zero.
+
+The distance being zero meant the distance could only become negative.
+
+---
+
+Year Four. The colony lived on the threshold the way the spiral trees lived in the planet's soil — rooted, but aware that the ground moved.
+
+Cole watched it change them. Not dramatically. Not the way crisis changed people — fast, visible, the sudden reconfiguration of behavior that accompanied the creep or the fever or Dana's confession. This was slower. Tectonic. The shift that happened when a group of people understood, collectively and without discussion, that each of them was the last person.
+
+Some became careful. Obsessively careful. The kind of careful that added three minutes to every task because each step was checked and each check was verified and each verification was a small prayer to the mathematics of survival that the mathematics would hold. A colonist named Dara, who'd been on water system maintenance since the relocation, started walking the path to the southern array with her left hand on the slope wall, trailing her fingers along the substrate, feeling for the specific looseness that preceded erosion. She'd been walking the path for two years without touching the wall. Now she touched it every time. The hand was a sensor. The sensor was fear, rationalized into protocol.
+
+Some became reckless. Not wild — not the performative recklessness of people who'd given up. A quieter kind. The recklessness of fatalism, where the understanding that any moment could be the subtraction produced not caution but a loosening. If the number could change at any time, then the careful measuring of risk was an illusion, and the illusion was exhausting, and the exhaustion itself was a risk. A colonist named Beck started volunteering for the perimeter patrols that nobody wanted — the night shifts, the ones where the fauna was more active and the terrain was harder to read in the green-dark. He wasn't suicidal. He was tired of calculating.
+
+Cole became both.
+
+He walked the perimeter every morning with the same meticulous attention he'd brought since Day One — counting shelters, counting bodies, verifying the number that was now both goal and razor. He checked the structural assessments Ren filed every five days. He reviewed Dana's agricultural projections, the medical inventory Haruki updated weekly, the water system status reports that flowed through Ren's engineering team. Every system. Every variable. Every number that fed into the larger number.
+
+And then, in the hours between the systems, he did things that weren't careful. Walked further into the forest than protocol allowed. Sat on the bedrock at the edge of the channel network where the ancient infrastructure dropped into darkness, his legs hanging over a drop that wasn't dangerous until it was. Stood in the agricultural plots at dusk when the fauna moved through the tree line, watching the creatures that had killed Okafor with a compound nobody could analyze, and didn't retreat to the shelters when the light faded.
+
+Ren noticed. She noticed everything structural.
+
+"You're taking risks."
+
+"I'm sitting on rocks."
+
+"You're sitting on rocks at the edge of a four-meter drop after dark on a planet that killed a man with a single bite."
+
+Cole looked at her. They were standing in the common area after the evening meal, the space Ren had designed for assembly, where the colony gathered by habit now rather than schedule. Twenty-four people. He could see all of them from where he stood. He could always see all of them.
+
+"I need something the math can't give me."
+
+"What's that?"
+
+He didn't answer. Not because he was deflecting — the old reflex, the one that had kept Lily's name out of his mouth for eighteen months, the one that turned personal questions into silence. He didn't answer because the answer was still forming, somewhere in the space between the number he carried and the reason he carried it, and the forming wasn't complete.
+
+Ren didn't push. She'd learned when to push and when to stand beside the silence and let it work. She'd learned it the way she'd learned the planet — through exposure, through error, through the accumulated experience of two people who'd been inside the same structure long enough that the structure had become a language.
+
+She went back to her meal. Cole went to the perimeter. The trees hummed.
+
+---
+
+He opened Elena's logs for the last time on a night in Month 40 when the settlement was quiet and the sky was the deep green-black he'd stopped calling alien because alien implied a comparison to something else and he didn't compare anymore. This was the sky. The only one.
+
+He'd been parceling Elena's logs across three years. Reading in fragments the way you read a cautionary text — slowly, in portions small enough that the warning could be absorbed without overwhelming the capacity to act on it. He'd shared the survival data with the colony. The agricultural findings, the weather patterns, the soil cycle mappings that had helped Dana refine her phase models. The story of what happened when a group stopped being a group. He'd used Elena's words the way he used every tool — instrumentally, for the colony's survival, without sentiment.
+
+He hadn't read the end.
+
+The data core sat in the bottom of his supply crate, closed since Month 26 when he'd sent the second message to Lily and stopped counting as inventory and started counting as attendance. He'd told himself the logs were finished. He'd used what he needed. The rest was a dead woman's private correspondence and he had no right to it and no need for it.
+
+Both things were true and neither was the reason he hadn't opened them.
+
+He opened them now.
+
+Elena's Year Two entries were sparse. He'd read through Month 17 — the social collapse, the colony that stopped eating together, the people dying in proximity instead of in community. Past Month 17, the entries shortened. Not because Elena had less to say but because she had fewer people to say it about.
+
+Month 18. Six alive. Elena's clinical precision still intact but the entries reading like dispatches from a shrinking perimeter. Daily observations: soil conditions, weather, food stores. The data of a scientist maintaining the practice of science because the practice was the last structure standing.
+
+Month 19. Five. A death described in one sentence. "Carla fell at the ridge. Alone."
+
+Month 20. Four. Another sentence. "The infection took David. I had nothing left to treat it with."
+
+Month 21. Three.
+
+Month 22. Two.
+
+Month 23. Elena alone.
+
+Cole read the final entries in the dark of his shelter with the hum of the trees pressing through the walls and the colony breathing around him — twenty-three other people sleeping or keeping watch or sitting in their shelters with their own thoughts, alive on a planet that had been killing people longer than any of them had been trying to survive it.
+
+Elena's last three months were written in a voice Cole recognized. Not the clinical scientist. Not the colony leader running systems and counting bodies. A person. Alone. Writing because writing was the last act of someone who still believed the words would be read, and the belief was the last act of someone who still believed in a future that contained other people.
+
+She described the trees. The hum. The way the light shifted at dawn. She described the fauna watching from the tree line — the same creatures Cole had watched for three years, patient, observing, neither hostile nor helpful. She described the soil under her hands. The channel network she'd never understood. The settlement she'd built that was already being reclaimed by the planet's slow, persistent biology.
+
+She didn't describe loneliness. She described the absence of logistics. No systems to run. No count to maintain. No variables to track. The silence of a woman who'd been managing a colony and was now managing nothing, and the nothing was louder than any number had been.
+
+Her second-to-last entry was a paragraph. Cole read it twice.
+
+*I keep thinking about the channels. The infrastructure. Something lived here and built systems and the systems outlasted whatever built them. The creep comes and the creep goes and the channels remain. I don't know if that's hope or not. It might just be geology. But I keep thinking about it. Something built things that lasted. And then the something was gone and the things were still here. Maybe that's enough. Not the survival. The lasting.*
+
+Her final entry was two words.
+
+*Enough, now.*
+
+Cole sat with them. Two words that contained a woman's entire trajectory — the scientist, the leader, the last survivor, the person who'd decided that the record was complete. Not a surrender. Not despair. A closing. The specific finality of someone who'd said everything she had to say and was choosing to stop saying it.
+
+He didn't know how Elena had died. The data core didn't say. The body wasn't in the wreckage — reclaimed by the planet, by the creep, by the slow dissolution that turned everything organic into something the soil could use. She'd been alone for three months and then she'd written two words and then she'd stopped writing.
+
+Cole closed the data core. Held it in his hands for a moment. The weight of it — not the physical weight, which was negligible, but the weight of fourteen lives compressed into data that had become his ghost narrative, his parallel, his map of what failure looked like so he could navigate away from it.
+
+He'd navigated away from it. Twenty-four. Elena's six had become four had become two had become one had become zero. Cole's forty-seven had become twenty-four and held. The holding was the difference. The holding was the thing Elena hadn't had — not because she was less capable, not because she'd made worse decisions, but because her charter had no clause 9.4.2, no ownership threshold, no mathematical reason to believe that survival purchased anything beyond another day of surviving.
+
+He put the data core back in the crate. Closed it.
+
+In the morning, he walked twelve kilometers west.
+
+---
+
+The ghost colony was barely visible now.
+
+Three years of the planet's biology had done what three years of biology did — reclaimed, absorbed, dissolved the boundaries between what humans had built and what the planet produced. The pre-fab shelters were collapsed under the weight of growth, their Asterlyne logos faded to suggestions under layers of the lavender-gray organic matter that covered every surface the forest touched. The equipment was half-buried. The clearing Elena's colony had made was no longer a clearing — the spiral trees had advanced into it, their trunks grown through the wreckage, their roots breaking the pre-fab composite the way roots broke concrete on Earth, slowly and without malice.
+
+Cole stood at the edge of what had been a settlement and saw the future his colony had avoided. Not a graveyard. A place returning to the planet that owned it. The human presence reduced to shapes under growth, contours in the soil, the geometry of right angles softening into the planet's preferred curves.
+
+He'd come here once before. Month 2. The scouting party, the discovery, the sealed data core. He'd told no one. Had taken the logs and read them in secret and used the information the way he used everything — as input, as advantage, as the currency of a man who believed knowledge was leverage and leverage was survival.
+
+Three years later, the secrecy felt like a different person's decision. Not wrong. Not right. Just the choice of a man who'd been calculating in a framework that hadn't yet learned to include the people inside it. He'd shared the logs eventually. Shared them with the colony because Elena's warning was more valuable as a shared text than a private advantage. The sharing had been manipulative and necessary and both things existed simultaneously and Cole had stopped trying to resolve the contradiction.
+
+He gathered stones.
+
+The substrate here was different from the high ground where the colony lived. Softer. More organic matter, less bedrock. The stones he found were small — fist-sized, rounded by water and weather, the kind of stones that accumulated in drainage lines. He carried them to the center of what had been Elena's settlement.
+
+He didn't know where she'd died. Didn't know if she'd been in a shelter or outside or somewhere in the forest when the two words became the last words. It didn't matter. The cairn wasn't a marker. It was an acknowledgment. Stones placed by a man who'd survived what she hadn't, on ground that was hers in the only way that mattered — she'd lived here, she'd built here, she'd kept records that had saved the people who came after.
+
+He built the cairn without ceremony. Stone on stone. The physical act of stacking — choosing each piece for its shape, finding the angle where weight held weight, building something that would stand until the planet took it the way the planet took everything. He didn't count the stones. He built until the cairn felt finished, and the feeling was not architectural but intuitive, the sense of a structure that had reached its proper height.
+
+He stood back. Looked at it. A pile of rounded stones in a clearing that wasn't a clearing anymore, surrounded by the wreckage of a colony that had failed, under the green-shifted sky of a planet that hadn't noticed the failure because the planet didn't notice.
+
+No words. He'd considered bringing something — a piece of Elena's log, a transcription, some fragment of her writing to attach to the cairn the way memorials on Earth attached names to stone. He'd decided against it. Elena's words were in the common shelter, on the board, being read by the colony she'd never met. Her words were working. The cairn was for the silence that came after the words.
+
+Cole walked back to the settlement. Twelve kilometers through the forest, the spiral trees humming around him, the fauna watching from the understory with the patient observation they'd maintained for three years. He didn't hurry. The walk took four hours. He arrived at the settlement in late afternoon with dirt on his hands and his boots and the front of his shirt, and the dirt was from Elena's ground, and he didn't wash it off until evening.
+
+---
+
+Joss found him three days later at the water junction.
+
+Cole was running the weekly seal inspection Ren had added to the rotation after Junction 4's failure — the adhesive check, the membrane assessment, the systematic verification that the thing keeping contaminated water out of the colony's supply was still doing its job. He'd taken the task himself. Not because others couldn't do it. Because the task required the specific attention of a man whose relationship to maintenance had become personal, and the personal had become the only motivation strong enough to sustain the attention the colony needed.
+
+Joss walked up the path from the settlement with the stride Cole had watched evolve over three years — no longer the gangly, over-eager motion of the twenty-two-year-old who'd bumped into things and dropped things and caught them. Twenty-five now. The body had settled into itself. The movements were deliberate without being slow, economical without being stiff. He moved like someone who'd learned that the ground under his feet wasn't guaranteed and had adjusted his relationship to it accordingly.
+
+"Cole."
+
+"Junction's holding. Membrane at fifty-two percent. Seal's stable."
+
+"That's not why I'm here."
+
+Cole looked up from the junction housing. Joss was standing three meters away with his hands in his pockets and his face carrying an expression Cole had never seen on him — not the nervousness that had been Joss's default for the first year, not the earnest determination that had replaced it in the second, not the quiet competence that had defined the third. Something new. The expression of a young man about to ask for something he'd been thinking about for a while.
+
+"The settlement needs a name."
+
+Cole set down the inspection tool. Sat back on his heels. Looked at Joss.
+
+"It has a designation. Parcel 16b."
+
+"That's Asterlyne's designation. It's not a name. It's a line item on a corporate ledger."
+
+Cole heard the sentence and heard underneath it the three years that had produced it. Joss at twenty-two, nervous, over-prepared, using filler words and hedging. Joss at twenty-five, standing at a water junction telling Cole that the corporate designation for their home wasn't good enough anymore. The distance between those two people was measured in deaths and decisions and the slow, accretive process of a person becoming someone they hadn't planned to be.
+
+"It's not mine to name," Cole said.
+
+"It's not Asterlyne's either. Not anymore."
+
+The words landed with a weight that exceeded their syllable count. Cole felt them settle into the framework — not the logistics framework, not the survival calculation, but the other thing, the one that had been growing in the spaces between the systems, the thing he didn't have a word for because the conditions that produced it didn't exist in contexts where words got made. The colony had culture. The colony had the Bench, the Drip, South Kitchen, the Board. The colony had inside jokes he didn't understand and shared memories he'd been present for but hadn't experienced the way others had. The colony had names for its parts but not for its whole.
+
+Joss was asking for the whole.
+
+"Talk to the council," Cole said. "Talk to Ren."
+
+"I'm talking to you first."
+
+"Why?"
+
+"Because you're the one who's going to say it doesn't matter. And I want to get that conversation out of the way before we have the real one."
+
+Cole looked at Joss and saw, for a moment, the thing he usually kept behind the framework — the thing that lived in the space between the count and the reason for the count, between the father who'd lost custody of a nine-year-old on Earth and the man who'd been watching a twenty-two-year-old become twenty-five on an alien planet. The thing that wasn't replacement. Wasn't substitution. Just the specific, unrequested weight of caring about someone who was becoming something and knowing that the becoming was partly because you were there to witness it.
+
+"It doesn't matter," Cole said.
+
+Joss smiled. The smile was small and knowing and completely unbothered by the dismissal, because Joss had heard Cole say things didn't matter before and had watched the things matter anyway.
+
+"I know," Joss said. "Council meeting's in two days. We'll put it on the agenda."
+
+He walked back to the settlement. Cole watched him go and felt the unnamed thing in his throat — the same thing he'd felt watching Joss teach water filter maintenance, watching the culture grow in the gaps between the systems, watching the colony become something he'd built the scaffolding for but hadn't designed.
+
+He went back to the junction. The seal held. The membrane filtered. The water ran clean.
+
+---
+
+The council meeting was on a Thursday. Ren chaired it with the efficiency she'd refined over eighteen months of democratic governance — agenda distributed, time allocated, the semicircle of council members arranged in the open sight lines she'd designed for transparency.
+
+The name was the last item. Joss had placed it there — after the water system report, after the agricultural projection, after Haruki's medical inventory update that listed the compounds they had and the compounds they didn't and the timeline before the ones they had ran out. The business of survival first. Then the business of belonging.
+
+Ren opened the item. "The younger colonists have proposed that the settlement be formally named. Joss will present."
+
+Joss stood. He didn't speak the way Cole spoke — minimal, data-driven, the rhetoric of a man who trusted numbers over sentences. Joss spoke the way Joss spoke. Direct, slightly too fast, the earnestness audible in the cadence, but the filler words gone now, burned away by three years of learning to say things that mattered in a place where mattering was measured in survival.
+
+"We've been calling this place the settlement, or the colony, or the high ground, depending on who's talking and what they're talking about. Some of us call it home. Some of us haven't called anything home since Earth. The place has names for its parts — the Bench, the Drip, South Kitchen. It doesn't have a name for itself. I think it should."
+
+He sat down. The council considered.
+
+Ren opened the floor. Twenty-four people in the common area — the full colony, not just the council, because Joss had asked for a colony-wide vote and Ren had agreed because the democratic architect in her recognized that naming was an act of collective ownership and collective ownership was the architecture's purpose.
+
+Suggestions came slowly. The colony wasn't practiced at ceremony. They were practiced at rationing, at maintenance schedules, at the daily mechanics of staying alive. Naming felt different. Naming felt like a claim, and the claim felt presumptuous on a planet they'd survived but hadn't conquered, in a settlement they'd built but might not keep, on land that a corporate charter said belonged to a company that had stopped talking to them.
+
+"Vasik." A colonist named Ora said it quietly. The name of the dead scientist whose logs had become the colony's shared text, whose warnings they'd read on the Board, whose cairn sat twelve kilometers west in a clearing that was no longer a clearing. A memorial. An honoring.
+
+Silence. People considering. Elena's name, carried by a settlement that existed because her colony hadn't. The weight of it was right. The weight was almost too much.
+
+"The Channels." Kira. Practical. The ancient infrastructure they'd learned to read, the system that carried the creep solution, the carved bedrock that told them something had lived here before and built things that lasted. A name that acknowledged inheritance. That they weren't the first.
+
+More silence. People calculating. Not Cole's kind of calculation — the social kind, the one that weighed meaning against sound against the daily practice of saying a word a thousand times until the word became the place.
+
+Garrett Polk spoke from the back of the room.
+
+"Holdfast."
+
+He said it the way he said things now — not with the rhetorical force of the man who'd argued against Cole's systems in Month 4, not with the declarative confidence that had built a signal array and nearly dissolved the charter. Quieter. The word delivered without performance, as if it had been sitting in his mouth for a while and he'd decided to let it out.
+
+Someone laughed. Not unkindly. The word sounded like a joke — hold fast, grip the margin, hang on with both hands to the thing that was trying to shake you loose. Polk's face didn't change. He hadn't meant it as a joke. Or he had, and the joke had a foundation underneath it that was deeper than the laugh.
+
+"Holdfast," Joss repeated. Testing the sound. Cole watched Joss roll the word through whatever internal process a twenty-five-year-old used to evaluate whether a word was large enough to contain a place.
+
+"We're holding fast," someone said. Cole didn't catch who. The sentence came from the middle of the group, from the cluster of colonists who occupied the social center that Cole had never been part of and didn't need to be.
+
+"Better than Asterlyne's margin," someone else said.
+
+Ren called the vote. She didn't need to count. The hands went up in a wave — not simultaneous, not rehearsed, just the slow accumulation of twenty-four people deciding that a word was the right word. Some hands went up immediately. Some paused, considering, and then rose. Polk's hand was already up. He'd voted for his own suggestion with the particular conviction of a man who'd said something true and recognized it as true and didn't need to wait for consensus to know it.
+
+Cole raised his hand. Last. Not because he was undecided — because he was watching. Twenty-three hands in the air, twenty-three people choosing a name for the place they'd built, and the choosing was the thing he'd been watching for three years without knowing what to call it. The colony becoming something that wasn't his to make. The emergent property of people who'd survived together long enough that the surviving had produced something the survival couldn't explain.
+
+Holdfast.
+
+Ren recorded the vote. Her voice was steady. "The settlement is named Holdfast. The vote is unanimous." She paused. The pause was the democratic architect honoring the moment, the silence between a decision and its consequence. "The record is closed."
+
+No ceremony. No cheers. The colony dispersed the way it dispersed from every meeting — people standing, returning to tasks, the life of the settlement resuming its rhythm. The rhythm had a name now. That was all. A word that meant hold fast, grip the edge, survive the margin. A word Garrett Polk had said in a room of twenty-four people who'd been dying together for three years.
+
+Cole stayed in the common area after the others left. Sat on the Bench — the rock outcropping near the entrance, the one with the name that nobody had voted on. The settlement was quiet in the way it was quiet after evening meals — not empty, just settled. People in shelters. People at the perimeter. People in the agricultural plots, checking Dana's phase-three species in the last light.
+
+Holdfast.
+
+He didn't care about the name. He tested the thought and found it true and then found something underneath it that was also true and more important. He didn't care about the name. He cared that they'd chosen it together. He cared that Joss had come to him at a water junction and said the corporate designation wasn't good enough. He cared that Polk had spoken a word that was a joke and a truth and the colony had heard both. He cared that twenty-four hands had gone up in a room Ren had designed for exactly this — collective decisions, shared weight, the architecture of people choosing together.
+
+That was the real work. Not the count. Not the systems. Not the logistics framework that had kept the colony breathing for three years. The real work was the shift — the one that had been happening since the fever, since Joss's bedside, since the first message to Lily, since the second. The shift from running a survival calculation to living inside a thing worth surviving for. The name didn't matter. The naming did.
+
+Cole sat on the Bench at Holdfast and listened to the trees hum and held the number — twenty-four, the threshold, the exact margin of zero — and the number was still heavy and the number was still the architecture of everything he'd built. But the architecture had a name now. And the name had been chosen by the people inside it. And that was something the math had never predicted and couldn't explain and didn't need to.
+
+He went to his shelter. The smallest room. His cot, his desk, his data core in the closed crate. The paper on the desk where he tracked the count. He picked up the pencil. Wrote the number. Twenty-four.
+
+Under it, for the first time, he wrote the name.
+
+Holdfast.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-24-the-shuttle}
+
+# Chapter 24 — "The Shuttle"
+
+The sound reached Holdfast before the light did.
+
+Cole was at Junction 3, running the membrane check Ren had added to his rotation after the contamination event in Month 28. Hands in the housing. Mind in the seal — the adhesive margin, the degradation rate, the specific texture that distinguished a membrane at fifty percent from one at forty-nine. The routine of a man who'd learned that the distance between safe water and poison was measured in percentages that dropped while you slept.
+
+He heard it as a low tear across the upper atmosphere. Not thunder — too sustained, too directional. A sound that moved. Cole's hands stopped inside the housing. He tilted his head toward the green-shifted sky and listened to the sound track from east to northwest, descending, carrying the specific harmonic of friction against atmosphere that he hadn't heard in five years.
+
+A ship.
+
+He pulled his hands from the junction. Stood. The sound was already fading — the descent carrying whatever made it beyond Holdfast's horizon, toward the original settlement coordinates twelve kilometers west. The place they'd abandoned. The place the forest had reclaimed. The place where Elena's cairn sat in a clearing that wasn't a clearing anymore.
+
+Cole stood at Junction 3 with his hands wet from the membrane housing and his chest doing something the math couldn't explain. Five years. No communication since Month 30 — the wellness check, the silence, the word "Residents" on the final transmission. And now a ship, breaking atmosphere without warning, landing where Asterlyne's GPS coordinates said the colony should be. Where the colony hadn't been for three years.
+
+Ren reached him in four minutes. She'd been at the agricultural terrace with Dana, reviewing the third-cycle planting schedule. She came up the path at a pace that wasn't running but wasn't walking — the engineer's stride, efficient, controlled, the body responding to urgency without surrendering to it.
+
+"You heard it."
+
+"Yes."
+
+"Landing vector puts it at the original site."
+
+"Yes."
+
+Ren stood beside him. They looked west, toward the tree line, toward the twelve kilometers of spiral forest between Holdfast and the place they'd left. The trees hummed. The sky showed nothing — whatever had descended was below the canopy now, on the ground, at coordinates that corresponded to a corporate file labeled Parcel 16b, Settlement Zone Alpha.
+
+"Asterlyne," Ren said. Not a question.
+
+"Nobody else has the coordinates."
+
+"Nobody else has the reason."
+
+Cole felt the sentence land. Nobody else has the reason. Five years and eleven days into the charter. Eleven months and nineteen days from the clause. Twenty-four colonists. The exact number. The threshold Asterlyne had designed the contract around, betting against it the way insurance companies bet against longevity — not hoping for death, just pricing it accurately and collecting the premium.
+
+Twenty-four colonists had survived the premium.
+
+"I need to go there," Cole said.
+
+"We need to go there."
+
+He looked at her. Ren's face was holding the expression he'd learned to read over four years — the engineer assessing a structural load, calculating whether the foundation could take the weight. The foundation, in this case, was him. She was deciding whether Cole Maren could walk into a room with Asterlyne's representative and not do something the colony couldn't survive.
+
+"I won't do anything," he said.
+
+"I know. That's why I'm coming."
+
+---
+
+They took Garrett Polk.
+
+Cole hadn't planned it. Polk was at the perimeter when they left — the early patrol, the route that traced the eastern edge of Holdfast where the channel network surfaced and the bedrock dropped toward the forest. He saw them walking west with purpose and fell into step without asking.
+
+Three people walking through the spiral forest toward a corporate shuttle that had landed on their abandoned settlement. The math of it settled into Cole's framework the way every configuration settled — as a calculation of risk and resource. Cole: the charter's reader, the man who'd found clause 9.4.2 in a waiting room and carried it for five years. Ren: the architect, the democratic principle that had kept the colony from becoming one man's arithmetic. Polk: the dissenter who'd voted with his jaw set and his hands unclenched and the specific conviction of a man who understood contracts because contracts had destroyed him.
+
+The walk took three hours. They didn't talk for the first two.
+
+The forest was different than it had been four years ago, when Cole had walked to the ghost colony site to recover Elena's data core. The second and third orbital cycles had reshaped the understory — new growth in patterns Dana had mapped, the lavender ground cover thicker in some sections and absent in others, the creep's ancient infrastructure visible in exposed channel walls where the soil had shifted. The trees were the same. The hum was the same. The planet's indifference was consistent in a way that Cole had come to find not comforting exactly, but stable. The trees didn't care who walked under them. The trees would be here after the walkers were gone. There was something in that.
+
+Polk broke the silence.
+
+"What are they offering?"
+
+"I don't know."
+
+"You know."
+
+Cole walked. Polk was right. Cole knew the way he knew the membrane percentage at Junction 3 — not from observation but from the accumulated logic of a system whose patterns he'd internalized over five years. Asterlyne had sent a shuttle. Not a supply drop. Not a communication. A shuttle — a vehicle designed to carry people away from the surface. The corporation's silence for fourteen months, followed by a physical presence. The timing: eleven months from the five-year mark. Enough time to renegotiate. Not enough time for the colony to forget it had an exit.
+
+"They're offering a way out," Cole said. "Structured as generosity. Designed as subtraction."
+
+"Subtraction from what?"
+
+"Twenty-four."
+
+Polk was quiet for thirty paces. Cole counted. He always counted.
+
+"If anyone leaves, the count drops."
+
+"If anyone leaves, the count drops below the threshold. The clause can't be invoked. Asterlyne retains the land. Five years of dying buys nothing."
+
+"I know what it buys," Polk said. The sentence carried weight that exceeded its syllable count. Cole heard underneath it the co-op, the debt, the daughter, the custody hearing he'd lost because the legal system priced justice and he couldn't afford the asking rate. Polk knew what contracts bought. Polk knew what they cost.
+
+They walked the last hour in a silence that had changed shape — not the silence of people who had nothing to say but the silence of people who had said enough and were saving what remained for the room ahead.
+
+---
+
+The shuttle sat in the original clearing like a surgical instrument on a patient's skin.
+
+Clean. White. The Asterlyne logo on the hull — the same logo Cole had seen on contract tablets and equipment manifests and the pre-fab shelters that had warped in the UV cycle and collapsed in the wind and been abandoned three years ago. The logo looked obscene against the backdrop of the spiral forest. Too clean. Too designed. The planet had spent five years teaching Cole that surfaces degraded, that materials warped, that the only things that lasted were the things that adapted. The shuttle hadn't adapted. It had arrived.
+
+The clearing was barely a clearing. The forest had advanced into the original settlement the way the creep advanced — slowly, inevitably, without hostility. The pre-fab shelters were shapes under growth. The landing zone Asterlyne's GPS had identified was a square of compressed soil where the shuttle's landing gear had flattened the vegetation back to something approximating a surface. Around the shuttle, the spiral trees stood at the clearing's edge, their trunks grown three years' worth of diameter, their hum steady and unconcerned.
+
+A figure stood at the base of the shuttle's ramp.
+
+Cole saw the suit first. Gray. Clean. Pressed. The kind of fabric that required infrastructure to maintain — dry cleaning, climate control, the invisible machinery of a civilization that treated the surface presentation of its employees as a line item. The suit was a message before the person inside it spoke: we still have these things. We still have all the things you don't.
+
+The face above the suit was professional. Mid-forties. A smile calibrated for reassurance — wide enough to communicate warmth, controlled enough to maintain authority. The kind of smile Cole had seen in the onboarding center on Earth, on the faces of the facilitators who'd walked forty-seven desperate people through a two-hundred-page contract designed to be unread. Corporate warmth. Manufactured empathy. The specific expression of a company whose human resources department had determined that sincerity was a productivity metric.
+
+"Mr. Maren." The representative extended a hand. The hand was clean. The nails were trimmed. Cole looked at the hand and felt the dirt under his own nails and the calluses on his palms and the specific roughness that five years of alien soil produced on skin that had once been soft enough for a corporate waiting room.
+
+He shook the hand. The grip was practiced.
+
+"I'm Graham Lyle. Asterlyne Charter Relations." The representative's eyes moved to Ren, to Polk. The assessment was quick and professional — categorizing, prioritizing, determining which of the three required the most careful handling. Cole watched the assessment happen and recognized it. He'd done the same thing in the signing room on Day Zero. Forty-seven faces. Strengths, weaknesses, who works, who complains. The representative was doing inventory.
+
+"Ms. Tsai. Mr. Polk." Lyle knew their names. Of course he knew their names. Twenty months of Dana's reports. Colony structure, social dynamics, leadership hierarchy, factional tensions. Asterlyne had a file on every colonist alive and dead, organized by threat level and utility, cross-referenced with the contract clauses each colonist was most likely to invoke. Cole felt the knowledge settle into his framework like a stone dropping into water.
+
+"You know our names," Ren said.
+
+"Your colony's progress has been of significant interest to the company." Lyle's smile held. "We've been following your journey with admiration."
+
+Cole heard the word *journey* and cataloged it. Journey. Not survival. Not ordeal. Not the five years of deaths and disease and the creep dissolving a man from the waist down and a woman coughing for twenty-seven months until the coughing stopped because she stopped. Journey. The corporate vocabulary that turned suffering into narrative and narrative into a thing that could be managed.
+
+"We haven't heard from Asterlyne in fourteen months," Cole said.
+
+"Supply chain disruptions. Revised delivery infrastructure. I won't pretend it wasn't a failure on our end." Lyle's transparency was rehearsed, but the rehearsal was good — the practiced candor of a representative who'd been briefed on the colony's isolation and instructed to acknowledge it early, to name it before they could name it, to own the failure as a tactic of control. "I'm here to make it right."
+
+"How," Ren said.
+
+Lyle reached into the shuttle. Produced a tablet. Sleek. New. The screen bright with the specific luminosity of technology that hadn't been exposed to Parcel 16b's UV cycle. He held it the way a man holds a gift — angled, offered, the gesture of generosity performed for witnesses.
+
+"Renegotiation."
+
+---
+
+Cole read the new contract standing in the clearing while Polk leaned against a spiral tree trunk and Ren paced a perimeter around the shuttle that looked casual and was cartographic — she was mapping the shuttle's systems, its fuel capacity, its communications array, the infrastructure of the corporate machine that had landed in their abandoned settlement.
+
+Lyle stood at the base of the ramp with his hands clasped behind his back. Patient. The patience of a man who'd been told the colony's leader would read every word, because the colony's leader had read every word of the original charter in a waiting room on Earth while forty-six other people skimmed and signed.
+
+The new contract was forty-two pages. Shorter than the original. The brevity was intentional — a document designed to feel reasonable, to present itself as the distillation of the original's complexity into something cleaner, simpler, fairer. Cole read it the way he read everything: with the understanding that the architecture of a document revealed the intentions of its architect.
+
+Article 1. Voluntary Termination of Charter Obligations. Any colonist who signed the original charter could, at their discretion, terminate their participation. No penalties. No debt recovery. No breach of contract claims. The language was generous: "Asterlyne Corporation recognizes the extraordinary contributions of Parcel 16b colonists and waives all outstanding obligations incurred under the original charter."
+
+Article 3. Transport. Shuttle capacity for up to twenty-four passengers. Return to Earth. Transit time: three months. Arrival coordinates: the same port they'd left from. Full medical care during transit. Reintegration support upon arrival. The language was warm: "Asterlyne is committed to ensuring a smooth and supported transition for returning colonists."
+
+Article 5. Debt Resolution. All pre-charter debts forgiven. Credit restoration. Employment assistance. Housing placement. The package was comprehensive in the way that insurance settlements were comprehensive — designed to make the recipient feel whole while ensuring the payer's exposure was capped and the recipient's claims were extinguished.
+
+Article 7. Non-Disclosure Agreement. All colonists who accepted the renegotiation agreed to full confidentiality regarding charter operations, settlement conditions, mortality events, and corporate communications. The language was neutral: "To protect the privacy of all parties and the proprietary nature of charter operations."
+
+Article 9. Waiver. The clause Cole had been looking for. He read it twice. Three times.
+
+"By accepting the terms of this Renegotiation Agreement, the undersigned voluntarily and irrevocably waives all rights, claims, and entitlements under the original charter, including but not limited to those arising under Section 9, Subsection 4, Paragraph 2 (Land Transfer Provisions)."
+
+Cole lowered the tablet. The clearing was quiet. The trees hummed. The shuttle sat on the compressed soil with its clean hull and its corporate logo and its capacity for twenty-four passengers, and the document in Cole's hands was a surrender shaped like mercy.
+
+He looked at Lyle.
+
+"Debts forgiven. Transport home. NDA. In exchange for clause 9.4.2."
+
+"In exchange for a fresh start," Lyle said. The correction was smooth. Practiced. The reframing of a legal waiver as a human opportunity, the specific corporate alchemy that turned a contract into a story.
+
+"What happens to the land?"
+
+"Asterlyne's long-term development plans for Parcel 16b are proprietary. What I can tell you is that the company is committed to sustainable stewardship of all charter properties."
+
+Cole translated. The planet gets mined. The channels get excavated. The creep solution Dana gave them gets applied at industrial scale. Holdfast gets bulldozed. The cairn he'd built for Elena gets dissolved by equipment that doesn't notice it.
+
+"You have eleven months," Lyle said. The smile shifted. Not wider. Not narrower. Deeper. The professional warmth acquiring a layer of subtext that the smile's calibration couldn't hide. "A lot can happen in eleven months."
+
+Cole heard it. The threat that was not a threat. The observation that was a promise. Eleven months at twenty-four. No margin. Every cough. Every fall. Every shifted beam. The company didn't need to kill anyone. The planet was a collaborator. Statistics were a weapon. Time was on the side of the entity that could afford to wait.
+
+Ren stopped pacing. She'd heard it too. Cole saw her face — the engineer assessing structural load, finding the weight beyond tolerance. Not because the representative had said something extreme. Because the representative had said something true.
+
+Polk hadn't moved from the tree trunk. His arms were crossed. His face was the one Cole had learned to read in council meetings — the calculation running behind the expression, the numbers turning over in a framework Cole understood because his framework ran the same operations on different data. Polk was hearing "debts forgiven" and the words were doing something to him that the words didn't do to Cole or Ren. The words had a daughter inside them.
+
+Cole watched Polk's jaw tighten. Watched the muscles work under the sunburned skin. Watched the calculation that wasn't logistics or ideology but something older and less solvable — the computation a father runs when someone offers him a path back to the child he left, and the path requires him to abandon the people he's survived with. Garrett Polk's co-op had been a rational decision. His charter signing had been a rational decision. His signal array had been a rational decision. Every rational decision had cost him something he couldn't get back. And now a man in a gray suit was offering to give one of those things back, and the price was another thing Polk couldn't calculate.
+
+Cole looked at the tablet. Forty-two pages. Article 9. The waiver. The clause he'd found in a waiting room on Earth, the arithmetic that had sustained him through forty-seven to twenty-four, the number that was the reason for every system and every schedule and every membrane check and every count and every message to a daughter who was fourteen now and drew horses and thought her father was on a work trip or had stopped thinking about him entirely.
+
+"I have a question," Cole said.
+
+Lyle's smile recalibrated. "Of course."
+
+"How many other charters have invoked 9.4.2?"
+
+The smile held. Cole watched it hold the way he watched membranes hold — tracking the degradation, looking for the percentage where hold became failure. Lyle's smile was professionally maintained. The maintenance showed.
+
+"Questions regarding competing charter structures are best addressed through our formal arbitration process." Lyle's voice was steady. Rehearsed. But the rehearsal had a seam in it — the specific pause between "formal" and "arbitration" that revealed the sentence was not an answer but a redirection. "Which, as you're aware, requires functional communications infrastructure."
+
+Cole was aware. The arbitration clause in the original charter — Section 14, Subsection 2 — required a functioning comm relay for dispute resolution. The comm relay was Asterlyne's. The same relay that routed messages to Lily. The same relay that had carried Dana's reports for twenty months. The same relay that Asterlyne could disable at any time, for any reason, because the infrastructure of justice was owned by the entity the justice was meant to constrain.
+
+The representative had just told him everything by telling him nothing. The process you've already tried. The one we control. The one that doesn't work. No charter had invoked 9.4.2. Or if one had, the arbitration system had resolved the invocation in Asterlyne's favor, because the system was Asterlyne's, the way the shuttle was Asterlyne's, the way the pre-fab shelters had been Asterlyne's, the way the contract was Asterlyne's — every tool in the structure designed by the entity the structure was meant to regulate.
+
+Cole handed the tablet back.
+
+"We'll discuss it."
+
+"Take your time." Lyle accepted the tablet with the smooth coordination of a man closing a presentation. "The shuttle will remain at these coordinates for seventy-two hours. After that, the offer stands through the formal communication channels. You have eleven months."
+
+The repetition was the threat. You have eleven months. The first time was information. The second time was a countdown.
+
+---
+
+They walked back to Holdfast in the green-dark of late afternoon.
+
+The forest closed around them the way it always closed — not hostile, not welcoming, just present. The spiral trees doing what they'd done for longer than humans had been a species. Growing. Humming. Processing the light of a star that wasn't Sol through biology that wasn't Earth's. Cole walked between Ren and Polk and felt the shuttle sitting twelve kilometers behind him like a door left open in a house he'd spent five years building walls around.
+
+Polk spoke first.
+
+"Debts forgiven." Two words. The same two words from Article 5, lifted from the contract and set down in the forest air between them. Cole heard what the words carried when Polk said them — not the legal provision, not the financial instrument. A girl. Fifteen now, maybe sixteen. Old enough to understand why her father had left. Old enough to have decided whether to forgive him for it. Polk's debt wasn't sixty thousand credits. Polk's debt was measured in the years he'd missed and the years he couldn't get back and the possibility — the specific, fragile, contingent possibility — that debt erasure meant creditors stopped calling, which meant stability, which meant a court might reconsider, which meant a door might open that had been closed since before the charter.
+
+"Yes," Cole said.
+
+"That's all you're going to say."
+
+"What do you want me to say?"
+
+Polk walked ten paces before answering. "I want you to say something that makes the math not matter."
+
+Cole didn't say anything. The math mattered. The math always mattered. Twenty-four minus one was twenty-three, and twenty-three was failure, and failure meant five years of dying purchased nothing — no land, no clause, no Holdfast, no freedom for any of them. One person boarding the shuttle subtracted not just themselves but everyone. Every colonist's survival was collateral for every other colonist's future. That was the architecture. That was what clause 9.4.2 had always been — a threshold that bound them together by making each person's departure everyone's loss.
+
+"The math matters," Cole said.
+
+"I know," Polk said. "I know it matters."
+
+They walked. The trees hummed. Ren said nothing. She was listening to both of them with the engineer's attention she brought to load-bearing conversations — tracking the stress lines, assessing where the fracture might occur, calculating whether the structure could hold the weight of what was being said.
+
+They reached Holdfast at dusk. The settlement sat on the high ground in the last light — shelters built by colonists, the channel network carrying Dana's creep solution through the ancient infrastructure, the agricultural terraces stepping down the slope where the third-cycle species grew in the lavender soil. The common area where twenty-four people ate together. The Board where Elena's words were pinned. The Bench where Cole had sat after the naming vote and felt something he still didn't have a word for.
+
+The settlement had a name. The name was Holdfast. The name meant what it meant.
+
+Twenty-four people at Holdfast. A shuttle twelve kilometers west with capacity for all of them. Eleven months to the five-year mark. Zero margin. A contract that offered everything they'd left Earth to escape — debt forgiveness, transport, a fresh start — in exchange for the only thing they'd gained. The land. The clause. The ownership that twenty-three dead people had paid for without knowing they were paying.
+
+Cole looked at Holdfast and felt the shuttle behind him and the eleven months ahead of him and the twenty-four lives inside the margin, and the margin was a razor, and the razor was the next eleven months, and the next eleven months were a choice.
+
+The colony had a choice.
+
+Cole walked into the settlement. The first person he saw was Joss, coming up from the water junction with a filtration housing under his arm. Joss looked at Cole's face and stopped.
+
+"Something happened."
+
+"Colony meeting. Tomorrow. Full assembly."
+
+Joss set down the housing. The careful motion of a man who'd learned that the things he carried mattered. "How bad?"
+
+Cole looked at Joss. Twenty-seven now. The gangly kid who'd bumped into things was gone. In his place, a young man with steady hands and a face that defaulted to the specific attentiveness of someone who'd learned to read situations by reading Cole — watching for the silences that meant danger, the flatness that meant calculation, the almost-imperceptible shift that meant the math had changed.
+
+"It's a choice," Cole said.
+
+He went to his shelter. Sat at the desk. The paper with the count. Twenty-four. The name underneath it. Holdfast.
+
+The shuttle sat twelve kilometers west in a clearing the forest was reclaiming. The ramp was down. The door was open. The company's offer was forty-two pages of generosity that cost nothing Asterlyne couldn't afford and purchased everything the colony couldn't replace.
+
+Cole sat at his desk and didn't open Elena's data core and didn't write to Lily and didn't calculate anything. He sat with the number and the name and the choice and the eleven months and the open door and the twenty-four people who would have to decide, together, whether the thing they'd built was worth more than the things they'd lost to build it.
+
+The trees hummed. The planet didn't care. It never had.
+
+Twenty-four. Holdfast. Eleven months.
+
+Cole sat in the dark and held it all and didn't let go.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-25-the-math}
+
+# Chapter 25 — "The Math"
+
+Cole called the assembly for noon.
+
+Not morning. Morning was when he called emergencies — the creep advance, the fever, the supply drop that never came. Morning assemblies meant the math had changed and the change was bad and the colony needed to know before the day's work began so the day's work could bend around the new shape of things. The colony had learned this the way they'd learned the soil cycles and the temperature swings and the sound the fauna made before dawn. Morning meant crisis. Morning meant Cole had been awake all night with a number that didn't fit.
+
+Noon meant something else. Noon meant he'd slept on it. Noon meant he'd let the thing settle into his framework and the framework hadn't broken. Noon meant the decision was large enough to require thought but not urgent enough to steal the morning, and the distinction mattered because four years on a planet that killed people for walking the wrong path at the wrong hour had taught the colony to read Cole's scheduling the way they read the sky — as information about what was coming.
+
+He spent the morning at the junction. Membrane check. Seal assessment. The adhesive margin on the housing that separated the colony's water from the planet's water, which was the same water processed through a system Ren had designed and Dana had calibrated and Joss maintained with the quiet reliability of a man who understood that the most important work was the work nobody noticed until it failed. Cole's hands moved through the inspection protocol while his mind held the shape of what he was going to say.
+
+He wasn't going to give a speech. He'd never given a speech. The logistics briefing in Month 1 — forty-four of them, three dead, and he'd stood in front of the colony and delivered numbers like a shift report — hadn't been a speech. It had been an inventory. Every assembly since had been the same: data, options, arithmetic. Cole didn't persuade. He presented. The colony decided. That was Ren's architecture, and the architecture worked because Cole's presentations were honest and Ren's process was fair and the combination of honest data and fair process had produced, over four years, something that functioned.
+
+Today was different. Today he was going to show them the other side of the ledger.
+
+---
+
+Twenty-four people in the common area at noon.
+
+Cole saw them the way he always saw them — as a count first, as individuals second, as a group third. The count was habit. The count was the first thing his mind did when he entered a room with colonists in it, the automatic tallying that had started in a corporate waiting room on Earth and hadn't stopped for four years and eight months. Twenty-four. The number confirmed itself the way it confirmed itself every morning on his perimeter walk, every evening at the shared meal, every time he scanned a room and felt the specific weight of a total that matched the threshold.
+
+He saw Ren near the front. Standing, not sitting — the engineer's posture, the body that defaulted to readiness. She knew what this assembly was about. He'd told her last night. Not everything. Enough. She'd listened the way she listened — tracking the stress lines, assessing the load. Then she'd said, "Show them all of it," and he'd said, "That's the plan," and she'd looked at him with the expression that meant she was deciding whether to believe him or whether "all of it" meant "all of it that Cole has decided they should see." He'd let the look stand. She'd let him.
+
+Dana sat in the middle row. Quiet-bodied, soil under her nails, taking up the space she'd earned back over eighteen months of being the person who'd saved the colony and betrayed it. The colony had voted to keep her. The vote hadn't restored trust. Trust had been rebuilt the way trust was rebuilt — through the daily accumulation of showing up, of the creep solution working, of the agricultural phases calibrated correctly, of the botanist who'd transmitted everything to Asterlyne now transmitting nothing to anyone except the colony that had decided she was worth more alive than punished.
+
+Joss stood at the wall near the entrance. Arms crossed. The posture he'd started using after the naming vote — not defensive, observational. Watching the room the way Cole had watched rooms for five years, reading faces for the information faces carried when people didn't know they were being read. Joss had learned it from Cole without either of them naming the transmission. Teacher and student, except the teacher hadn't intended to teach and the student hadn't asked to learn and the learning had happened anyway, the way the colony's culture had happened — in the gaps between the systems.
+
+Haruki sat near Dana. His hands folded in his lap. Steady. The doctor who'd saved Joss during the fever and Patricia during the cough's early months and dozens of others with botanical compounds and field surgery and the calm, diagnostic attention that made people believe their bodies would hold because the man examining them believed it first. Haruki was fifty-six. His face showed it more than his hands did. The face carried four years of alien sun and insufficient sleep and the specific exhaustion of a man who'd treated every wound and buried every body and maintained the same measured calm through all of it because the calm was the treatment and the treatment was the man.
+
+Garrett Polk sat at the back. Always at the back now. The rhetorical force that had built a signal array and nearly dissolved the charter had quieted over the last two years into something Cole didn't have a word for. Not compliance. Not agreement. A repositioning. Polk at the back of the room was Polk watching, calculating, running numbers against a framework that had changed since Month 4 but hadn't disappeared. Polk still distrusted systems. He just distrusted them from inside the system now, which was different from distrusting them while trying to build an alternative.
+
+Cole walked to the front of the common area. He carried the charter. The original. Two hundred pages, printed on the transit ship from the contract tablet, bound with cord Ren had made from processed fiber in Year Two. The document he'd read in a fluorescent waiting room while forty-six other people skimmed and signed. The document that had governed every day of their lives since.
+
+He also carried seven pages of notes. His handwriting. The calculations he'd been running for three years — not the survival math, not the count, not the attrition model. The other math. The corporate math. The numbers Asterlyne hadn't put in the charter because the charter was designed for colonists and colonists weren't supposed to think about the numbers behind the numbers.
+
+He set both on the table. The charter and the notes. The contract they'd signed and the arithmetic they'd never seen.
+
+"This isn't an emergency," he said. "This is information."
+
+---
+
+He started with the company.
+
+Not with the shuttle, not with the offer, not with clause 9.4.2. Those came later. He started with the thing none of them had ever been shown because the thing none of them had been shown was the reason for everything else.
+
+"Asterlyne Corp filed a resource extraction patent for Parcel 16b's geological substrate fourteen months before our charter was issued." He read from his notes. His voice was flat — the same register he used for junction reports and membrane percentages. Data. "Patent number AX-7714-b. Filed under proprietary mineral rights, sub-category: extra-solar geological assets. The patent covers the mineral composition of the channel network's crystallized substrate. The same compound Dana identified as the base element of the creep's inert phase."
+
+He paused. Let it land. Twenty-four faces processing. Some confused. Some already running the implications.
+
+"The viability assessment for Parcel 16b was conducted twenty-three months before we signed. The assessment team spent eleven days on-surface. They took core samples from the channel network. They cataloged the mineral composition. They filed the patent. Then they left."
+
+"Where did you get this?" Ren's voice from the front. Not accusatory. Professional. The engineer asking for the source data.
+
+"Elena's data core. Appendix files I hadn't opened. Geological survey metadata. Asterlyne's assessment team used the same data formats Elena's colony used — corporate standard. The patent filing was embedded in the survey metadata as a cross-reference. It wasn't meant to be found by colonists. It was meant to be found by corporate auditors."
+
+Cole looked at the room. He'd been holding this for months. Since before the shuttle. Since the long period of silence, when he'd gone back to Elena's data core — not the logs, the appendices, the technical files, the metadata he'd dismissed as irrelevant in Year One because survival had been more pressing than corporate archaeology. The silence had given him time. The time had given him this.
+
+"The mineral substrate in the channels has an estimated extraction value of four hundred billion credits. Asterlyne's total investment in our charter — transport, equipment, supplies, the contract itself — was approximately ninety million. The ratio is four thousand to one."
+
+Silence. The specific silence of people absorbing a number that reframed everything they'd experienced.
+
+"Our charter is the cheapest way to establish a claim. Cheaper than a corporate mining operation, which requires regulatory filings, environmental assessments, labor contracts, insurance. A colonial charter transfers all of those costs to the colonists. We signed a contract that made us responsible for our own survival on land the company had already decided to mine. If we die, the charter terminates and Asterlyne files a new one. If we survive, clause 9.4.2 triggers and the land transfers — but Asterlyne built the contract assuming no charter would reach the threshold. The medical kit stocked for twenty. The viability score inflated by twelve points. The supply drops designed to sustain dependency, not independence. Every insufficiency was a calculated variable in a model designed to produce failure."
+
+He stopped. Picked up the charter. Opened it to the page he'd marked in Year One, the page with the clause he'd found while forty-six other people signed without reading.
+
+"Section 9, Subsection 4, Paragraph 2. Fifty-one percent of original signatories alive at the five-year mark. Land transfer in perpetuity. Irrevocable."
+
+He set the charter on the table. Open. Visible.
+
+"Twenty-four of forty-seven. Fifty-one point one percent. We're at the threshold. We've been at the threshold for eight months. In eleven months, if twenty-four of us are alive, this land is ours. Not Asterlyne's. Not a charter designation. Ours."
+
+He stepped back from the table. Looked at the room.
+
+"That's the math. The shuttle at the old coordinates is the company's response to it. Debts forgiven, transport home, NDA — in exchange for waiving clause 9.4.2. If any of us boards, we drop below threshold. The clause dies. Five years of dying buys nothing."
+
+He stopped talking.
+
+---
+
+The colony was quiet for eleven seconds. Cole counted.
+
+Then Ren said, "Everyone talks. Cole listens," and the room opened.
+
+It didn't open the way meetings opened — orderly, agenda-driven, the democratic architecture Ren had built channeling discussion through protocol. This opened the way a wound opened. Fast. Messy. The controlled structure of four years of governance buckling under the weight of what Cole had just shown them.
+
+A colonist named Beck — the one who'd been volunteering for night perimeter patrols, the one who'd stopped calculating risk because calculating risk was exhausting — stood up first.
+
+"Ninety million. That's what we cost them."
+
+"That's what the charter cost them," Cole said.
+
+"What's the difference?"
+
+"The charter is a line item. You're overhead."
+
+Beck sat down. His face was doing something between anger and recognition — the specific expression of a man who'd always known, in the way you always knew, that the system didn't value him, but who was now seeing the exact number that the not-valuing was worth. Ninety million divided by forty-seven. Less than two million per person. The price of a life on a balance sheet was lower than the price of the mineral substrate under the life's feet.
+
+Kira spoke next. The water system designer, the woman who'd voted against the relocation in Month 10 and walked the path to the southern array every day with her hand on the wall, feeling for erosion. Her voice was steady in the way that Kira's voice was always steady — the register of a woman who'd learned that steadiness was the only reliable tool in a world where the ground moved.
+
+"You've known this. How long?"
+
+"The patent data. Eight months. The financial model — the extraction value, the charter cost ratio — I've been assembling it since Asterlyne went silent."
+
+"Eight months."
+
+"Yes."
+
+Kira looked at him. The look carried the colony's long memory of Cole keeping things — Elena's logs in Year One, Dana's betrayal for thirty-one days, the shuttle's arrival shared only with Ren and Polk. Cole held information the way the channels held water: structurally, by design, releasing it when the system required release and not before.
+
+"You wait," Kira said. "You always wait."
+
+"I wait until the information is useful."
+
+"Useful to whom?"
+
+"Everyone in this room."
+
+Kira held the look for three seconds, then sat. Not satisfied. Not unsatisfied. Just the acceptance of a person who'd lived inside Cole's information architecture for four years and had decided, long ago, that the architecture was flawed and functional and the functionality mattered more than the flaw.
+
+The room broke into the conversations that large groups produce when a single conversation is too heavy for a single thread to carry. Clusters. Side discussions. Two colonists talking near the entrance with their voices low and their faces carrying the strain of people calculating whether home was the planet they stood on or the planet they'd left. Three colonists near Dana, asking questions about the mineral substrate — was it real, was it valuable, could Asterlyne really mine it without the colony's knowledge? Dana answering with the flat precision that was her recalibrated default: yes, yes, not without the colony's knowledge but without the colony's permission.
+
+Cole stood at the table and let it happen. Ren watched the room from her position near the front, tracking the fracture lines, reading the social architecture the way she read structural loads — looking for the points where the weight exceeded tolerance.
+
+The two came forward after twenty minutes.
+
+A colonist named Seo and another named Parish. Cole knew them by count and by role — Seo had been part of Dana's agricultural team since the relocation, quiet, competent, the kind of colonist who disappeared into the work and emerged only when the work required a voice. Parish ran the secondary water filtration system Ren had installed in Year Three. Both had been in the colony long enough to have buried friends and built shelters and eaten food they'd grown from alien soil.
+
+"We want the deal." Seo's voice was small. Not weak. Small. The voice of a person who was saying something that felt too large for the room.
+
+The clusters went quiet. Not the dramatic silence of a confrontation. The attentive silence of twenty-two people hearing something they'd each thought about in the hours since the shuttle landed and Cole came back from the old settlement with the charter in his hands and eleven months on his face.
+
+"Tell us why," Ren said. Not challenging. Open. The democratic architect doing what the architecture required: giving the voice a floor.
+
+Seo didn't look at Cole. She looked at Ren.
+
+"I'm tired. I'm tired in a way that sleep doesn't fix and the creep solution doesn't fix and the food we grow doesn't fix. I came here because Earth was broken and I thought somewhere else might not be. And it's not broken. It's beautiful. The trees and the soil and the way Dana's crops look in the third phase. But I'm tired. And the shuttle is sitting there offering to take me somewhere I can sleep without listening for the temperature to drop."
+
+Parish said less. "My mother is alive. She was sixty-two when I signed. She's sixty-seven. I've done the math on her math and I don't like the number."
+
+Cole heard it. Both of them. The exhaustion that wasn't physical and the love that was. He heard it the way he heard membrane percentages — as data, as input, as the specific information that a system produced when the system was telling you something about itself. The system was telling him that two people had reached the boundary of what survival meant to them, and the boundary was personal, and the personal was beyond his arithmetic.
+
+Ren opened the floor for response.
+
+---
+
+Dana spoke first.
+
+She stood from her seat in the middle row and the standing itself was a statement — the woman who'd stood in this room eighteen months ago while twenty-five people decided whether to exile her, standing again, this time choosing to speak rather than absorbing the colony's judgment.
+
+"I transmitted our survival data to Asterlyne for twenty months. Everything I sent made the colony more expendable. The creep solution. The soil cycles. The agricultural phases. I gave them every piece of knowledge we bled for. When I stopped transmitting, the company went silent — not because they lost interest but because they had enough. Enough data to file extraction plans. Enough knowledge to send the next expedition with a manual instead of a learning curve. The shuttle isn't here because Asterlyne cares whether we're tired. The shuttle is here because twenty-four of us are alive and that number threatens a four-hundred-billion-credit asset."
+
+She sat down. The room processed. Dana's confession had been eighteen months ago. The colony had voted, fought, fractured, and rebuilt around it. But hearing the betrayal reframed as corporate asset protection — hearing Dana name herself as the instrument of the thing Cole had just shown them — carried a weight the original confession hadn't.
+
+Joss pushed off the wall.
+
+"I was twenty-two when I got here." He didn't project his voice. He spoke at the volume of someone talking to the people closest to him, and the room leaned in because Joss's volume was always the right volume — the instinct of a person who'd grown up scared and grown past scared into something steadier. "I'm twenty-seven. Everything I know about water filtration and perimeter maintenance and how to read the soil and when the fauna moves and which path to take after dark and which path to avoid — I learned here. I learned it from Cole and Ren and Dana and Haruki and all of you. I don't have a place on Earth. I don't mean I don't have a home. I mean I don't have the skills that matter there. I know how to live here. That's what I know."
+
+He didn't argue against leaving. He stated what staying meant. The difference was Joss — the way Joss handled things had always been to present the reality he understood and trust the reality to carry its own argument.
+
+Ren spoke. Short. The democratic architect breaking her own convention of moderating rather than participating, because the architecture permitted it and the moment required it.
+
+"This is the vote we've been building toward since Day One. Not the relocation. Not Dana. This one. Whether the thing we built is ours or whether we give it back to the company that sent us here to die profitably. That's the question. Everything else — the exhaustion, the fear, the families on Earth — is real. All of it is real. And the question is still the question."
+
+The room shifted. The conversations changed tone. Not resolved. Shifted. The weight of Ren's framing settling onto the discussion like the substrate settled onto the bedrock — not eliminating the other layers, just establishing which layer was load-bearing.
+
+Cole watched Polk.
+
+He'd been watching Polk since the assembly began, the way he'd been watching Polk since the transit ship. Polk at the back of the room. Arms crossed. Face holding the expression Cole knew as the calculation face — the muscles working under the sunburned skin, the jaw set, the eyes tracking the speakers without following them. Polk was doing math. Not Cole's math. Not the corporate ledger, the extraction value, the charter cost ratio. Polk was running the computation he'd been running since Graham Lyle said "debts forgiven" in a clearing twelve kilometers west.
+
+Daughter on Earth. Settlement on Parcel 16b. Debt erased vs. land owned. The possibility of a door reopening — custody, contact, the chance to be something other than the man who'd left — vs. the certainty of a place he'd built with people who'd watched him nearly destroy them and had voted to keep him anyway. Polk's math didn't have clean variables. Polk's math had a fifteen-year-old girl whose face he hadn't seen in five years inside one column and a colony named Holdfast inside the other, and the columns didn't convert.
+
+The conversation continued for hours. It circled. It stalled. It moved forward in increments that felt like setbacks and in setbacks that were actually consolidation. Colonists spoke and repeated themselves and said things they'd already said in different words because the saying was the process and the process required repetition the way grief required it — not to reach a conclusion but to exhaust every other path until the conclusion was the only path remaining.
+
+Seo and Parish listened. They didn't argue back. They sat with their reasons — tiredness, a mother on Earth — and let the colony's response wash over them without defending against it. Cole watched and recognized the posture. It was the posture of people who'd already decided. The question wasn't whether they would stay. The question was whether the colony could hold their staying without resenting the asking.
+
+Polk didn't speak. The hours moved past him. Arguments Cole could have made — the corporate strategy, the financial exposure, the legal implications of dropping below threshold — went unmade because Cole was watching Polk and understanding, for the first time, that the math he'd been running for five years had a variable he'd never included. The variable was the cost of choosing a place over a person. Cole had made that choice on Day Zero. Left Lily to come here. Left the daughter for the clause, the father for the arithmetic, the person for the plan. He'd spent five years justifying it as strategy, as the only play, as the mathematics of a desperate man in a waiting room with nothing left to lose.
+
+Watching Polk sit in the back of a room deciding the same thing, Cole felt the justification shift. Not collapse. Shift. The way soil chemistry shifted on Parcel 16b — not suddenly, not dramatically, just the slow recalibration of a system adjusting to new data about itself.
+
+Polk's jaw set. The muscles locked. The sunburned skin tightened over the bone.
+
+He didn't speak. The setting was the speaking. Cole read it the way he read membrane percentages — the specific tension that meant the material had reached its final configuration and the configuration was going to hold. Polk was choosing against himself. Choosing Holdfast over the daughter he'd left on Earth, the debt forgiveness that could have reopened the custody door, the chance to see a girl who was fifteen now and might want to see him or might not and the not-knowing was the thing that made the choice impossible and the choice was being made anyway.
+
+Nobody in the room saw it except Cole. The decision happened in Polk's jaw and Polk's silence and the specific angle of Polk's crossed arms, and the room kept talking around it, and the talking was necessary and the decision was already made.
+
+---
+
+The conversation died at the four-hour mark the way long conversations die — not with a conclusion but with the exhaustion of alternatives. The room had said everything. Seo and Parish had said they were tired and the tiredness was real. Dana had said the shuttle was corporate strategy and the strategy was real. Joss had said he knew how to live here and the knowledge was real. Ren had said the question was ownership and the question was real. Everything was real. The realities didn't resolve. They accumulated.
+
+Then someone said the thing nobody had said.
+
+It was a colonist named Lana. Younger cohort. She'd been quiet through the entire assembly — the quiet of someone who'd been thinking at a different altitude than the conversation, processing a concern that wasn't about the shuttle or the clause or the corporate balance sheet. She spoke from the third row with a voice that was steady in the way that voices are steady when the person speaking has rehearsed the sentence in their head for hours and the rehearsal has burned away everything except the essential words.
+
+"What about the children?"
+
+The room shifted. The specific shift of a group encountering a thought they'd been circling without touching — the way Cole had circled Elena's final log entries for months before reading them, knowing the content by its shape before he saw the words.
+
+"Two of us are expecting." Lana looked at Cole. "Mika's due in four months. I'm due in six. Our children will be born on this planet. On this land. In Holdfast."
+
+She paused. Cole felt the pause the way he felt temperature drops — in his body, before his mind processed the data.
+
+"They're not signatories. They didn't sign the charter. They weren't in the waiting room. They're not part of the forty-seven. If we invoke clause 9.4.2 — if twenty-four of us are alive on the five-year mark and the land transfers — what happens to the children born here? Do they inherit? Does the land belong to them? Or does Asterlyne's charter language only cover the people who signed, and the next generation is born on land that belongs to their parents but not to them?"
+
+The room stopped.
+
+Not the gradual quieting of a conversation winding down. A full stop. The sound of twenty-four people hitting a wall they hadn't seen because they'd been looking at the wall behind it.
+
+Cole reached for the charter. He'd read it seventeen times. He'd memorized the clauses that mattered — 9.4.2, the supply provisions, the arbitration mechanism, the termination triggers, the liability waivers. He'd studied the document the way he studied membrane seals, looking for the degradation points, the percentages where hold became failure.
+
+He turned to Section 9. Read the transfer language. Read it again.
+
+"Land transfer in perpetuity to surviving original signatories and their legal assigns."
+
+Legal assigns. The words sat on the page. Cole read them a third time. Legal assigns on Earth meant something specific — heirs, designated successors, entities with legally recognized standing. On a planet with no legal infrastructure, no courts, no registry, no mechanism for establishing the legal identity of a person born outside any existing jurisdiction — legal assigns meant nothing. Or everything. The language was a door that opened onto a room that didn't exist yet.
+
+"Does it say anything about children?" Lana asked.
+
+"It says legal assigns."
+
+"What does that mean here?"
+
+Cole looked up from the charter. He didn't have an answer. The framework he'd built over five years — the arithmetic, the logistics, the survival calculation that had sustained him from Day Zero to this room — didn't include this variable. The variable was a child who hadn't been born yet, on a planet with no law, in a settlement with no jurisdiction, under a charter written by a corporation that had designed the language to be parsed by corporate lawyers in corporate boardrooms on Earth.
+
+He looked at Haruki. The doctor was reading the same passage, his steady hands holding the page, his face carrying the expression Cole had seen during every medical crisis — the calm assessment of a problem that might be solvable and might not, the diagnostic attention applied to uncertainty.
+
+"I don't know," Haruki said. The words came out the way Haruki's words always came out — gentle, precise, the admission of ignorance delivered as clinical fact rather than failure. "The language was written for Earth's legal framework. We're not in that framework."
+
+Cole looked at Ren.
+
+Ren was standing very still. The engineer who thought in systems, who'd designed the colony's governance architecture, who'd fought for democratic process because the process was the principle — standing still with an expression Cole hadn't seen on her face before. Not the structural assessment. Not the load-bearing calculation. Something underneath those things. The expression of a person who'd just realized the system she'd built was sitting on a foundation she hadn't examined.
+
+"We'll figure it out when we have to," Ren said.
+
+The words were calm. The words were Ren at her most controlled — the voice she used when a structure showed a crack she couldn't repair immediately, the engineer's discipline of naming the problem and deferring the solution without pretending the problem didn't exist.
+
+Underneath the calm, Cole heard the fear. Not for herself. For the system. For the architecture she'd spent three years building — the democratic process, the council, the governance that had given the colony a structure beyond survival. The architecture assumed the colonists were the colony. If children were born on Holdfast and the charter's language didn't cover them, then the architecture had a gap at its foundation, and the gap was the kind that widened under load.
+
+Nobody proposed asking Asterlyne. The thought existed in the room — Cole could feel it, the way he could feel temperature shifts before Dana's instruments confirmed them. Twenty-four people in a room, and not one of them trusted the corporation enough to ask the question that mattered most. They'd learned what Asterlyne's answers sounded like. Corporate poetry. Language designed to preserve optionality, to defer commitment, to say nothing while sounding like everything. "Asterlyne's determination regarding post-natal signatory status will align with the charter's intentions." Translation: we'll decide when deciding benefits us, and the decision will be whatever protects the four-hundred-billion-credit asset.
+
+The question sat in the room. Open. Unanswered. The charter's language was silent — either by design, because Asterlyne's lawyers had anticipated this possibility and chosen not to address it, or by oversight, because Asterlyne's lawyers had never imagined a charter colony surviving long enough for children to be born. Cole couldn't tell which. Both explanations led to the same place: a gap in the text that would be filled by whoever had the power to fill it, and the colonists didn't have that power, and the corporation did, and the corporation's silence was its answer.
+
+"We vote," Ren said.
+
+---
+
+The vote was simple. Stay or board.
+
+Ren called it with the procedural efficiency she'd refined over three years of democratic governance — the clear question, the open floor for final statements, the show of hands that made every decision visible. No secret ballots. No anonymity. The architecture of transparency applied to the largest question the colony had faced.
+
+Seo and Parish voted to stay.
+
+Cole saw it in their faces before their hands went up. The conversation hadn't changed their exhaustion. Parish's mother was still sixty-seven on Earth, still aging, still existing in a time frame that the three-month relay delay made abstract but couldn't make irrelevant. Seo's tiredness was still bone-deep, the kind of fatigue that four years on an alien planet deposited in the body's infrastructure the way the creep deposited crystallized substrate in the channels — slowly, persistently, becoming part of the structure.
+
+They voted to stay anyway. Not because the arguments had overcome their reasons. Because their reasons existed inside a context that was larger than the reasons. They lived at Holdfast. They'd named it. They'd buried people in its soil and grown food from its dirt and learned the sounds it made at night and in the morning and in the specific hour before dawn when the trees' hum shifted frequency and the sky was the green-dark that had stopped being alien because alien implied a comparison and there was nothing left to compare it to. Their exhaustion was real. The place was real. Both were real and the place was larger.
+
+Twenty-four hands. All of them.
+
+Ren counted. She didn't need to. The count was visible. But she counted because the count was the protocol and the protocol was the architecture and the architecture was what made the decision legitimate rather than accidental. Twenty-four hands. Twenty-four votes. Unanimous.
+
+"The colony votes to remain," Ren said. "The vote is recorded. The shuttle's offer is declined."
+
+Nobody cheered.
+
+Cole had been on a planet long enough to know what cheering sounded like when it was earned and when it was performance, and this room didn't produce either because the decision wasn't a victory. It was a commitment. The distinction mattered the way membrane percentages mattered — invisibly, structurally, in the space between what something looked like and what it was.
+
+Twenty-four people who'd chosen to stay on a planet that had killed twenty-three of the people they'd arrived with, in a settlement they'd named, on land that a corporation valued at four hundred billion credits and had priced their lives at ninety million, with children coming who might or might not belong to the place they were born in. The choice was made. The question remained.
+
+Polk stood up. Walked to the entrance. Stopped.
+
+Cole watched him. The back of Polk's head. The broad shoulders that had carried anger and conviction and the signal array and the relocation and the Dana vote and every decision Polk had made since signing a charter in a waiting room where he'd thought he was escaping. Polk stood at the entrance of the common area at Holdfast with his back to the room and his face pointed toward the tree line, toward the twelve kilometers of spiral forest between the settlement and the shuttle, toward the direction his daughter existed in if you kept going long enough — through the forest, through the atmosphere, through three months of transit, through the space between this planet and the one where a girl who was fifteen now lived with a mother who'd been granted custody by a court that Polk couldn't afford to challenge.
+
+He stood there for ten seconds. Cole counted.
+
+Then Polk walked into the settlement. Not toward the shuttle. Into the settlement. Toward his shelter, his tools, his perimeter patrol route, the life he'd built from the wreckage of every rational decision he'd ever made.
+
+Cole let the count go.
+
+---
+
+The shuttle sat at the old coordinates for three days.
+
+Cole didn't go back. Neither did anyone else. The ship existed in the colony's awareness the way the creep had existed before the solution — as a presence, a fact, a thing in the landscape that carried threat and possibility in equal measure. Twelve kilometers west. Ramp down. Door open. Capacity for twenty-four. The corporate offer sitting in its forty-two pages of generosity, waiting for someone to accept the terms and the silence and the NDA and the ride home.
+
+Nobody walked those twelve kilometers.
+
+On the first day, Cole did the membrane check and the perimeter walk and the evening count and sat at his desk and didn't write to Lily. On the second day, he worked the agricultural terrace with Dana, checking the third-phase species, the ones that grew in the lavender soil during the orbital cycle they'd learned to predict. The plants looked right. Dana's calibrations held. The food would come. On the third day, he woke before dawn and walked to the eastern edge of Holdfast where the channel network surfaced and the bedrock dropped toward the forest, and he sat on the rock where Ren had told him he was taking risks, and he listened to the hum of the trees, and he waited.
+
+The sound came at midmorning. The sustained tear of atmosphere. Ascending this time. Moving from west to east, climbing, the shuttle's engines pushing against the planet's gravity with the specific harmonic of a machine leaving a surface it had sat on for three days without collecting what it came for.
+
+Cole watched the sky. Didn't see the shuttle — the canopy was too thick, the distance too great, the vessel too small against the green-shifted atmosphere. He heard it. The sound of Asterlyne's offer retracting into the upper atmosphere, through the cloud layer, into the orbital trajectory that would carry it back to the relay station and the transit route and the corporate infrastructure that existed on the other side of the sky.
+
+The sound faded. The trees hummed. The planet continued.
+
+He walked back to the settlement. The first person he saw was Joss, coming up from the water junction with the housing under his arm, the same walk, the same path, the same reliable arrival that had become the rhythm of Cole's days without Cole designing it that way. Joss looked at Cole's face and read it.
+
+"It left."
+
+"It left."
+
+Joss nodded. Set down the housing. The careful motion. The steady hands. The face of a twenty-seven-year-old who'd just watched the last exit close and was standing on the other side of it with a water filtration housing under his arm and no expression that suggested he wished he were anywhere else.
+
+"Good," Joss said.
+
+He picked up the housing and walked to the junction.
+
+Cole stood in the settlement. Holdfast. Twenty-four people on a planet that didn't care about them, in a place they'd built, on land they'd chosen, with eleven months between them and the clause and the threshold and the ownership that twenty-three dead people had paid for. Lana's question still unanswered. The charter's language still silent. The children still coming.
+
+The shuttle was gone. The door was closed. The colony was on the only side of it that mattered now.
+
+Cole went to his shelter. Sat at the desk. The paper with the count. Twenty-four. The name. Holdfast. He picked up the pencil. Didn't write anything new. The number hadn't changed. The name hadn't changed. Eleven months was a long time and no time and exactly the amount of time they had.
+
+He put the pencil down. The trees hummed. Somewhere in the settlement, Mika was four months from bringing a child into a place that the charter called Parcel 16b and the colony called Holdfast and the child would call home, and the word home would mean whatever they made it mean, whatever the fine print allowed, whatever they fought for when the fine print tried to take it away.
+
+Twenty-four. Holdfast. Eleven months.
+
+The shuttle was gone. The question remained. Cole sat with both.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-26-eleven-months}
+
+# Chapter 26 — "Eleven Months"
+
+The waiting was the work now.
+
+Ren understood this the way she understood load distribution — not as a metaphor but as a physical fact. The colony's systems were maintained. The water ran clean through the junctions she'd rebuilt. The agricultural terraces produced on Dana's phase-three schedule. The shelters held. The creep solution circulated through the ancient channels with the reliability of infrastructure that had been designed by something patient and maintained by something desperate. Everything worked. The colony was a machine operating within tolerances, and Ren's job was to keep it there, and the keeping was the hardest thing she'd ever done because the threat wasn't mechanical. The threat was time.
+
+Eleven months. The shuttle had left. The colony had voted. Twenty-four people had watched it go and turned back to a settlement named Holdfast and started the count that would end on Day 1,826 or wouldn't end at all. Ren had tracked the shuttle's ascent from the eastern perimeter, listening to the atmospheric tear fade into the hum of the spiral trees, and felt the specific weight of a closed door — not relief, not regret, the structural awareness that the load had shifted and the new configuration was permanent.
+
+Month 2 of Year Five. The colony held.
+
+Month 3. The colony held.
+
+She stopped waiting for the crisis and started waiting for the waiting to become the crisis instead. Twenty-four people living at the margin, every interaction carrying the hidden charge of fragility. A dropped tool was a held breath. A cough was a prayer. The colony had survived the planet's second cycle and its own social fractures and the creep and the fever and Dana's betrayal and Asterlyne's silence and the shuttle's offer, and now it had to survive eleven months of nothing happening, which was harder than any of it because the human body was built for response, not for suspension.
+
+Ren watched for the structural signs. She knew them. She'd watched the colony fracture three times — the faction split in Month 4, the relocation in Month 10, the Dana vote in Year Three — and each fracture had followed the same engineering pattern: stress accumulated invisibly until a visible event exposed the load that had been building underneath. The event wasn't the problem. The accumulation was.
+
+She couldn't see the accumulation now. That scared her more than seeing it.
+
+---
+
+Month 4. Mika delivered.
+
+Not the Mika Ren had left on Earth. A different Mika, a coincidence of naming that had landed on Ren like a stone the first time she'd heard it in Month 8 and had never stopped being heavy. This Mika was thirty-one, dark-haired, quiet in the way that observant people were quiet — watching, cataloging, building an internal model of the world that was more complete than anything she shared. She'd been on Dana's agricultural team since the relocation. She'd been pregnant since Month 58 of the charter.
+
+The labor was twelve hours. Haruki managed it in the medical shelter with the specific competence of a man who'd delivered children on Earth and was delivering one on a planet where the air smelled different and the gravity pulled differently and the microbial environment was an unknown that his protocols couldn't fully account for. Dana stood by with compounds — antibacterial, anti-inflammatory, the botanical pharmacy she'd built from the planet's chemistry over four years. Cole stood outside the shelter door for all twelve hours. Ren found him there at hour six and again at hour eleven and both times he was in the same position — back against the shelter wall, hands at his sides, face doing the thing she'd learned to read as calculation running underneath a surface that showed nothing.
+
+He wasn't calculating Mika's survival against the count. He was calculating something else. Ren could tell because the posture was different from the counting posture — the shoulders lower, the head tilted, the stillness that came from a man holding something that wasn't a number. She didn't ask. She stood next to him for four minutes at hour eleven and then went back to Junction 2 because the junction needed checking and the checking was her way of standing next to something she could fix while something she couldn't fix happened inside a shelter behind her.
+
+The child was born at dawn. A girl. Healthy by every measure Haruki could apply, which were the measures of Earth medicine operating inside an alien biosphere, which meant the measures were incomplete and the incompleteness was the specific kind of uncertainty that had defined every medical assessment for five years. Healthy. Probably. The confidence interval hiding inside the word, the way it always hid.
+
+Ren went to see the child in the evening. The medical shelter was warm — Haruki kept it at a temperature that approximated Earth standard, burning fuel the colony rationed carefully because the fuel was finite and the cold was not. Mika held the girl against her chest. The child was small and red and her face was compressed into the specific expression of a newborn who had arrived into conditions that were, by every conceivable standard, inadequate. The child didn't know this. The child knew warmth and contact and the sound of a heartbeat and the hum of the spiral trees filtering through the shelter walls, and the hum was the first sound she'd hear that wasn't human, and she'd grow up thinking it was normal, and the normalcy would be the most alien thing about her.
+
+Cole came in while Ren was there. He looked at the child the way he looked at the count — with the attention of a man whose primary function was knowing exactly how many people existed inside a number. But the attention shifted. Ren saw it. The machinery behind his face reconfigured from assessment to something else, something that operated in the register she'd identified in Month 27 as the frequency she couldn't detect — the one that existed because Cole was a man and not a machine, despite the architecture he'd built to make the distinction ambiguous.
+
+"She's not a signatory," Cole said. Quietly. To no one.
+
+"She's a resident," Ren said.
+
+Cole looked at her. The look lasted three seconds. Then he left the medical shelter and Ren heard his footsteps on the path toward his own shelter, and the footsteps were the footsteps of a man carrying a new weight that didn't fit the framework he'd built to carry the old ones.
+
+Lana was due in two months. The question from the assembly — what happens to the children born here — sat in the colony's shared awareness like the creep had sat at the forest edge. Present. Advancing. Patient.
+
+---
+
+The seismic event came on Day 9 of Month 6.
+
+Ren felt it before she heard it. A vibration in the substrate under her feet — not the hum of the trees, which was omnipresent and low and felt in the sternum, but something deeper. Geological. The bedrock shifting, or the channel network redistributing stress along fault lines the colony's survey data had never mapped because the survey data was eleven days of corporate sampling conducted seven years ago by a team that had been looking for mineral value, not tectonic risk.
+
+The first tremor lasted four seconds. Ren counted. The shelters she'd designed flexed — the low, wide profiles absorbing lateral movement the way she'd intended, the joints giving without separating, the engineering holding. She'd built for wind. She hadn't built for seismic. Nobody had told her to build for seismic because nothing in the viability report or Elena's logs or Dana's geological sampling had indicated the planet produced seismic events. The report hadn't mentioned fauna either. The report hadn't mentioned the creep. The report was eleven days of observation used to justify a charter that sent forty-seven people to a planet the company had already decided to mine.
+
+The second tremor came eight minutes later. Stronger. Ren was at Junction 3 by then, running the emergency protocol she'd written after the contamination event — checking seals, checking membranes, checking the infrastructure that separated clean water from the planet's water, which was the same water that had killed Kenji and Priti when a seal failed and the difference between alive and dead was a gap of millimeters. The junction held. She moved to Junction 4. Held. Junction 1. The seal was stressed — the adhesive showing the particular deformation pattern that meant the bond was at seventy percent and dropping. She reinforced it with the secondary compound Dana had formulated after the contamination. The fix would last. Probably.
+
+The third tremor hit at minute twenty-two, and it was different.
+
+The first two had been lateral — the substrate shifting horizontally, the kind of movement that Ren's shelters could absorb because flexible structures handled lateral load. The third was vertical. A lift-and-drop that moved through the settlement's foundation with the specific violence of a system releasing stored energy along a plane the colony was sitting on top of.
+
+Ren heard the structural failure before she saw it. A sound she knew — the particular cracking that meant a load-bearing member had exceeded its tolerance. Not a shelter she'd designed. The older structure. The core storage shelter that Cole had reinforced in Year Two from salvaged pre-fab components and native timber, the one that held the colony's critical reserves: backup water filtration membranes, Dana's pharmaceutical compounds, the medical supplies Haruki couldn't replace, the data cores that contained Elena's logs and the colony's records and the five years of accumulated knowledge that existed nowhere else.
+
+The shelter's western wall buckled. The roof beam — native timber, selected for density and grain, the best material available but not engineered material, not tested against seismic load because the test hadn't existed until twenty-two minutes ago — cracked along the grain and dropped the roof eighteen centimeters on the western side. The shelter didn't collapse. It shifted. Settled into a configuration that was stable enough to stand and unstable enough that any additional load — another tremor, a strong wind, a person moving through the interior — could bring the compromised beam down and take the roof and the walls with it.
+
+Ren assessed it in nine seconds. Structural failure, western beam. Roof compromised but held by the eastern beam and the two lateral supports. Interior accessible but dangerous. Contents recoverable but not safely, not without shoring the western side, which required materials and time and the specific absence of another tremor.
+
+She turned to find Cole already there. He'd come from his shelter at a pace that was faster than walking and slower than running — the controlled urgency she'd learned to read as Cole's crisis mode, the body responding to emergency while the mind maintained the framework that made the response organized rather than reactive.
+
+They looked at the storage shelter together. The western wall's deformation was visible from outside — the bulge in the panels, the gap where the roof had dropped, the particular wrongness that a structural failure communicated to anyone who'd spent enough time reading buildings.
+
+"The filtration membranes," Cole said.
+
+"And Dana's compounds. And the medical stores."
+
+"Can we get them out?"
+
+Ren looked at the structure. Ran the load analysis she'd been running since the sound of the crack. The eastern beam was holding the roof's weight plus the redistributed load from the western beam's failure. The beam was timber. Native timber was strong in compression but unpredictable in sustained lateral stress — it fractured along the grain rather than deforming, which meant it didn't warn you before it failed. The eastern beam could hold for hours. Or it could hold for minutes. She couldn't tell from outside, and going inside to inspect was the thing that might trigger the failure.
+
+"It's recoverable. But it needs to be shored first. I need two hours and four people and the secondary timber from —"
+
+"We might not have two hours."
+
+"We might not have two minutes. That's why I need to shore it."
+
+Cole looked at the shelter. Ren watched him do the thing she'd seen him do a hundred times — the rapid internal calculation, the framework processing variables faster than conversation could carry them. Risk of another tremor. Value of the contents. Time to shore versus time to retrieve. Number of people required for each option. Probability of structural failure during recovery. The math of a man who'd been converting human situations into arithmetic for five years because the arithmetic was the only language fast enough for the decisions the planet demanded.
+
+"I'll go in," Cole said.
+
+"No."
+
+"The filtration membranes are the colony's water security. Dana's compounds are the colony's medical security. If another tremor hits before we shore it, we lose both."
+
+"If another tremor hits while you're inside, we lose you. And the count drops to twenty-three."
+
+The sentence landed the way structural loads landed — with a specificity that left no room for redistribution. Twenty-three. Below threshold. The five-year mark becomes a date instead of a deadline. Everything they'd survived becomes an experience instead of a purchase. Cole heard it. She could see him hear it. The number entering his framework and the framework adjusting around it, accommodating the variable that was his own body inside a building that might fall.
+
+"I'll go," Joss said.
+
+Neither of them had seen him arrive. He stood three meters behind Cole, the water filtration housing still under his arm — the same housing, the same arm, the same reliable arrival that had become the rhythm of the colony's infrastructure. He'd come from Junction 2 at the first tremor and found them standing in front of the storage shelter calculating who should enter a building that might kill whoever entered it.
+
+"No," Cole said.
+
+"You can't go. Ren explained why. I can."
+
+"Joss —"
+
+"The membranes are in the western storage rack. Dana's compounds are in the sealed containers along the south wall. The medical stores are in Haruki's crates near the entrance. I know where everything is. I maintain this inventory."
+
+Ren watched Cole's face. The machinery was running at a speed she hadn't seen before — not the standard calculation, not the crisis-mode rapid assessment. Something else. Something that involved variables the framework wasn't designed to process. She saw him look at Joss and saw the look carry more than assessment, more than the manager evaluating the capability of a worker. The look carried five years. The look carried fever and a name spoken aloud for the first time and the slow transmission of skills from a man who hadn't intended to teach to a boy who hadn't asked to learn. The look carried Lily.
+
+Cole didn't say no again.
+
+Joss set down the filtration housing. The careful motion. He walked to the storage shelter's entrance and stopped. Looked at the structure the way Ren had taught him to look at structures — for the stress lines, the load paths, the points where the weight was held and the points where it wasn't. He was twenty-seven and he'd learned structural assessment from an engineer on an alien planet and the learning was visible in how he read the building, the specific attention that was Ren's attention, transmitted.
+
+"Stay along the east wall," Ren said. "The eastern beam is holding. Don't touch the western supports. Don't bump the shelving. Move the sealed containers first — they're closest to the entrance. Then the membranes. Leave the data cores."
+
+"The data cores have Elena's —"
+
+"Leave them. Get what keeps us alive. Come out."
+
+Joss nodded. He looked at Cole. The look between them was three seconds long and Ren turned away from it because the look was private in a way that had nothing to do with information and everything to do with the specific bond between a man who'd come to a planet to earn back a daughter and a boy who'd become the son the man hadn't known he was raising.
+
+Joss went in.
+
+Ren counted. She counted the way Cole counted — automatically, the body's metronome marking time against an uncertainty the mind couldn't resolve. Joss moved through the entrance. She heard his footsteps on the shelter floor, careful, measured, the footsteps of a man who understood that the building he was inside was a system under stress and his weight was a variable the system might not tolerate.
+
+Forty seconds. The first container appeared at the entrance. Dana's compounds. Sealed, intact. Joss set it down and went back. Ren moved the container clear.
+
+Sixty seconds. The second container. Medical stores. Haruki's supplies, the inventory that couldn't be replaced because the supply drops had stopped two years ago and the botanical alternatives Dana had developed were supplements, not substitutes.
+
+Ninety seconds. Joss was deeper now. The membranes were on the western rack, which was under the compromised beam. Ren heard him moving — slower, the footsteps deliberate, the sound of a body navigating a space where the geometry had shifted and the safe path was narrower than it had been.
+
+Cole stood at the entrance. Ren saw his hands. They were at his sides and they were still and the stillness was the most violent thing she'd ever seen Cole's body do — the active restraint of a man who wanted to be inside the building and was standing outside it because a woman had said twenty-three and the number had been enough to hold him in place while someone else carried the risk.
+
+The fourth tremor hit at second one hundred and four.
+
+Ren felt it in her knees first. Vertical again. The substrate lifted and dropped and the storage shelter's eastern beam — the beam that was holding everything, the beam that was the reason Joss was alive inside the structure — took the shock and held and Ren heard it hold, heard the wood absorb the energy with a sound that wasn't cracking but wasn't silence either. A groan. The sound of a material at its limit communicating the limit to anyone who understood the language.
+
+Then the western beam, already failed, shifted. The roof dropped another twelve centimeters on the west side. Debris fell. Something heavy hit the floor inside the shelter. Ren heard Joss make a sound — not a scream, something between surprise and exertion, the vocalization of a body reacting to a change in its environment faster than the mind could process what the change meant.
+
+"Joss." Cole's voice. Not loud. Not the voice of a man yelling into a collapsing building. The voice of a man saying a name the way you say a name when the name is the only thing you can send into a space you can't enter.
+
+Silence. Two seconds. Three.
+
+"I'm here." Joss's voice, strained. "The rack came down. I'm — my legs. The rack is on my legs."
+
+Cole moved. Ren grabbed his arm. The grip was structural — the engineer's hand, the grip that meant the thing being held was load-bearing and could not be released.
+
+"If you go in and the eastern beam fails, you both die and the count drops to twenty-two."
+
+"He's trapped."
+
+"I know he's trapped. We shore the entrance. We stabilize the beam. We get him out."
+
+"There isn't time —"
+
+"There is if you help me instead of dying with him."
+
+The sentence was brutal and Ren felt it leave her mouth with the specific weight of a statement that was true and cruel and necessary. Cole's face did something she'd never seen it do. The machinery stopped. Not paused, not recalibrated. Stopped. For one second, Cole Maren was not a framework or a system or a logistics architecture. He was a man standing outside a building that held someone he loved, and the building was falling, and the woman next to him was telling him that entering it was the thing that would destroy everything the person inside it had survived for.
+
+Cole's arm relaxed under her grip. The machinery restarted. The framework came back, and when it came back it was different — running the same calculations but weighted with something the original architecture hadn't included. Something that made the calculations slower and more human and harder to bear.
+
+They shored the entrance in eleven minutes. Ren directed. Cole carried. Two lateral braces against the doorframe. A compression post under the eastern beam, positioned where the stress analysis said the beam was weakest. Native timber and the polymer connectors from the spare shelter kit, assembled with the specific speed of an engineer building against a clock she couldn't see.
+
+Ren went in first. Cole behind her. The interior was disordered — the western storage rack collapsed across the floor, its contents scattered, the filtration membranes pinned under the shelving. Joss was on the floor near the west wall. The rack lay across his legs from mid-thigh down, the combined weight of the timber frame and the equipment it had held pressing him into the floor with the patient force of gravity applied to a mass that exceeded what a human body could move from underneath.
+
+His face was white. Not from blood loss — from the specific pallor of a body managing pain it couldn't escape. His hands were flat on the floor beside him, pressing down, the unconscious effort to lift weight that couldn't be lifted by pressing down harder.
+
+"Hey," he said. The word came out in the tone Joss used when he was trying to make something smaller than it was. The voice of a twenty-seven-year-old who'd spent five years learning that the distance between crisis and routine was measured in the voice you used to describe them.
+
+Ren assessed. The rack was heavy but not immovable. Two people could lift it. The risk was the shift — moving the rack might redistribute the load on the western wall, which might shift the compromised beam, which might bring the roof down. Or it might not. The probability was the kind of probability that engineering couldn't resolve into certainty, the kind that required a decision made inside the margin of not-knowing.
+
+"On three," she said to Cole. "Lift straight up. Don't shift it laterally."
+
+Cole positioned himself at the rack's end. His hands found the timber frame. Ren took the middle section. They lifted on three. The rack rose. Joss pulled himself backward with his arms, dragging his legs from under the weight, the sound he made during the drag the sound of a body being asked to move parts that didn't want to move.
+
+Cole dropped the rack and knelt beside Joss. His hands went to Joss's legs — not medical hands, not diagnostic, just hands. The hands of a man touching someone to confirm they were there, the way you touch a thing to verify that the thing the eyes report is the thing that exists.
+
+"Can you feel your feet?" Ren asked.
+
+"Yes." Joss's face was doing something between relief and the onset of the pain that relief allowed in. "They hurt."
+
+"Good."
+
+They carried him out. Cole took his shoulders. Ren took his legs, supporting under the knees, keeping the fractured bones — she could feel the displacement through the skin, the specific wrongness of geometry that should be straight and wasn't — as immobile as carrying allowed. They brought him into the light. Set him on the ground outside the storage shelter, in the dirt of Holdfast, under the green-shifted sky.
+
+Cole sat in the dirt next to Joss and held him. Not medically. Not strategically. Held him the way a father holds a child who's been hurt, with the body curved around the smaller body, the arms communicating the only thing arms can communicate when language has been exceeded. Ren stood three meters away and watched and felt the structural analysis she'd been running for five years reach a conclusion that wasn't structural.
+
+Cole had let Joss go in. Cole could have gone. Cole was faster, stronger, knew the inventory as well as Joss did. Cole had stood outside the building and not said no a second time because the number twenty-three had held him in place — the framework, the math, the architecture of survival that had kept twenty-four people alive by making every decision subordinate to the count. The framework had saved Cole's life by sacrificing Joss's safety. The framework had worked. The framework was the reason Joss was lying in the dirt with broken legs and internal injuries that Haruki would have to manage with insufficient medicine on an alien planet with one month left on the clock.
+
+The framework was the choice. Cole had chosen the math over the boy. And the math was right. And the rightness was the thing that would break him.
+
+Ren didn't say anything. She stood in the dirt and watched Cole hold Joss and knew that the eleven months of waiting had found their crisis, and the crisis wasn't the tremor or the shelter or the broken bones. The crisis was a man discovering that the system he'd built to save everyone had required him to sacrifice someone, and the someone was the person the system was supposed to make the sacrifice worth it for.
+
+Haruki arrived in four minutes. He knelt beside Joss with the measured calm that was his constitution and his treatment and his gift, and his hands moved over Joss's legs with the diagnostic attention that found fractures and assessed damage and communicated through touch that the body being examined was in the care of someone who knew what care meant. Compound fracture, left tibia. Simple fracture, right fibula. Possible internal bleeding — the rack's weight on the abdomen for six minutes, the compression that might have ruptured something Haruki couldn't see without equipment he didn't have.
+
+"He needs to be still," Haruki said. "Complete immobilization. I'll splint. Dana's anti-inflammatory compounds, full dose. The internal — I'll monitor. Watch for distension, pallor changes, heart rate."
+
+"He'll be okay," Cole said. Not a question. Not a statement. Something between them — the specific construction of a sentence that needed to be true and couldn't be verified and was spoken because the speaking was the only act available to a man who'd run out of actions.
+
+Haruki looked at Cole with the expression Ren had seen him use once before — during the fever, when Joss had been twenty-two and burning and Haruki had worked through the night to bring him back. The expression that said: I will do everything I can, and everything I can may not be enough, and I will not lie to you about the margin between the two.
+
+"I'll monitor," Haruki said again. The repetition was the answer.
+
+---
+
+The respiratory infection arrived in Month 7 like weather Ren had been reading on the horizon for weeks.
+
+She'd seen the precursors. A cough in the common area. A colonist slower on the morning path. The specific lethargy that preceded illness in a closed population, the body's early warning system firing before the pathogen declared itself. She'd learned to read these signs the way she read erosion patterns and seal degradation — as information about a system approaching a failure state, information that was useful only if you acted on it before the failure arrived.
+
+Dana had compounds stockpiled. Four years of botanical pharmacology, refined through three orbital cycles, tested against every pathogen the colony had encountered. The antiviral from the Year Two fever. The antibacterial compounds she'd developed for wound treatment. The anti-inflammatory preparations that had become Holdfast's baseline medicine. Dana's pharmacy was the colony's immune system — external, manufactured, dependent on one woman's knowledge and the planet's chemistry and the specific intersection of the two that had kept people alive when Earth medicine couldn't.
+
+The infection moved through eighteen colonists in nine days. Mild. Haruki confirmed. The same confirmation he'd given in Month 29, the word *mild* carrying its confidence interval, the margin of uncertainty that lived inside every medical assessment on a planet where the biology followed rules that Earth's textbooks didn't contain.
+
+Ren watched the colony operate inside the infection the way she watched structures operate under load. The systems held. The water ran. The agricultural schedules continued, staffed by people who coughed between tasks and took Dana's compounds at the prescribed intervals and moved through the settlement with the particular determination of a population that had been sick before and understood sickness as a tax. Not a crisis. A cost. The cost was paid in reduced efficiency and longer recovery times and the accumulated fatigue that deposited in the body's reserves like mineral sediment in the channels — slowly, invisibly, becoming part of the infrastructure.
+
+Nobody died.
+
+The phrase sat in Ren's awareness for two weeks like a result she didn't trust. Nobody died. Eighteen colonists sick, two weeks of reduced capacity, the water system running on minimum staffing, the agricultural harvest delayed by three days. Nobody died. On a planet that had killed twenty-three people in five years, a respiratory infection moved through the colony and took nothing. The confidence interval held. The margin held. Dana's compounds worked and Haruki's protocols worked and the bodies that had been depleted by fifty-eight months of survival found enough reserve to fight a pathogen that should have been manageable and was.
+
+Ren felt the relief and distrusted it. Relief was a structural risk. Relief was the moment you stopped checking the seal because the seal had held, and the not-checking was the gap that the next failure entered through.
+
+Cole didn't sleep during the two weeks. Ren knew because she didn't sleep either — the engineer's insomnia, the mind running system checks at three in the morning, cataloging every cough heard through the shelter walls and mapping it against the infection's progression curve. She saw Cole in the common area at hours when the common area should have been empty, sitting at the table where he'd laid out the charter and the corporate math, staring at nothing, his body present and his mind running calculations she couldn't see.
+
+Haruki forced him to eat. She watched it happen on Day 8 — Haruki sitting across from Cole in the common area at midnight, setting a bowl of grain in front of him with the deliberate motion of a doctor administering treatment. Cole looked at the bowl. Looked at Haruki. The exchange was silent and complete — the patient recognizing the physician's authority not because the authority was asserted but because the physician's steady hands and measured calm carried a weight that Cole's framework couldn't override.
+
+Cole ate. Haruki watched him eat. Ren stood at the entrance of the common area and saw two men performing a ritual that was older than the colony and simpler than the systems they'd built — one person making sure another person stayed alive by making sure they swallowed food.
+
+Joss was still in the medical shelter. Immobilized. Haruki's splints held his legs in the alignment the bones needed for healing, and Dana's compounds managed the inflammation, and the internal bleeding Haruki had monitored for three weeks had stabilized — not resolved, stabilized, the distinction that meant the body had stopped getting worse without committing to getting better. Joss was conscious. Alert. He asked for water system reports. He asked Ren to bring him the maintenance logs so he could review the junction status from his cot, and Ren brought them because the asking was how Joss stayed inside the colony's work while his body healed, and the staying was what would save him or wouldn't.
+
+The infection passed. Eighteen recovered. Twenty-four held.
+
+---
+
+Month 8. Ren saw Cole writing.
+
+Not the charter analysis. Not the junction reports or the structural assessments or the inventory logs that constituted the colony's administrative architecture. Writing. On paper. The paper the colony made from processed native fiber — rough, off-white, the texture of something made by hand from materials that weren't designed for the purpose. Cole sat at his desk in his shelter with the door open — the door was always open now, Ren had noticed, a change from Year One when Cole's shelter had been closed and private, the count held inside — and wrote with the pencil he'd been using since the transit ship.
+
+She saw him do it in Month 8 and again in Month 9 and three times in a single week in Month 10. The frequency was the data point. Cole had written to Lily twice in five years — the three sentences about the trees in Month 6, the truth in Month 26. Twice in sixty months. Now he was writing every few days, and the writing took less time each session, and his face afterward was different from the face he'd worn after the first two messages.
+
+Not sad. Not hopeful. Something Ren would call *ready* if she had to name it, and she didn't have to name it because the naming was the kind of intimacy she and Cole didn't practice. They practiced the other kind — the structural kind, the load-sharing, the silence that carried more than speech because speech required choosing what to say and the choosing was a filter and they'd moved past filters.
+
+But she saw the face and cataloged it the way she cataloged everything: as information about a system she was responsible for monitoring.
+
+One night during the waiting — Month 9, the common fire, the hour after the evening meal when the colony gathered not by schedule but by gravity, the pull of twenty-four people toward the warmth and light that humans had gathered around since before they'd had a word for gathering — Cole sat next to Ren and said something quiet.
+
+"The charter never says what happens to the children born here if we lose the threshold."
+
+Ren looked at the fire. Lana's child had been born three weeks ago. A boy. Two children at Holdfast now, neither of them signatories, neither of them accounted for in a document written in a corporate boardroom on Earth by lawyers who'd designed the language for a population that was supposed to die before reproduction became a variable.
+
+"We didn't lose," Ren said.
+
+The words came out before she'd finished thinking them. She heard them land and heard what they carried — the fact and the fear underneath the fact. They hadn't lost. Twenty-four held. The threshold held. But Cole wasn't asking about losing. He was asking about the gap in the text, the silence in the charter where the children's future should have been written, the space that Asterlyne would fill with whatever interpretation served a four-hundred-billion-credit asset.
+
+Cole heard what she wasn't saying. She could tell because he didn't respond, and his not-responding was the specific silence of a man who'd heard the thing underneath the thing and was filing it alongside his own uncertainty.
+
+They sat with the fire between them and the question between them and the colony around them. Twenty-four people. Two children. The count that mattered and the lives that might not be counted. Ren thought about her partner on Earth — the other Mika, the architect, the person she'd been building something with before the debt spiral made building impossible. She'd left to avoid becoming someone's dependent. She'd come to a planet and become something else — not dependent, not independent, something the language didn't have a word for because the conditions that produced it didn't exist in contexts where words got made. Part of a structure. Load-bearing. The thing she'd always been, transposed from buildings to people.
+
+The children born at Holdfast were part of the structure now. They existed inside the colony's architecture the way the channel network existed inside the bedrock — integrated, essential, their presence altering the system's behavior in ways the original design hadn't anticipated. Whether the charter acknowledged them was a legal question. Whether the colony claimed them was a structural one. Ren knew which question mattered.
+
+She didn't say any of this. The fire was enough. Cole's silence was enough. The question sat between them, unanswered, patient, waiting like everything else.
+
+---
+
+Month 10.
+
+The transmission arrived on the colony's communication array at 0347, during the magnetic window's third cycle. Ren was awake — the engineer's insomnia, the hours before dawn when the systems check ran in her mind whether she wanted it to or not. She heard the relay's incoming chime from her shelter, the sound she'd wired to carry across the settlement because incoming transmissions were rare enough that missing one was a failure the colony couldn't afford.
+
+She reached the communications hub before Cole. Read the header. Read it again.
+
+**TO: Residents of Parcel 16b**
+
+Not colonists. Not charter signatories. Not the formal address Asterlyne had used in every prior communication — "Charter participants," "Settlement designees," the corporate vocabulary that acknowledged the contractual relationship between the company and the people it had sent to a planet to die profitably. Residents. The word was neutral. Domestic. The word you used for people who lived somewhere without owning it. Tenants. Occupants. People whose presence was temporary and whose rights were conditional and whose relationship to the land they stood on was defined by someone else's document.
+
+The message was brief. Ren read it standing in the communications hub in the dark, the relay's screen casting blue light across her face, the hum of the trees filtering through the hub's walls.
+
+"Asterlyne Corporation acknowledges receipt of your settlement's continued operational status. As the charter period approaches its contractual conclusion, Asterlyne wishes to affirm its commitment to the wellbeing and transitional support of all Parcel 16b residents. Forthcoming communications will address post-charter administrative procedures. Asterlyne values your contribution to the ongoing development of extra-solar settlement infrastructure."
+
+Ren read it a third time. Translated it the way the colony had learned to translate corporate language — by identifying the words that were doing work and the words that were doing camouflage.
+
+*Residents.* Not signatories. The language shift that erased the contractual relationship, that repositioned the colonists from parties-to-a-contract to people-who-happened-to-be-somewhere. Residents could be relocated. Residents could be managed. Residents didn't invoke clauses.
+
+*Transitional support.* The shuttle's offer, reframed. Not renegotiation. Transition. The word assumed departure. The word assumed the colony's presence was a phase, not a permanence.
+
+*Post-charter administrative procedures.* The charter had a duration. Five years. After five years, the charter concluded. If the clause was invoked, the land transferred. If the clause wasn't invoked, the charter simply ended and Asterlyne retained everything. The phrase "post-charter administrative procedures" didn't specify which outcome the procedures were designed for. The ambiguity was the message.
+
+*Ongoing development.* Mining. The four-hundred-billion-credit mineral substrate. The channels, the crystallized compound, the planet's ancient infrastructure converted to a line item on a corporate balance sheet.
+
+Cole arrived. She handed him the screen without speaking. He read it. His face was the neutral mask — the resting state that showed nothing because showing things cost energy — but his hands, holding the screen, were still in the way his hands were still when the machinery behind the mask was running at a speed the body couldn't match.
+
+"Residents," he said.
+
+"They've started the language shift."
+
+"One month out."
+
+"One month."
+
+Cole set the screen down. Looked at Ren. The look was three seconds — the same duration as the look in the medical shelter after Mika's child was born, the same duration as a hundred other looks across five years, the specific interval that had become their unit of communication, the three seconds in which the structural information passed between two people who'd learned to read each other the way they read the systems they maintained.
+
+"They know," Ren said.
+
+"They've always known."
+
+"They know we're going to make it."
+
+Cole was quiet. The silence lasted longer than three seconds. When he spoke, his voice was flat in the way that flatness meant compression, the surface held level by the pressure of everything underneath it.
+
+"Elena wrote that. End of Year One. 'We're going to make it.'"
+
+Ren heard it. The echo. The ghost colony's certainty repeated across seven years and a different outcome, the words that had been true when Elena wrote them and false by the time her colony proved them false, and true again now, probably, the confidence interval still hiding inside the word *probably* the way it hid inside *should* and *mild* and every other word the colony used to describe a future it couldn't guarantee.
+
+"We're not Elena," Ren said.
+
+"No."
+
+"We have twenty-four. She had six."
+
+"She had six when she wrote it too. Different six. Different year. Same sentence."
+
+Ren looked at him. Cole's face was doing the thing from Month 27 — the frequency she couldn't detect, the register that existed because the man was not the machine. He was afraid. Not of the planet. Not of Asterlyne. Afraid of the sentence. Afraid that saying *we're going to make it* was the invocation that summoned failure, the structural hubris that preceded collapse, the confidence that preceded the tremor that preceded the beam that preceded the boy on the floor with broken legs.
+
+"Thirty days," Ren said. She didn't say the sentence. She said the number instead, because numbers were Cole's language and the language would carry what the sentence couldn't. Thirty days. Not a hope. A measurement. The distance between where they were and where the clause lived, expressed in the unit that Cole's framework could hold without the framework cracking.
+
+Cole nodded. The small nod. The one that meant the number had entered the framework and the framework had accepted it and the acceptance was the closest thing to faith that Cole Maren's architecture could produce.
+
+They stood in the communications hub in the dark. The relay's screen glowed with Asterlyne's message. Residents of Parcel 16b. The company's lawyers had started writing the colony out of its own contract, word by word, the way the creep had advanced on the original settlement — slowly, patiently, dissolving the thing that stood in the path of what the company wanted.
+
+One month.
+
+Ren turned off the screen. The blue light died. The hum of the trees filled the space the light had occupied. She walked to the door of the hub and looked out at Holdfast in the dark — the shelters, the paths, the channel network carrying water through ancient infrastructure, the settlement they'd built and named and held for five years. Twenty-four people asleep in the structures she'd designed, on ground they'd chosen, breathing air that smelled like ozone and something sweet.
+
+Thirty days. The number sat in the dark like a stone. Solid. Countable. Close enough to touch.
+
+Ren closed the hub door behind her and walked to her shelter through the settlement she'd helped build, and the walking was the same walking she'd done every night for three years, and the sameness was the thing she was fighting for, and the fighting was the walking, and the walking was enough.
+
+
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+```{=latex}
+\newpage
+```
+
+```{=html}
+<div style="page-break-before: always;"></div>
+```
+
+[]{#chapter-27-tuesday}
+
+# Chapter 27 — "Tuesday"
+
+The water filtration line on Junction 3 had developed a hairline fracture in the adhesive margin overnight.
+
+Cole found it at 0514, the way he found most things — by showing up before the light did and putting his hands on the infrastructure until the infrastructure told him what was wrong. The fracture was small. Two centimeters, maybe three. The kind of degradation that Ren's inspection protocol would have caught in three days, that the secondary monitoring Joss had designed would have flagged in five. Nobody would have died from a three-day delay. The water would have run slightly mineral-heavy, the taste changing before the chemistry did, and Dana's filtration compounds would have caught the contamination window before it became a contamination event.
+
+Cole fixed it anyway.
+
+He worked in the pre-dawn dark with his hands and a polymer patch and the specific attention of a man who'd been maintaining systems for 1,826 days and whose hands knew the parts the way his lungs knew air. The adhesive went on cold. He held it in place for three minutes while it bonded, his fingers pressing the patch against the housing, the pressure steady, the force distributed evenly across the margin the way Ren had shown him in Year Two when the junction system was new and his engineering knowledge was warehouse logistics translated badly into alien infrastructure.
+
+His hands knew it now. The translation was complete.
+
+The spiral-trunked trees hummed in the near-distance. The sound came through the filtration shed's walls the way it came through everything on this planet — not heard so much as felt, the sub-audible frequency that lived in the chest and the jaw and the spaces between the bones. He'd felt it every morning for five years. The first morning, it had set his teeth on edge. Now it was the sound of where he was. Not home. Not yet a word he used. Just the sound of the place his hands knew how to fix.
+
+The patch held. He tested it — pressure check, flow rate, the systematic verification that had become reflex. The numbers were clean. The junction was clean. The water would run through Ren's system and into the colony's supply and twenty-four people would drink it today without knowing it had been compromised and repaired before any of them woke.
+
+Cole wiped his hands on his pants. Stood. His knees protested the standing the way they'd been protesting for two years — the specific complaint of a forty-three-year-old body that had spent five years kneeling on rock substrate and sleeping on a cot and carrying loads the body hadn't been designed to carry. He straightened slowly. Let the joints do what they needed to do. The sky through the shed's open doorway was the green-dark of pre-dawn, the color that had no name on Earth because Earth didn't produce it.
+
+He walked out of the shed and into Holdfast.
+
+The settlement was quiet. The shelters Ren had designed — low, wide, built for wind and then rebuilt for seismic after the tremor — sat in their arranged pattern on the rock substrate, dark shapes against the lighter ground. Paths worn into the substrate by five years of feet connected them like veins. The common area where Cole had laid out the charter and the corporate math sat empty, the table still there, the rock outcropping Joss had named the Bench still there, everything still there because things that people built and named and used every day developed a permanence that outlasted the materials.
+
+Cole walked the perimeter. The morning count. He didn't count shelters anymore — he'd stopped that in Year Four, when the number held at twenty-four and the holding made the counting feel different. Not unnecessary. Different. He walked the perimeter because the walking was the ritual and the ritual was the structure and the structure was what held him in the hours before the colony woke, when the planet was quiet and his mind was loud and the framework ran without input.
+
+He counted anyway. The body's reflex. Twenty-four.
+
+The number sat where it always sat — behind the sternum, in the space the count had occupied since a fluorescent waiting room on Earth. But the number felt different this morning. Not lighter. Not heavier. Just different the way a key feels different when you know the lock it fits.
+
+Today was Day 1,826.
+
+He'd known the date the way he knew membrane percentages and junction locations and the count — as data, as a number inside the framework, as the specific coordinate in time that the charter designated as the boundary between surviving and owning. Five Earth years. 1,826 days. The number had been running in the back of his mind for months, ticking down the way the attrition model had once ticked down, except this count went in the other direction. Not subtracting. Arriving.
+
+He hadn't told anyone. Ren knew — Ren always knew, the way she knew seal degradation and erosion patterns and the social architecture of the colony she'd helped build. She'd known the date since Month 58 when she'd come to his shelter and said, "Thirty days," and the number had been enough. Dana knew because Dana tracked orbital positions the way other people tracked days, and the orbital math was the calendar and the calendar said today. Haruki knew because Haruki noticed everything, the quiet diagnostic attention that read the colony's emotional weather the way it read vital signs. Joss knew because Joss maintained the data core and the data core held the charter timeline and the timeline ended today.
+
+Everyone knew. Nobody had said it.
+
+The trees hummed. The sky shifted from green-dark to green-pale. The planet turned the way it had been turning for millions of years, indifferent, the rotation carrying Holdfast from dark into light, and the light this morning was the same light as every other morning, and the sameness was the point.
+
+Cole went back to the filtration shed. Checked the patch. Held.
+
+---
+
+Ren found him at the junction at 0738.
+
+He heard her footsteps on the path before he saw her — the specific cadence of Ren's walk, the engineer's gait that was always slightly faster than the terrain required because Ren moved through the settlement the way current moved through the channels, purposefully, on a gradient she'd calculated whether she was conscious of it or not.
+
+She came around the filtration shed and stopped. Cole was sitting on the housing cover with the inspection kit open beside him, running the secondary seal check that didn't need running because he'd already run it at 0514 and the results hadn't changed. He was running it because his hands needed the work the way his lungs needed air, and the work was the thing that kept the framework from processing the date into something the framework wasn't built to hold.
+
+Ren looked at him. Three seconds. The unit of communication they'd built over five years, the interval that carried everything that speech was too slow for.
+
+"It's done," she said.
+
+Cole set down the inspection tool.
+
+"Five years. Twenty-four alive. Clause 9.4.2."
+
+She said it without ceremony. The democratic architect delivering a result the way she delivered every result — factual, verified, entered into the record. She'd counted. Cole knew she'd counted because counting was the protocol and the protocol was the architecture. She'd walked the settlement before coming to him. She'd verified the number the way she verified seal integrity, by putting her attention on every junction and confirming that the junction held.
+
+Twenty-four. The number that had been running in Cole's chest since Day Zero, the number he'd calculated in a corporate waiting room while forty-six other people signed without reading, the number that meant fifty-one percent of the original signatories, the number that triggered a clause the company had never expected anyone to reach. The number that meant the land transferred. That Holdfast was theirs.
+
+Cole sat on the housing cover outside the filtration shed with the inspection kit open and the polymer patches arrayed beside him and the patch he'd applied at 0514 holding on the junction behind him, and the number entered his framework and the framework processed it and the processing was not what he expected.
+
+He'd imagined this. Not often — imagining was a luxury the framework didn't permit, and the framework had been right to prohibit it because imagination was a form of counting that went forward instead of backward and forward-counting on a planet that killed people was an invitation to the specific hubris that preceded collapse. But he'd imagined it. Once or twice. In the hours after midnight when the systems were checked and the colony was breathing and his mind, released from the day's calculations, wandered into the territory it usually avoided.
+
+He'd imagined relief. The weight of the number lifting. The framework releasing the count the way a structure releases load when the load-bearing element is removed. Five years of carrying forty-seven down to twenty-four, the attrition model running, the margin narrowing, and then the date arriving and the carrying being over.
+
+What he felt was not relief.
+
+He felt the ground under his hands. The dirt of Holdfast. The rock substrate they'd relocated to in Month 10 when the creep advanced and the colony voted and Ren insisted on the vote and Cole resisted and Ren was right. The ancient channels underneath, carved by something that had lived here before them, infrastructure that outlasted whatever built it. Dana's agricultural terraces in the distance, the third-phase crops growing in soil that followed cycles the colony had learned to predict. The shelters Ren had designed. The paths the colony had worn. The water running through the junction he'd just repaired.
+
+He felt all of it through his hands, the way he'd felt the adhesive bond on the patch, the way he'd felt every system he'd maintained for 1,826 days. Not as data. Not as inventory. As contact. His hands on the ground of a place he'd been touching for five years, and the touching was the knowing, and the knowing was not relief but recognition. He was here. He'd built this. They'd built this. The building was finished in the way that charters finished — a date on a contract, a legal threshold, a number that crossed a line. And the building was not finished in the way that building was never finished because the junction would need patching again and the membranes would need replacing and the crops would need planting and the water would need cleaning and the children would need raising.
+
+Cole sat in the dirt. Ren stood three meters away, watching him the way she watched structures — for the stress lines, the load paths, the points where the weight was held and the points where it wasn't.
+
+He sat there for a long time.
+
+He didn't cry. His body didn't produce that response to this input. The framework held the way frameworks held — by distributing the load across every member, every joint, every connection that five years of construction had built. The load was not grief and not joy and not the thing between them. The load was the specific weight of a man sitting on ground that belonged to him, to them, to twenty-four people who'd paid for it with twenty-three people who hadn't survived the purchase.
+
+The trees hummed. The colony woke. He heard it in the sounds that reached the junction from the settlement below — footsteps on paths, a voice calling something ordinary across the common area, the clatter of the cooking station where someone was preparing the morning meal from the third-phase grain Dana had cultivated and the native tubers that tasted bitter and chemical and had become, over five years, the taste of breakfast.
+
+Then the thought arrived.
+
+It came the way thoughts came to Cole — not as emotion first but as data, as a variable entering the framework, the specific information that a system produced when the system contained something the original architecture hadn't accounted for. Two children at Holdfast. Mika's daughter born in Month 4 of Year Five. Lana's son born two months later. Neither of them signatories. Neither of them named in a charter written in a corporate boardroom on Earth by lawyers who'd designed the language for a population that was supposed to die before reproduction became a variable.
+
+The charter said: "Land transfer in perpetuity to surviving original signatories and their legal assigns."
+
+Legal assigns. The phrase that opened onto a room that didn't exist. On a planet with no courts, no registry, no jurisdiction, no mechanism for establishing the identity of a person born outside any legal framework that recognized their existence. The children born at Holdfast were residents of a place that now belonged to their parents, and the belonging was legal, was contractual, was the product of a clause invoked by twenty-four people alive on Day 1,826. But the children's belonging was something else. Something the charter's language didn't contain. Something Asterlyne's lawyers had never written because they'd never imagined the scenario or had imagined it and chosen silence because silence preserved optionality and optionality was the corporation's native language.
+
+The gap was still there. The clause was invoked. The land was theirs. And the question Lana had asked five months ago in a room full of people who'd stopped trusting corporate language — *what happens to the children born here?* — sat in the fine print the way the creep had sat at the forest edge. Present. Patient.
+
+Cole let Ren think he was sitting with the weight of what they'd won. He was. He was also sitting with the space where the win didn't reach. The place in the charter where the children's future should have been written and wasn't. The silence that Asterlyne would fill with whatever interpretation served a four-hundred-billion-credit mineral substrate.
+
+He didn't tell her the gap was still there. She knew. She'd known since the assembly in Year Five when the question stopped the room and the charter's language said legal assigns and legal assigns meant nothing on a planet with no law. She'd said, "We'll figure it out when we have to." The having to was now. The figuring out would come after. After the celebration and the grief and the counting of what they'd won and what they'd lost and the distance between the two.
+
+Cole stood up. His knees complained. He let them.
+
+"I fixed the junction," he said.
+
+Ren looked at the filtration shed. Looked at Cole. The three-second look.
+
+"I know," she said.
+
+She walked back toward the settlement. Cole stood in the dirt outside the filtration shed with the inspection kit open and the polymer patches arrayed and the junction holding behind him. He stood there for another minute. Then he followed her down the path.
+
+---
+
+He went to the comm station at 0920.
+
+The communications hub was the same structure it had been since Year Two — Ren's design, low-profile, the relay equipment that Asterlyne controlled mounted on the interior wall beside the colony's own antenna that Ren had built from salvaged components in Year Three when trust in the company's infrastructure had eroded past the point of dependency. The relay still worked. Messages still transmitted. The three-month transit delay still separated the colony from Earth by a gap that made communication not conversation but correspondence, each message a letter thrown across a distance that made the throwing an act of faith.
+
+Cole sat at the terminal. The screen glowed blue in the dim interior. The hum of the trees filtered through the walls, the same frequency, the same sub-audible vibration that had been the first alien sound he'd felt and was now the sound underneath every other sound.
+
+He wrote.
+
+Not fast. Not slow. The pencil-on-paper pace that had governed every message to Lily since Month 6, the first one — three sentences about trees and distance and nothing about why. He'd written five messages in five years. Each one a stage in a progression he hadn't planned, a trajectory from avoidance to honesty to something he didn't have a word for because the word required conditions that hadn't existed until now.
+
+The first message: *I'm on a planet very far away. The trees are beautiful. I wish you could see them.*
+
+The second: *I'm on a planet very far away. I came here because I'd run out of reasons to stay. I'm finding new ones.*
+
+The third, fourth, fifth — each one shorter, more direct, the sentences compressing the way sentences compressed when the person writing them was moving closer to the thing the sentences were about. Less explanation. Less distance. The rhetoric of a man approaching something he'd been retreating from since a custody hearing on Earth where a judge had told him, with professional compassion, that absence was not parenting.
+
+Lily was fourteen now. Not the nine-year-old who drew horses and thought he was on a work trip. Fourteen. Five years of growing that had happened in the gap between his messages, in the space that three months of transit delay made abstract but couldn't make irrelevant. She might have received his messages. She might not have. Asterlyne controlled the relay. Asterlyne read everything that passed through the comm infrastructure — Dana had proved that, and Dana's proof was older than her own betrayal, was embedded in the system the way the creep was embedded in the soil cycle, by design. The corporation could have blocked his messages. Could have read them and forwarded them and read them again. Could have filed them as data points in the same assessment model that had priced his life at less than two million credits.
+
+He didn't know what Lily knew. He didn't know if she'd heard from him at all, or if the messages had arrived and been opened by a mother who'd been granted custody by a court Cole couldn't afford to challenge, and the mother had decided the messages were a disruption and the disruption was not in the child's best interest. He didn't know if Lily had read his words about trees and reasons and distance and understood them, or if the words had arrived at a fourteen-year-old girl who didn't remember the father who'd disappeared when she was nine and the words were noise from a stranger.
+
+He didn't know any of it. He wrote anyway.
+
+The message was short. Three sentences again. The same count as the first one, five years ago, when he'd sat in his shelter at Month 6 with paper and pencil and two hours of silence and produced three sentences that said nothing about himself.
+
+These three said something.
+
+*I built something. It's not finished. When you're ready, there's a place.*
+
+He read them once. Didn't reread. Didn't edit. Didn't spend two hours compressing the distance between what he meant and what he could say. The distance had compressed on its own, over five years, through the specific pressure of living on a planet that didn't permit the luxury of imprecision.
+
+He sent the message. The relay accepted it. The signal entered Asterlyne's comm infrastructure and began the three-month transit to Earth, to a relay station, to a network that would route it to the address Cole had filed on Day Zero, the address of a house he'd never lived in where a girl he'd left was five years older and the five years were his absence measured in her growth.
+
+He sat at the terminal for a moment after the message sent. The blue glow on his face. The hum of the trees through the walls.
+
+Not "come here." Not yet. The invitation was conditional — *when you're ready* — because Cole had learned, over five years, that the people who came to this planet needed to choose it. Not be sent. Not be contracted. Not be calculated into a model that converted their survival into corporate asset value. Choosing was what made the landing survivable. Choosing was what had kept twenty-four people alive through the creep and the fever and the silence and the shuttle and the eleven months of holding.
+
+Lily would choose. Or she wouldn't. The choice was hers in a way that nothing in Cole's framework could influence, and the inability to influence it was the specific helplessness of a father who'd left and was learning, five years late, that the leaving had been a choice too, and choices had costs that arithmetic couldn't calculate.
+
+He turned off the terminal. Left the comm hub. Went back to work.
+
+---
+
+The evening started the way evenings at Holdfast started — with the meal.
+
+The common area filled the way it filled every night, by gravity rather than schedule, the pull of twenty-four people toward the warmth and light and shared food that five years of surviving together had made as automatic as breathing. Dana's third-phase grain prepared by whoever was on rotation. Native tubers roasted on the flat stones Kira had installed beside the fire pit in Year Three. The fermented native fruit that one of the younger colonists had been refining for six months, the alcohol content low but present, the taste somewhere between wine and regret.
+
+Someone had decided today was a celebration. Cole didn't know who. The decision had moved through the colony the way decisions moved — not from the council or the democratic architecture Ren had built but from the informal network that existed underneath it, the culture that had grown in the gaps between the systems. By the time Cole arrived at the common area, the fire was larger than usual and the fermented fruit was poured into cups and people were standing in configurations that were different from the dinner configurations, looser, less functional, the specific arrangement of a group that had decided to mark something.
+
+Joss was supposed to throw this.
+
+The thought arrived without permission. Joss in the medical shelter, immobilized, his legs splinted, his body holding together through Dana's compounds and Haruki's monitoring and the specific stubbornness of a twenty-seven-year-old who'd survived five years on a planet that had tried to kill him in a dozen different ways and had almost succeeded with a storage rack and a fourth tremor. Joss who'd organized the naming vote. Who'd maintained the water junctions. Who'd become the person Cole hadn't intended to raise and couldn't pretend he hadn't.
+
+Joss was alive. The count was twenty-four. Joss had been alive at 0000 hours on Day 1,826, alive when the clause triggered, alive when the threshold was met. The charter was specific: alive on Year Five, Day One. Joss was alive on Year Five, Day One. That was the number that mattered. That was the number the framework held.
+
+Cole went to the medical shelter before the celebration.
+
+Haruki was there. He was always there now — the medical shelter had become his primary station since the seismic event, since Joss's injuries required the continuous monitoring that Haruki provided with the same measured calm he'd provided everything for five years. Haruki was checking Joss's splints when Cole entered, his steady hands moving over the timber and cord construction with the diagnostic attention that found misalignment by touch.
+
+Joss was propped on his cot. Alert. Thinner than he'd been a month ago — the immobilization had cost him the physical density he'd built from five years of carrying filtration housings and walking junction paths. His face was sharper. The bones showed. But the eyes were the same — the eyes that had been twenty-two and scared in a transit ship and were now twenty-seven and something else, something that had survived fear by passing through it rather than around it.
+
+"They're setting up out there," Joss said. His voice was tired in a way that rest didn't fix.
+
+"I know."
+
+"I had a plan. For when we hit the date. I was going to —" He stopped. Shifted on the cot. The shifting produced a sound in his throat that he suppressed. "Doesn't matter."
+
+"It matters."
+
+"I was going to organize the whole thing. Music — Beck found a way to make the native reeds vibrate at pitch. And I wanted everyone at the Bench. The whole colony at once. I had a speech."
+
+"You had a speech."
+
+"A short one." Joss tried to smile. The smile was there and then it wasn't, interrupted by something in his body that the smile couldn't override. "Shorter than Cole Maren's logistics briefings."
+
+"Everything's shorter than my logistics briefings."
+
+The joke landed the way humor landed between them — lightly, without performance, the irreverent undertone that Joss had learned from Cole without Cole intending to teach it. Cole sat on the equipment crate beside Joss's cot. The same crate. The same position. The same shelter where he'd sat through the fever in Month 17, holding a cloth to a twenty-three-year-old's forehead and saying his daughter's name for the first time.
+
+Four years between that night and this one. The distance measured not in time but in the accumulation of everything the time had held — the creep solution and Dana's confession and the colony's vote and the naming and the shuttle and the eleven months and the tremor and the rack on Joss's legs and the carrying and the carrying and the carrying.
+
+"We made it," Cole said.
+
+"I know." Joss looked at him. The look was the same look he'd given Cole on the night of the fever — twenty-three and burning and saying *when*, not *if*. Except now the burning was different, was in the legs and the abdomen where Haruki monitored for the complications that immobilization and internal injury produced in a body being treated with botanical compounds on an alien planet. And the *when* had arrived. They'd made it.
+
+"You should go out there," Joss said. "They need you."
+
+"They don't need me. They need the count. The count's met."
+
+"Cole." Joss's voice. Not the tired voice. The other one. The one that had solidified somewhere in Year Four, when the filler words burned away and the anxiety directed itself outward, protective rather than self-consuming. "Go."
+
+Cole looked at Haruki. Haruki was standing at the workbench, organizing his supplies with the methodical attention he brought to everything, the steady hands sorting compounds into the categories that only his system understood. He didn't look up. He didn't need to. The silence between Haruki and Cole contained the same information it always contained — the diagnostic assessment delivered without words, the doctor's attention applied to the patient's visitor as thoroughly as to the patient.
+
+"I'll be back," Cole said.
+
+"I know," Joss said.
+
+Cole left the medical shelter. The evening air hit him — ozone and the sweet rot that was the planet's atmosphere, the smell that had set his teeth on edge on Day One and now smelled like the air he breathed. The trees hummed. The fire in the common area threw light across the settlement in patterns that moved with the wind.
+
+He went to the celebration.
+
+---
+
+Twenty-four people at Holdfast.
+
+Cole stood at the edge of the common area and watched them. Not counting — or counting, but the counting was underneath the watching, the reflexive tally that his body performed while his attention went somewhere else. Somewhere the framework didn't govern. Somewhere the math didn't reach.
+
+Ren was by the fire. Talking to Kira about the water system, probably, or the agricultural schedule, or the structural assessment she'd run that morning, or nothing. Talking because talking was what people did at fires and Ren had learned to do what people did, the engineer who'd spent five years building systems for a colony that had taught her, in the gaps between the systems, that the gaps were where the living happened.
+
+Dana sat on the Bench. The rock outcropping. Soil under her nails. The fermented fruit in a cup she held with both hands, the way you hold something warm. The woman who'd saved the colony and betrayed it and confessed and survived the vote and stayed. The most morally complicated person Cole had ever known, sitting on a rock named by people she'd transmitted to a corporation, drinking fruit fermented from plants she'd cultivated on land she'd helped the colony keep.
+
+Polk was at the back. Always at the back. Standing with his arms crossed and his jaw set and his sunburned face carrying the particular expression Cole had learned to read as the settled configuration — the final position of a man who'd been calculating for five years and had arrived at an answer that didn't convert into the variables he'd started with. His daughter was on Earth. Five years older. The debt forgiveness the shuttle had offered was gone with the shuttle. Polk had chosen Holdfast over the daughter and the choosing was the thing he'd live with, the specific weight that wouldn't lift, the cost of a decision made with the jaw instead of the math.
+
+Others. The colonists whose names Cole knew the way he knew membrane percentages — by function and by person, the dual knowing that five years had fused into a single act of attention. Beck, who'd stopped calculating risk and started volunteering for perimeter patrols. Kira, who walked the path with her hand on the wall. Ora, who'd suggested Elena's name for the settlement. Lana, holding her son, the boy born at Holdfast, the child whose legal status the charter didn't address and whose presence in Lana's arms addressed something the charter couldn't reach.
+
+Mika's daughter slept in a shelter nearby. Two children at Holdfast. Two people who hadn't signed anything, hadn't been in the waiting room, hadn't survived the transit or the landing or the creep or the fever. Two people who existed because other people had survived long enough to make them, and the making was the thing the charter hadn't anticipated, the variable that broke the model the way the planet's second cycle had broken the viability data — not by being hostile but by being alive.
+
+Cole took a cup of the fermented fruit. Tasted it. The taste was rough — chemical, sweet, the specific profile of a fruit that had evolved on a planet where human taste buds were the alien element. Someone had added something to cut the bitterness. It didn't entirely work. He drank it anyway.
+
+"Speech." Beck's voice from the fire. Not demanding. The good-natured provocation of a man who'd survived five years with a logistics manager who'd never given a speech and was enjoying the opportunity to ask for one.
+
+"No," Cole said.
+
+"Come on. Five years. Twenty-four alive. You must have something."
+
+"The junction's fixed. Membrane's at ninety-one percent."
+
+Laughter. The kind of laughter that comes from people who've been together long enough to know what's funny about each other and the knowing is the thing that makes it funny. Cole heard it and felt it land in the place behind his sternum where the count lived, and the laughter didn't displace the count — nothing displaced the count — but it occupied space next to it, the way the children occupied space next to the signatories, present and uncounted and changing the shape of what the count meant.
+
+The celebration was small. Quiet. Not the celebration Joss had planned — no music from the native reeds, no speech, no organized event with the full colony gathered at the Bench. Just people at a fire with fermented fruit and the specific intimacy of a group that had buried twenty-three of the people they'd arrived with and built a place they'd named and were standing in it on a Tuesday in Year Five because the charter said Tuesday was the day.
+
+Ren caught Cole's eye across the fire. Three seconds. The look carried five years of structural assessment and load-bearing and the silence that was their native language. She didn't say anything. She didn't need to.
+
+Cole sat on the Bench. The rock was cold. The fire was warm. The trees hummed.
+
+This was not what he'd imagined. He'd imagined relief. The weight lifting. The framework releasing the load it had carried since Day Zero. Instead, the weight redistributed. The same mass, the same total, but arranged differently — not the count pressing down from above but the ground pressing up from below, the specific force of a place that held you because you'd built it to hold.
+
+He drank the fermented fruit. Tasted the chemistry of an alien world processed through human ingenuity and time. Sat on a rock that had a name and listened to people who had names talking about things that had names and felt the naming — all of it, the naming of the place and the naming of the parts and the naming of the days that led to this one — accumulate into something the framework couldn't calculate and didn't need to.
+
+Holdfast. Twenty-four. Tuesday.
+
+---
+
+Haruki collapsed at 1947.
+
+Cole didn't see it happen. He heard it — a sound from the medical shelter that cut through the celebration's murmur and the trees' hum and the fire's crackle. Not a crash. Not an impact. The sound of a body folding, the specific acoustic signature of a person whose legs stopped holding them and whose descent was the controlled fall of someone who understood, even while falling, what the falling meant.
+
+Cole was moving before the sound finished. Across the common area, past the fire, down the path to the medical shelter with the stride that was faster than walking and slower than running, the crisis mode his body had defaulted to since Month 1, the controlled urgency that kept the mind ahead of the legs.
+
+He reached the shelter in forty seconds.
+
+Haruki was on the floor. Not sprawled — seated, his back against the examination table, his legs extended in front of him, his hands flat on the floor beside his hips. The posture of a man who'd managed his own collapse, who'd felt it coming and directed the descent toward the nearest support structure the way Ren directed loads toward bearing walls. Even falling, he'd been engineering.
+
+Joss was trying to get off his cot. The splinted legs wouldn't cooperate. His face was white with the effort and the pain and the specific horror of a man watching a doctor die from a position where he couldn't reach him.
+
+"Stay," Cole said to Joss. Not a request. The voice he used for emergencies. The voice that carried the framework's authority, the one that people obeyed before they processed the instruction.
+
+Joss stayed.
+
+Cole knelt beside Haruki. The doctor's face was gray. Not pale — gray, the specific coloration of skin that wasn't receiving enough blood, the diagnostic sign that Haruki himself had taught Cole to read during the fever when they'd triaged thirty-four colonists and Haruki had pointed at faces and said *watch the color, the color tells you before the pulse does*.
+
+"Cardiac," Haruki said. His voice was steady. Of course his voice was steady. Haruki's voice had been steady through every crisis for five years — through the first autopsy and the fever and the creep death and Patricia's breathing stopping and James's immune system surrendering and every body Haruki had treated and every body he'd failed to save. The voice was steady because the voice was the treatment and the treatment was the man and the man was not going to stop being the man because the man was dying.
+
+"Tell me what to do," Cole said.
+
+"Sit me up. The table."
+
+Cole lifted him. Haruki's weight was less than it should have been — the doctor who'd made Cole eat during the fever had not been following his own prescription. Cole positioned him on the examination table, the surface where Haruki had treated every injury and illness the colony had produced for five years, the flat plane that was Haruki's workbench and was now Haruki's bed.
+
+"Elevated," Haruki said. "Head up. Not flat."
+
+Cole propped him with the medical supplies crate. The angle wasn't right. He adjusted. Adjusted again. Haruki's hand came up and touched Cole's arm — not gripping, guiding. Moving Cole's hands to the right position the way he'd moved Cole's hands during the splinting lesson in Year Two, the diagnostic touch that communicated through contact what speech was too slow for.
+
+"There," Haruki said.
+
+"Dana's compounds —"
+
+"Won't work. This isn't inflammatory. This is structural." Haruki's hand was on his own chest. Not clutching — assessing. The doctor diagnosing himself with the same attention he'd applied to every patient for five years. "Myocardial. The left ventricle. I've been feeling the arrhythmia for three weeks. Didn't say anything because there's nothing to do about it on a planet without a cardiac catheterization lab."
+
+Three weeks. Haruki had known for three weeks that his heart was failing and hadn't said anything because the telling would have changed nothing except the colony's awareness that the doctor who kept them alive was dying. The information management of a man who understood, the way Cole understood, that some data changed behavior without changing outcomes, and the behavioral change was a cost that the outcome couldn't justify.
+
+Cole heard it and recognized it and hated it and understood it and couldn't argue with it because the argument was the same argument he'd used for five years — the cold logic of withholding information when the information's only effect was fear.
+
+"What do I do?" Cole said.
+
+"You're doing it. Elevated position. Reduce cardiac workload. Oxygen is —" Haruki paused. His hand pressed against his chest. The pause lasted four seconds. Cole counted. Haruki's face tightened, the measured calm cracking for the first time Cole had ever seen, the pressure breaking through the surface that had held for five years. Then the face reset. The calm returned. The crack sealed.
+
+"Oxygen is limited by what the lungs can extract from this atmosphere," Haruki continued. The voice steady. Instructing. "The trace compounds Dana identified in Year One — the ones that interact with human respiratory tissue. They reduce oxygen transfer efficiency by approximately eight percent compared to Earth standard. Under normal conditions, the body compensates. Under cardiac stress, the compensation is insufficient."
+
+He was teaching. Dying and teaching. Delivering the clinical information that a doctor delivered to a colleague who would need to treat patients after the doctor was gone. Cole listened and felt the framework absorb the data and felt the framework crack, the same crack from the fever in Month 17, the same fracture that let the light through — except wider now, wider because the man on the examination table was the man who'd made the crack visible in the first place, the one who'd forced Cole to eat and told him Joss would wake and stood next to every dying body in the colony with the same measured calm, and the calm was leaving, and when it left, something essential would leave with it.
+
+"I'm fifty-seven," Haruki said.
+
+Cole looked at him. Haruki's eyes were clear. Not fever-bright, not glazed. Clear in the way that eyes are clear when the mind behind them is doing something it has decided to do, when the attention is directed rather than diffused, when a person is choosing what to look at in the time they have left.
+
+"I'm fifty-seven. I've lived longer than Elena."
+
+Cole heard it. Elena Vasik, who'd died alone at the ghost colony, whose logs had been the mirror and the map and the warning. Elena, who'd been a scientist and a leader and the last survivor of a colony that failed. Elena, whose final words were two: *Enough, now.* Haruki had read those words. They'd been on the Board in the common area for three years. Haruki was measuring himself against the ghost, the way Cole had measured himself against the ghost for five years, and the measurement came out in Haruki's favor, and the favor was the thing he wanted Cole to hear.
+
+"We won," Haruki said.
+
+The word sat in the medical shelter between them. Won. Not survived — won. The distinction mattered in a way Cole felt but couldn't articulate, the difference between enduring something and defeating it, between outlasting a system designed to kill you and claiming the thing the system was designed to prevent. The charter was invoked. The land was theirs. Haruki knew this. He'd known it since 0000 hours when the date turned and the clause triggered and the threshold was met. He'd been alive for it. He'd been alive at the five-year mark.
+
+He'd gotten to know.
+
+"Haruki," Cole said. The name came out the way names come out when the saying is the only thing left — not a request, not a statement, just the sound of a person being named by someone who didn't want the person to stop being a person.
+
+"The dosage protocol for Dana's anti-inflammatory is in the blue case. Top shelf. She knows it but you should know it too. Joss's splints need adjustment in four days — the tibial alignment is drifting medially, you can feel it through the cord, here —" He touched his own left leg, showing the position. "Lana's son has a rash that I've been treating with the mild topical compound, second container from the left in the botanical cabinet. It's not serious. Watch for spread."
+
+Instructions. The doctor's final rounds. The patient list handed to the colleague who would carry it forward. Cole listened and memorized because memorizing was what his mind did and Haruki's instructions were the last system the doctor would build and the system deserved the same attention Cole had given every system for five years.
+
+"The arrhythmia protocol, if anyone else develops —"
+
+Haruki stopped. His hand went to his chest again. The pause was longer this time. Seven seconds. Cole counted and hated counting and counted anyway because the counting was the only act the framework could perform and the framework was the only thing keeping him from the other thing, the thing beneath the framework, the thing that was not arithmetic.
+
+Haruki's hand reached for Cole's. Found it. Held it.
+
+The grip was steady. Of course the grip was steady. Haruki's hands had been the steadiest thing in the colony for five years — steadier than the shelters, steadier than the junction seals, steadier than the bedrock. The hands that had treated every wound and delivered a child and held Patricia's hand while she died and splinted Joss's legs and forced Cole to eat and performed the first autopsy and the last examination and every act of medicine between. The hands that were the treatment because the treatment was the man.
+
+The grip held for twelve seconds. Cole counted. Then the grip changed. Not released — changed. The specific alteration in muscle tension that Cole had never felt before and recognized instantly because the body knew what the mind refused to process. The grip went from holding to held. From active to passive. From the hand of a person gripping to the hand of a person whose hand was being gripped.
+
+Haruki's eyes were open. Clear. Looking at Cole with the expression Cole had seen a thousand times — the diagnostic attention, the measured calm, the gaze that said *I see you and I know what's wrong and I'll do what I can*. The expression didn't change. It stayed. It was the last thing Haruki's face did.
+
+Cole sat in the medical shelter holding Haruki's hand and felt the number change.
+
+Twenty-three.
+
+The number entered the framework and the framework held it the way it held every number — structurally, without choice, because the architecture existed and holding was the architecture's purpose. Twenty-three. Below threshold. Except the threshold was already met. The clause was already invoked. The date was already past. Twenty-three didn't change the math. The math was finished. Twenty-three changed something else — something the math had never measured, something that existed in the space between the numbers where Haruki had lived for five years, the quiet space where a doctor's calm was the treatment and the treatment was the colony's foundation and the foundation had just been removed.
+
+Joss was making a sound from his cot. Not words. The sound a person makes when grief is too large for the throat and the throat produces something smaller, something compressed, the vocalization of a body that has received information it cannot metabolize.
+
+Cole didn't let go of Haruki's hand. Not yet. He held it the way Haruki had held things — with attention, with the specific pressure that communicated care through contact, with the steadiness that was not his native mode but had been learned, over five years, from the man whose hand he was holding. He held it and felt the warmth leave it in increments and felt each increment as a subtraction from something he couldn't count.
+
+He sat there for a long time. The trees hummed through the walls. The celebration continued outside — he could hear it, the murmur of voices and the fire's crackle, the sounds of a colony that didn't know yet. That was still celebrating. That was still twenty-four in their awareness because the awareness hadn't been updated and the update was sitting in a medical shelter holding a dead man's hand.
+
+Cole lowered Haruki's hand to his chest. Positioned it over the heart that had stopped. The diagnostic hand resting on the diagnosis. He pulled the blanket up — the same gesture Haruki had made for every death, the covering that was the doctor's final act, the last treatment administered to a patient who could no longer be treated. Cole did it with the care that the gesture required and felt the care burn in his throat and held the burning the way Haruki had held everything — steadily.
+
+He stood. Looked at Joss. Joss's face was wet. The twenty-seven-year-old who'd stopped using filler words and directed his anxiety outward and become the colony's infrastructure and Cole's unrequested son was crying on a cot with broken legs while the man who'd saved his life twice lay covered on the examination table three meters away.
+
+"He knew," Cole said. "He got to know we made it."
+
+Joss closed his eyes. The tears continued. The sound from his throat continued. Cole stood between them — the dead doctor and the living boy — and the standing was the only thing available, the framework's last output, the body vertical while everything inside it was not.
+
+---
+
+Joss died three days later.
+
+Cole was not in the medical shelter when it happened. He was at the junction. Running the inspection protocol. The adhesive check, the membrane assessment, the systematic verification that had been his first act on Day 1,826 and was now the act he performed because performing it was the thing his hands knew how to do and his hands needed to know something because the rest of him had stopped knowing anything since Haruki's grip changed from active to passive on the evening of the day they won.
+
+Ren came to tell him.
+
+She walked up the path with the engineer's gait and stopped at the filtration shed and said, "Joss," and the word was enough. One word. One syllable. The name of a twenty-seven-year-old who'd volunteered to enter a building Cole should have entered, whose legs had been crushed by a rack that fell because a tremor shifted a beam that failed because the planet's geology produced seismic events the viability report hadn't mentioned, whose infection had been managed by a doctor who was now dead, whose body had been twenty-seven and stubborn and running on the reserve that youth provided, and the reserve had run out.
+
+Cole didn't go to the medical shelter.
+
+He didn't trust himself to go. The framework that had held him through twenty-three deaths — through Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus Reeves and Thomas Chen and Noor and Suri and the colonist who walked into the forest and the three who died in the fever and the ones who died of equipment failure and accumulated fatigue and the slow cascade of small things stacking until the stacking killed — the framework that had processed every subtraction as data, as input, as the cost of a calculation that led to a clause that led to ownership — the framework would not hold this one.
+
+Not because the number changed something. Twenty-two was just a number. The clause was invoked. The land was theirs. Twenty-two didn't change the math.
+
+It changed the cost.
+
+Joss had volunteered to enter the shelter. Cole had not said no. Ren had said twenty-three and the number had been enough to hold Cole in place while Joss carried the risk. The framework had made the decision — the cold arithmetic of a man who was worth more alive than the boy because the man's death dropped the count below threshold and the boy's injury didn't. The framework had been right. The framework had saved Cole's life by sacrificing Joss's safety. The framework had done what the framework was built to do.
+
+And Joss was dead.
+
+The boy he'd watched become a man. The nervous kid from the transit ship who asked too many questions and bounced his leg and carried water filtration housings under his arm. The twenty-three-year-old who'd burned with fever while Cole held a cloth to his forehead and said his daughter's name for the first time. The twenty-five-year-old who'd come to a water junction and said the settlement needed a name. The twenty-seven-year-old who'd organized the celebration he didn't get to attend, who'd told Cole to go, who'd said *I know* when Cole said he'd be back.
+
+Cole stood at the filtration shed and held the inspection tool and felt the framework process the data and felt the processing fail. Not a clean failure — not a collapse, not the sudden structural catastrophe of a system exceeding its tolerance. A slow failure. A degradation. The framework trying to categorize Joss's death the way it categorized every death — as a subtraction, as a variable, as the cost of a model that had produced the outcome it was designed to produce — and the categorization not fitting. The variable not converting. The input resisting the architecture because the architecture had been built to hold numbers and Joss was not a number. Had never been a number. Had been the reason the numbers mattered.
+
+He'd stayed for a daughter he couldn't save and lost a son he could have.
+
+The thought arrived and Cole received it and the receiving was the thing the framework couldn't do. The framework held numbers. The framework held junction percentages and membrane assessments and attrition models and the count. The thought was not a number. The thought was the specific, unbearable recognition that the system he'd built — the same system that had kept twenty-four people alive, that had invoked the clause, that had turned survival into ownership — had required him to choose between the math and the boy. And he'd chosen the math. And the math was right. And the boy was dead.
+
+Cole set down the inspection tool. Sat on the housing cover. The same position he'd been in when Ren told him it was done, eight hours after the junction repair, the morning of Day 1,826 when the world had been a different place, when Haruki was alive and Joss was alive and the number was twenty-four and the number meant they'd won.
+
+He sat there. The trees hummed. Ren stood three meters away and did not speak and did not leave.
+
+---
+
+The celebration happened anyway.
+
+Not that night. Not for three days. The colony moved through the deaths the way the colony moved through everything — collectively, unevenly, the shared weight distributed across twenty-two people who'd been carrying weight for five years and knew what carrying felt like and carried this too.
+
+Dana prepared the bodies. Cole couldn't. Ren couldn't. Dana could, because Dana had rebuilt herself from the person who'd betrayed the colony into the person who did the things the colony needed done, and the doing was her penance and her contribution and the thing that made her presence earned rather than tolerated. She prepared Haruki with the botanical compounds he'd cataloged himself. She prepared Joss with the care of a woman who understood that the body she was tending had been, for five years, the body that kept the water clean.
+
+They buried them at Holdfast. Not at the ghost colony. Not twelve kilometers west where Elena's cairn sat in a clearing that wasn't a clearing. At Holdfast. In the soil of the settlement, near the channel network, where the ancient infrastructure ran through bedrock that had been carved by something that lived here before any of them and built things that lasted.
+
+Cole stood at the burial and held the count. Twenty-two. The number sat in his chest the way every number had sat — heavy, structural, without choice. But the number was different now. The number was after. The clause was invoked, the land was theirs, and the number was a measurement of what remained rather than what was needed. The math was finished. The dying had purchased the owning. And the owning had cost Haruki and Joss, whose deaths had come after the math was done, after the framework had served its purpose, as if the planet or the charter or the specific cruelty of survival arithmetic had needed to demonstrate that the cost wasn't something you stopped paying when the bill was met.
+
+Garrett Polk stood at the back of the gathering. His jaw set. His arms at his sides instead of crossed — a change Cole noticed because he noticed everything about Polk, the way he'd noticed everything since the transit ship. Polk looked at the graves and his face held the expression Cole had learned to read as the final configuration, the settled state, the man who'd been calculating for five years and whose calculations hadn't protected him from this. Nobody's calculations had.
+
+Ren said words. Not a speech — Ren didn't give speeches, the same way Cole didn't. She said Haruki's name and Joss's name and the names sat in the air the way names sat when they belonged to people who were gone and the saying was the only way to keep the belonging from dissolving.
+
+Then the colony went back to the common area. And the celebration happened.
+
+Twenty-two people at Holdfast. The fermented fruit that tasted like the planet's chemistry filtered through human patience. The fire. The Bench. The paths and the shelters and the channels running beneath the bedrock. The trees humming at the frequency Cole had felt in his chest since Day One, the frequency that had set his teeth on edge and now felt like the sound the ground made when you put your hands on it and held on.
+
+Joss was supposed to throw this. Haruki was supposed to drink it.
+
+Cole drank it. He sat on the Bench with the cup in his hands and the fire's warmth on his face and the colony around him — the twenty-two people who'd survived the math and the planet and the corporation and the clause and the five years and the specific, relentless accumulation of days that turned desperate strangers into the population of a place called Holdfast. He drank the fermented fruit and tasted ashes and tasted something underneath the ashes that he didn't have a name for because the conditions that produced it didn't exist in contexts where names got made.
+
+Twenty-two people alive on a Tuesday. On land that belonged to them. In a place they'd built and named and held. The charter invoked. The clause met. The ownership transferred. And two graves in the soil of the settlement, and a gap in the charter where the children's future should have been written, and a message traveling across three months of void toward a fourteen-year-old girl who might read it or might not.
+
+The planet didn't care. The planet had never cared. The trees hummed. The soil cycled. The channels carried what they carried. The creep retreated and advanced and retreated again on a schedule older than any charter or corporation or species that thought it could own what the planet offered. The planet was a system in motion and they were inside it and the being inside was not conquering or homesteading or claiming. It was living. Just living. The way the things that built the channels had lived, long enough to make something that lasted, and then gone, and the lasting was what remained.
+
+Cole sat with the colony. Twenty-two. The framework held the number the way it held every number. But the framework was different now. Had been different since the fever, since Joss's bedside, since the first message to Lily, since the naming, since the morning he'd sat in the dirt outside the filtration shed and felt the ground press up instead of the count press down. The framework held numbers. The numbers had faces. The faces had names. The names belonged to people he'd watched die and people he'd watched live and two children who slept in shelters on land the charter said was theirs and the charter's silence said might not be.
+
+Invocation and loss arriving at the same moment. The thing the math had never predicted. The thing the math couldn't calculate. The thing that was true anyway.
+
+Cole sat on the Bench at Holdfast with the fermented fruit and the fire and the trees and the twenty-two. He sat with it. The winning and the losing and the gap between them that was not a gap but a space where something would grow, the way things grew on this planet — in cycles, in patience, in the specific persistence of life that didn't ask permission.
+
+That was something.
 
 
