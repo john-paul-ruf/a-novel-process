@@ -55,43 +55,43 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 - **Issue:** "every number was a face and every face was a person who was alive because the systems held and the compound worked and Haruki's hands were steady and Dana's plants grew in the right soil at the right time" — four items chained with "and." Voice profile: polysyndeton — never use.
 - **Fix:** Convert to comma-separated list with single terminal "and," or restructure into shorter sentences.
 
-### TASK-08: Ch 16 line 199 — Polysyndeton (death name chain)
+### ~~TASK-08: Ch 16 line 199 — Polysyndeton (death name chain)~~ ✅
 - **File:** `chapters/16-fever/draft.md`
 - **Line:** 199
 - **Issue:** "Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus and Thomas Chen and Noor and Suri" — twelve names chained with "and." Voice profile: polysyndeton — never use.
 - **Fix:** Convert to comma-separated list: "Lev, Priya, Vogel, Osei, Farin, Sarah, Lin, Thomas, Marcus, Thomas Chen, Noor, Suri." Or use periods for staccato effect: "Lev. Priya. Vogel. Osei..." The comma list preserves the rhetorical weight of accumulation without violating the voice profile.
 
-### TASK-09: Ch 21 line 37 — Polysyndeton
+### ~~TASK-09: Ch 21 line 37 — Polysyndeton~~ ✅
 - **File:** `chapters/21-confession/draft.md`
 - **Line:** 37
 - **Issue:** "the debt was real and the rationalization was functional and stopping meant confronting the gap between what she'd done and what she told herself she'd done" — three clauses chained with "and."
 - **Fix:** Break into shorter sentences or use comma separation. E.g., "the debt was real, the rationalization was functional, and stopping meant confronting the gap..."
 
-### TASK-10: Ch 23 line 245 — Polysyndeton
+### ~~TASK-10: Ch 23 line 245 — Polysyndeton~~ ✅
 - **File:** `chapters/23-no-margin/draft.md`
 - **Line:** 245
 - **Issue:** "And the name had been chosen by the people inside it. And that was something the math had never predicted and couldn't explain and didn't need to." — sentence-initial "And" chaining plus triple "and" clause.
 - **Fix:** Remove one or both sentence-initial "And" constructions. The final clause can become: "something the math had never predicted, couldn't explain, and didn't need to."
 
-### TASK-11: Ch 26 line 13 — Polysyndeton
+### ~~TASK-11: Ch 26 line 13 — Polysyndeton~~ ✅
 - **File:** `chapters/26-eleven-months/draft.md`
 - **Line:** 13
 - **Issue:** "the planet's second cycle and its own social fractures and the creep and the fever and Dana's betrayal and Asterlyne's silence and the shuttle's offer" — seven items chained with "and."
 - **Fix:** Convert to comma-separated list with single terminal "and."
 
-### TASK-12: Ch 27 line 71 — Polysyndeton (clause chain)
+### ~~TASK-12: Ch 27 line 71 — Polysyndeton (clause chain)~~ ✅
 - **File:** `chapters/27-tuesday/draft.md`
 - **Line:** 71
 - **Issue:** "the junction would need patching again and the membranes would need replacing and the crops would need planting and the water would need cleaning and the children would need raising" — five parallel clauses chained with "and."
 - **Fix:** This is the most structurally deliberate polysyndeton in the manuscript — the accumulation mirrors the endless work of living. If the author chooses to preserve the rhetorical intent, consider restructuring without "and": e.g., "the junction would need patching again. The membranes would need replacing. The crops, the water, the children." Or comma-separate the list.
 
-### TASK-13: Ch 27 line 361 — Polysyndeton (death roll call)
+### ~~TASK-13: Ch 27 line 361 — Polysyndeton (death roll call)~~ ✅
 - **File:** `chapters/27-tuesday/draft.md`
 - **Line:** 361
 - **Issue:** "through Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus Reeves and Thomas Chen and Noor and Suri and the colonist who walked into the forest and the three who died in the fever and the ones who died of equipment failure and accumulated fatigue and the slow cascade" — extended polysyndeton naming every death.
 - **Fix:** Same approach as TASK-08. Convert names to comma-separated list. The unnamed deaths ("the colonist who walked into the forest, the three who died in the fever") can remain as descriptive phrases within the list. The rhetorical weight survives the punctuation change.
 
-### TASK-14: Ch 27 line 233 — "And the X was the Y" construction
+### ~~TASK-14: Ch 27 line 233 — "And the X was the Y" construction~~ ✅
 - **File:** `chapters/27-tuesday/draft.md`
 - **Line:** 233
 - **Issue:** "and the knowing is the thing that makes it funny" — matches the banned "and the X was the Y" pattern. Voice profile: "recursive 'and the X was the Y' constructions — never use."

@@ -34,7 +34,7 @@ Not to the planet. To each other.
 
 Dana had read that entry on the common shelter board six months ago, standing in the doorway after excusing herself from the evening meal. Elena's diagnosis of a colony that died not from external threat but from internal erosion — the slow withdrawal of investment, the quiet subtraction of trust, the mathematics of people who stopped being a group and became bodies dying in proximity.
 
-Dana was the erosion. She was the quiet subtraction. She'd been transmitting the colony's data to the company that had abandoned them for twenty months, and the data had been used to calculate the minimum viable engagement, and the minimum had been nothing, and Dana had kept transmitting anyway because the debt was real and the rationalization was functional and stopping meant confronting the gap between what she'd done and what she told herself she'd done.
+Dana was the erosion. She was the quiet subtraction. She'd been transmitting the colony's data to the company that had abandoned them for twenty months, and the data had been used to calculate the minimum viable engagement, and the minimum had been nothing, and Dana had kept transmitting anyway because the debt was real, the rationalization was functional, and stopping meant confronting the gap between what she'd done and what she told herself she'd done.
 
 She'd stopped. Six months ago. But stopping wasn't confession. Stopping was a closed valve. The pressure behind it remained.
 

@@ -10,7 +10,7 @@ Month 2 of Year Five. The colony held.
 
 Month 3. The colony held.
 
-She stopped waiting for the crisis and started waiting for the waiting to become the crisis instead. Twenty-four people living at the margin, every interaction carrying the hidden charge of fragility. A dropped tool was a held breath. A cough was a prayer. The colony had survived the planet's second cycle and its own social fractures and the creep and the fever and Dana's betrayal and Asterlyne's silence and the shuttle's offer, and now it had to survive eleven months of nothing happening, which was harder than any of it because the human body was built for response, not for suspension.
+She stopped waiting for the crisis and started waiting for the waiting to become the crisis instead. Twenty-four people living at the margin, every interaction carrying the hidden charge of fragility. A dropped tool was a held breath. A cough was a prayer. The colony had survived the planet's second cycle, its own social fractures, the creep, the fever, Dana's betrayal, Asterlyne's silence, and the shuttle's offer, and now it had to survive eleven months of nothing happening, which was harder than any of it because the human body was built for response, not for suspension.
 
 Ren watched for the structural signs. She knew them. She'd watched the colony fracture three times — the faction split in Month 4, the relocation in Month 10, the Dana vote in Year Three — and each fracture had followed the same engineering pattern: stress accumulated invisibly until a visible event exposed the load that had been building underneath. The event wasn't the problem. The accumulation was.
 

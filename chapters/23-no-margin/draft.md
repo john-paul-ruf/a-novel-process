@@ -242,7 +242,7 @@ He didn't care about the name. He tested the thought and found it true and then 
 
 That was the real work. Not the count. Not the systems. Not the logistics framework that had kept the colony breathing for three years. The real work was the shift — the one that had been happening since the fever, since Joss's bedside, since the first message to Lily, since the second. The shift from running a survival calculation to living inside a thing worth surviving for. The name didn't matter. The naming did.
 
-Cole sat on the Bench at Holdfast and listened to the trees hum and held the number — twenty-four, the threshold, the exact margin of zero — and the number was still heavy and the number was still the architecture of everything he'd built. But the architecture had a name now. And the name had been chosen by the people inside it. And that was something the math had never predicted and couldn't explain and didn't need to.
+Cole sat on the Bench at Holdfast and listened to the trees hum and held the number — twenty-four, the threshold, the exact margin of zero — and the number was still heavy and the number was still the architecture of everything he'd built. But the architecture had a name now. The name had been chosen by the people inside it. That was something the math had never predicted, couldn't explain, and didn't need to.
 
 He went to his shelter. The smallest room. His cot, his desk, his data core in the closed crate. The paper on the desk where he tracked the count. He picked up the pencil. Wrote the number. Twenty-four.
 
