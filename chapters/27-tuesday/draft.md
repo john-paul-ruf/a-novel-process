@@ -358,7 +358,7 @@ She walked up the path with the engineer's gait and stopped at the filtration sh
 
 Cole didn't go to the medical shelter.
 
-He didn't trust himself to go. The framework that had held him through twenty-three deaths — through Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Thomas. Marcus Reeves. Thomas Chen. Noor. Suri. The colonist who walked into the forest. The three who died in the fever. The ones who died of equipment failure, accumulated fatigue, the slow cascade of small things stacking until the stacking killed — the framework that had processed every subtraction as data, as input, as the cost of a calculation that led to a clause that led to ownership — the framework would not hold this one.
+He didn't trust himself to go. The framework that had held him through twenty-three deaths — through Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Pavel. Marcus Reeves. Thomas Chen. Noor. Suri. The colonist who walked into the forest. The three who died in the fever. The ones who died of equipment failure, accumulated fatigue, the slow cascade of small things stacking until the stacking killed — the framework that had processed every subtraction as data, as input, as the cost of a calculation that led to a clause that led to ownership — the framework would not hold this one.
 
 Not because the number changed something. Twenty-two was just a number. The clause was invoked. The land was theirs. Twenty-two didn't change the math.
 

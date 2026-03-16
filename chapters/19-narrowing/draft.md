@@ -68,7 +68,7 @@ Thirty-one at twenty-five months. Between moderate and worst case. Tracking exac
 
 He'd been right about the math. He'd built the model on Day One and the model had held, within a margin of error that a logistics professional would consider acceptable, across twenty-five months and sixteen deaths. Sixteen names he could list in order. Sixteen faces that appeared in the space between waking and sleeping, not as hauntings but as data points that had been people and were now entries in a ledger he kept in a part of his mind that he'd designated for the purpose and couldn't redesign.
 
-Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Thomas. Marcus Reeves. Thomas Chen. Noor. Suri Park. The one who walked into the forest. Hana. James. Okafor.
+Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Pavel. Marcus Reeves. Thomas Chen. Noor. Suri Park. The one who walked into the forest. Hana. James. Okafor.
 
 He'd been right about the math. The model had held. The projection was accurate.
 

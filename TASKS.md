@@ -19,10 +19,9 @@ Full audit of all 27 chapter drafts against voice profile, story bible, scene ou
 **Resolution:** Updated outline time marker from "Year 3, continued" to "Year 3 — early Year 4" to match draft's Month 37 placement. No prose changes needed.
 
 ### 3. Two Thomas Characters
-**Severity:** Consider rename
-**Location:** Thomas (Ch 7, scaffolding death) and Thomas Chen (Ch 12, cardiac event)
-**Problem:** Two characters named Thomas die in chapters five apart. "Thomas Chen" is differentiated by surname but the overlap risks reader confusion, especially since both deaths are sudden and physical.
-**Recommendation:** Rename the Ch 7 Thomas to avoid collision. He appears only in Ch 7 and has no prior establishment.
+**Severity:** ~~Consider rename~~ Complete
+**Location:** Ch 7 Thomas renamed to Pavel across all files
+**Resolution:** Renamed Ch 7 scaffolding death character from Thomas to Pavel. Updated in: `chapters/07-factions/draft.md` (6 instances), `chapters/16-fever/draft.md` (name list), `chapters/19-narrowing/draft.md` (name list), `chapters/27-tuesday/draft.md` (name list), `source/story-bible.md` (2 entries). Thomas Chen (Ch 12) unchanged.
 
 ### 4. Ch 18 Outline Turn — "Single Points of Failure"
 **Severity:** Update outline

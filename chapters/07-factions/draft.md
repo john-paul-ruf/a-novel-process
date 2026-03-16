@@ -150,25 +150,25 @@ Cole talked to Garrett anyway. Gave him the numbers. Ren didn't hear the convers
 
 What changed his mind was the scaffolding.
 
-Four days after Cole's visit, two colonists from the shelter reinforcement crew—a woman named Lin and a man named Thomas who'd been quiet since landing, the kind of person who showed up for shifts and ate alone—were reinforcing the western wall of the secondary storage shelter. The crew was short-handed. Three people assigned to the rotation had drifted into Polk's orbit and weren't showing up for communal work anymore. Cole had adjusted the schedule to compensate, spreading the remaining crew thinner across the same number of tasks.
+Four days after Cole's visit, two colonists from the shelter reinforcement crew—a woman named Lin and a man named Pavel who'd been quiet since landing, the kind of person who showed up for shifts and ate alone—were reinforcing the western wall of the secondary storage shelter. The crew was short-handed. Three people assigned to the rotation had drifted into Polk's orbit and weren't showing up for communal work anymore. Cole had adjusted the schedule to compensate, spreading the remaining crew thinner across the same number of tasks.
 
-Lin and Thomas were operating a scaffolding rig they'd improvised from pre-fab framing and cable. Standard procedure required three people—one to brace, one to lift, one to secure. They had two. Thomas was bracing and lifting simultaneously, doing the work of exhaustion and obligation in equal measure. Lin was overhead, securing a panel that weighed more than the two-person spec allowed.
+Lin and Pavel were operating a scaffolding rig they'd improvised from pre-fab framing and cable. Standard procedure required three people—one to brace, one to lift, one to secure. They had two. Pavel was bracing and lifting simultaneously, doing the work of exhaustion and obligation in equal measure. Lin was overhead, securing a panel that weighed more than the two-person spec allowed.
 
-The cable slipped. Not dramatically—no snap, no explosion of violence. A slow, grinding give. The kind of failure that happened when tension exceeded tolerance by a fraction and the fraction was enough. The scaffolding shifted. Lin fell. Thomas tried to catch the rig and the torque pulled him off the platform.
+The cable slipped. Not dramatically—no snap, no explosion of violence. A slow, grinding give. The kind of failure that happened when tension exceeded tolerance by a fraction and the fraction was enough. The scaffolding shifted. Lin fell. Pavel tried to catch the rig and the torque pulled him off the platform.
 
 Ren heard the sound from across the settlement—compressed, metal and wood and something softer underneath. She ran. By the time she got there, Haruki was already kneeling.
 
-Lin died on impact. Thomas died that night. Haruki sat with him through it, doing what he could, which wasn't enough because the injuries were structural and there were no surgical facilities on Parcel 16b.
+Lin died on impact. Pavel died that night. Haruki sat with him through it, doing what he could, which wasn't enough because the injuries were structural and there were no surgical facilities on Parcel 16b.
 
 Forty-two.
 
-The deaths weren't the planet. The deaths were a construction accident caused by a crew that was too small doing work that was too heavy because the colony had fractured and the fracture had a body count now. The split—the quiet redistribution of trust away from the center, people drifting into factions because they didn't believe in the system—that was the load shift Ren had felt at month three. Lin and Thomas were the crack.
+The deaths weren't the planet. The deaths were a construction accident caused by a crew that was too small doing work that was too heavy because the colony had fractured and the fracture had a body count now. The split—the quiet redistribution of trust away from the center, people drifting into factions because they didn't believe in the system—that was the load shift Ren had felt at month three. Lin and Pavel were the crack.
 
 ---
 
 She went to Polk. Not to Cole. To Polk.
 
-He was at the array. Still building. He'd heard about Lin and Thomas. He didn't look defiant anymore. He looked like a man standing next to something he'd built while two people died somewhere he should have been.
+He was at the array. Still building. He'd heard about Lin and Pavel. He didn't look defiant anymore. He looked like a man standing next to something he'd built while two people died somewhere he should have been.
 
 "Two dead," Ren said. "Crew was short because your people weren't on rotation."
 
