@@ -9,10 +9,9 @@ Full audit of all 27 chapter drafts against voice profile, story bible, scene ou
 ## Issues
 
 ### 1. Ch 16 — Joss Age Reference
-**Severity:** Fix
-**Location:** `chapters/16-fever/draft.md`, lines 91 and 93
-**Problem:** Joss is called "twenty-two" (line 91, retrospective transit reference) and "twenty-three" (line 93, current age at Month 17) within the same passage. Both are technically correct — 22 at signing, 23 at Month 17 — but the proximity creates momentary reader confusion.
-**Recommendation:** Clarify the temporal shift in line 91 (e.g., "twenty-two when he'd boarded" or similar) to make the past/present distinction unmistakable.
+**Severity:** ~~Fix~~ Complete
+**Location:** `chapters/16-fever/draft.md`, line 91
+**Resolution:** Changed "twenty-two" to "twenty-two when he'd boarded" — past/present distinction now unmistakable.
 
 ### 2. Patricia's Death Timing
 **Severity:** Reconcile
