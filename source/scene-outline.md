@@ -361,7 +361,7 @@
 ### Chapter 22 — "The Vote"
 
 **POV:** Cole
-**When:** Year 3, continued
+**When:** Year 3 — early Year 4
 **Where:** Settlement, council meeting area
 
 **Beat 1:** The council learns the truth. It goes badly. Garrett Polk erupts — he wanted to signal for rescue from the start, and the company had ears the whole time. He feels the calculation: his signal was never going to work, and Cole knew it. Three council members want Dana expelled. Expelled means dead. There's nowhere else to go.

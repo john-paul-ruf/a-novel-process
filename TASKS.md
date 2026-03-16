@@ -14,10 +14,9 @@ Full audit of all 27 chapter drafts against voice profile, story bible, scene ou
 **Resolution:** Changed "twenty-two" to "twenty-two when he'd boarded" — past/present distinction now unmistakable.
 
 ### 2. Patricia's Death Timing
-**Severity:** Reconcile
-**Location:** `chapters/22-the-vote/draft.md`, line 201; `chapters/23-no-margin/draft.md`, line 13
-**Problem:** The outline places Ch 22 in "Year 3" (months ~25-36). The draft places Patricia's death at Month 37 (Year 4, month 1) within Ch 22. Ch 22 also contains Wei's death at Month 34. The Patricia death scene then echoes into Ch 23's opening. Month 37 falls outside Ch 22's stated "Year 3" timeframe per the outline.
-**Options:** (a) Update the outline's Ch 22 time marker to "Year 3 — early Year 4" to match the draft. (b) Move Patricia's death to Ch 23 and restructure Ch 23's opening. Option (a) is cleaner — the draft's pacing works.
+**Severity:** ~~Reconcile~~ Complete
+**Location:** `source/scene-outline.md`, Ch 22 time marker
+**Resolution:** Updated outline time marker from "Year 3, continued" to "Year 3 — early Year 4" to match draft's Month 37 placement. No prose changes needed.
 
 ### 3. Two Thomas Characters
 **Severity:** Consider rename
