@@ -99,7 +99,11 @@ First edition, 2026
 <div style="page-break-before: always;"></div>
 ```
 
-[Dedication goes here.]
+For the ones who watch.
+
+We haven't met. You know me anyway.
+
+I hope this was worth your time.
 
 
 
@@ -1127,25 +1131,25 @@ Cole talked to Garrett anyway. Gave him the numbers. Ren didn't hear the convers
 
 What changed his mind was the scaffolding.
 
-Four days after Cole's visit, two colonists from the shelter reinforcement crew—a woman named Lin and a man named Thomas who'd been quiet since landing, the kind of person who showed up for shifts and ate alone—were reinforcing the western wall of the secondary storage shelter. The crew was short-handed. Three people assigned to the rotation had drifted into Polk's orbit and weren't showing up for communal work anymore. Cole had adjusted the schedule to compensate, spreading the remaining crew thinner across the same number of tasks.
+Four days after Cole's visit, two colonists from the shelter reinforcement crew—a woman named Lin and a man named Pavel who'd been quiet since landing, the kind of person who showed up for shifts and ate alone—were reinforcing the western wall of the secondary storage shelter. The crew was short-handed. Three people assigned to the rotation had drifted into Polk's orbit and weren't showing up for communal work anymore. Cole had adjusted the schedule to compensate, spreading the remaining crew thinner across the same number of tasks.
 
-Lin and Thomas were operating a scaffolding rig they'd improvised from pre-fab framing and cable. Standard procedure required three people—one to brace, one to lift, one to secure. They had two. Thomas was bracing and lifting simultaneously, doing the work of exhaustion and obligation in equal measure. Lin was overhead, securing a panel that weighed more than the two-person spec allowed.
+Lin and Pavel were operating a scaffolding rig they'd improvised from pre-fab framing and cable. Standard procedure required three people—one to brace, one to lift, one to secure. They had two. Pavel was bracing and lifting simultaneously, doing the work of exhaustion and obligation in equal measure. Lin was overhead, securing a panel that weighed more than the two-person spec allowed.
 
-The cable slipped. Not dramatically—no snap, no explosion of violence. A slow, grinding give. The kind of failure that happened when tension exceeded tolerance by a fraction and the fraction was enough. The scaffolding shifted. Lin fell. Thomas tried to catch the rig and the torque pulled him off the platform.
+The cable slipped. Not dramatically—no snap, no explosion of violence. A slow, grinding give. The kind of failure that happened when tension exceeded tolerance by a fraction and the fraction was enough. The scaffolding shifted. Lin fell. Pavel tried to catch the rig and the torque pulled him off the platform.
 
 Ren heard the sound from across the settlement—compressed, metal and wood and something softer underneath. She ran. By the time she got there, Haruki was already kneeling.
 
-Lin died on impact. Thomas died that night. Haruki sat with him through it, doing what he could, which wasn't enough because the injuries were structural and there were no surgical facilities on Parcel 16b.
+Lin died on impact. Pavel died that night. Haruki sat with him through it, doing what he could, which wasn't enough because the injuries were structural and there were no surgical facilities on Parcel 16b.
 
 Forty-two.
 
-The deaths weren't the planet. The deaths were a construction accident caused by a crew that was too small doing work that was too heavy because the colony had fractured and the fracture had a body count now. The split—the quiet redistribution of trust away from the center, people drifting into factions because they didn't believe in the system—that was the load shift Ren had felt at month three. Lin and Thomas were the crack.
+The deaths weren't the planet. The deaths were a construction accident caused by a crew that was too small doing work that was too heavy because the colony had fractured and the fracture had a body count now. The split—the quiet redistribution of trust away from the center, people drifting into factions because they didn't believe in the system—that was the load shift Ren had felt at month three. Lin and Pavel were the crack.
 
 ---
 
 She went to Polk. Not to Cole. To Polk.
 
-He was at the array. Still building. He'd heard about Lin and Thomas. He didn't look defiant anymore. He looked like a man standing next to something he'd built while two people died somewhere he should have been.
+He was at the array. Still building. He'd heard about Lin and Pavel. He didn't look defiant anymore. He looked like a man standing next to something he'd built while two people died somewhere he should have been.
 
 "Two dead," Ren said. "Crew was short because your people weren't on rotation."
 
@@ -2758,7 +2762,7 @@ Cole stayed.
 
 He'd been in the medical shelter since Day 10. Not continuously — he left for council meetings, for the brief daily briefings with Ren about the colony's functional status, for the twenty minutes each morning when he walked the perimeter and counted shelters and told himself the systems were holding. But he came back. Every time. Sat on the equipment crate next to Joss's cot and waited for the thermometer to say something different.
 
-He didn't know when Joss had become the person he sat with. The kid had been a name on a manifest at first — twenty-two, over-prepared, nervous, the type who asked too many questions during orientation because silence terrified him more than looking foolish. Cole had categorized him during transit the way he categorized everyone: useful, marginal, liability. Joss had been marginal. Young. Untested. His anxiety was a resource drain — people spent energy reassuring him instead of working.
+He didn't know when Joss had become the person he sat with. The kid had been a name on a manifest at first — twenty-two when he'd boarded, over-prepared, nervous, the type who asked too many questions during orientation because silence terrified him more than looking foolish. Cole had categorized him during transit the way he categorized everyone: useful, marginal, liability. Joss had been marginal. Young. Untested. His anxiety was a resource drain — people spent energy reassuring him instead of working.
 
 Seventeen months had changed the categorization. Not because Cole's system had been wrong but because the variables had shifted. Joss had found water on the second day, identifying a mineral signature in the channel drainage that improved filtration. He'd built the secondary membrane system during Month 8 when the primary filters started degrading. He'd taught two other colonists the maintenance protocol, creating redundancy in a skill set the colony couldn't afford to lose. The nervous kid who asked too many questions had become a quiet, competent twenty-three-year-old who asked the right questions and then built the answers.
 
@@ -2866,7 +2870,7 @@ He'd walked out of the medical shelter and the count had come — automatic, ref
 
 Thirty-two people he didn't want to lose.
 
-Not thirty-two units of a survival equation. Not the margin between here and clause 9.4.2. Thirty-two people whose names he knew, whose habits he'd memorized, whose losses he'd carried from the signing room to here. Hana, who carried soil in her pockets. James, who complained about everything except the thing that killed him. Webb, who'd done everything right. Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus and Thomas Chen and Noor and Suri. Fifteen names. Fifteen subtractions from a number that had started at forty-seven and now sat at thirty-two and would keep subtracting because the planet didn't care about arithmetic and neither did disease and neither did the slow erosion of people who ran out of reasons before they ran out of breath.
+Not thirty-two units of a survival equation. Not the margin between here and clause 9.4.2. Thirty-two people whose names he knew, whose habits he'd memorized, whose losses he'd carried from the signing room to here. Hana, who carried soil in her pockets. James, who complained about everything except the thing that killed him. Webb, who'd done everything right. Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Pavel. Marcus. Thomas Chen. Noor. Suri. Fifteen names. Fifteen subtractions from a number that had started at forty-seven and now sat at thirty-two and would keep subtracting because the planet didn't care about arithmetic and neither did disease and neither did the slow erosion of people who ran out of reasons before they ran out of breath.
 
 Cole stood in the morning light and felt the math crack wider. The structure held. The count continued. But the reason underneath it — the cold engine that had driven him since Day Zero, the calculator that turned people into margin — that mechanism had shifted. Not failed. Shifted. The way a building shifts on its foundation during a seismic event. Still standing. But the angles were different now, and the light came in through places it hadn't before.
 
@@ -3484,7 +3488,7 @@ Thirty-one at twenty-five months. Between moderate and worst case. Tracking exac
 
 He'd been right about the math. He'd built the model on Day One and the model had held, within a margin of error that a logistics professional would consider acceptable, across twenty-five months and sixteen deaths. Sixteen names he could list in order. Sixteen faces that appeared in the space between waking and sleeping, not as hauntings but as data points that had been people and were now entries in a ledger he kept in a part of his mind that he'd designated for the purpose and couldn't redesign.
 
-Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Thomas. Marcus Reeves. Thomas Chen. Noor. Suri Park. The one who walked into the forest. Hana. James. Okafor.
+Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Pavel. Marcus Reeves. Thomas Chen. Noor. Suri Park. The one who walked into the forest. Hana. James. Okafor.
 
 He'd been right about the math. The model had held. The projection was accurate.
 
@@ -3949,7 +3953,7 @@ Not to the planet. To each other.
 
 Dana had read that entry on the common shelter board six months ago, standing in the doorway after excusing herself from the evening meal. Elena's diagnosis of a colony that died not from external threat but from internal erosion — the slow withdrawal of investment, the quiet subtraction of trust, the mathematics of people who stopped being a group and became bodies dying in proximity.
 
-Dana was the erosion. She was the quiet subtraction. She'd been transmitting the colony's data to the company that had abandoned them for twenty months, and the data had been used to calculate the minimum viable engagement, and the minimum had been nothing, and Dana had kept transmitting anyway because the debt was real and the rationalization was functional and stopping meant confronting the gap between what she'd done and what she told herself she'd done.
+Dana was the erosion. She was the quiet subtraction. She'd been transmitting the colony's data to the company that had abandoned them for twenty months, and the data had been used to calculate the minimum viable engagement, and the minimum had been nothing, and Dana had kept transmitting anyway because the debt was real, the rationalization was functional, and stopping meant confronting the gap between what she'd done and what she told herself she'd done.
 
 She'd stopped. Six months ago. But stopping wasn't confession. Stopping was a closed valve. The pressure behind it remained.
 
@@ -4679,7 +4683,7 @@ He didn't care about the name. He tested the thought and found it true and then 
 
 That was the real work. Not the count. Not the systems. Not the logistics framework that had kept the colony breathing for three years. The real work was the shift — the one that had been happening since the fever, since Joss's bedside, since the first message to Lily, since the second. The shift from running a survival calculation to living inside a thing worth surviving for. The name didn't matter. The naming did.
 
-Cole sat on the Bench at Holdfast and listened to the trees hum and held the number — twenty-four, the threshold, the exact margin of zero — and the number was still heavy and the number was still the architecture of everything he'd built. But the architecture had a name now. And the name had been chosen by the people inside it. And that was something the math had never predicted and couldn't explain and didn't need to.
+Cole sat on the Bench at Holdfast and listened to the trees hum and held the number — twenty-four, the threshold, the exact margin of zero — and the number was still heavy and the number was still the architecture of everything he'd built. But the architecture had a name now. The name had been chosen by the people inside it. That was something the math had never predicted, couldn't explain, and didn't need to.
 
 He went to his shelter. The smallest room. His cot, his desk, his data core in the closed crate. The paper on the desk where he tracked the count. He picked up the pencil. Wrote the number. Twenty-four.
 
@@ -5313,7 +5317,7 @@ Month 2 of Year Five. The colony held.
 
 Month 3. The colony held.
 
-She stopped waiting for the crisis and started waiting for the waiting to become the crisis instead. Twenty-four people living at the margin, every interaction carrying the hidden charge of fragility. A dropped tool was a held breath. A cough was a prayer. The colony had survived the planet's second cycle and its own social fractures and the creep and the fever and Dana's betrayal and Asterlyne's silence and the shuttle's offer, and now it had to survive eleven months of nothing happening, which was harder than any of it because the human body was built for response, not for suspension.
+She stopped waiting for the crisis and started waiting for the waiting to become the crisis instead. Twenty-four people living at the margin, every interaction carrying the hidden charge of fragility. A dropped tool was a held breath. A cough was a prayer. The colony had survived the planet's second cycle, its own social fractures, the creep, the fever, Dana's betrayal, Asterlyne's silence, and the shuttle's offer, and now it had to survive eleven months of nothing happening, which was harder than any of it because the human body was built for response, not for suspension.
 
 Ren watched for the structural signs. She knew them. She'd watched the colony fracture three times — the faction split in Month 4, the relocation in Month 10, the Dana vote in Year Three — and each fracture had followed the same engineering pattern: stress accumulated invisibly until a visible event exposed the load that had been building underneath. The event wasn't the problem. The accumulation was.
 
@@ -5719,7 +5723,7 @@ What he felt was not relief.
 
 He felt the ground under his hands. The dirt of Holdfast. The rock substrate they'd relocated to in Month 10 when the creep advanced and the colony voted and Ren insisted on the vote and Cole resisted and Ren was right. The ancient channels underneath, carved by something that had lived here before them, infrastructure that outlasted whatever built it. Dana's agricultural terraces in the distance, the third-phase crops growing in soil that followed cycles the colony had learned to predict. The shelters Ren had designed. The paths the colony had worn. The water running through the junction he'd just repaired.
 
-He felt all of it through his hands, the way he'd felt the adhesive bond on the patch, the way he'd felt every system he'd maintained for 1,826 days. Not as data. Not as inventory. As contact. His hands on the ground of a place he'd been touching for five years, and the contact told him everything. Not relief. Recognition. He was here. He'd built this. They'd built this. The building was finished in the way that charters finished — a date on a contract, a legal threshold, a number that crossed a line. And the building was not finished in the way that building was never finished because the junction would need patching again and the membranes would need replacing and the crops would need planting and the water would need cleaning and the children would need raising.
+He felt all of it through his hands, the way he'd felt the adhesive bond on the patch, the way he'd felt every system he'd maintained for 1,826 days. Not as data. Not as inventory. As contact. His hands on the ground of a place he'd been touching for five years, and the contact told him everything. Not relief. Recognition. He was here. He'd built this. They'd built this. The building was finished in the way that charters finished — a date on a contract, a legal threshold, a number that crossed a line. And the building was not finished in the way that building was never finished because the junction would need patching again. The membranes would need replacing. The crops, the water, the children.
 
 Cole sat in the dirt. Ren stood three meters away, watching him the way she watched structures — for the stress lines, the load paths, the points where the weight was held and the points where it wasn't.
 
@@ -5881,7 +5885,7 @@ Cole took a cup of the fermented fruit. Tasted it. The taste was rough — chemi
 
 "The junction's fixed. Membrane's at ninety-one percent."
 
-Laughter. The kind of laughter that comes from people who've been together long enough to know what's funny about each other and the knowing is the thing that makes it funny. Cole heard it and felt it land in the place behind his sternum where the count lived, and the laughter didn't displace the count — nothing displaced the count — but it occupied space next to it, the way the children occupied space next to the signatories, present and uncounted and changing the shape of what the count meant.
+Laughter. The kind of laughter that comes from people who've been together long enough to know what's funny about each other and the familiarity made it funny. Cole heard it and felt it land in the place behind his sternum where the count lived, and the laughter didn't displace the count — nothing displaced the count — but it occupied space next to it, the way the children occupied space next to the signatories, present and uncounted and changing the shape of what the count meant.
 
 The celebration was small. Quiet. Not the celebration Joss had planned — no music from the native reeds, no speech, no organized event with the full colony gathered at the Bench. Just people at a fire with fermented fruit and the specific intimacy of a group that had buried twenty-three of the people they'd arrived with and built a place they'd named and were standing in it on a Tuesday in Year Five because the charter said Tuesday was the day.
 
@@ -6009,7 +6013,7 @@ She walked up the path with the engineer's gait and stopped at the filtration sh
 
 Cole didn't go to the medical shelter.
 
-He didn't trust himself to go. The framework that had held him through twenty-three deaths — through Lev and Priya and Vogel and Osei and Farin and Sarah and Lin and Thomas and Marcus Reeves and Thomas Chen and Noor and Suri and the colonist who walked into the forest and the three who died in the fever and the ones who died of equipment failure and accumulated fatigue and the slow cascade of small things stacking until the stacking killed — the framework that had processed every subtraction as data, as input, as the cost of a calculation that led to a clause that led to ownership — the framework would not hold this one.
+He didn't trust himself to go. The framework that had held him through twenty-three deaths — through Lev. Priya. Vogel. Osei. Farin. Sarah. Lin. Pavel. Marcus Reeves. Thomas Chen. Noor. Suri. The colonist who walked into the forest. The three who died in the fever. The ones who died of equipment failure, accumulated fatigue, the slow cascade of small things stacking until the stacking killed — the framework that had processed every subtraction as data, as input, as the cost of a calculation that led to a clause that led to ownership — the framework would not hold this one.
 
 Not because the number changed something. Twenty-two was just a number. The clause was invoked. The land was theirs. Twenty-two didn't change the math.
 
