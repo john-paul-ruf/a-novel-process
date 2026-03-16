@@ -24,10 +24,9 @@ Full audit of all 27 chapter drafts against voice profile, story bible, scene ou
 **Resolution:** Renamed Ch 7 scaffolding death character from Thomas to Pavel. Updated in: `chapters/07-factions/draft.md` (6 instances), `chapters/16-fever/draft.md` (name list), `chapters/19-narrowing/draft.md` (name list), `chapters/27-tuesday/draft.md` (name list), `source/story-bible.md` (2 entries). Thomas Chen (Ch 12) unchanged.
 
 ### 4. Ch 18 Outline Turn — "Single Points of Failure"
-**Severity:** Update outline
-**Location:** `source/scene-outline.md`, Ch 18 beats; `chapters/14-signal/draft.md`, lines 49-77
-**Problem:** The outline assigns the Asterlyne targeting shift ("single points of failure" questions) to Ch 18. In the draft, this lands in Ch 14 (Dana's first POV chapter), where it works better dramatically — Dana recognizes the shift from data collection to targeting in real time, and the reader discovers it through her consciousness rather than as reported information.
-**Recommendation:** Update the outline to reflect the Ch 14 placement. No prose change needed.
+**Severity:** ~~Update outline~~ Complete
+**Location:** `source/scene-outline.md`, Ch 14 Turn and Ch 18 Turn
+**Resolution:** Moved "single points of failure" first appearance to Ch 14 Turn (matching draft). Updated Ch 18 Turn to reflect the escalation: the question returns stripped of camouflage, Dana identifies the four-name kill list, does not transmit. Both outline beats now match their respective drafts.
 
 ### 5. Ch 26 Opening Line — Voice Profile Borderline
 **Severity:** Client review

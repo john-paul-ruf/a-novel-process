@@ -238,7 +238,7 @@
 
 **Beat 3:** Dana reads one of Elena's logs that Cole left in the common area. Elena's entry mentions Asterlyne "adjusting supply manifests based on our reports." Elena had an informant too. Dana reads it twice. The pattern is older than her. The company builds the betrayal into the charter the way they build the insufficient medical kits — by design.
 
-**Turn:** Dana finishes her transmission. Puts the comm unit away. Sits in her shelter in the dark and realizes she's the most useful and the most dangerous person in the colony, and they're the same thing.
+**Turn:** Asterlyne's latest instructions arrive: "Assess structural dependency on individual colonists. Identify single points of failure." They're asking her to identify who to kill. Dana finishes her transmission. Puts the comm unit away. Sits in her shelter in the dark and realizes she's the most useful and the most dangerous person in the colony, and they're the same thing.
 
 ---
 
@@ -302,7 +302,7 @@
 
 **Beat 3:** Dana is celebrated. Haruki toasts her at dinner. Ren calls her the reason they'll survive Year Two. Dana goes to her shelter and doesn't sleep.
 
-**Turn:** Asterlyne's response to her latest report. New instructions: "Assess structural dependency on individual colonists. Identify single points of failure." They're asking her to identify who to kill.
+**Turn:** Asterlyne's response to her creep solution report. The "single points of failure" question returns — but stripped of the Ch 14 camouflage. No structural analysis, no geographic positioning. Just people. Who matters. Who can be removed. Dana knows the list: Cole, Ren, Haruki, herself. Four names. They're asking her to write a kill list. She powers down the spectrometer. Does not sleep.
 
 ---
 
