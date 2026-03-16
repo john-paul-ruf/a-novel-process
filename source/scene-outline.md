@@ -2,7 +2,7 @@
 
 **Note:** Engineer character renamed from "Maren Tsai" to "Ren Tsai" to avoid collision with protagonist's surname (Cole Maren).
 
-**Death count tracker:** 47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 34 (Ch15 - forest death) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
+**Death count tracker:** 47 → 44 (Ch5) → 42 (Ch7) → 39 (Ch8) → 38 (Ch11) → 36 (Ch12) → 35 (Ch13 - Suri Park) → 34 (Ch15 - forest death) → 32 (Ch16) → 31 (Ch19) → 26 (Ch20) → 24 (Ch22) → 24 held (Ch23-26) → 24 at invocation, then 22 (Ch27: Haruki dies evening of Day 1,826; Joss dies within days from shelter injuries)
 
 ---
 
@@ -68,7 +68,7 @@
 
 **Beat 2:** Cole builds systems: water collection schedules, food rationing tiers, shelter maintenance rotation, perimeter protocols. He's good at this — it's warehouse management on an alien world. But the colonists resist structure. They signed up for freedom, not a shift schedule. Garrett Polk leads the resistance — argues that Cole is re-creating the hierarchies they came to escape. Polk's anger isn't performative; it's visceral. Cole realizes Polk sees his systems as a trap disguised as salvation (the same way Polk's Earth venture looked rational until it wasn't). When Cole explains the math behind rationing, Polk hears the logic and it reinforces his conviction that logic is a weapon used by people in charge against people like him.
 
-**Beat 3:** Day 14. A colonist named Suri Park eats a native fruit that scanned safe the day before. Today the plant's chemistry has shifted. Suri seizes. Haruki saves her, barely. The planet's rules aren't fixed. Safety is a snapshot of a moving target.
+**Beat 3:** Day 13. A colonist named Suri Park eats a native fruit that scanned safe the day before. Today the plant's chemistry has shifted. Suri seizes. Haruki saves her, barely. The planet's rules aren't fixed. Safety is a snapshot of a moving target.
 
 **Turn:** Cole realizes the viability data isn't wrong — it's incomplete. A single survey captured a single moment. The planet is a system in motion, and they've been reading a still photograph.
 
@@ -344,9 +344,9 @@
 
 ### Chapter 21 — "Confession"
 
-**POV:** Dana Wen
+**POV:** Dana Wen (primary) / Cole (final scene)
 **When:** Year 3
-**Where:** Settlement, Cole's shelter
+**Where:** Settlement, Cole's shelter, perimeter
 
 **Beat 1:** Dana recovers the comm unit before anyone examines it. She doesn't hide it. She takes it to Cole. Confesses everything — the Asterlyne contract, the reports, the targeting questions, the "single points of failure" request. She stopped transmitting six months ago. Six months of silence.
 
@@ -448,7 +448,7 @@
 
 **Beat 2:** Ren finds him at the filtration shed. She tells him it's done. Five years. Twenty-four alive. Clause 9.4.2, invoked. The land is theirs. Holdfast is theirs. Cole sits on the ground outside the shed. The dirt of Holdfast under his hands. He sits there for a long time. He doesn't cry. He doesn't speak. He just sits in the dirt of a world that spent five years trying to kill him, and breathes. And then the thought arrives: *The children born here still don't have a name on the deed.* The charter is silent. Asterlyne is silent. The question that opened five months ago, unanswered, still sits in the fine print. He invoked the clause anyway. The colony invoked it. The land is theirs—but the ownership of the children born on it, the inheritance, the future—that language is still unclear, still waiting for a corporation to decide what it means. He lets Ren think he's just sitting with the weight of what they won. He doesn't tell her the gap is still there.
 
-**Beat 3:** Cole goes to the comm station. He writes a message to Lily. Not "come here." Not yet. Just: "I built something. When you're ready, there's a place." He sends it. He goes back to work.
+**Beat 3:** Cole goes to the comm station. He writes a message to Lily. Not "come here." Not yet. Just: "I built something. It's not finished. When you're ready, there's a place." He sends it. He goes back to work.
 
 **Beat 4:** That evening, Haruki collapses during the first celebration preparations. Cardiac event. Cole brings him to the medical shelter. Haruki refuses anesthetic, refuses to lie back—sits up on the examination table giving instructions. Cole sits beside him listening to Haruki walk him through the protocol as if Haruki isn't the one dying. Haruki says something quiet: "I'm 57. I've lived longer than Elena. We won." Then he doesn't. Cole sits in the medical shelter holding Haruki's steady hand that can't save itself. Twenty-three.
 

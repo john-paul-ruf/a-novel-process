@@ -101,12 +101,12 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## MEDIUM — Outline Deviations
 
-### TASK-15: Ch 21 — POV mismatch
+### ~~TASK-15: Ch 21 — POV mismatch~~ ✅
 - **File:** `chapters/21-confession/draft.md`
 - **Issue:** Scene outline specifies **Dana Wen** as POV character. The draft is written entirely from **Cole's** perspective — Cole's interiority drives every scene, including the confession, the Ren disclosure, and the comm unit destruction. Dana's internal state is never accessed directly. This is a significant structural deviation from the outline.
 - **Decision needed:** Is the POV shift intentional? Cole's perspective works well for the destruction scene and the chapter's emotional arc. If intentional, update the scene outline to reflect Cole POV. If unintentional, the chapter requires a full POV rewrite from Dana's perspective — the confession would read very differently from the inside of the person confessing.
 
-### TASK-16: Ch 27 — Lily message wording differs from outline
+### ~~TASK-16: Ch 27 — Lily message wording differs from outline~~ ✅
 - **File:** `chapters/27-tuesday/draft.md`
 - **Line:** ~137 (in the message composition section)
 - **Issue:** Outline specifies the final message as: "I built something. When you're ready, there's a place." Draft adds a sentence: "I built something. It's not finished. When you're ready, there's a place." The addition ("It's not finished") deepens the message thematically — the incompleteness mirrors the "legal assigns" gap and the ongoing work of building. This is likely an improvement over the outline, not an error.
@@ -116,12 +116,12 @@ Audit of all 27 chapter drafts against story bible, scene outline, and voice pro
 
 ## LOW — Source Document Discrepancies
 
-### TASK-17: Ch 04 — Suri berry day discrepancy between source documents
+### ~~TASK-17: Ch 04 — Suri berry day discrepancy between source documents~~ ✅
 - **Files:** `source/story-bible.md` (line 87: "Day 13"), `source/scene-outline.md` (line 71: "Day 14")
 - **Issue:** Story bible says Suri eats berries on Day 13. Scene outline says Day 14. Draft matches story bible (Day 13). The source documents disagree.
 - **Fix:** Align the scene outline to Day 13 to match story bible and draft.
 
-### TASK-18: Scene outline death count tracker skips Ch 11
+### ~~TASK-18: Scene outline death count tracker skips Ch 11~~ ✅
 - **File:** `source/scene-outline.md`
 - **Line:** 5
 - **Issue:** Death count tracker reads "39 (Ch8) → 36 (Ch12)" — skips the Marcus Reeves death in Ch 11 (39→38). Story bible correctly shows Ch 11 alive count as 38. The tracker appears to list only select checkpoints, not every chapter, but the jump from 39 to 36 could cause confusion.
