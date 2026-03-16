@@ -35,7 +35,7 @@ Full audit of all 27 chapter drafts against voice profile, story bible, scene ou
 **Recommendation:** Flag for client. The line is strong and earns its construction. If the client reads it as a violation, alternatives exist. If not, it stays.
 
 ### 6. Ch 20 Five Deaths — Verified
-**Severity:** Resolved
+**Severity:** ~~Resolved~~ Complete
 **Location:** `chapters/20-silence/draft.md`
 **Problem:** Previous audit truncated before full verification.
 **Verification:** All five deaths confirmed and fully accounted:
